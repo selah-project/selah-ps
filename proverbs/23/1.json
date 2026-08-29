@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "کله چې د واکمن سره ⟨את⟩ د خوړو لپاره کښېنې، ⟨את⟩ هغه څه چې د مخې ته دي په پام سره وپېژنه",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "کښېنې"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "د خوړو لپاره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "واکمن"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "واکمن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "پوهېدل"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "وپېژنه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه چې د مخې ته دي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "د مخې ته دې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:59.101492996Z",
+  "model": "glm-5.3"
+}

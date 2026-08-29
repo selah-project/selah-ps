@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "پاڅېږه، ای د ځمکې قاضي! پر غرورجنو باندې بدلہ ورکړه.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "השב",
+      "gloss": "بدلہ ورکړه"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "غرورجنو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:31.243357345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او موشې ⟨את⟩ ګلعاد ماخیر ته، د مناسه زوی، ورکړ؛ نو هغه پکې مېشت شو.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "او … ورکړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګلعاد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ګلعاد"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ماخیر ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مناسه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "او مېشت شو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پکې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:47.777092151Z",
+  "model": "glm-5.3"
+}

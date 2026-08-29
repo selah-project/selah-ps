@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ځمکه وه په تشوالي او خلا کې، او تیاره وه پر مخ د تهاوم، او د الوهیم روح الوتله پر مخ د اوبو.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "او ځمکه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "په تشوالي"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "او خلا"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "او تیاره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "تهاوم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "الوتله\/ځنګلېده"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:34.152784925Z",
+  "model": "glm-5.3"
+}

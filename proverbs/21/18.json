@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 21:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "شریر د صالح لپاره تاوان دی، او د راستو خلکو پر ځای خیانتکوونکی.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "تاوان"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "د صالح لپاره"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "او پر ځای"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "د راستو خلکو"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "خیانتکوونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:26.050122297Z",
+  "model": "glm-5.3"
+}

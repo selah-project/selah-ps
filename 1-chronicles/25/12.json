@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "پنځم نتنیهو، د هغه زامن او د هغه وروڼه دولس؛",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنځم"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "نتنیاهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس (دوه)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(لس)"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:15.847409394Z",
+  "model": "glm-5.3"
+}

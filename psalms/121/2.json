@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 121,
+  "translation": "زما مرسته له یاهوه راهیسي — د اسمانونو او ځمکې جوړوونکي.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "زما مرسته"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "له … راهیسي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړوونکي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "د اسمانونو"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "او ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:04.126895330Z",
+  "model": "glm-5.3"
+}

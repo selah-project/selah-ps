@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "مه پرېږده چې خوله دې ⟨את⟩ بدن دې وګناهوي، او مه وایه د فرښتي په وړاندې چې دا ⟨is>> یوه اشتباه ده؛ ولې باید الوهیم په غږ دې قهر وکړي او ⟨את⟩ د لاسونو دې کار ویې نیسي؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "پرېږده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوله دې"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "خوله دې"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "وګناهوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بدن دې"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "بدن دې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "وایه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "هמלאך",
+      "gloss": "د فرښتي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "یوه اشتباه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "قهر وکړي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "غږ دې"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "او ویې نیسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کار"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "د لاسونو دې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:23.848081869Z",
+  "model": "glm-5.3"
+}

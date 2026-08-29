@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "زما واوره، ای یعقوب، او ای یسرایل، زما بللی! زه هغه یم؛ زه لومړی یم، او زه هم وروستی یم.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "او یسرایل"
+    },
+    {
+      "surface": "مקראי",
+      "gloss": "زما بللی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "لومړی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "وروستی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:38.294380936Z",
+  "model": "glm-5.3"
+}

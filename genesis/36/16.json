@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "مشر قورح، مشر غعتام، مشر عمالک؛ دا د الوفاز مشران دي په ادوم ځمکه کې؛ دا د عاده زامن وو.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "غعتام"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "الیفاز"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عاده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:09.522071785Z",
+  "model": "glm-5.3"
+}

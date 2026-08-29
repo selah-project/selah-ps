@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د آدمه زویه! د انګورو ونې لرې څه دی د ټولو ونو پر خلاف، د هغه څانګه چې د ځنګل په ونو کې وه؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لرې"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "د انګورو ونې"
+    },
+    {
+      "surface": "مכל",
+      "gloss": "د ټولو...پر خلاف"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونو"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "څانګه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "په ونو کې"
+    },
+    {
+      "surface": "היער",
+      "gloss": "د ځنګل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:54:36.019540255Z",
+  "model": "glm-5.3"
+}

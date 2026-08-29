@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او پر د برخې سرحد چې د منشه دی، له ختيځې خوا څخه بېرته تر لويديځې خوا پورې — افرايم ته يوه ⟨برخه⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له خوا څخه"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ختيځې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر ... پورې"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لويديځې"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرايم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:52.228553155Z",
+  "model": "glm-5.3"
+}

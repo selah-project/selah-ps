@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "او یوسف په مِتسرایم کې اوسېد — هغه او د خپل پلار کور؛ او یوسف سل او لس کاله ژوند وکړ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "او اوسېد"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "په مِتسرایم کې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او کور"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "او ژوند وکړ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "او لس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:40.499235729Z",
+  "model": "glm-5.3"
+}

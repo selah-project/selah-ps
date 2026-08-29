@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ټولې لاسونه به سستې شي، او ټولې زنګونې به اوبو ته ځي،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "به سستې شي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټولې"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "زنګونې"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "به ځي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:23.649153726Z",
+  "model": "glm-5.3"
+}

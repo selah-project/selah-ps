@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او خوړلي مې يوازې زما لُقمه، او يتیم ترې نه وی خوړلی —",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "او خوړلي مې"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "زما لُقمه"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوړل"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "يتیم"
+    },
+    {
+      "surface": "مמנה",
+      "gloss": "ترې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:56.010133212Z",
+  "model": "glm-5.3"
+}

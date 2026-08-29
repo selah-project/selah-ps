@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 13:33",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او اوس زما آقا پاچاه دې دا خبره پر زړه نه ږدي چې ووايي: د پاچاه ټول زامن مړه شوي، ځکه چې یوازې اَمنون مړ شوی دی.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ږدي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "زما آقا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچاه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچاه"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مړه شوي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "اَمنون"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مړ شوی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:24.528240824Z",
+  "model": "glm-5.3"
+}

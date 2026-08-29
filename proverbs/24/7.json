@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "حکمتونه د نادان لپاره لوړې ⟨دي⟩؛ په دروازه کې به يې خوله نه پرانیزي.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "لوړې"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "د نادان لپاره"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حکمتونه"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "په دروازه کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "به پرانیزي"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "خوله يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:17.903676908Z",
+  "model": "glm-5.3"
+}

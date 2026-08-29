@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "لارې ویجاړې شوې، د مسلې تېرېدونکی درېدلی دی؛ تړون يې مات کړ، ښارونه يې سپک کړل، انسان يې نه دی درنې\/agewise منلی.",
+  "tokens": [
+    {
+      "surface": "نשמו",
+      "gloss": "ویجاړې شوې"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "درېدلی"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېرېدونکی"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "مسله"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "مات کړ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "سپک کړل"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "منلی"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:53.416506688Z",
+  "model": "glm-5.3"
+}

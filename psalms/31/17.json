@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ستا مخ دې پر خپل بنده روښانه کړه، ما په خپل خېسېد وژغوره.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "روښانه کړه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خپل بنده"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ما وژغوره"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "په خپل خېسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:52.322013102Z",
+  "model": "glm-5.3"
+}

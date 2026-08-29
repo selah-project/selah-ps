@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او الوهیم له نوح سره وویل، وییلې:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وییلې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:12.513696162Z",
+  "model": "glm-5.3"
+}

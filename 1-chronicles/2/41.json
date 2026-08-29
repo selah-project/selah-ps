@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او شلوم ⟨את⟩ یکمیه وزیږه، او یکمیه ⟨את⟩ الیشمع وزیږه.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "او شلوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یکمیه"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "یکمیه"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "او یکمیه"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الیشمع"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "الیشمع"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:28.428095752Z",
+  "model": "glm-5.3"
+}

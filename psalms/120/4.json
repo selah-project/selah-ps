@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 120,
+  "translation": "د زورور تېرو ياځې، سره د رتام د ډبرو سکرو.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "ياځې"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "د زورور"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تېرو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره د"
+    },
+    {
+      "surface": "גחלي",
+      "gloss": "ډبرو سکرو"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "د رتام"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:55.774613928Z",
+  "model": "glm-5.3"
+}

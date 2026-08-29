@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او د بالو زامن: الیاب.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "د بالو"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "الیاب"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:21.533038546Z",
+  "model": "glm-5.3"
+}

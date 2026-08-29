@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "هغه ووايل، او مچان راغلل، سپنجۍ په ټولồ سرحدونو يې.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ووايل"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او راغلل"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "مچان"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "سپنجۍ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "سرحدونو يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:59.072806553Z",
+  "model": "glm-5.3"
+}

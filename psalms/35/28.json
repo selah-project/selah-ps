@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او زما ژبه به ستا عدالت زمزمه کوي، ټول ورځ ستا ستاينه.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "او زما ژبه"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "زمزمه کوي"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ستا عدالت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ستا ستاينه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:41.391413407Z",
+  "model": "glm-5.3"
+}

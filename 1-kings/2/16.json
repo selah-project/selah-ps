@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او اوس یوه غوښتنه مې له ⟨את⟩ تا څخه کوي؛ زما مخ مه راګرځوه.» هغې ورته وویل: «ووایه.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "غوښتنه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "غواړم"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "له ⟨את⟩ تا څخه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "راګرځوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "هغې وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ووایه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:51:17.215518282Z",
+  "model": "glm-5.3"
+}

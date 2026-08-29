@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "د عقاب لار په اسمانونو کې، د مار لار پر ډبره، د بېړۍ لار د سمندر په زړه کې، او د سړي لار په نجلۍ.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "د عقاب"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "په اسمانونو کې"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "د مار"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "د بېړۍ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "او لار"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "په نجلۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:02.936403915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 145,
+  "translation": "ته ⟨את⟩ خپله لاس پرانیې، او د هر ژوندي رضایت پوره کوې.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "پرانیې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاس"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "او پوره کوې"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندي"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضایت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:20.279073616Z",
+  "model": "glm-5.3"
+}

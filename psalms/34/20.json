@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "د صادق بدمرغۍ ډېرې دي، خو یاهوه له ټولو هغو څخه ژغوري.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بدمرغۍ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صادق"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "خو له ټولو هغو"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "ژغوري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:42.137106604Z",
+  "model": "glm-5.3"
+}

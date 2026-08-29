@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 14:23",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او همدوی هم ځان ته لوړ ځایونه او مڅوبې او اشېریم جوړ کړل، پر هره لوړه غونډۍ او د هرې شینې ونجې لاندې.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "همدوی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "במות",
+      "gloss": "لوړ ځایونه"
+    },
+    {
+      "surface": "ומצבות",
+      "gloss": "مڅوبې"
+    },
+    {
+      "surface": "ואשרים",
+      "gloss": "اشېریم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "غونډۍ"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "لوړه"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "او لاندې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونج"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "شینه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:57:34.619328122Z",
+  "model": "glm-5.3"
+}

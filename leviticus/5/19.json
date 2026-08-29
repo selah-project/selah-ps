@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ګناه-قرباني ده؛ هغه په رښتیا د یاهوه پر وړاندې ګناهکار شوی دی.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "ګناه-قرباني"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ګناهکار"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ګناهکار شوی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه پر وړاندې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:16.601741443Z",
+  "model": "glm-5.3"
+}

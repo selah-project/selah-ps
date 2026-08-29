@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "⟨את⟩ غوړ خورئ او ⟨את⟩ وړۍ اغونډئ؛ سپینې ⟨زیانمنې⟩ ذبيح کوئ، خو موږره نه څرولئ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غوړ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورئ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "وړۍ"
+    },
+    {
+      "surface": "הצمר",
+      "gloss": "وړۍ"
+    },
+    {
+      "surface": "תלבשو",
+      "gloss": "اغونډئ"
+    },
+    {
+      "surface": "הבריאه",
+      "gloss": "سپینه\/غوړه شوې"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "ذبيح کوئ"
+    },
+    {
+      "surface": "הצאن",
+      "gloss": "موږره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "څرولئ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:20.330317022Z",
+  "model": "glm-5.3"
+}

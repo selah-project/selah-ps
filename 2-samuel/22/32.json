@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "څنګه چې څوک ایل د یاهوه پرته دی؟ او څوک غونډۍ د زموږ الوهیم پرته دی؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "څنګه چې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "مבלעדי",
+      "gloss": "د ... پرته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک"
+    },
+    {
+      "surface": "צור",
+      "gloss": "غونډۍ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "د ... پرته"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:24:53.327915828Z",
+  "model": "glm-5.3"
+}

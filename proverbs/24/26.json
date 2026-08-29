@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "هغه چې سमې خبرې ځوابوي، شونډې ⟨يې⟩ ښکلوي.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "ښکلوي"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "هغه چې ځوابوي"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "سمې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:05.298175706Z",
+  "model": "glm-5.3"
+}

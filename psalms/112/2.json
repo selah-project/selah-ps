@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 112,
+  "translation": "په ځمکه کې به زورور وي زریه یې، د نیکو نسل به برکت ومومي.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "زورور"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "זרעو",
+      "gloss": "زریه یې"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "د نیکو"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "به برکت ومومي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:32.829663147Z",
+  "model": "glm-5.3"
+}

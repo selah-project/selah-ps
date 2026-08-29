@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "سپږۍ په لاسونو نیول کېدی شي، خو د پاچا په ماڼیو کې وي.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "سپږۍ (لکه مارپړانګ)"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "په لاسونو"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "نیول کېدی شي"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "خو هغه"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "په ماڼیو کې"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:05.136046552Z",
+  "model": "glm-5.3"
+}

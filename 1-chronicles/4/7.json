@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د حلآ زامنو: صرت، يصحار او اتنان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامنو"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "حلآ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "صرت"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "يصحار"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "او اتنان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:03.299634853Z",
+  "model": "glm-5.3"
+}

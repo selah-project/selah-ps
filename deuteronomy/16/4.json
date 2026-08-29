@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او دې ته به په ټوله پوله کې اوو ورځو خمیر ونه لیدل شي، او له هغې غوښې چې په لومړۍ ورځ ماښام قربانوې به هېڅ شي تر سهار پاتې نه شي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יראه",
+      "gloss": "ونه لیدل شي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "پوله کې"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اوو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "پاتې شي (شپه تېره کړي)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "غوښې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "قربانوې"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړۍ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "تر سهار"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:53.977062293Z",
+  "model": "glm-5.3"
+}

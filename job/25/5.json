@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ښه! حتی سپوږمۍ هم ځلېږي نه، او ستوري يې په سترګو کې پاک نه دي.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ښه!"
+    },
+    {
+      "surface": "עד",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "سپوږمۍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او ... نه"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "ځلېږي"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "او ستوري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "پاک دي"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په سترګو کې يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:35.669173168Z",
+  "model": "glm-5.3"
+}

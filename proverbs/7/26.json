@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ځکه چې ډېر ټپیان هغې لوېدلي دي، او ټول زورور د هغې وژل شوي دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ټپیان"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "هغې لوېدلي دي"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "او زورور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "د هغې وژل شوي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:37.138045409Z",
+  "model": "glm-5.3"
+}

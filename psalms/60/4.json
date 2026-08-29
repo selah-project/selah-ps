@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 60,
+  "translation": "ځمکه دې وړنګوله، ماته دې کړه — د هغې درزونه روغ کړه، ځکه رېږدي.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "دې وړنګوله"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "ماته دې کړه"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "روغ کړه"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "د هغې درزونه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "رېږدي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:41.686658383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او تاسو به زما لپاره خلک وي، او زه به ستاسو لپاره الوهیم وي.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "او تاسو به وي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:31.077622838Z",
+  "model": "glm-5.3"
+}

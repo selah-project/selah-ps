@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "پاڅېږه، ⟨את⟩ هلک پورته کړه او ⟨את⟩ خپل لاس پرې ونیسه، ځکه به یې زه لوی ملت ګرځوم.»",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "پورته کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هلک"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "هلک"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "ونیسه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل لاس"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "یې ګرځوم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:03:25.559386611Z",
+  "model": "glm-5.3"
+}

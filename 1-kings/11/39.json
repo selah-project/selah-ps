@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او ⟨את⟩ د داوېد نسل به د دې لپاره کړوږنه کړم، خو نه د ټولو ورځو لپاره.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "او به کړوږنه کړم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د داوېد نسل"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "למען",
+      "gloss": "د دې لپاره"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ورځو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:54.851395188Z",
+  "model": "glm-5.3"
+}

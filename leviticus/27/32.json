@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او ټول د غویو او مېږو لسمکى — هر هغه چې تر څوکۍ لاندې تېرېږي — لسم به د یاهوه لپاره مقدس وي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "لسمکى"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د غویو"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "او مېږو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "تېرېږي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر لاندې"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "څوکۍ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وی"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:48.357980984Z",
+  "model": "glm-5.3"
+}

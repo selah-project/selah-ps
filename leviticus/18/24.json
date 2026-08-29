@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "له دې ټولو سره مه نجسته کېږئ، ځکه په دې ټولو کې ملتونه نجسته شوي چې زه يې ستاسو له مخې شړم.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "تטמאו",
+      "gloss": "نجسته کېږئ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "نجسته شوي"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "شړم"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ستاسو له مخې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:04.605670059Z",
+  "model": "glm-5.3"
+}

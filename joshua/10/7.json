@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "نو يوشوع د ګلګل څخه پورته شو، هغه او د جګړې ټول خلک ورسره، او ټول زړور اتل.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "پورته شو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "يوشوع"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له…څخه"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ګلګل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "زړور"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "اتل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:41.658909427Z",
+  "model": "glm-5.3"
+}

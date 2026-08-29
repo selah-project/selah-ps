@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "«خو چې زموږ د دښمنانو پاتې‌شوني د اور نه خوړلي دي؟»",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ونړول شول"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "زموږ د دښمنانو"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "د دوی پاتې‌شوني"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "خوړلي دي"
+    },
+    {
+      "surface": "אש",
+      "gloss": "د اور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:23.743035996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د یisasخار د زامنو د قبیلې لپاره ⟨هغه⟩ مشر، پالتیئل د عزان زوی.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یisasخار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "پالتیئل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "عزان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:07.981476728Z",
+  "model": "glm-5.3"
+}

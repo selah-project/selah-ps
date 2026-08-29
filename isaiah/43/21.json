@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "دا قوم مې زما لپاره جوړ کړی دی؛ زما ستاینه به وايي.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "זו",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "جوړ کړی مې دی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "زما ستاینه"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "به وايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:21:34.466163291Z",
+  "model": "glm-5.3"
+}

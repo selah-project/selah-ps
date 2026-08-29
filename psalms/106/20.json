@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "نو دوی خپل جلال يې واوښته ⟨את⟩ د هغه په بڼه چې د بوټو خوړوکي غوا ده.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "واوښته يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل جلال"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "خپل جلال"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "په بڼه"
+    },
+    {
+      "surface": "שור",
+      "gloss": "غوا (ځوڅی)"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوړوکي"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "د بوټو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:31.443836517Z",
+  "model": "glm-5.3"
+}

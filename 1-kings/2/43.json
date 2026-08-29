@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او ولې نه دې ساتلې ⟨את⟩ د یاهوه قسم او ⟨את⟩ هغه حکم چې مې پر تا فرض کړی و؟",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "او ولې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "دې ساتلې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه قسم"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هغه حکم"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "هغه حکم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "مې فرض کړی و"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:51:56.087263828Z",
+  "model": "glm-5.3"
+}

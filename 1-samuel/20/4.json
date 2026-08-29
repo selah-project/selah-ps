@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او یِهوناتان داوېد ته وویل: څه وايي ستا نفس؟ او زه يې ستا لپاره کوم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِهوناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ته"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ستا نفس"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "او يې کوم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:37:42.413065244Z",
+  "model": "glm-5.3"
+}

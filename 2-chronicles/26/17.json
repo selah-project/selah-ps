@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 26:17",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او عزریاهو کاهن ورپسې ولاړ، او ورسره د یاهوه کاهنان اتیا د زور زامن وو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ورپسې"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "عزریاهو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "او ورسره"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اتیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور"
+    }
+  ],
+  "timestamp": "2026-08-29T02:07:24.495136020Z",
+  "model": "glm-5.3"
+}

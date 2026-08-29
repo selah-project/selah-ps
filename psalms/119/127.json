@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "همداReason ستا فرمانونو ته مینه لرم — له سروزرو او له خالص سروزرو زیاته.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "مینه لرم"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ستا فرمانونه"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "له سروزرو"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "او له خالص سروزرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:09.280082963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او ټول لوټ ⟨את⟩ او ټول ملتلف ⟨את⟩ يې واخیستل — له انسانانو او له څاریو.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "واخیستل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول لوټ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "لوټ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول ملتلف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ملتلف"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "له انسانانو"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "او له څاریو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:44.779043187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او هغه له اسرائیل څخه سوه زره زبردست جنگیالي د سوه ټالنټ سپینو زرو په بدل کې کرایه کړل.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "کرایه کړل يې"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "له اسرائیل څخه"
+    },
+    {
+      "surface": "مאה",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جنگیالي"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "د سوه"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ټالنټ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپینو زرو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:07:33.558914276Z",
+  "model": "glm-5.3"
+}

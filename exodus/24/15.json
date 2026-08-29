@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او موشې غونډۍ ته وخوت، او ورېځ ⟨את⟩ غونډۍ وپوښله.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وخوت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غونډۍ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "وپوښله"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ورېځ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غونډۍ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غونډۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:01.983562548Z",
+  "model": "glm-5.3"
+}

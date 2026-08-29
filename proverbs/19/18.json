@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "خپل زوی ښه کړه، ځکه چې هیلو ځای ⟨دي⟩، خو د هغه د وژلو ته مه يې خپله مړه لټوه.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ښه کړه (تاديې کړه)"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "خپل زوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "هیل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "خو مه"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "د هغه وژل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "لټوه\/پورته کړه"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "خپله مړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:14.755986499Z",
+  "model": "glm-5.3"
+}

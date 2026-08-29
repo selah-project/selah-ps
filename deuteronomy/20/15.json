@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "داسې به وکړې له ټولو هغو ښارونو سره چې له تا ډېر لرې دي، کوم چې د دې ⟨ملتونو⟩ ښارونه نه دي چې دلته دي.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "به وکړې"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ښارونو"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "لرې"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له تا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "د ملتونو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دلته دي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:48.491417448Z",
+  "model": "glm-5.3"
+}

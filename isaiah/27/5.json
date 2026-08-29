@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او که هغه زما د پناه مخه ونیسي، هغه به راسره سوله وکړي؛ سوله به هغه راسره وکړي.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "مخه نيول"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "زما د پناه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سوله"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راسره"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سوله"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راسره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:06.228830772Z",
+  "model": "glm-5.3"
+}

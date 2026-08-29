@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او له خپلو زامنو سره یې وویل: راته ⟨את⟩ اس وځنډوئ؛ او ځنډ یې کړ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له... سره"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "خپلو زامنو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "وځنډوئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "اس"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "او ځنډ یې کړ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:56:33.970782356Z",
+  "model": "glm-5.3"
+}

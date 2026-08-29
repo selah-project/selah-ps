@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او موشې وکړه هغسې چې یاهوه حکم کړی وو ⟨את⟩ هغه ته؛ او ټولنه راټوله شوه د ملاقات خیمې د دروازې ته.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړه"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "هغسې چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی وو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ هغه ته"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "او راټوله شوه"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ټولنه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د ملاقات"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:25.873113283Z",
+  "model": "glm-5.3"
+}

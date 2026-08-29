@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او د بنیامین او یهودا له زامنو څخه ځیني تر داوېد کلا پورې راغلل.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "او راغلل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "او یهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "کلا پورې"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:58.241538345Z",
+  "model": "glm-5.3"
+}

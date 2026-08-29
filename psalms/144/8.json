@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 144,
+  "translation": "چې خولې يې درواغ وايي او ښي لاس يې د درواغو ښی ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "خولې يې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "درواغ"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "او ښي لاس يې"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ښی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "د درواغو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:00.886401834Z",
+  "model": "glm-5.3"
+}

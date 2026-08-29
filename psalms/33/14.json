@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "له خپل د اوسېدو ځای څخه هغه پر ټولو د ځمکې اوسېدونکو باندې sharp نظر کوي.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "له ... ځای څخه"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "د خپل د اوسېدو"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "sharp نظر کوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر ... باندې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:48.538910411Z",
+  "model": "glm-5.3"
+}

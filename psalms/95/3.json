@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 95,
+  "translation": "ځکه چې یاهوه لوی ایل دی، او د ټولو الوهیمو پر سر لوی پاچاه دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "او پاچاه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیمو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:16.008661919Z",
+  "model": "glm-5.3"
+}

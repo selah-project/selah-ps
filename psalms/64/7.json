@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "هغوی بدۍ لټوي؛ د لټون لټون يې بشپړ کړی، او د سړي دننه فکر او زړه ژور دی.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "لټوي"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "بشپړ کړی"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "لټون"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "لټون"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "او دننه فکر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "او زړه"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ژور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:04.777093673Z",
+  "model": "glm-5.3"
+}

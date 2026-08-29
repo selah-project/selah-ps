@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 57,
+  "translation": "لوړ شه، ای الوهیم، له اسمانونو زاړه؛ ستا جلال ⟨دا⟩ ټولې ځمکې پر څکې وي.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "لوړ شه"
+    },
+    {
+      "surface": "על",
+      "gloss": "له … زاړه"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ای الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ستا جلال"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:57.894143686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "هغه چې بې عیبه ګرځي، عدالت کوي، او په زړه کې 진 terrestrial وايي.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بې عیبه"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "او کوي"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "او وايي"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "رښتینې"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "په زړه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:53.059852951Z",
+  "model": "glm-5.3"
+}

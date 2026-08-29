@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او پيليکانی، او ⟨את⟩ لاش‌خوړونکی باز، او ⟨את⟩ اوبو مرغه؛",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "او پيليکانی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لاش‌خوړونکی باز"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "لاش‌خوړونکی باز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوبو مرغه"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "اوبو مرغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:38.053979963Z",
+  "model": "glm-5.3"
+}

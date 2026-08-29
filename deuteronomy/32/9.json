@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "ځکه چې د یاهوه برخه ⟨دی⟩ د هغه قوم؛ یعقوب ⟨دی⟩ د هغه د میراث ليکه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "د هغه قوم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ليکه (د اندازه کولو د تار)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "د هغه د میراث"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:02.950894985Z",
+  "model": "glm-5.3"
+}

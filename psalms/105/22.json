@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "چې د ده په خوښه يې وزیران وتړي، او مشران يې حکمت ورښي.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "چې وتړي"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "يې وزیران"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "د ده په خوښه"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "او مشران يې"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "حکمت ورښي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:40.250612950Z",
+  "model": "glm-5.3"
+}

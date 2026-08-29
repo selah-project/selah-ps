@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 22:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "چې ستا باور په یاهوه وي، ما دا نن تا ته پېژندل شوي کړي دي، تا ته يوازې.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "چې وي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه"
+    },
+    {
+      "surface": "מבטחך",
+      "gloss": "ستا باور"
+    },
+    {
+      "surface": "הודעתיך",
+      "gloss": "تا ته پېژندل شوي کړي دي"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:29.342005964Z",
+  "model": "glm-5.3"
+}

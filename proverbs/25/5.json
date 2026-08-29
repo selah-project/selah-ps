@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "له پاچا مخکې بدکار لرې کړه، او په عدل بهې د هغه تخت ډېر شي.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "له مخکې"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "او ډېر شي"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "په عدل"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "د هغه تخت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:38.402364631Z",
+  "model": "glm-5.3"
+}

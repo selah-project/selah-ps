@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او پر دیبون او پر نِبو او پر بیت-دیبلاتایم.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دیبون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نِبو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "دבלתים",
+      "gloss": "دیبلاتایم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:51.684555253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زموږ لارې ولټوو او وازمویو، او بېرته یاهوه ته راستون شو.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "ولټوو"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "زموږ لارې"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "او وازمویو"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "او راستون شو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:16.990660045Z",
+  "model": "glm-5.3"
+}

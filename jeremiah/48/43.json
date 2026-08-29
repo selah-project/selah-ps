@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "وېره، او کنده، او ښکېل پر تا دي، اې د موآب اوسېدونکيه — د یاهوه وینا ده.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "او کنده"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "او ښکېل"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسېدونکیه"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وینا ده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:05.274850271Z",
+  "model": "glm-5.3"
+}

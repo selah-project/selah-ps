@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او صور خپل ⟨لاته⟩ مهار جوړ کړ او سپین زر يې لکه دوړې راټول کړل، او س清纯نه زر يې لکه د کوڅو په کښکا.",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "جوړ کړ"
+    },
+    {
+      "surface": "صר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "مצור",
+      "gloss": "مهار"
+    },
+    {
+      "surface": "לה",
+      "gloss": "خپل لاته"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "راټول کړل"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپین زر"
+    },
+    {
+      "surface": "کעפר",
+      "gloss": "لکه دوړې"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "او سڅله زر"
+    },
+    {
+      "surface": "کטיט",
+      "gloss": "لکه کښکا"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "د کوڅو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:40.195222879Z",
+  "model": "glm-5.3"
+}

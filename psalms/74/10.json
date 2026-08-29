@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 74,
+  "translation": "تر کله، ای الوهیم، به سپکاوی کوونکی سپکاوی کوي؟ د ستا د نوم دښمن به تل نیوکه کوي؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "مתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "سپکاوی کوي"
+    },
+    {
+      "surface": "צר",
+      "gloss": "سپکاوی کوونکی"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "نیوکه کوي"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "د ستا نوم"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:25.823580229Z",
+  "model": "glm-5.3"
+}

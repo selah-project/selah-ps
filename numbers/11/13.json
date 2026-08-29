@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "زما لپاره له چا غوښه راشي چې دا ټول قوم ته ورکړم، ځکه هغوي پر ما ژاړي او وايي: موږ ته غوښه راکړه چې وخورو.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "له چا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "چې ورکړم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټول... ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "ژاړي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "او وايي"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "راکړه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "موږ ته"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "چې وخورو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:45.675439661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "ځکه چې هغه ⟨את⟩ خپله سپېڅلې کلمه او ⟨את⟩ اوراهام خپل بنده یاد کړ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله سپېڅلې کلمه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلمه"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "سپېڅلې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خپل بنده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:48.211920251Z",
+  "model": "glm-5.3"
+}

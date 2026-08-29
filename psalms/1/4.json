@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "نه! بدکار داسې نه دي، بلکې د بوسې په څېر دي چې باد يې همېشه لېرې غورځوي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "د بوسې په څېر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "يې غورځوي"
+    },
+    {
+      "surface": "رוח",
+      "gloss": "باد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:48.719292475Z",
+  "model": "glm-5.3"
+}

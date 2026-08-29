@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "له دوی او له د دوی له الوهیمو سره به تړون نه کړې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "به تړون نه کړې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "له دوی"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "او له د دوی له الوهیمو"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:21.245461825Z",
+  "model": "glm-5.3"
+}

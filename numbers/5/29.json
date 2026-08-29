@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 5:29",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "دا د قنوت شریعت دی — چې کله ښځه د خپل مېړه ⟨له⟩ لارې واوړي او مردوده شي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "د قنوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "واوړي (بېلاره)"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر (له مېړه)"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "مېړه"
+    },
+    {
+      "surface": "ונטמאה",
+      "gloss": "او مردوده شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:04.200904165Z",
+  "model": "glm-5.3"
+}

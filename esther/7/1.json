@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "نو پاچا او هامان د اېستر ملکې سره د څښاک لپاره راغلل.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "او هامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "د څښاک لپاره"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اېستر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:58:19.250218805Z",
+  "model": "glm-5.3"
+}

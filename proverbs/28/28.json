@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 28:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "چې بدکار پاڅي، انسان پنه کېږي؛ او چې هغوی له منځه ځي، نیکان ډېریږي.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "چې پاڅي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "پنه کېږي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ובאבדם",
+      "gloss": "او چې له منځه ځي"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "ډېریږي"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:29.307414459Z",
+  "model": "glm-5.3"
+}

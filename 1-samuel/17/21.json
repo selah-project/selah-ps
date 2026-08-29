@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او اسرائیل او فلسطیانو صفونه ودرول — یو صف بل مخامخ صف ته.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "صف ودرول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "او فلسطیانو"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "صف"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "مخامخ … ته"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "صف"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:20.492932530Z",
+  "model": "glm-5.3"
+}

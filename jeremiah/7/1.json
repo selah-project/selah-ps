@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "هغه خبره چې یاهوه ⟨את⟩ له لوري یِرمِیاهو ته ورسېده، په داسې حال چې يې ویل:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ورسېده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ له لوري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "په داسې حال چې يې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:57.945457002Z",
+  "model": "glm-5.3"
+}

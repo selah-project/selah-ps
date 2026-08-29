@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "خپل همسایه دې ⟨את⟩ نه ځوري، او نه ترې غولوې؛ د مزدور پند\/کړا دې ⟨את⟩ له تا سره تر سپېدو نه پراته کېږي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "ځوري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل همسایه"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "همسایه دې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תגזل",
+      "gloss": "غولوې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "پراته کېږي"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "کړا"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "د مزدور"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "له تا سره ⟨את⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سپېدو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:15.995281852Z",
+  "model": "glm-5.3"
+}

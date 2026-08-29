@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ټوله ځمکه دې له یاهوه وارخطا وي؛ له هغه دې ټول د نړۍ اوسېدونکي وارخطا وي.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "وارخطا وي"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "له یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "وارخطا وي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکي"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "نړۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.660826745Z",
+  "model": "glm-5.3"
+}

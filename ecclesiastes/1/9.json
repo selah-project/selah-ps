@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "څه چې وو، هغه به هغه وي چې به کيږي؛ او څه چې شوي دي، هغه به هغه شي چې به کيږي؛ او له لمر لاندې هېڅ نوی شی نشته.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "چې وو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "چې شوي دي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "به شي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "له لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:49.370940257Z",
+  "model": "glm-5.3"
+}

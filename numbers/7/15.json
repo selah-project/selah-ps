@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "يو غوا-بوچړ، د غواګانو زوی، يو پس، يوه لڼده، د يوه کال زوی، د سوځېدنې قربانۍ (عوله) لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "غوا-بوچړ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د غواګانو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "پس"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لڼده"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "د يوه کال"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د عولې (سوځېدنې قربانۍ) لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:16.716172296Z",
+  "model": "glm-5.3"
+}

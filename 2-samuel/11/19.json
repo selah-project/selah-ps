@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او قاصد ته يې فرمان وکړ چې ووايي: کله چې د جګړې ټول وروسته له پاچا سره ویې ویلې،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "فرمان يې وکړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاصد"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "قاصد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "کله چې ویې بشپړې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "د ولو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:15.453147900Z",
+  "model": "glm-5.3"
+}

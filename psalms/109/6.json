@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 109,
+  "translation": "يوه بدګماني وګمارې پر هغه، او يو شيطان ودريږي د هغه پر ښي لاس.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "وګمارې"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "او شيطان"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ودريږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "د هغه ښي لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:57.208303540Z",
+  "model": "glm-5.3"
+}

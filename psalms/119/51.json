@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "متکبرانو ماته تر ډېره سپکاوی وکړ، خو زه ستا شریعت څخه وانه ړېدم.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "متکبرانو"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "ماته سپکاوی وکړ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ستا شریعت څخه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "واړېدم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:01.799099532Z",
+  "model": "glm-5.3"
+}

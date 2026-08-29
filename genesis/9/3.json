@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "هر خزنده چې ژوندی وي، د خوړو لپاره درته به وي؛ لکه شنې وښې چې ما تاسو ته ⟨את⟩ ټول درکړل دي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "د خوړو لپاره"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "لکه شنې"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "وښې"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "درکړل دي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:36.489764641Z",
+  "model": "glm-5.3"
+}

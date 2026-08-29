@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "او اوبو د هغوی ستونزمن پوښلی — له هغوی څخه يو هم پاتې نه شو.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "او پوښلی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "د هغوی ستونزمن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "له هغوی څخه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "پاتې شو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:59.956574867Z",
+  "model": "glm-5.3"
+}

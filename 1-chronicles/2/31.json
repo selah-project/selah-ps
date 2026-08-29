@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د اپایم زامن یشعي وو، او د یشعي زامن شیشان وو، او د شیشان زامن اَحلای ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "د اپایم"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "یشعي"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "د یشعي"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شیشان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "د شیشان"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "اَحلای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:34.140990781Z",
+  "model": "glm-5.3"
+}

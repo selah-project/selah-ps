@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او داوېد د زرو مشرانو او د سلو مشرانو سره، د هر یو نګید سره مشوره وکړه.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "مشوره يې وکړه"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "د زرو"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "او د سلو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "نګید (مشر)"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:30.410707316Z",
+  "model": "glm-5.3"
+}

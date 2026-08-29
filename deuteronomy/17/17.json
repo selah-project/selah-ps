@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او ښځې دې ځانته ډېرې نه کړي، او زړه يې دې نه واوړي؛ او سيم او طلا دې ځانته په ډېره اندازه نه راټوله کړي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ډېرې کړي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځانته"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "واوړي"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "زړه يې"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "او سيم"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "او طلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "راټوله کړي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځانته"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "په ډېره اندازه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:39.560840348Z",
+  "model": "glm-5.3"
+}

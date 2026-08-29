@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 56,
+  "translation": "ټول څاروي د میدان، راشئ چې وخورئ — ټول څاروي چې په ځنګل کې دي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "د میدان"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "راشئ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "چې وخورئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "په ځنګل کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:25:07.836574776Z",
+  "model": "glm-5.3"
+}

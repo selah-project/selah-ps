@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "د مخکښ لپاره، د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د مخکښ لپاره"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:07.531659395Z",
+  "model": "glm-5.3"
+}

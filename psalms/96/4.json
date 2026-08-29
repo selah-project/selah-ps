@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 96,
+  "translation": "ځکه یاهوه لوی دی او ډېر ستایل شوی؛ هغه د ټولو الوهیمو نه وېرېدونکی دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "او ستایل شوی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "وېرېدونکی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "על",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیمو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:53.726306308Z",
+  "model": "glm-5.3"
+}

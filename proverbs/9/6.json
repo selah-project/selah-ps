@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "«بې‌عقليته پرېږدئ او ژوندۍ اوسئ، او د پوهې په لار راشئ».",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "پرېږدئ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "بې‌عقليته"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "او ژوندۍ اوسئ"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "او راشئ\/سپاره شئ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:02.255041726Z",
+  "model": "glm-5.3"
+}

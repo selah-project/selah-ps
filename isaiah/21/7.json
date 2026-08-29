@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او چې وګوري: د اسانو د جوړې زylie بګۍ، د خره بګۍ، د اوښکۍ بګۍ — او هغه غوږ ونیسي، ډېر غوږنیوی وکړي.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "او چې وګوري"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "بګۍ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "جوړه"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "د اسانو زylie"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "بګۍ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "د خره"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "بګۍ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "د اوښکۍ"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "او غوږ ونیسي"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "غوږنیوی"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "غوږنیوی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:01.236117825Z",
+  "model": "glm-5.3"
+}

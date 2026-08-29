@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د موشې خسر ورته وویل: دا کار چې ته يې کوې ښه نه دی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ويل"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "خسر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:35.098879706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د مخ پېژندل ښه نه دي، او یو سړی د یوې ډوډۍ د ټوټې لپاره سرغړونه کوي.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "پېژندل"
+    },
+    {
+      "surface": "پנים",
+      "gloss": "د مخ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او د…لپاره"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ټوټه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "سرغړونه کوي"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "یو سړی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:34.248068503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د دې لپاره چې تا له بدې ښځې او د پردېۍ ژبې له نرمو وییو څخه وساتي.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "چې تا وساتي"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "له ښځې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "له نرمو وییو"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "د ژبې"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "پردېۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:18.764069467Z",
+  "model": "glm-5.3"
+}

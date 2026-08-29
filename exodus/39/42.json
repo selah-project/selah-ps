@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "د ټولو هغو چارو سره سم چې یاهوه ⟨את⟩ موشې ته يې حکم کړی و، داسې يې جوړ کړل د یسرایېل زامنو ⟨את⟩ ټول کار.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "د ټولو سره سم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "جوړ يې کړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایېل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "کار"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:26.338922396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او داوېد پر ټول اسراییل واکمني وکړه، او هغه ټول خپل قوم ته قضاوت او عدالت کاوه.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "او واکمني يې وکړه"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او هغه و"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کاوه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "قضاوت"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "او عدالت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټول ته"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:39.871402736Z",
+  "model": "glm-5.3"
+}

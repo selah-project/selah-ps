@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 65,
+  "translation": "د موسیقي مشر لپاره، د داوېد مزامیر، یو سندره.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د موسیقي مشر لپاره"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزامیر (سندره)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "یو سندره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:56.162078690Z",
+  "model": "glm-5.3"
+}

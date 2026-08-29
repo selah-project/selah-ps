@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او پاچا ورته وویل: «تر څو څو ځله باید تا قسم درکړم چې ته ماته یوازې حق خبره د یاهوه په نوم ونه وایې؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "څو ځله"
+    },
+    {
+      "surface": "پעמים",
+      "gloss": "ځلې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "تا قسم درکړم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ته ووایې"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "حق خبره"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:00:51.449237247Z",
+  "model": "glm-5.3"
+}

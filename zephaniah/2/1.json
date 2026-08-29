@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځان راټول کړئ، هو، راټول شئ، ای هغه قوم چې نه غوړل شوی!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "ځان راټول کړئ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "هو، راټول شئ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ای هغه قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "غوړل شوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:48.776208371Z",
+  "model": "glm-5.3"
+}

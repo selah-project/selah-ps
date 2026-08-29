@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او شلومه ⟨את⟩ ګوزر او ⟨את⟩ بېت حورون ښکته وباله.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "وباله"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګوزر"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ګوزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "بېت حورون"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بېت"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حورون"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ښکته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:54:26.753540338Z",
+  "model": "glm-5.3"
+}

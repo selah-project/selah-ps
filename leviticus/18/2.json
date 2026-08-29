@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "له بنو اسرایلو سره وويل او ورته ووايه: زه یم یاهوه ستاسو الوهیم.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له … سره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرایلو"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "او ووايه"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:58.199537126Z",
+  "model": "glm-5.3"
+}

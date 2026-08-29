@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "خو که یې وانه وري، نو هغه ملت به ډوب رانه و باسم، رانه و باسم يې او هلاک يې کړم — د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "خو که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "وانه وري"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "رانه و باسم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه ملت"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "هغه ملت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "رانه و باسم"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "هلاک يې کړم"
+    },
+    {
+      "surface": "نאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:33:10.039367370Z",
+  "model": "glm-5.3"
+}

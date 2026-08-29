@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د یاهوه ستا الوهیم نوم ⟨את⟩ په بې‌ګناهۍ مه اخله، ځکه یاهوه هغه چې د هغه نوم ⟨את⟩ په بې‌ګناهۍ اخلي به يې نه بښي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "اخله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "په بې‌ګناهۍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקه",
+      "gloss": "بښي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه چې د هغه نوم په بې‌ګناهۍ اخلي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "اخلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه نوم"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "په بې‌ګناهۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:36.293532235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د قهات زامن: عمروم، یصهار، حبرون او عُزی ایل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "د قهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمروم"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "او یصهار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "او حبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "او عُزی ایل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:43.563237757Z",
+  "model": "glm-5.3"
+}

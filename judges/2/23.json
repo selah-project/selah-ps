@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه دا ملتونه ⟨את⟩ پرېښودل — هغه چې ژر يې نه شړل — او د يهوشواع په لاس يې ونه سپارل.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "پرېښودل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ملتونه"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "هغه چې نه"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "شړل"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ژر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "سپارل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "د يهوشواع"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:14.085078862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د ماکېدا پاچا یو؛ د بېت-ایل پاچا یو؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "ماکېدا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بېت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ایل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:15.295015530Z",
+  "model": "glm-5.3"
+}

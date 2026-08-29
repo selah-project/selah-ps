@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "یاهوه! په ياد راوړه چې زموږ څه وشول؛ ګوره او ⟨את⟩ زموږ سپکاوی ووينه.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "په ياد راوړه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "او ووينه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زموږ سپکاوی"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "زموږ سپکاوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:18.678524975Z",
+  "model": "glm-5.3"
+}

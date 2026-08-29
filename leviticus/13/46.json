@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "ټول هغه ورځې چې ټپ پرې وي، ناپاک دی — ناپاک دی؛ يوازې به کښېني، له پنډغلي بهر به د هغه اوسېدل وي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ټپ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک دی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "کښېني"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "له ... بهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پنډغلي"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "د هغه اوسېدل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:49.092229669Z",
+  "model": "glm-5.3"
+}

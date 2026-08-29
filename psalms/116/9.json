@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "زه به د یاهوه په مخکې ګزم کوم، د ژوندیو په ځمکو کې.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "زه ګزم کوم"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په مخکې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "په ځمکو کې"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "د ژوندیو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:54.522933709Z",
+  "model": "glm-5.3"
+}

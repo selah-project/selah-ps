@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ستا څانګې د انارونو یو باغ دی، د ګرانبیهورو میوو سره؛ حنا، د نارد بوټو سره.",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "ستا څانګې"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "انارونو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "میوې"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "ګرانبیه"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "حنا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "نارد بوټي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:16.269372949Z",
+  "model": "glm-5.3"
+}

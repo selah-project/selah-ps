@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "تِهوم وويل: “زه يې نه لرم”، او سمندر وويل: “له ما سره نشته.”",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "تِهوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما کې"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "וים",
+      "gloss": "او سمندر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "له ما سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:29.630360862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د ښار چوکۍ به د هلکانو او نجونو ډکې شي چې په ⟨د هغې⟩ چوکیو کې لوبې کوي.",
+  "tokens": [
+    {
+      "surface": "ורחובות",
+      "gloss": "او د ښار چوکۍ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ډکې شي"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "هلکانو"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "او نجونو"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "لوبې کوي"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "په چوکیو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:35.761314306Z",
+  "model": "glm-5.3"
+}

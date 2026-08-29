@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د ګاد د قبیلې لپاره ګېئوایل، د ماخي زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "ګېئوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ماخی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:16.467612025Z",
+  "model": "glm-5.3"
+}

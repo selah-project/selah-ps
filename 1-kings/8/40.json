@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 8:40",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "څنګه چې دوی دې پر هغه ځمکه چې ته مو زموږ پلرونو ته ورکړې ټول هغه ورځې چې ژوندي وي ووېري،",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "څنګه چې"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "دې ووېري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "هغه ورځې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندي وي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "پر مخ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ورکړې"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "زموږ پلرونو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:54:50.074040387Z",
+  "model": "glm-5.3"
+}

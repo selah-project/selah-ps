@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "د غرور پښه مه مې راولې، او د بدکارانو لاس مه مې شړې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "مه مې راولې"
+    },
+    {
+      "surface": "رגל",
+      "gloss": "پښه"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "د غرور"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "او لاس"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "مه مې شړې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:58.455269209Z",
+  "model": "glm-5.3"
+}

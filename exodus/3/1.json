@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او موشې د خپل خسر یترو — د مديان د کاهن — پسه روزل؛ هغه ⟨את⟩ پسه د دښتې شا ته ورووستل او د الوهیم غره ته ورسېد، حورب ته.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "او موشې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "روزل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسه"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "پسه"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "یترو"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "خسر يې"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مديان"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "او ورووستل يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسه"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "پسه"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "شا ته"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "دښته"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او ورسېد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "حورب"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:16.758058461Z",
+  "model": "glm-5.3"
+}

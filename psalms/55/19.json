@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "هغه زما نپېش په سلامتیت خوشي کړه، له هغه چې زما ته نږدې و؛ ځکه ډېر وو چې زما سره وو.",
+  "tokens": [
+    {
+      "surface": "פדه",
+      "gloss": "خوشي کړه"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "په سلامتیت"
+    },
+    {
+      "surface": "نפשי",
+      "gloss": "زما نپېش"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "له نږدې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "په ډېرو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "زما سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:44.265577545Z",
+  "model": "glm-5.3"
+}

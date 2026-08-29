@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 68,
+  "translation": "ادونای ⟨خبره⟩ ورکوي؛ خبر وړونکې ښځې لوی لښکر دی.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "خبر وړونکې ښځې"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:41.491520719Z",
+  "model": "glm-5.3"
+}

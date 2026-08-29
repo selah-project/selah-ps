@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د مِخماس خلک: سوه او شل او دوه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "مِخماس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:32.953783115Z",
+  "model": "glm-5.3"
+}

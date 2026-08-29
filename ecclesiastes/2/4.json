@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زما کړنې مې لویې کړې؛ کورونه مې جوړ کړل، انګورونه مې وکېنل.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "لویې مې کړې"
+    },
+    {
+      "surface": "مעשי",
+      "gloss": "زما کړنې"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "جوړ مې کړل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "کورونه"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "مې وکېنل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "انګورونه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:42.243618554Z",
+  "model": "glm-5.3"
+}

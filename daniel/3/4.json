@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او منادي په لوړ غږ وغږه: «تاسو ته ویل کېږي، ای ملتونه، قومونه او ژبې،",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "او منادي"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "وغږه"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "په لوړ غږ"
+    },
+    {
+      "surface": "لכון",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "ویل کېږي"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "ای ملتونه"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "قومونه"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "او ژبې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:30:41.324774757Z",
+  "model": "glm-5.3"
+}

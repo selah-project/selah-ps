@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "بيا صُفَر نَعاتي ځواب ووايه او ويې ویل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ځواب ووايه"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صُفَر"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نَعاتي"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ويې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:52.505482997Z",
+  "model": "glm-5.3"
+}

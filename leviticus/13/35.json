@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "خو که نټېک وروسته له دې چې پاک شو، په پوستکي کې ډېر خپور شي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "خو که"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "خپور"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "شي"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نټېک"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "په پوستکي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته له"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "د هغه له پاکوالې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:40.780667639Z",
+  "model": "glm-5.3"
+}

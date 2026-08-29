@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او داوېد ⟨את⟩ هر هغه څه چې عمالِق راخیلي وو بېرته یې وژغورل، او ⟨את⟩ د داوېد دوه ښځې يې وژغورلې.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "وژغورل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر هغه څه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "لקחו",
+      "gloss": "راخیلي وو"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دوه ښځې"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "נשיو",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "وژغورلې"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-28T22:40:51.281993833Z",
+  "model": "glm-5.3"
+}

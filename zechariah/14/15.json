@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 14:15",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او داسې به د آس، د ایښي، د اوښ او د خره وبله وي، او د هرې هغې څارویې چې په هغو پونو کې وه — لکه دا وبله.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "او داسې"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "מגפת",
+      "gloss": "وبله"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "د آس"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "د ایښي"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "د اوښ"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "او د خره"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څارویې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "במחנות",
+      "gloss": "په هغو پونو کې"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "هغو"
+    },
+    {
+      "surface": "כמגפה",
+      "gloss": "لکه وبله"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:18.485893539Z",
+  "model": "glm-5.3"
+}

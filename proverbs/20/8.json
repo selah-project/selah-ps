@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "پاچا چې د عدالت پر تخت کښېني، په خپلو سترګو ټول شر خپروي\/لرې کوي.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "یושב",
+      "gloss": "کښېني"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "דין",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "מזרه",
+      "gloss": "خپروي\/لرې کوي"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په خپلو سترګو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:30.405250636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "هغه وویل: «څه کړي دي دې؟ د دې ورور د وینو غږ ماته له ځمکې وړاندې کیږي\/ چیغې وهي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کړي دي دې"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "د وینو (جمع)"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "د دې ورور"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "چیغې وهي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:56.379324831Z",
+  "model": "glm-5.3"
+}

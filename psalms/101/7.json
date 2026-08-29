@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 101,
+  "translation": "درغلۍ کوونکی به زما د کور په منځ کې نه کښېني؛ دروغ ویونکی به زما د سترګو مخې ته نه ټینګېږي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "کښېني"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "زما د کور"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوونکی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "درغلۍ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویونکی"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ټینګېږي"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما د سترګو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:40.139207325Z",
+  "model": "glm-5.3"
+}

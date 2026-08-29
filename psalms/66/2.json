@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 66,
+  "translation": "د هغه د نوم د جلال ستاینه وکړئ؛ د هغه د ستاینې جلال ورکړئ.",
+  "tokens": [
+    {
+      "surface": "זמרو",
+      "gloss": "زمرې ووايئ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "کېږدئ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "د هغه ستاینه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:21.761993619Z",
+  "model": "glm-5.3"
+}

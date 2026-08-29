@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "نو هغه د دې خبرې په اړه ورته غوږ ونیو او لس ورځې يې ازمویل.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "غوږ ونیو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "د خبرې په اړه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "يې ازمویل"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:28:58.927843291Z",
+  "model": "glm-5.3"
+}

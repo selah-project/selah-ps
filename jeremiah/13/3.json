@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او د یاهوه خبره دویم ځل راته راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دویم ځل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:33:39.945554474Z",
+  "model": "glm-5.3"
+}

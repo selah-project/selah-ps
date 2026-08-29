@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "همدارنګه چې کله ژاړم او چغې وهلم، زما لمانځه یې بند کړی.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همدارنګه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ژاږم"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "او چغې وهلم"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "بند یې کړی"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "زما لمانځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:09.737678180Z",
+  "model": "glm-5.3"
+}

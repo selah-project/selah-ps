@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یهوشوع زوی نون، د یاهوه خدمتګار، مړ شو، د سلو او لسو کلونو زوی.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خدمتګار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سلو"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "او لسو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کلونو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:23:02.167322806Z",
+  "model": "glm-5.3"
+}

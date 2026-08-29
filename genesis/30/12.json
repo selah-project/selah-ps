@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او زِلپه، د لېآه پلوريا، د یعقوب دویم زوی وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "او وزېږاوه"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "د لېآه پلوريا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لېآه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "د یعقوب"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:24.880093187Z",
+  "model": "glm-5.3"
+}

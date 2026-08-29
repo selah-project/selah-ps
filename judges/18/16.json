@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 18:16",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او شپږ سوه تنې چې د خپلو جنګي وسلو سره تړلي وو، د دان له زامنو، د دروازې په خوله کې ودریږدول.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "تنې"
+    },
+    {
+      "surface": "חגורים",
+      "gloss": "تړلي"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "وسلو"
+    },
+    {
+      "surface": "מלחמתם",
+      "gloss": "د جنګ"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "ودریږدول"
+    },
+    {
+      "surface": "پתח",
+      "gloss": "په خوله کې"
+    },
+    {
+      "surface": "השער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "له زامنو"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:29:03.389404427Z",
+  "model": "glm-5.3"
+}

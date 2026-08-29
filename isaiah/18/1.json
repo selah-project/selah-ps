@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "وای هغه ځمکه چې د وزرونو د ځغلوونې ده، هغه چې د کوش د سيندونو هاخوا ده!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وای"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "د ځغلوونې"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "د وزرونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "هاخوا"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "د سيندونو"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    }
+  ],
+  "timestamp": "2026-08-28T23:15:42.949196803Z",
+  "model": "glm-5.3"
+}

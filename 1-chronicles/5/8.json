@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او بِلا د عَزاز زوی، د شِمَع زوی، د یوعیل زوی — هغه په عَروئِر کې اوسېده، تر نِبو او بَعَل مِعون پورې.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "او بِلا"
+    },
+    {
+      "surface": "بן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "عَزاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شِمَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوعیل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسېده"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "په عَروئِر کې"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر… پورې"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نِبو"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "او بَعَل"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مِعون"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:29.801862924Z",
+  "model": "glm-5.3"
+}

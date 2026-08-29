@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او بټوټي به په بشپړ ډول ورکې شي.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "او بټوټي"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "په بشپړ ډول"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ورکې شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:13.127088980Z",
+  "model": "glm-5.3"
+}

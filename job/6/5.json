@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ایا پر ډېر وښه پېر بېر کوي؟ که غوا پر خپله خواړه غواړي؟",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "بېر کوي"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "پېر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "وښه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا\/که"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "غواړي (بېړ کوي)"
+    },
+    {
+      "surface": "שור",
+      "gloss": "غوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "خپله خواړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:18.218202089Z",
+  "model": "glm-5.3"
+}

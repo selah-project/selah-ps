@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "(د پوځ سړو لوټ وکړ — هر یو ⟨خپل⟩ برخې لپاره.)",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "د پوځ سړو"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "لوټ وکړ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د خپل برخې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:57.291631298Z",
+  "model": "glm-5.3"
+}

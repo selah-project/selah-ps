@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او اهرون به د ليدنې خیمې ته راشي، او ⟨את⟩ هغه کتان جامې به باسي چې د مقدس ځای په راتګ يې اغوستي وې، او هغه به هلته پرېږدي.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د ليدنې"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "باسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کتان جامې"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "کتان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "اغوستي وې"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "په راتګ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "د مقدس ځای"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "پرېږدي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:22.924427918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "پاڅېږه او د کوزهګر کور ته ښکته شه، او هلته به دې ⟨את⟩ زما خبرې اورولې:",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "او … ښکته شه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "د کوزهګر"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "او هلته"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "به دې اورولې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما خبرې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "زما خبرې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:35.070350169Z",
+  "model": "glm-5.3"
+}

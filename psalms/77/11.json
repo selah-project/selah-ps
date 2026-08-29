@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 77,
+  "translation": "او مې ویل: زما ناروغۍ دا ده — د عِلیون د ښي لاس بدلونونه.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او مې ویل"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "زما ناروغۍ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا ده"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "بدلونونه \/ کلونه"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ښي لاس"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:41.428957082Z",
+  "model": "glm-5.3"
+}

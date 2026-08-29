@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "پاک زه یم، بې له سرکښۍ؛ بې ګناه زه یم، او هېڅ ناروايي نه لرم.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه یم"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "سرکښۍ"
+    },
+    {
+      "surface": "חף",
+      "gloss": "بې ګناه"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه یم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ناروايي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لرم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:57.289098839Z",
+  "model": "glm-5.3"
+}

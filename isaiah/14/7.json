@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ټوله ⟨ه⟩ ځمکه ارام واخیست، چوپه شوه؛ دوی په لوړ غږ شادي وکړه.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "ارام واخیست"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "چوپه شوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "شادي وکړه"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "په لوړ غږ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:29:19.033625682Z",
+  "model": "glm-5.3"
+}

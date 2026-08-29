@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د دروغو شاهد به بې-سزا نه پاتې شي، او هغه چې دروغ پوہي به هلاک شي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "د دروغو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بې-سزا پاتې شي"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "او پوہي"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "هلاک شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:48.475567121Z",
+  "model": "glm-5.3"
+}

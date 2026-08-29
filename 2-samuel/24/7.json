@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 24:7",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او د صور کلا ته ورسېدل، او د حویانو او کنعانیانو ټولو ښارونو ته؛ او د یهودا سویل ته ووتل، بیرشبع ته.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ورسېدل"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "کلا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حویان"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "کنعانیان"
+    },
+    {
+      "surface": "ויצאو",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تر"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "سویل"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    }
+  ],
+  "timestamp": "2026-08-28T22:50:09.003697883Z",
+  "model": "glm-5.3"
+}

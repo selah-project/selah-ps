@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او ابیګیل ⟨את⟩ عماسا وزېږوله، او د عماسا پلار یِتِر هیِشمعیلی و.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "او ابیګیل"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وزېږوله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عماسا"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "او د…پلار"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عماسا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "هیِشمعیلی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:22.358764236Z",
+  "model": "glm-5.3"
+}

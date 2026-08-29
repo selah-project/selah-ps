@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او له اشر څخه هغه چې پوځ ته وځي، د جګړې د صف-بندۍ لپاره برابر، څلوېښت زره.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "او له اشر څخه"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "هغه چې وځي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "پوځ ته"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "د صف-بندۍ لپاره"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:31.424286283Z",
+  "model": "glm-5.3"
+}

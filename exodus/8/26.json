@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او موشې له پارهع څخه ووت او یاهوه ته یې لارښونه وکړه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "او ووت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "له … څخه"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارهع"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "او لارښونه یې وکړه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:17:12.169317759Z",
+  "model": "glm-5.3"
+}

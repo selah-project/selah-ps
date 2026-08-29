@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زه ستا د وینا په اړه ډېر خوشحاله یم، لکه هغه چې ستر غنیموت پیدا کړي.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "خوشحاله یم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ستا د وینا"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "لکه هغه چې پیدا کړي"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "غنیموت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ستر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:28.879076145Z",
+  "model": "glm-5.3"
+}

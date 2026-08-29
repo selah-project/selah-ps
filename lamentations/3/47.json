@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وېره او زنځیر ⟨شو⟩ زموږ لپاره، ویجاري او ماته.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "او زنځیر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨شو⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ لپاره"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ویجاري"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "او ماته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:19:43.050058316Z",
+  "model": "glm-5.3"
+}

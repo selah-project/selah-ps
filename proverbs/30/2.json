@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ځکه زه له هر نارینه ډېر بې-عقله يم، او د انسان پوهه مې نشته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بې-عقله"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "له نارینه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "לי",
+      "gloss": "لرم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:18.146932231Z",
+  "model": "glm-5.3"
+}

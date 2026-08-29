@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او لامَک خپلې ښځې دوه ونیولې: د یوې نوم عاده و، او د دویمې نوم صیله و.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ونیولې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "خپل"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لامَک"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "نשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "د یوې"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عاده"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "د دویمې"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "صیله"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:15.202873633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "هر سړی، هر سړی د بني-یسرایل له کوره چې غوا يا میږه يا وزه په پناه ځای کې ذبح کړي، يا چې له پناه ځای بهر ذبح کړي،",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "له کوره"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کړي"
+    },
+    {
+      "surface": "שור",
+      "gloss": "غوا"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "میږه"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "وزه"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "په پناه ځای کې"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کړي"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "له پناه ځای"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:15.856189361Z",
+  "model": "glm-5.3"
+}

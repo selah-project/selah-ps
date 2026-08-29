@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او لاوِيان به ځواب ووایي او به هر اسرائیلي سړي ته په لوړ غږ ووایي:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "او به ځواب ووایي"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوِيان"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "او به ووایي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلي"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "لوړ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:53.508978876Z",
+  "model": "glm-5.3"
+}

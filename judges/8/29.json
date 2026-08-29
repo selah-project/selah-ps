@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او یِروبعل، زوی یواش، ولاړ او په خپل کور کې مېشت شو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "یِروبعل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یواش"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "مېشت شو"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "په خپل کور کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:25:49.255311740Z",
+  "model": "glm-5.3"
+}

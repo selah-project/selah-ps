@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ټول شا ته وګرځېدل، يوځای کرغړن شول؛ هېڅ ښه کوونکی نشته — نشته، حتی يو نه.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "סר",
+      "gloss": "شا ته وګرځېدل"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يوځای"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "کرغړن شول"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوونکی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:40.592261727Z",
+  "model": "glm-5.3"
+}

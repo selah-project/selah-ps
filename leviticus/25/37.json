@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "خپله سپين زر ⟨את⟩ به يې نه ورکوې په سود، او په ګټه به خپل خواړه نه ورکوې.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله سپين زر"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "خپله سپين زر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "به ورکوې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "په سود"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "او په ګټه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "به ورکوې"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "خپل خواړه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:13.911686930Z",
+  "model": "glm-5.3"
+}

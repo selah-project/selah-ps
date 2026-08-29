@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "چې په پټو ځایونو کې پر نيک سړي وويشي؛ ناڅاپي يې وېشي او نه وېريږي.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "چې وويشي"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "په پټو ځایونو کې"
+    },
+    {
+      "surface": "תם",
+      "gloss": "نيک سړي"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناڅاپي"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "يې وېشي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "وېريږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:04.776730573Z",
+  "model": "glm-5.3"
+}

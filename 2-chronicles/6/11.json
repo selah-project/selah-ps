@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ما هلته ⟨את⟩ صندوق کېښود چې هلته د یاهوه تړون دی، چې يې له اسرائیل له زامنو سره جوړ کړ.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "او ما ... کېښود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "جوړ کړ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:43.134834274Z",
+  "model": "glm-5.3"
+}

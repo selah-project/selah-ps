@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "لکه څنګه چې هوسۍ د اوبو پر سیندونوږغږي، همداسې زما نَفش دې تهږغږي، ای الوهیم.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "لکه هوسۍ"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ږغږي"
+    },
+    {
+      "surface": "عל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "سیندونه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نَفش"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ږغږي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:38.578411025Z",
+  "model": "glm-5.3"
+}

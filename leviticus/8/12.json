@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه له مسح تېلو څخه پر اهرون سر وټومبو، او هغه يې مسح کړ، چې سپېڅلی يې کړي.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "وټومبو"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "له تېلو"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "د مسح"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "مسح کړ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (اهرون)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "چې سپېڅلی يې کړي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:37:53.636035778Z",
+  "model": "glm-5.3"
+}

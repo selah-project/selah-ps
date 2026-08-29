@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "یو شاهد به پر ضد یو سړی نه ولاړ شي، د هر ګناه او د هر خطا لپاره، په هر هغه ګناه چې يې كوي — د دوه شاهدانو په خوله يا د دریو شاهدانو په خوله به خبره ثابته شي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "به ولاړ شي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "پر سړي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "او د هر"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "خطا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "يكوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدانو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "دریو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدانو"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "به ثابته شي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:15.392983891Z",
+  "model": "glm-5.3"
+}

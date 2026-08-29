@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او هلته د داوېد سره درې ورځې پاتې شول، خوړل او څښل يې، ځکه چې د دوی وروڼو ورته چمتو کړي وو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او پاتې شول"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "עם",
+      "gloss": "د ... سره"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "خوړل"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "او څښل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "چمتو کړي وو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "د دوی وروڼو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:31.424821109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او د دې په واسطه به ناپاکه شئ: هر څوک چې د دوی مړی وليږي، تر ماښام پورې به ناپاکه وي.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "او د دې په واسطه"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "ناپاکه شئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څوک"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "چې وليږي"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "د دوی مړی"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاکه وي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ماښام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:24.402664127Z",
+  "model": "glm-5.3"
+}

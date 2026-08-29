@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د یاهوه فرښته یهوشواع ته ګواهي ورکړه، ویل:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "او ګواهي يې ورکړه"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرښته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "یهوشواع ته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:30.520870847Z",
+  "model": "glm-5.3"
+}

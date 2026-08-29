@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د شیول لارې د هغې کور دی — د مړینې خونو ته راټیټېدونکې.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "د شیول"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "د هغې کور"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "راټیټېدونکې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "خونو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مړینې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:37.138171606Z",
+  "model": "glm-5.3"
+}

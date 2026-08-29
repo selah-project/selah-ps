@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "څوک د يو ايل جوړ کړی، او يو رېژل شوی بت، چې هېڅ ګټه ونه کړي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوړ کړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د يو ايل"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "او يو بت"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "رېژل شوی"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "چې هېڅ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ګټه ونه کړي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:35.852858728Z",
+  "model": "glm-5.3"
+}

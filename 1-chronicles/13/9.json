@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او هغوی د کیدون کڼلو ته ورسېدل، او عُزا ⟨את⟩ خپل لاس وغځاوه چې ⟨את⟩ صندوق ونیسي، ځکه چې غواوې تلپېدې.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ورسېدل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "کڼلو"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "د کیدون"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وغځاوه"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل لاس"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "چې ونیسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "تلپېدې"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "غواوې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:00.801364433Z",
+  "model": "glm-5.3"
+}

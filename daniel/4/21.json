@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "دا د پاچا پیشنه ده، او دا د علیا فرمان دی، چې زما آقا پاچا پرې راغلی ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "پیشنه"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "او فرمان"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "علیا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "زما آقا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:19.217589326Z",
+  "model": "glm-5.3"
+}

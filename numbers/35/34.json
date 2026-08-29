@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 35:34",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او مه يې ناپاکوئ ⟨את⟩ هغه ځمکه چې تاسو په کې اوسېږئ، چې زه يې په منځ کې اوسم، ځکه زه یاهوه یم، چې د بني-یسرایل په منځ کې اوسم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "ناپاکوئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "اوسېږئ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "اوسم"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "په منځ کې يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "اوسم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "-یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:38.499340197Z",
+  "model": "glm-5.3"
+}

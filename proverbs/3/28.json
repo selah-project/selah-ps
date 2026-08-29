@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "مه وايې خپل ملګري ته: «شه او بېرته راشه، او سبا به درکړم» — کله چې دا ⟨את⟩ ستا سره وي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "وایه"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "خپل ملګري ته"
+    },
+    {
+      "surface": "לך",
+      "gloss": "شه"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "او بېرته راشه"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "او سبا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "به درکړم"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ستا سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:55.032158450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 23:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او یاحت ⟨وو⟩ مشر او زیزه دویم؛ خو یعوش او بریعه ډېر زامن نه لرل، نو دوی د یوه پلار کور په یوه شمېرنې کې وو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاحت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "וזיזה",
+      "gloss": "او زیزه"
+    },
+    {
+      "surface": "השني",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "او یعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "او بریعه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "ډېر کړل\/لرل"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "نو وو\/شول"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "לפקדה",
+      "gloss": "په شمېرنې"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:26.808158560Z",
+  "model": "glm-5.3"
+}

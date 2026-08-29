@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د ګَزام زامن، د عُزا زامن، د پَسِح زامن،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ګَزام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پَسِح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:44.983045866Z",
+  "model": "glm-5.3"
+}

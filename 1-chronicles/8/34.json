@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د یهوناتان زوی مریب-بعل و، او مریب-بعل ⟨את⟩ میخا وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "او د... زوی"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یهوناتان"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مریب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "او مریب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میخا"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میخا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:30.201889267Z",
+  "model": "glm-5.3"
+}

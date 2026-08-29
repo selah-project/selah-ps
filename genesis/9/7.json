@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او تاسو، مېوه وکړئ او ډېر شئ؛ په ځمکه کې ډېر-ډېر شئ او په کې ډېر شئ.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "او تاسو"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "مېوه وکړئ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "او ډېر شئ"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ډېر-ډېر شئ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "او ډېر شئ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:11.805638563Z",
+  "model": "glm-5.3"
+}

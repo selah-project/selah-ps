@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "یاهوه ⟨دی⟩ د جګړې مرد، یاهوه ⟨دی⟩ د هغه نوم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:51.961821709Z",
+  "model": "glm-5.3"
+}

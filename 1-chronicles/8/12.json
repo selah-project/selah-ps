@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د الفعال زامن: عېبِر او مېشعم او شامېد — هغه ⟨את⟩ اونو او ⟨את⟩ لود او د هغې کلي يې جوړ کړل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د زامن"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "الفعال"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عېبِر"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "او مېشعم"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "او شامېد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اونو"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "اونو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "لود"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "او د هغې کلي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:35.179971488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 28:16",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "نو ځکه داسې وايي یاهوه: زه تا له ځمکې مخې څخه لرې استولم؛ دا کال به مري، ځکه چې تا د بغاوت خبره پر یاهوه کړې ده.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو ځکه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "משלחך",
+      "gloss": "تا استولم"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "لرې له"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "دا کال"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مري"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "خبره کړې ده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:27.442621931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 24:14",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "لکه څنګه چې د پخواني متل وايي: له شریرانو شرورت راوزي — خو زما لاس به پر تا نه وي.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "משל",
+      "gloss": "متل"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "د پخواني"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "له شریرانو"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "راوزي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرورت"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "خو زما لاس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "پر تا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:38:10.744219506Z",
+  "model": "glm-5.3"
+}

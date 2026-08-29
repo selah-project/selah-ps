@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 40:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او د بادارانو مشر چې ولیدل چې حلونه ښه ده، نو یوسف ته يې وویل: زه هم په خپله خوب کې وم — او ګوره چې درې سپين رښتۍ ټوکرۍ زموږ پر سر وې.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "چې ولیدل"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "د بادارانو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "حلونه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "په خپله خوب کې"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ګوره چې"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ټوکرۍ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "سپين رښتۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:09.128922460Z",
+  "model": "glm-5.3"
+}

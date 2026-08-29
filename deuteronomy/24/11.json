@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "بهر ودریږه، او هغه سړی چې ته پرې پور ورکوې، به ⟨את⟩ ګرو دې ته بهر راوباسي.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ودریږه"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "او هغه سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "پور ورکوې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "به راوباسي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګرو"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "ګرو"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "بهر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:06.146483607Z",
+  "model": "glm-5.3"
+}

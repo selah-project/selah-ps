@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او پاچا پر ابنر ویر وکړ او ویې ویل: لکه د نابال مړینه، ابنر مړ شي؟",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "ویر یې وکړ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ابنر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "لکه د مړینې"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مړ شي"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ابنر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:00.566265961Z",
+  "model": "glm-5.3"
+}

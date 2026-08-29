@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 2:16",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د زورورو تر منځ د زړه مټ به بره وتښتي په هغه ورځ — د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "ואמיץ",
+      "gloss": "او مټ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "בגבורים",
+      "gloss": "د زورورو تر منځ"
+    },
+    {
+      "surface": "ערوם",
+      "gloss": "بره"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "وتښتي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:13:28.978249549Z",
+  "model": "glm-5.3"
+}

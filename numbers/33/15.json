@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د رفیدیم څخه وخوځېدل او د سینا په بېدیا کې پډاله وکړه.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "او وخوځېدل"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "د رفیدیم څخه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "او پډاله وکړه"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بېدیا کې"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:09.026023333Z",
+  "model": "glm-5.3"
+}

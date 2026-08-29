@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 16:8",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د پلشتینو سردارانو هغې ته اووه تازه تارونه راوړل چې نه وو وچ شوي، او هغه په هغو وتړه.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "راوړل"
+    },
+    {
+      "surface": "לה",
+      "gloss": "هغې ته"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "سردارانو"
+    },
+    {
+      "surface": "پלשתים",
+      "gloss": "د پلشتینو"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "יתרים",
+      "gloss": "تارونه"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "تازه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "وچ شوي"
+    },
+    {
+      "surface": "ותאסרהו",
+      "gloss": "وتړه هغه"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په هغو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:28:42.791849455Z",
+  "model": "glm-5.3"
+}

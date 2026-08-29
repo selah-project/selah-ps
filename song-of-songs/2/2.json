@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "لکه شوڼۍ چې د خارونو ترمنځ وي، همداسې زما مینه واله د لوڼو ترمنځ ده.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "لکه شوڼۍ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ترمنځ"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "خارونه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "زما مینه واله"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ترمنځ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "لوڼې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:33.808151877Z",
+  "model": "glm-5.3"
+}

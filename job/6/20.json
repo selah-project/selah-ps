@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "شرمېدل چې باوري وو؛ تر هغه ځایه راغلل او شرمندې شول.",
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "شرمېدل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "باوري وو"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "تر هغه ځایه"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "او شرمندې شول"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:09.580512463Z",
+  "model": "glm-5.3"
+}

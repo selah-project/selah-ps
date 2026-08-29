@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "اشور هم له دوی سره یوځای شو، د لوت د زامنو لپاره ⟪زroea⟫ زراعه (بازو) شو. سېلا.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "یوځای شو"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "له دوی سره"
+    },
+    {
+      "surface": "היו",
+      "gloss": "شو"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "زراعه (بازو)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو لپاره"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:30.728396194Z",
+  "model": "glm-5.3"
+}

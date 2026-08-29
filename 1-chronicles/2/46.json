@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او عیفه، د کالِب پیلګش، ⟨את⟩ حاران او ⟨את⟩ موتسا او ⟨את⟩ ګازاز وزېږول، او حاران ⟨את⟩ ګازاز پیدا کړ.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "او عیفه"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "پیلګش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حاران"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "حاران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "موتسا"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "موتسا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ګازاز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ګازاز"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "او حاران"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پیدا کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګازاز"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ګازاز"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:32.250303043Z",
+  "model": "glm-5.3"
+}

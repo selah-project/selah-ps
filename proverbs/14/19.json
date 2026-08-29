@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "بدان د نېکانو مخې ته ټیټ شوي، او بدکاران د صالح د دروازو مخې ته.",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "ټیټ شوي"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې ته"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "نېکان"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "او بدکاران"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر\/د مخې ته"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "د دروازو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:42.607496041Z",
+  "model": "glm-5.3"
+}

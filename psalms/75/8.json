@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 75,
+  "translation": "بلکې الوهیم ⟨دی⟩ قاضي؛ دا یو ⟨ټیټوي⟩ او هغه بل ⟨لوړوي⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "قاضي ⟨دی⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا یو"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ټیټوي"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "او هغه بل"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "لوړوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:43.198883292Z",
+  "model": "glm-5.3"
+}

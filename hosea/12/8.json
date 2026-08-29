@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "کنعان! په لاس کې يې د درغلۍ ترازوې دي؛ ځورول يې خوښ دي.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "په لاس کې يې"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "ترازوې"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "د درغلۍ"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "ځورول"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خوښ دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:11:32.486287009Z",
+  "model": "glm-5.3"
+}

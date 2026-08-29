@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 18:6",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او کاهن ورته وویل: په سوله ولاړ شئ؛ د یاهوه پر وړاندې ستاسو لار ده چې تاسو پکې ځئ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویل يې وو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ولاړ شئ"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "په سوله"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרככם",
+      "gloss": "ستاسو لار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ځئ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پکې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:28:30.892743522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او یو د وزو نره، د ګناه قرباني، چې پر تاسو يې کفاره وکړي؛",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "او نره"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "د وزو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "د ګناه قرباني"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "چې کفاره وکړي"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "پر تاسو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:50.104899735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زه به وېرېږم له لسګونو زرو خلکو، چې شاوخوا مې پر ځان برید ته درېدلي دي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "زه به وېرېږم"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "له لسګونو زرو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلکو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "شاوخوا"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "درېدلي دي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما پر ضد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:52.385605662Z",
+  "model": "glm-5.3"
+}

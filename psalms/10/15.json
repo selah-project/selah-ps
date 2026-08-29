@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د بدکار او بد کار زړه ماته کړه؛ د هغه د بدکارۍ پسې وګوره — هېڅ به يې ونه مومې.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ماته کړه"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "د بدکار"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "او بد"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "د هغه د بدکارۍ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "به ونه مومې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:34.167125552Z",
+  "model": "glm-5.3"
+}

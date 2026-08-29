@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او هغوی مخ وواړاوه او غر ته پورته شول او د ایشکول درې ته ورسېدل او ⟨את⟩ هغه وڅېړله.",
+  "tokens": [
+    {
+      "surface": "ופנו",
+      "gloss": "مخ وواړاوه"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "پورته شول"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "غر ته"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ورسېدل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "ایشکول"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "وڅېړله"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (ځمکه)"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:32.868268006Z",
+  "model": "glm-5.3"
+}

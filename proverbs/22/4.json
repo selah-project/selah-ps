@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د عاجزۍ بدل د یاهوه وېره ده — شتمني، عزت او ژوند.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "بدل\/پايله"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزۍ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "او عزت"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "او ژوند"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:34.788656270Z",
+  "model": "glm-5.3"
+}

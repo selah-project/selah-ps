@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او ⟨את⟩ حوریان په دوی خپلو غرونو کې د سعیر، تر ایل فاران پورې، چې د صحرا په څنډه دی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حوریان"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوریان"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "په دوی خپلو غرونو کې"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر … پورې"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "فاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "په څنډه"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "د صحرا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:15.251592674Z",
+  "model": "glm-5.3"
+}

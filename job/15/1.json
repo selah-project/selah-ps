@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او الیفاز تیماني ځواب وواژه او ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "او ځواب يې وواژه"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "الیفاز"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "تیماني"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:56.683345144Z",
+  "model": "glm-5.3"
+}

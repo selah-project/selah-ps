@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د بیت عزموت سړو څلوېښت او دوه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "سړو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د بیت"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عزموت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:26.059503132Z",
+  "model": "glm-5.3"
+}

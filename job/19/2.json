@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 19:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "تر کله زما نفس له منځه وړئ او په خبرو مې مېږئ؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کله"
+    },
+    {
+      "surface": "תוגיון",
+      "gloss": "له منځه وړئ"
+    },
+    {
+      "surface": "نפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "ותדכאונני",
+      "gloss": "مې مېږئ"
+    },
+    {
+      "surface": "במלים",
+      "gloss": "په خبرو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:50.960982445Z",
+  "model": "glm-5.3"
+}

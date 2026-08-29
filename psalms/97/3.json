@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 97,
+  "translation": "اور ←د ←ده ←مخې ←ته ←ورځي ← او ←چاپېر ←د ←ده ←دوښمنان ←تاووي ←.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "←د ←ده ←مخې ←ته"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ورځي"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "او ←تاووي"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "←د ←ده ←دوښمنان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:13.162166005Z",
+  "model": "glm-5.3"
+}

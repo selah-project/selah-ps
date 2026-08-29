@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یَرَحمییل بله ښځه درلوده، او د هغې نوم عطاراه و؛ هغه د اونام مور وه.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "وه\/درلوده"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "بله"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "یَرَحمییل ته (د هغه)"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "او د هغې نوم"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "عطاراه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مور"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اونام"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:33.847630361Z",
+  "model": "glm-5.3"
+}

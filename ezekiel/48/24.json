@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او د بینیامین د پولې پر سر، له ختیځې خوا څخه تر لوېدیځې خوا پورې — شمعون یوه برخه.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پولې"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "د بینیامین"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له خوا"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ختيځې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لوېدیځې"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه (برخه)"
+    }
+  ],
+  "timestamp": "2026-08-29T00:09:16.447188748Z",
+  "model": "glm-5.3"
+}

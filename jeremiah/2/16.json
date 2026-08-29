@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "همداراز د نوف او تخپنېس زامنو ستا د سر فرښکه وڅرله.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همداراز"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "נף",
+      "gloss": "نوف"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "او تخپنېس"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "وڅرله"
+    },
+    {
+      "surface": "قדقד",
+      "gloss": "د سر فرښکه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:28:58.976922479Z",
+  "model": "glm-5.3"
+}

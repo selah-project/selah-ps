@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او بوعز ⟨את⟩ عوبید وزېږاوه، او عوبید ⟨את⟩ يشای وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "او بوعز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبید"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "او عوبید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يشای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "يشای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:11.754056586Z",
+  "model": "glm-5.3"
+}

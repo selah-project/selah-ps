@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او لابان هغه ته يې نوم «يګر-سهدوتا» کېښود، خو یعقوب هغه ته «ګلعید» ونومول.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ونومول"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "يګر"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "سهدوتا"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "او یعقوب"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ونومول"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګلعید"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:23.930349917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "⟨ال⟩ اِمیم پخوا پکې اوسېدل — لوی او ډېر او اوږدقد قوم، د عَناقیانو په څېر.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "اِمیم"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پخوا"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "اوسېدل"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "او ډېر"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "او اوږدقد"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "د عَناقیانو په څېر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:58.477559980Z",
+  "model": "glm-5.3"
+}

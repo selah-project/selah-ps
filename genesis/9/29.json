@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ټول د نوح ورځې نولس سوه او پنځوس کاله وې، او هغه مړ شو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ووې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د … ورځې"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نولس"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "او پنځوس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:38.996319597Z",
+  "model": "glm-5.3"
+}

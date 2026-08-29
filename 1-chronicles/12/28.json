@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او یهویاداع، د اهرون مشر، او ورسره درې زره او اووه سوه وو.",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "او یهویاداع"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "د اهرون"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "او ورسره"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "او اووه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:08.588824735Z",
+  "model": "glm-5.3"
+}

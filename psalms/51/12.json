@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ای الوهیم، په ما کې پاک زړه پیدا کړه، او په زړه کې مې سم روح نوی کړه.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "پیدا کړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "په ما کې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او روح"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "سم"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوی کړه"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "په زړه کې مې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:08.822349855Z",
+  "model": "glm-5.3"
+}

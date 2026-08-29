@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او که دا درې يې ورسره ونه کړي، نو هغه به بې لګښت واوړي — بې پیسو.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ونه کړي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورسره يې"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "واوړي\/ووځي"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بې لګښت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بې"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "پیسو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:08.688872754Z",
+  "model": "glm-5.3"
+}

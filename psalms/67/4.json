@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 67,
+  "translation": "ملتونه دې وستايي، ای الوهیم؛ ملتونه دې ټول وستايي.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "دې وستايي"
+    },
+    {
+      "surface": "عמים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "دې وستايي"
+    },
+    {
+      "surface": "عמים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:24.219500599Z",
+  "model": "glm-5.3"
+}

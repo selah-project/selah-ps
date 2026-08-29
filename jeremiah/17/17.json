@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "زما لپاره د تباهۍ په توګه مه شه؛ ته زما پناه يې د بدۍ په ورځ دې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "شه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "د تباهۍ په توګه"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "زما پناه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "د بدۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:26.148252101Z",
+  "model": "glm-5.3"
+}

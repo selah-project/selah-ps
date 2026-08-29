@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او پاچا عاماسا ته وویل: زما لپاره ⟨את⟩ د یهودا سړي درې ورځې کې راوباله، او ته دې دلته ودریږه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "عاماسا"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "راوباله"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یهودا سړي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ودریږه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:48:59.669062489Z",
+  "model": "glm-5.3"
+}

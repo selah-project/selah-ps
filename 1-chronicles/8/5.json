@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ګېرا، او شېفوفان، او حورام.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "او ګېرا"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "او شېفوفان"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "او حورام"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:00.927373303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "⟨את⟩ مېز او ⟨את⟩ مېزنې لښکې يې او ⟨את⟩ ټول سامان يې او ⟨את⟩ د مخې ډوډۍ",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مېز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "مېز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "مېزنې لښکې يې"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "مېزنې لښکې يې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ټول سامان يې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "سامان يې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د مخې ډوډۍ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "د مخې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:26:14.101515006Z",
+  "model": "glm-5.3"
+}

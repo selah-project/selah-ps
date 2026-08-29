@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د ⟨the⟩ کور د مخې ته يې دوه ستونې جوړې کړې، د دېرش پنځه امونه اوږدوالی، او هغه ستنه چې پر سر يې وه — پنځه امونه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او هغه جوړې کړې"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې ته"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "ستونې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "امونه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اوږدوالی"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "او هغه ستنه (چپتر)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سر يې"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "امونه"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:12.897964839Z",
+  "model": "glm-5.3"
+}

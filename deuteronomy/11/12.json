@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "هغه ځمکه چې یاهوه ستا الوهيم يې ⟨את⟩ تل پوښتي؛ د یاهوه ستا الوهيم سترګې پرې دي تل، د کال له پيله تر د کال تر پایه.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهيم"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "پوښتي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "يې (هغه ځمکه)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهيم"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "له پيله"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "د کال"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پایه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "د کال"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:05.221341038Z",
+  "model": "glm-5.3"
+}

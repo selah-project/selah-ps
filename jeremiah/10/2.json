@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 10:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "داسې وايي یاهوه: د ملتونو لار مه زده کوئ، او د اسمانونو له نښو مه وارخطا کېږئ، ځکه ملتونه ترې وارخطا کېږي.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "د ملتونو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תלמדו",
+      "gloss": "زده کوئ"
+    },
+    {
+      "surface": "ומאתות",
+      "gloss": "او له نښو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "د اسمانونو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "وارخطا کېږئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "وارخطا کېږي"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "مהמה",
+      "gloss": "ترې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:39.306139647Z",
+  "model": "glm-5.3"
+}

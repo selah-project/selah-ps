@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 10:14",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او څلور مخونه وو د هر یو: د لومړي مخ د کروب مخ، د دویم مخ د انسان مخ، او د درېيم مخ د زمري مخ، او د څلورم مخ د عقاب مخ.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخونه"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "د هر یو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "لومړی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "او مخ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "והשלישי",
+      "gloss": "او درېيم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "زمري"
+    },
+    {
+      "surface": "והרביעי",
+      "gloss": "او څلورم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "عقاب"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:59.747486238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 118,
+  "translation": "ډبره چې ودانووونکو پېسه کړه، د کونجې ⟨the⟩ سر وګرځېده.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "پېسه کړه"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "ودانووونکو"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وګرځېده"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "کونجې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:13.039759792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 23:33",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "په مستي او غم به ډکه شې — د هېبتۍ او ويجاړۍ پیاله، د خور شمرون پیاله.",
+  "tokens": [
+    {
+      "surface": "שכרון",
+      "gloss": "مستي"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "او غم"
+    },
+    {
+      "surface": "תמלאי",
+      "gloss": "به ډکه شې"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "پیاله"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هېبتۍ"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "او ويجاړۍ"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "پیاله"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "د خور"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرون"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:13.662071150Z",
+  "model": "glm-5.3"
+}

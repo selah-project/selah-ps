@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 3:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "نه ډېرو قومونو ته، چې د شونډو ژور او د ژبې دراندي لري، چې ته يې خبرې نه اورې؛ که هغوی ته دې استولی وای، هغوی به تا ته غوږ نيولی وای.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومونو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرو"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ژور"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "شونډو"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "او دراندي"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "اورې"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "خبرې يې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "هغوی ته"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "دې استولی وای"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "اورېدل به"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:58:42.211191886Z",
+  "model": "glm-5.3"
+}

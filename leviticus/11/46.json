@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "دا د څاروي، د الوتونکو، او د هرې ژوندې نفس چې په اوبو کې خزېږي، او د هرې نفس چې پر ځمکه خزنده ده، شریعت دی.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "د څاروي"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "او د الوتونکو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ژوندې"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "خزېدونکې"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو کې"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:40.665489425Z",
+  "model": "glm-5.3"
+}

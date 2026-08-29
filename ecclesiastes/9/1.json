@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 9:1",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځکه چې ما دا ټول ⟨את⟩ زړه ته ورسپاره او دا ټول ⟨את⟩ وپلټله، چې صالحان او حکیمان او د دوی کارونه د الوهیم په لاس کې ⟨دي⟩ — که مینه که کرکه، انسان ⟨يې⟩ نه پېژني؛ ټول د دوی له مخې ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "نתתי",
+      "gloss": "ورسپاره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "ולבור",
+      "gloss": "او وپلټله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "صالحان"
+    },
+    {
+      "surface": "והחכמים",
+      "gloss": "او حکیمان"
+    },
+    {
+      "surface": "ועבדיהם",
+      "gloss": "او د دوی کارونه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "مینه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "که"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "کرکه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "د دوی له مخې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:40.168226966Z",
+  "model": "glm-5.3"
+}

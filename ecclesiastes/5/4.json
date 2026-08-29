@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ښه دا ده چې نذر و نه کړې، له دې چې نذر وکړې او يې نه ورکوې.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذر وکړې"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "له دې چې نذر وکړې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ورکوې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:53.793994952Z",
+  "model": "glm-5.3"
+}

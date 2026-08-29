@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "وګوره! نن زما ستا دمخې ایښي دي ⟨את⟩ ژوند او ⟨את⟩ ښېګڼه، او ⟨את⟩ مرګ او ⟨את⟩ بدۍ —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "زما ایښي دي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ستا دمخې"
+    },
+    {
+      "surface": "היوم",
+      "gloss": "نن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژوند"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ښېګټه"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ښېګټه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مرګ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مرګ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بدې"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بدې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:33.415766269Z",
+  "model": "glm-5.3"
+}

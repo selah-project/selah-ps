@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "هم ملکې وَشتي د ښځو لپاره مېلمستیا جوړه کړه، د پاچاهۍ په ماڼۍ کې چې د اهشوروش پاچا وه.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "وَشتي"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکې"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "جوړه کړه"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "مېلمستیا"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "په ماڼۍ کې"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "پاچاهۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "اهشوروش"
+    }
+  ],
+  "timestamp": "2026-08-29T01:26:23.286907571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 34:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "خو ته، اے د یهودا پاچا صدقیاهو، د یاهوه خبره واوره! دا وايي یاهوه د ستا په اړه: ته به په توره نه مړې.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صدقیاهو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "دا وايي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویلي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "د ستا په اړه"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "به مړې"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "په توره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:42:39.563634735Z",
+  "model": "glm-5.3"
+}

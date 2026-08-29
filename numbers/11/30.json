@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "موشې ستون شو پوځ ته — هغه او د یسرایل زاړه مشران.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ستون شو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "او زاړه مشران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:18.551482244Z",
+  "model": "glm-5.3"
+}

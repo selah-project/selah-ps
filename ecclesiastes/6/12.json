@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 6:12",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه څوک پوهېږي چې ادم ته څه ښه دي په ژوند کې، د هغه د هېبېل-ژوند د ورځو په شمېر کې، چې هغه یې لکه سیوري تېروي؟ څوک ادم ته وايي چې تر ده وروسته به څه وي، تر لمر لاندې؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ادم ته"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "په ژوند"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "په شمېر"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "הבלו",
+      "gloss": "د هېبېل"
+    },
+    {
+      "surface": "ויעשם",
+      "gloss": "تېروي یې"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "لکه سیوري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "وایي"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ادم ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "تر ده وروسته"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر لاندې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:29.193672147Z",
+  "model": "glm-5.3"
+}

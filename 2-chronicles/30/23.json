@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او ټولې ټولنې مشوره وکړه چې نورې اووه ورځې وکړي، نو نوې اووه ورځې یې په شادۍ وکړې.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "او مشوره یې وکړه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ټولنې"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې وکړي"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "نورې\/بلې"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "او کړې یې"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "په شادۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:09:51.728666903Z",
+  "model": "glm-5.3"
+}

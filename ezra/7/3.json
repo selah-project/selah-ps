@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د اَمَریا زوی، د عَزَریا زوی، د مَرایوت زوی،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "اَمَریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مَرایوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:37:55.923920382Z",
+  "model": "glm-5.3"
+}

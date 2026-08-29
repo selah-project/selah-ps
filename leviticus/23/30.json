@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او هر هغه جان چې په همدغه ورځ کوم کار وکړي، زه به هغه ⟨את⟩ جان د خپل قوم له منځه هلاک کړم.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "وکړي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "په همدغه"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همدغه"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "زه به هلاک کړم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه جان"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "له منځه"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "د خپل قوم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:25.674843719Z",
+  "model": "glm-5.3"
+}

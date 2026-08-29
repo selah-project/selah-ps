@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "یاهوه مې ژغوري؛ نو زموږ د ژوند ټول ورځې به زما سندرې د یاهوه په کور کې وغږوو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "مې ژغوري"
+    },
+    {
+      "surface": "ונגנותי",
+      "gloss": "زما سندرې"
+    },
+    {
+      "surface": "ננגן",
+      "gloss": "وغږوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "חיינו",
+      "gloss": "زموږ د ژوند"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:48.069981817Z",
+  "model": "glm-5.3"
+}

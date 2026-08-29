@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 90,
+  "translation": "لمنځه د موشې (موسیٰ)، د الوهیم د سړي. ادونای، ته زموږ مېشت-ځای وې، په نسل او نسل کې.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "لمنښه"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "د موشې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مېشت-ځای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وې"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "په نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "او نسل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:47.506950362Z",
+  "model": "glm-5.3"
+}

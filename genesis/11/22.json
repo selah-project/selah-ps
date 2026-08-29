@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او سروګ دېرش کاله ژوند وکړ، او ⟨את⟩ ناحور يې وزېږوه.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "سروګ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "يې وزېږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:01.595187225Z",
+  "model": "glm-5.3"
+}

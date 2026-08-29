@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځوانانو ټیږونه (له لاسه رنده) پورته کړل، او هلکان د لرګیو لاندې ولوېدل.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ځوانانو"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "ټیږونه"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "پورته کړل"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "او هلکان"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "د لرګیو لاندې"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ولوېدل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:12.536853480Z",
+  "model": "glm-5.3"
+}

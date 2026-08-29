@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ای الوهیم، ⟨את⟩ یِسرایل له ټولو تنډلیو څخه خلاص کړه.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "خلاص کړه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرایل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "צרوتיו",
+      "gloss": "تنډلیو څخه يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:32.921626106Z",
+  "model": "glm-5.3"
+}

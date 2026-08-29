@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨په⟩ سهار وچلېدل چې قوم میدان ته ووتل، او ابیملخ ته يې وویل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وچلېدل"
+    },
+    {
+      "surface": "مמחרת",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان ته"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "לאבימلך",
+      "gloss": "ابیملخ ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:25:56.506815401Z",
+  "model": "glm-5.3"
+}

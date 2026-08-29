@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زه د هغوی ملګری یم چې تا وېرېږي، او ستا پکود ساتونکو سره.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "ملګری"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "تا وېرېږي"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "او ساتونکو سره"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ستا پکود"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:01.512865085Z",
+  "model": "glm-5.3"
+}

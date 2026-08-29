@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د هغه لښکر او د هغوی شمېرل شوی کسان پنځه دېرش زره او څلور سوه وو.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "او د هغه لښکر"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "او د هغوی شمېرل شوی کسان"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:36.266358246Z",
+  "model": "glm-5.3"
+}

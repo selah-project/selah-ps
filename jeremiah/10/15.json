@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "باطل دي هغوی، د درغلۍ کار ⟨دی⟩؛ د هغوی د پلټنې په وخت کې به هلاک شي.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "د درغلۍ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "پקדתם",
+      "gloss": "د هغوی د پلټنې"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "هلاک شي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:06.200944148Z",
+  "model": "glm-5.3"
+}

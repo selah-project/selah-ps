@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او داوېد يوآب ته واستوله: «ما ته ⟨את⟩ اوریا هېټي راولېږه.» او يوآب ⟨את⟩ اوریا داوېد ته واستوله.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وواستوله"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "راولېږه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریا هېټي"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "هېټي"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وواستوله"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوریا"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "اوریا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:01.861666140Z",
+  "model": "glm-5.3"
+}

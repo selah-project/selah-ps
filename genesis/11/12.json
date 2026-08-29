@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او ارفکشاد پنځه دېرش کاله ژوند وکړ، او ⟨את⟩ شالاخ يې وزېږوه.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "او ارفکشاد"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "يې وزېږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالاخ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شالاخ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:06.027743986Z",
+  "model": "glm-5.3"
+}

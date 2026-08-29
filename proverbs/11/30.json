@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د صالح ثمره د ژوند ونه ده، او څوک چې ⟨את⟩ ځانونه اخلي حکیم دی.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ثمره"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "او اخلوونکی"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "ځانونه"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:24.420138615Z",
+  "model": "glm-5.3"
+}

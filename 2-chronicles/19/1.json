@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او یهوشافاط، د یهودا پاچا، په سولې سره خپل کور ته، یروشلایم ته راستون شو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "راستون شو"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافاط"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خپل کور"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "په سولې سره"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:22.978830025Z",
+  "model": "glm-5.3"
+}

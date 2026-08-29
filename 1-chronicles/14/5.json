@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او یِبهار، او اِلیشوع، او اِلپالېت.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "او یِبهار"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "او اِلیشوع"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "او اِلپالېت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:44.805419829Z",
+  "model": "glm-5.3"
+}

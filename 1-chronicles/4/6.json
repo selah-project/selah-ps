@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او نعره هغه ته يې وزېږول ⟨את⟩ اخوزام، او ⟨את⟩ حېفر، او ⟨את⟩ تېمني، او ⟨את⟩ هاخشتاري؛ دا د نعره زامن وو.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "او وزېږول"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "نعره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخوزام"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "اخوزام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حېفر"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "حېفر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "تېمني"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "تېمني"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "او ⟨את⟩",
+      "marks": "هاخشتاري"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "هاخشتاري"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "د نعره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:03.299492935Z",
+  "model": "glm-5.3"
+}

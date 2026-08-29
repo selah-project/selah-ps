@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "همداسې به ⟨ته⟩ نبي ته وایې: «څه درته ځواب کړی یاهوه، او څه ویلي دي یاهوه؟»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "به وایې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ته⟩"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "درته ځواب کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویلي دي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:37:54.523673127Z",
+  "model": "glm-5.3"
+}

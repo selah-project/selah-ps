@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "زه به هغسې نه کوئ څنګه چې موږ دلته نن کوو — هر سړی هر څه چې په خپلو سترګو سمه ښکاري.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "به کوئ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "هغسې لکه ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کوو"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سمه ښکاري"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په خپلو سترګو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:28.029516263Z",
+  "model": "glm-5.3"
+}

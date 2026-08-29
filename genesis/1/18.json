@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او چې پر ورځ او پر شپه واک وچلوي، او رڼا له تیارې بېلوي؛ او الوهیم ولید چې ښه ده.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "او چې واک وچلوي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "پر ورځ"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "او پر شپه"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "او بېلوي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "له"
+    },
+    {
+      "surface": "האור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "له"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "تیارې"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "او ولید"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:48.847091471Z",
+  "model": "glm-5.3"
+}

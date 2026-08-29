@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "نو انسان چې چينجی دی څومره لا کم، او د آدم زوی چې يوه لولۍ ده!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "نو ... لا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "چينجی"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "او زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "لولۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:35.669457106Z",
+  "model": "glm-5.3"
+}

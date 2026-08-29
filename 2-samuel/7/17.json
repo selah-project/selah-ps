@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د دې ټولو خبرو او د دې ټول لیدنې له مخې، همداسې ناتان له داوېد سره وویل.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "د ټولو له مخې"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "او د ټول"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "لیدنې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:20.821230431Z",
+  "model": "glm-5.3"
+}

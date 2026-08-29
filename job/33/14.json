@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ځکه چې الوهیم ⟨is⟩ یو ځل خبرې کوي، او په دویم ځل يې ⟨هغه⟩ نه ګوري.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "یو ځل"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "په دویم ځل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "ګوري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:04.568006459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "هغه په خپل زړه کې وویل: ایل هېر کړی، هغه خپل مخ پټ کړی، هېڅکله به يې نه ویني.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "په خپل زړه کې"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "هېر کړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "پټ کړی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هېڅکله"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "نه ویني"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "به يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:41.547306598Z",
+  "model": "glm-5.3"
+}

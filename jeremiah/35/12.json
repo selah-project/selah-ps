@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "بیا د یاهوه خبره یرمیاوه ته راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بیا وڅرګنده چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:42:29.103012509Z",
+  "model": "glm-5.3"
+}

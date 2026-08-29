@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او شُپیم او حُپیم د عیر زامن وو؛ حُشیم د اَحیر زامن.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "او شُپیم"
+    },
+    {
+      "surface": "وחפם",
+      "gloss": "او حُپیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د ... زامن"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حُشیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د ... زامن"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "اَحیر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:47.769780992Z",
+  "model": "glm-5.3"
+}

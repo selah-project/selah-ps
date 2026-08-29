@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "ځکه چې څوک دی الوه د یاهوه پرته؟ او څوک دی ډبره زموږ الوهیم پرته؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک دی"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "پرته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک دی"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "پرته"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:18.627606805Z",
+  "model": "glm-5.3"
+}

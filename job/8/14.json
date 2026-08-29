@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 8:14",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "چې د هغه باور پرېکېل شي، او د هغه پناه د مارغوړي کور وي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יקוט",
+      "gloss": "پرېکېل شي"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "باور"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او کور"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "مارغوړي"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "پناه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:38.642739176Z",
+  "model": "glm-5.3"
+}

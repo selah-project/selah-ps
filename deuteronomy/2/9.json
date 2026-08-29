@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه راته وویل: مه ⟨את⟩ مُوآب ښکېلوه او مه ورسره جګړه پیلوه، ځکه زه د هغه له ځمکې تا ته میراث نه درکوم؛ ځکه ⟨את⟩ عِر ما د لُوت زامنو ته د میراث په توګه ورکړی دی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ښکېلوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُوآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "پیلوه"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جګړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "درکوم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "د هغه له ځمکې"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو ته"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لُوت"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ما ورکړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِر"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عِر"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "د میراث په توګه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:58.477295954Z",
+  "model": "glm-5.3"
+}

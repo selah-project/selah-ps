@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "اوس مې ته حکمت او پوهه راکړه، چې د دې قوم پر وړاندې واوځم او راشم، ځکه څوک ⟨هغه⟩ ستا دا لوی قوم قضاوت کولی شي؟",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "תן",
+      "gloss": "راکړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې ته"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "واوځم"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "او راشم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "قضاوت کولی شي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا قوم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:37.567532349Z",
+  "model": "glm-5.3"
+}

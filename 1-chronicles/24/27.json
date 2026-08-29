@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د مْراري زامن — له یَعَزیاهو، زوی يې: شوهام او زَکور او عِبري.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مْراري"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "له یَعَزیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "او شوهام"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "او زَکور"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "او عِبري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:28.648059575Z",
+  "model": "glm-5.3"
+}

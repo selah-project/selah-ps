@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 1:4",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "همدې لامل ته شريعت سستېږي او عدلت تل نه راوځي، ځکه بدکار ⟨את⟩ نیک محاصره کوي؛ همدې لامل ته عدلت کوږ راوځي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې لامل"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "سستېږي"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "شريعت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "راوځي"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تل"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدلت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "מכתיר",
+      "gloss": "محاصره کوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیک"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې لامل"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "راوځي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدلت"
+    },
+    {
+      "surface": "מעקל",
+      "gloss": "کوږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:58.862151351Z",
+  "model": "glm-5.3"
+}

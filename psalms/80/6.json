@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 80,
+  "translation": "ته هغوی د اوښکو ډوډۍ خوړول، او په درې برخو اوښکو يې ښښکول.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "خوړول"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "د اوښکو"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ښښکول"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "په اوښکو"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "په درې برخو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:46.898785637Z",
+  "model": "glm-5.3"
+}

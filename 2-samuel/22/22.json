@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "چې ما د یاهوه لارې وساتلې، او له خپل الوهیم سره مي ظلم ونه کړ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ما وساتلې"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "ظلم مي وکړ"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "له خپل الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:32.474674997Z",
+  "model": "glm-5.3"
+}

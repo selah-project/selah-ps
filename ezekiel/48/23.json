@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او د پاتې قبیلو لپاره: له ختیځې خوا څخه تر لوېدیځې خوا پورې — بینیامین یوه برخه.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "او پاتې"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له خوا"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ختيځې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لوېدیځې"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه (برخه)"
+    }
+  ],
+  "timestamp": "2026-08-29T00:09:16.447035168Z",
+  "model": "glm-5.3"
+}

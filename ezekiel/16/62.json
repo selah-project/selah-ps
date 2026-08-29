@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او زه به خپل تړون ⟨את⟩ ⟨את⟩ ستا سره ټینګ کړم، او ته به پوه شې چې زه یاهوه یم.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "او زه به ټینګ کړم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل تړون"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "خپل تړون"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ستا سره"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "او ته به پوه شې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:55:30.139117787Z",
+  "model": "glm-5.3"
+}

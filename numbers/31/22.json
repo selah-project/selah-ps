@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "یوازې ⟨את⟩ زر او ⟨את⟩ سپين زر، ⟨את⟩ مس، ⟨את⟩ اوسپنه، ⟨את⟩ قلعي او ⟨את⟩ سره (سرب):",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زر"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سپين زر"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "سپين زر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مس"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوسپنه"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "اوسپنه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلعي"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "قلعي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سره"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:15.296999327Z",
+  "model": "glm-5.3"
+}

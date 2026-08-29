@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 9:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "چې د لارې تېروونکو ته یې غږ وکړ، هغو چې په خپلو لارو سم روان دي —",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "چې غږ وکړ"
+    },
+    {
+      "surface": "לעברי",
+      "gloss": "تېروونکو ته"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "د لارې"
+    },
+    {
+      "surface": "המישרים",
+      "gloss": "سم روان"
+    },
+    {
+      "surface": "ארחותם",
+      "gloss": "په خپلو لارو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:03.720071172Z",
+  "model": "glm-5.3"
+}

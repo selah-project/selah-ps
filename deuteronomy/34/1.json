@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 34:1",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او موشې له موآب له دښتو پورته شو، د نِبو غره ته، د پیسګاه سر [سرِ] چې د یریحو مخې ته دی؛ او یاهوه هغه ته يې ⟨את⟩ ټوله ځمکه وښوده، ⟨את⟩ ګیععد تر دان پورې.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "پورته شو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "מערבת",
+      "gloss": "له دښتو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نِبو"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر [سرِ]"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "پیسګاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د … مخ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "وښوده هغه ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټوله ځمکه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګیععد"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ګیععد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر … پورې"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:44.454819909Z",
+  "model": "glm-5.3"
+}

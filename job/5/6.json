@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه چې خپلې بدمرغۍ له دوړو نه راوزي، او له ځمکې نه درد شنه کېږي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "راوزي"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "له دوړو"
+    },
+    {
+      "surface": "און",
+      "gloss": "خپلې بدمرغۍ"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "او له ځمکې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "شنه کېږي"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "درد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:44.177447421Z",
+  "model": "glm-5.3"
+}

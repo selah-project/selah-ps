@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ځکه چې داسې ویلي دي یاهوه: ویاړلې به وي ټوله ځمکه، خو بشپړ ورګډون به ونه کړم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ويلي دي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویاړلې"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "خو بشپړ ورګډون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "به ونه کړم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:41.247232195Z",
+  "model": "glm-5.3"
+}

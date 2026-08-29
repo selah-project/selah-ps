@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 91,
+  "translation": "یوازې په خپلو سترګو به يې ګورې او د بدکارانو بدله به وګورې.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "په خپلو سترګو"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "به ګورې"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "او … بدله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "به وګورې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:14.642563791Z",
+  "model": "glm-5.3"
+}

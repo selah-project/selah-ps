@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 36:23",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "څوک پر ده د ده پر لار وګمارلي؟ او څوک ویلي: تا ظلم وکړ؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "وګمارلي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر ده"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "د ده پر لار"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویلي"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "وکړ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:23.037027334Z",
+  "model": "glm-5.3"
+}

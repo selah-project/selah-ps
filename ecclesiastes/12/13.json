@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د ټول خبري پای، دا ټول واورېدل شو: له الوهیم څخه ووېرېږه ⟨את⟩، او ⟨את⟩ يې فرمانونه وساته، ځکه دا د ⟨the⟩ انسان ټولېدنه ده.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "پای"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبري"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "واورېدل شو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ووېرېږه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "فرمانونه"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "فرمانونه"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "وساته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولېدنه"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:38.707188901Z",
+  "model": "glm-5.3"
+}

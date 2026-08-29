@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 86,
+  "translation": "د ستا بنده سا وخوښېږه، ځکه چې زما سا ته پورته کوم، ادونای، ستا لوري ته.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "وخوښېږه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "سا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "د ستا بنده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ستا لوري ته"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما سا"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "پورته کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:38.995930903Z",
+  "model": "glm-5.3"
+}

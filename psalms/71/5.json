@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 71,
+  "translation": "ځکه چې تَ زما هیله يې، ادونای یاهوه، زما باور له زما ځوانۍ څخه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تَ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "زما هیله"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "زما باور"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "له زما ځوانۍ څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:12.117616733Z",
+  "model": "glm-5.3"
+}

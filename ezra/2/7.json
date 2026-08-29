@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د عِیلام زامن، یوه زره دوه سوه پنځوس څلور.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "یوه زره"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "څلور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:40.346415317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه راته وویل: «بیا به وګرځې، بیا به نasty لویې کرغېړنې وګورې چې هغوی يې کوي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "به وګرځې"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "به وګورې"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "کرغېړنې"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "لویې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کوي يې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:34.034459684Z",
+  "model": "glm-5.3"
+}

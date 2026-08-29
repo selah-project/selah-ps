@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او د وزو یو بوک، ستاسو د کفارې لپاره.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بوک"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "د وزو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "د کفارې لپاره"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ستاسو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:19.169550698Z",
+  "model": "glm-5.3"
+}

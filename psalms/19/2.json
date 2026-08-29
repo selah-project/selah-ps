@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "اسمانونه د ⟨את⟩ ایل د جلال بیانوي، او سپرښت د هغه د لاسونو کار اعلانوي.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "بیانوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ایل جلال"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "او کار"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "د هغه د لاسونو"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "اعلانوي"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "سپرښت"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:48.720791706Z",
+  "model": "glm-5.3"
+}

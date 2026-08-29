@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 70,
+  "translation": "الوهیم، مې وژغوره؛ یاهوه، مرستې ته مې وشړه!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "مې وژغوره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "مرستې ته مې"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "وشړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:05.193093071Z",
+  "model": "glm-5.3"
+}

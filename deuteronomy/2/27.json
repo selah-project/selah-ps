@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "واېرېږم چې ستا له ځمکې تېر شم؛ پر لاره به تلېږم، نه ښي لورې ته به گرځم نه کیڼ لورې ته.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "تېر شم"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ستا له ځمکې"
+    },
+    {
+      "surface": "بדרך",
+      "gloss": "پر لاره"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "پر لاره"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "تلېږم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "گرځم"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ښي لورې ته"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "نه کیڼ لورې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:14.467093118Z",
+  "model": "glm-5.3"
+}

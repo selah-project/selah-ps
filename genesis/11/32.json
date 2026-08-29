@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او د تارح ورځې دوه سوه او پنځه کاله وې؛ او تارح په حاران کې مړ شو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د ... ورځې"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "او دوه سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "په حاران کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:32.017428110Z",
+  "model": "glm-5.3"
+}

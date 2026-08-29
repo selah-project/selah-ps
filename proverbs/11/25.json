@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د برکت روح ⟨به⟩ غوړ شي، او اوبه ورکوونکی هم هغه ⟨به⟩ اوبه ورکول کېږي.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "د برکت"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "غوړ شي"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "او اوبه ورکوونکی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "اوبه ورکول کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:25.992339049Z",
+  "model": "glm-5.3"
+}

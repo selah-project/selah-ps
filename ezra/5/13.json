@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 5:13",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "خو د بابل د پاچا کوڕش په لومړي کال، کوڕش پاچا د دې د الها د کور د جوړولو فرمان وکړ.",
+  "tokens": [
+    {
+      "surface": "ברם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "په کال"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "لومړي"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "د کوڕش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "די",
+      "gloss": "د"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "کوڕش"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وکړ"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "الها"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לבנא",
+      "gloss": "د جوړولو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:37:39.141487763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ویې ویل: چا تا ته وویل چې ته بربنډ یې؟ ایا له هغې ونې، چې زه دې ته حکم کړی و چې یې مه خوره، دې خوړلې ده؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چا"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "وویل (راپور کړ)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "بربنډ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته یې"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ایا (له …)"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ونې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "دې ته حکم کړی و"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "چې مه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "خوړلي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:00.459377259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د ناداب زامن سېلِد او اپایم وو، او سېلِد له زامنو پرته مړ شو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "د ناداب"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سېلِد"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "او اپایم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سېلِد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:34.140864344Z",
+  "model": "glm-5.3"
+}

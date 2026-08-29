@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "خپل ذبیحې یې ووهلې، خپله میوه یې وړانگوله، بلکې خپل مېز یې خپرې کړ.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ووهلې"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "خپل ذبیحې"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "وړانگوله"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "خپله میوه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "خپرې کړ"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "خپل مېز"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:11.934840078Z",
+  "model": "glm-5.3"
+}

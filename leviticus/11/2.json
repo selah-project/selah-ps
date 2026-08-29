@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "له بني اسرائیلو ووایاست: «دا هغه ژوندي دي چې تاسو يې له ټولو څارویو څخه چې پر ځمکه دي خوړلی شئ.»",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "ووایاست"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بني"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ژوندي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خوړلی شئ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو څخه"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څارویو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:22.880637790Z",
+  "model": "glm-5.3"
+}

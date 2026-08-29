@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "زمری — په څارویو كې زورور — او له هېچا نه راګرځي؛",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "زمری"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زورور"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "په څارویو كې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "راګرځي"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:38.374172760Z",
+  "model": "glm-5.3"
+}

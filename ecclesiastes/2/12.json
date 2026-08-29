@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او زه وګورم حکمت او لیونتوب او ناپوهۍ، ځکه هغه انسان څه دی چې پاچا وروسته به راشي ⟨את⟩ — هغه څه چې لا دمخه يې کړي دي؟",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "او زه وګورم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "د لیدو لپاره"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "او لیونتوب"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "او ناپوهۍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "چې به راشي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "لا دمخه"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "يې کړي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:24.419499961Z",
+  "model": "glm-5.3"
+}

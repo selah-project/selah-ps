@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "خپله لاس پرې کېږده؛ د جګړې ياد وکړه — نور به يې ونه کړې.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "کېږده"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "خپله لاس"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ياد وکړه"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "نور به يې ونه کړې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:59.366581925Z",
+  "model": "glm-5.3"
+}

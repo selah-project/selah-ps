@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د ستا د پلار د خور برنډتیا به نه ښکاره کوې، ځکه هغه ستا د پلار غوښه ⟨ده⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برنډتیا"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خور"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ستا د پلار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "به ښکاره کوې"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ستا د پلار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:41.737338429Z",
+  "model": "glm-5.3"
+}

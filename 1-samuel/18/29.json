@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او شاؤل د داوېد له مخې لا زيات وارخطا شو، او شاؤل د ⟨את⟩ داوېد دښمن و ټولې ورځې.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "لا زيات شو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "وارخطا"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "איב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوېد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:45.234243765Z",
+  "model": "glm-5.3"
+}

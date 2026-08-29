@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "غوښه وچه چې ورسره ارامي وي، له هغه کور ښه ده چې له ټکر سره له قربانیو ډک وي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه ده"
+    },
+    {
+      "surface": "פת",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "وچه"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "او ارامي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "چې ورسره"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "له هغه کور"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډک"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "له قربانیو"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "له ټکر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:51.235027413Z",
+  "model": "glm-5.3"
+}

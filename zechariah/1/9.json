@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او مې وویل: دا څه دي، ادونای مې؟ او هغه فرښتې چې په ما کې يې خبرې کولې، راته وویل: زه به درته وښيم چې دا څه دي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او مې وویل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای مې"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل یې"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "هغه فرښته"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "چې خبرې يې کولې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما کې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "به درته وښيم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:00.864909483Z",
+  "model": "glm-5.3"
+}

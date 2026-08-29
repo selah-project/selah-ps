@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ځکه چې بنسټونه ړنګ شوي — سپین-layoutه؟ نه — صالح څه کړي دي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "بنسټونه"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ړنګ شوي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کړي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:01.835005487Z",
+  "model": "glm-5.3"
+}

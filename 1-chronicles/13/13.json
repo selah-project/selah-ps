@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "نو داوېد ⟨את⟩ صندوق خپل ته، د داوېد ښار ته، ونه لېږداوه، بلکې يې د عوبېد-ادوم ګتیاني کور ته واړاوه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "لېږداوه"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "خپل ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "ויטהو",
+      "gloss": "واړاوه يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عوبېد"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "הגתي",
+      "gloss": "ګتياني"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:33.954648429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "ځکه چې زموږ د ډبرې په څېر د دوی ډبره نه ده — زموږ دښمنان پخپله قاضي دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "زموږ د ډبرې په څېر"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "د دوی ډبره"
+    },
+    {
+      "surface": "ואיבינو",
+      "gloss": "زموږ دښمنان"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "قاضي دي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:36.816220127Z",
+  "model": "glm-5.3"
+}

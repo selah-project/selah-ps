@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زه په خپل زړه کې وم وایلم: راځه اوس، به دې په خوښۍ کې وازمېنم، او ښه څه وګوره — او اتره، دا هم هېبل دی.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "وم وایلم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "په خپل زړه کې"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "راځه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "به دې وازمېنم"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "په خوښۍ کې"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ښه څه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او اتره"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېبل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:42.242993821Z",
+  "model": "glm-5.3"
+}

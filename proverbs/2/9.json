@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "هغه وخت به صدق او مېزه وپېژنې، او سمه لار — هره ښه لار.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "وپېژنې"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "صدق"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او مېزه"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "او سمه لار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هره"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "لار"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:10.561557991Z",
+  "model": "glm-5.3"
+}

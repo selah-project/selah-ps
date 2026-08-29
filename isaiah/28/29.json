@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "دا هم له یاهوه صبائوت څخه وته؛ ⟨هغه⟩ مشوره ستره کړه، حکمت يې لوی کړ.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "له…څخه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبائوت"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "وته"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ستره يې کړه"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشوره"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "لوی يې کړ"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:21.834309066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او داوېد شاؤل ته وویل: «د چا زړه دې پرې ونه لوېږي؛ ستا غلام به ورشه او د دې فلستي سره به جګړه وکړي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه\/نه"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د چا\/سړي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا غلام"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ورشه"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "جګړه وکړي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "فلستي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:29.547930178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او په هغه وبا کې مړه شوي څوارلس زره او اووه سوه وو، پر د قوراح د خبرې د مړو سربېره.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مړه شوي"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "په وبا کې"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "او اووه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "پر … سربېره"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "د مړو"
+    },
+    {
+      "surface": "על",
+      "gloss": "د … په اړه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:34.460472281Z",
+  "model": "glm-5.3"
+}

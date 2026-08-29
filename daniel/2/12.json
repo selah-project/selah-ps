@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 2:12",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "په دې سبب پاچا په قهر او ډېر غوسه سو، ويې ویل چې د بابل ټول حکیمان له منځه یوسي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "په دې سبب"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "سبب"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בנס",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "غوسه"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ويې ویل"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "له منځه یوسي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "حکیمان"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:29:28.542230856Z",
+  "model": "glm-5.3"
+}

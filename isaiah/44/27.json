@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "هغه چې ژورو ته وايي: «وچه شه، او زه به ستا سیندونه وچ کړم» —",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "هغه چې وايي"
+    },
+    {
+      "surface": "לצולה",
+      "gloss": "ژورو ته"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "وچه شه"
+    },
+    {
+      "surface": "ונהרתיך",
+      "gloss": "او ستا سیندونه"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "وچ کړم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:39.549667674Z",
+  "model": "glm-5.3"
+}

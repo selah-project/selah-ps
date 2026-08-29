@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ⟨את⟩ چر یې ټوټو ټوټو کړ، او موشې ⟨את⟩ سر او ⟨את⟩ ټوټې او ⟨את⟩ غوړ سوځول.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "چر"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "چر"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ټوټو ټوټو کړ"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ټوټو"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "سوځول"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټوټې"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ټوټې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "غوړ"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "غوړ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:37:55.531980535Z",
+  "model": "glm-5.3"
+}

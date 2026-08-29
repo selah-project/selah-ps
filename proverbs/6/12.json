@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "بې ارزښته سړی، د شر سړی، هغه چې د خولې کږوالي سره ګرځي —",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بې ارزښته"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "און",
+      "gloss": "د شر"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "کږوالي"
+    },
+    {
+      "surface": "פה",
+      "gloss": "د خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:28.189310332Z",
+  "model": "glm-5.3"
+}

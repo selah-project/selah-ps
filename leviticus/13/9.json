@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "کله چې د ضربې صرعت په انسان کې وي، نو ⟨هغه⟩ به د کاهن ته راوړل شي.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "د ضربې"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صرعت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "په انسان کې"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "راوړل شي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:23.627972084Z",
+  "model": "glm-5.3"
+}

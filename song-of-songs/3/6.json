@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "دا څوک ⟨دی⟩ چې له بیابانه راخېژي، د دخان د ستنو په څېر، د مورو او لوبانو په خوشبو، د سوداګر د ټولو پوډرو سره؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "راخېژي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بیابانه"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "د ستنو په څېر"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "دخان"
+    },
+    {
+      "surface": "מקטرת",
+      "gloss": "په خوشبو"
+    },
+    {
+      "surface": "מור",
+      "gloss": "مورو"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "او لوبانو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "پوډرو"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "سوداګر"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:39.105585478Z",
+  "model": "glm-5.3"
+}

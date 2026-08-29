@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د کارکوونکي خوب خوږ دی، که لږ وخوري او که ډېر؛ خو د شتمن مړتيا هغه ⟨ته⟩ نه پرېږدي چې ویده شي.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "خوږ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "د کارکوونکي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "وخوري"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "خو مړتيا"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "د شتمن"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "پرېږدي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "چې ویده شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:09.586597781Z",
+  "model": "glm-5.3"
+}

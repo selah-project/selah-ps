@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "ډوډۍ مو نه وه خوړلې، او شراب او نشه‌کوونکي څښاک مو نه وو څښلي، دا چې پوه شئ چې زه یاهوه ستاسو الوهیم یم.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "خوړلې"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "نشه‌کوونکی څښاک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "څښلي"
+    },
+    {
+      "surface": "למען",
+      "gloss": "دا چې"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "پوه شئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:33.138945486Z",
+  "model": "glm-5.3"
+}

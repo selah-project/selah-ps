@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او ⟨את⟩ خوګ، ځکه چې هغه پښه درزوي — درز لرلې پښه — خو ګېرا نه څوکوي؛ هغه ستاسو لپاره ناپاک دی.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خوګ"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "خوګ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "درزوي"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "پښه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "او درز"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "درز لرلې"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "پښه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "خو هغه"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ګېرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "څوکوي"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:55.559448225Z",
+  "model": "glm-5.3"
+}

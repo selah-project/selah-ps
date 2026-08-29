@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "حکمت ته ووایه: «ته خور مې يې»، او پوهې ته د خپلې نژدې خپلوي نوم ورکړه.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حکمت ته"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "خور مې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ته"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "او پوهې ته"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "د پوهې"
+    },
+    {
+      "surface": "תקرא",
+      "gloss": "نوم ورکړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:52.096551397Z",
+  "model": "glm-5.3"
+}

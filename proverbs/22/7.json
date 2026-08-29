@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "شتم پر غریبو واکمني کوي، او پور اخیستونکی د پور ورکوونکي سړي غلام دی.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "شتم"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "پر غریبو"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "واکمني کوي"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "او … غلام"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "پور اخیستونکی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "د … سړي"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "پور ورکوونکي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:38.189781975Z",
+  "model": "glm-5.3"
+}

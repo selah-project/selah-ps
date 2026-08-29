@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "ستا د پاکۍ ښارونه دښتې شوې؛ زیون دښته شوه، یروشلایم ویجاڼه.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ستا د پاکۍ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "شوې"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "دښتې"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زیون"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "دښته"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "شوه"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویجاڼه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:27:36.878998182Z",
+  "model": "glm-5.3"
+}

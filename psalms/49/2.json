@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "واورئ دا، ټول ملتونه! غوږ ونیسئ، ټول د ⟨⟨the⟩⟩ نړۍ اوسېدونکي!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "האזינو",
+      "gloss": "غوږ ونیسئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکي"
+    },
+    {
+      "surface": "חלد",
+      "gloss": "نړۍ (ژوند)"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:37.567617584Z",
+  "model": "glm-5.3"
+}

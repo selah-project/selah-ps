@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 5:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "چې ټیټ کسان لوړ لوړ کړي، او غمژن په خلاصون سره لوړ شي.",
+  "tokens": [
+    {
+      "surface": "לשום",
+      "gloss": "چې کړي"
+    },
+    {
+      "surface": "שפלים",
+      "gloss": "ټیټ کسان"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "וקדרים",
+      "gloss": "او غمژن"
+    },
+    {
+      "surface": "שגבו",
+      "gloss": "لوړ شي"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "په خلاصون"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:46.365862773Z",
+  "model": "glm-5.3"
+}

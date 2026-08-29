@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 45:16",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "شرمېدل، بلکه خوار شول ټول؛ د بتانو جوړوونکي ټول په یوه خواری ولاړل.",
+  "tokens": [
+    {
+      "surface": "בושו",
+      "gloss": "شرمېدل"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "خوار شول"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ټول په یوه"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ولاړل"
+    },
+    {
+      "surface": "בכלמה",
+      "gloss": "په خواری"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "جوړوونکي"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "بتانو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:10.364933843Z",
+  "model": "glm-5.3"
+}

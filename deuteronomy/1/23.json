@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او هغه خبر زما په سترګو ښه ښکاره شو، نو له تاسو دوه لس سړي مې واخیستل — د هرې قبيلې لپاره يو سړی.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ښه ښکاره شو"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "زما په سترګو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبر"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "واخیستم"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "له تاسو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "يو سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "د قبيلې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:32.868132120Z",
+  "model": "glm-5.3"
+}

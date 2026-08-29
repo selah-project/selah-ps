@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 17:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "ځکه چې ته د دوی زړه له پوهې پټ کړی، نو هغه به لوړ نه کړې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "د دوی زړه"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "پټ کړی"
+    },
+    {
+      "surface": "משכל",
+      "gloss": "له پوهې"
+    },
+    {
+      "surface": "על",
+      "gloss": "نو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "له همدې امله"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרמם",
+      "gloss": "لوړ به کړې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:46.432632628Z",
+  "model": "glm-5.3"
+}

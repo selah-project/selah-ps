@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د ډبرې دروندوالی او د شګو بار؛ خو د احمق غوصه د دواړو درنده ده.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "دروندوالی"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "د ډبرې"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "او بار"
+    },
+    {
+      "surface": "החול",
+      "gloss": "د شګو"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "خو د غوصې"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "د احمق"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "درنده"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "د دواړو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:16.662595287Z",
+  "model": "glm-5.3"
+}

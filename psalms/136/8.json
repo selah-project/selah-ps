@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 136,
+  "translation": "⟨את⟩ لمر د ورځې د واکمنۍ لپاره، ځکه چې تر پایه پاتې کېږي خېسېد يې.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لمر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "د واکمنۍ لپاره"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تر پایه"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خېسېد يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:23.800694008Z",
+  "model": "glm-5.3"
+}

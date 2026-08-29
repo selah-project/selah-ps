@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د درغلي کچې د یاهوه له خوا کرغېړنې دي، خو بشپړه ډبره د هغه خوښي ده.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "کچې"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "د درغلي"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "کرغېړنې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "او ډبره"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "بشپړه"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "د هغه خوښي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:03.749443260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "مکر کونکی سړی شخړه خپروي، او چغلی کوونکی نږدې ملګری بېلوي.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "مکر کونکی"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "خپروي"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "شخړه"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "او چغلی کوونکی"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "بېلوي"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "نږدې ملګری"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:13.965488968Z",
+  "model": "glm-5.3"
+}

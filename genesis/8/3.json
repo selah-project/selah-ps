@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او اوبو له ځمکې بېرته شاتګ پیل کړ، تل تل去向 او راتګ؛ او اوبه د پنځوس او سلو ورځو په پای کې کمې شوې.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "بېرته شاتګ وکړ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "تګ"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "او راتګ"
+    },
+    {
+      "surface": "ויחסרو",
+      "gloss": "کمې شوې"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "په پای کې"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "او سلو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:47.846649565Z",
+  "model": "glm-5.3"
+}

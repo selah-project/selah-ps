@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او یاهوه راته وویل: «بیا هم د ځان لپاره د یو ناپوهه شپان د پاره سامان واخله.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا هم"
+    },
+    {
+      "surface": "קח",
+      "gloss": "واخله"
+    },
+    {
+      "surface": "לך",
+      "gloss": "د ځان لپاره"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "د شپان"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ناپوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:54.445204856Z",
+  "model": "glm-5.3"
+}

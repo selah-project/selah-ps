@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او یاهوه حزقیاهو واورېد، او خلک یې روغ کړل ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "او… واورېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حزقیاهو"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "او روغ یې کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خلک"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    }
+  ],
+  "timestamp": "2026-08-29T02:09:14.071657644Z",
+  "model": "glm-5.3"
+}

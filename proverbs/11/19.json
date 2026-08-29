@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "داسې پرېکړه د ژوند لپاره ده، خو هغه چې د بدۍ تعقيبوي، د دې لپاره چې د هغه خپله مرګ وي.",
+  "tokens": [],
+  "timestamp": "2026-08-29T00:55:40.104736535Z",
+  "model": "glm-5.3"
+}

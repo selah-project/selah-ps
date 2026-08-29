@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او ⟨את⟩ پسه به څلور ګونه بېرته ورکړي، ځکه چې هغه ⟨את⟩ دا کار وکړ او ځکه چې يې رحم ونه کړ.»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پسه"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "پسه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بېرته ورکړي"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "څلور ګونه"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او ځکه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "رحم وکړ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:48.342862556Z",
+  "model": "glm-5.3"
+}

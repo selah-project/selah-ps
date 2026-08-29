@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او زه ورسره بشپړ وم، او له خپل ګناه څخه مې ځان ساته.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "او وم"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "او ځان مې ساته"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "له خپل ګناه څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:30.296537776Z",
+  "model": "glm-5.3"
+}

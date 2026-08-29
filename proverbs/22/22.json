@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "له بېوزله مه غلا کوه، ځکه چې هغه بېوزله دی، او بېسوته په دروازه کې مه څېله.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "غلا کوه"
+    },
+    {
+      "surface": "דל",
+      "gloss": "له بېوزله"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "דל",
+      "gloss": "بېوزله"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "څېلا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بېسوته"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "په دروازه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:41.088553843Z",
+  "model": "glm-5.3"
+}

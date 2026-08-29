@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د اسراییلو سړيو حویانو ته وويل: ښايي ته زموږ په منځ کې اوسېږې، او څنګه به درسره تړون وکړم؟",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسراییلو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حویانو"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ښايي"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "زموږ په منځ کې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسېږې"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "او څنګه"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "وکړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درسره"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:39.210834665Z",
+  "model": "glm-5.3"
+}

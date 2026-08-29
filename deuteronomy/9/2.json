@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "قوم لوی او لوړ قد، د عَناق زامن، چې ته يې پېژنې او ته يې اورېدلې دي: څوک کولی شي د عَناق د زامنو مخې ته ودرېږي؟",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "او لوړ قد"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د... زامن"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "عَناقيان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "اورېدلې يې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ودرېږي"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د... زامن"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "عَناق"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:51.583441315Z",
+  "model": "glm-5.3"
+}

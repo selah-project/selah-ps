@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او هغه نوجوان هېڅ نه پوهېده؛ یوازې یهوناتان او داوېد ⟨את⟩ خبر پېژانده.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "او نوجوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېده"
+    },
+    {
+      "surface": "مאומה",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یهوناتان"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "او داوېد"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پېژانده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:37:47.087340217Z",
+  "model": "glm-5.3"
+}

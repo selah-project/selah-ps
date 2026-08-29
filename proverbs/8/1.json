@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ایا حکمت نه غږېږي، او بصیرت خپل غږ نه پورته کوي؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ایا... نه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "غږېږي"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "او بصیرت"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "پورته کوي"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "خپل غږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:25.313078959Z",
+  "model": "glm-5.3"
+}

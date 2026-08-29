@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "نو الوهیم د تاسو د پلار مال ⟨את⟩ واخېست او راته يې ورکړ.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "واخېست"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مال"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "د تاسو پلار"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ورکړ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:38.455499483Z",
+  "model": "glm-5.3"
+}

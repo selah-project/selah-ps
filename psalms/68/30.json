@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 68,
+  "translation": "ستا له هیکله، پر یروشلایم — ته به پاچاهان ډالۍ درولي.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "ستا له هیکله"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "درولي"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "שי",
+      "gloss": "ډالۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:17.718199262Z",
+  "model": "glm-5.3"
+}

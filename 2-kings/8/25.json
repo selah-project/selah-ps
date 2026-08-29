@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 8:25",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "په دوولسم کال د یورام زوی اخآب د یسرایل د پاچا، احزیاهو زوی یهورام د یهودا پاچا، پاچا شو.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "په کال"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "د یورام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اخآب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا شو"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "احزیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "یهورام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:04:56.419993932Z",
+  "model": "glm-5.3"
+}

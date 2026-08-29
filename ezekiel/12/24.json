@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "ځکه چې په یسرایېل کور کې به بې‌شکه نور هیڅ باطل لیدنه نه وي، نه هم چټک کو-segng کو-segng نه هم نرم فال.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هیڅ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "لیدنه"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "او فال"
+    },
+    {
+      "surface": "חלک",
+      "gloss": "نرم\/چټک"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په ... کې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسرایېل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:13.164523076Z",
+  "model": "glm-5.3"
+}

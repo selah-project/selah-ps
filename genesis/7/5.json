@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "نوچ د هر هغه څه له مخې عمل وکړ چې یاهوه پرې فرمان کړی وو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او عمل یې وکړ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوچ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "د هر هغه څه له مخې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "فرمان کړی وو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:50.141551473Z",
+  "model": "glm-5.3"
+}

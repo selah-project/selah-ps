@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 60,
+  "translation": "ته خپل قوم ته سخت څه ښکاره کړي دي؛ موږ ته د رېږدېدو شراب وڅښولې.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "ښکاره کړي دي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "خپل قوم ته"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "وڅښولې"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "د رېږدېدو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:31.659967759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "وګورئ! زه پر هغوی ⟨את⟩ مادای راپارووم — هغوی چې سيم نه شمېري، او پر زر نه مینه کوي.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "وګورئ! زه"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "راپارووم"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مادای"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سيم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "شمېري"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "او زر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "مینه کوي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:37.342272873Z",
+  "model": "glm-5.3"
+}

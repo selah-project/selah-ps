@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د رېښتینیو لار له شره اوړي؛ څوک چې خپل نفس ساتي، هغه د خپلې لارې ساتونکی دی.",
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "لار"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "د رېښتینیو"
+    },
+    {
+      "surface": "סור",
+      "gloss": "اوړي"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "له شره"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "خپل نفس"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ساتونکی دی"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "د خپلې لارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:53.669966261Z",
+  "model": "glm-5.3"
+}

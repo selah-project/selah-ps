@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د یاهوه د کلام بار پر اسراییل باندې، د مالیاچي په لاس.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر … باندې"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "مالیاچي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:26.159517958Z",
+  "model": "glm-5.3"
+}

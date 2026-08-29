@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ⟨את⟩ سکوي يې جوړې کړې، او ⟨את⟩ لګنونه يې پر سکوو باندې جوړ کړل.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سکوي"
+    },
+    {
+      "surface": "هמכנות",
+      "gloss": "سکوي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لګنونه"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "لګنونه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "سکوو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:38.899440746Z",
+  "model": "glm-5.3"
+}

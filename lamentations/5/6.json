@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "مِتسرایم ته مو لاس ورکړ، او اشور ته، چې له ډوډۍ څخه مې پوره شي.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "مو ورکړ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "چې پوره شي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "له ډوډۍ څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:24.279360899Z",
+  "model": "glm-5.3"
+}

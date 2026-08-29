@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 38:18",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ایا ته د ځمکې پراخوالی پوه شوی یې؟ ووایه، که ټول يې پېژندلي یې.",
+  "tokens": [
+    {
+      "surface": "התבננת",
+      "gloss": "پوه شوی یې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "پراخوالي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "هגד",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پېژندلي یې"
+    },
+    {
+      "surface": "کלה",
+      "gloss": "ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:48.807551066Z",
+  "model": "glm-5.3"
+}

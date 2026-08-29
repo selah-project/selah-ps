@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او شموېل وویل: «نو څه دا د مېږو غږ ⟨د⟩ زما په غوږونو کې، او د غواوو غؤ چې زه يې اورم؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموېل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "نو څه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "د مېږو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "په زما غوږونو کې"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "او غږ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "د غواوو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اورم يې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:35:29.757296180Z",
+  "model": "glm-5.3"
+}

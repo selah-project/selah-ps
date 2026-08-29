@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ځکه چې په ټټرو شونډو او په بله ژبې به يې دې قوم سره ووايي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "په ټټرو"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "شونډو"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "او په ژبې"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "بله"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ووايي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره (ته)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "دې قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:31.400897336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ومې ویل: اې ادونای یاهوه! ګوره، زه نه پوهېږم چې څنګه خبرې وکړم، ځکه چې زه ماشوم یم.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او ومې ویل"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "اې!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پوهېږم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې وکړم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ماشوم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه یم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:28:15.063678889Z",
+  "model": "glm-5.3"
+}

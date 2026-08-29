@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 2:5",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "یو سړی یهودي په شوشن کلا کې و، او د نوم يې مِردخای و، زوی یایر، زوی شِمعي، زوی قیش، د بنیامین سړی.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "یهودي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "په شوشن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "کلا کې"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "او د نوم يې"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مِردخای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یایر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قیش"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "د بنیامین"
+    }
+  ],
+  "timestamp": "2026-08-29T01:27:33.415541339Z",
+  "model": "glm-5.3"
+}

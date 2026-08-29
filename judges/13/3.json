@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او د یاهوه فرښته ښځې ته څرګنده شوه او ورته ويې ويل: «ګوره، ته بڼه يې او اولاد دې نه دی راوړی؛ که ښیړې، نو به زوی وزې.»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "څرګنده شوه"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرښته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "خو"
+    },
+    {
+      "surface": "את",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بڼه يې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "راوړی دې"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "که ښیړې"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "وزې"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:30.907141912Z",
+  "model": "glm-5.3"
+}

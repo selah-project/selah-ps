@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او به یوه ورځ وي — هغه به یاهوه ⟨پېژندلې⟩ وي — نه ورځ او نه شپه؛ او به وشي چې د ماښام په وخت به رڼا وي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "به پېژندل شوې وي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "او به وشي"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "د ماښام"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:14.962608296Z",
+  "model": "glm-5.3"
+}

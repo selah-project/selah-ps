@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 23:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "یاهوه-صباؤت دا مشوره کړې — چې د هرې ښکلا لوړاوی خړ کړي او د ځمکې هر ارزښتمند سپک کړي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "יעצה",
+      "gloss": "دا مشوره کړې"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "خړول"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "لوړاوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "ښکلا"
+    },
+    {
+      "surface": "להקל",
+      "gloss": "سپکول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "ارزښتمند"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:32.063465455Z",
+  "model": "glm-5.3"
+}

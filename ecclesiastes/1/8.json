@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ټولې خبرې ستړي کوونکي دي؛ سړی نشي کولی ويې ووايي؛ سترګه له لیدلو نه مړېږي، او غوږ له اورېدلو ډک نه شي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ستړي کوونکي دي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "نشي کولی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ويې ووايي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "مړېږي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "لראות",
+      "gloss": "له لیدلو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ډک نه شي"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "له اورېدلو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:06.409421741Z",
+  "model": "glm-5.3"
+}

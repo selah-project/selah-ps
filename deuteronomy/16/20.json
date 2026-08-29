@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "انصاف، انصاف تعقيب کړه، تر څو ژوندې پاتې شې او ⟨את⟩ هغه ځمکه وارث شې چې ستا الوهیم یاهوه تا ته ورکوي.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "تعقيب کړه"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تر څو"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ژوندې پاتې شې"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "او وارث شې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:52.177603889Z",
+  "model": "glm-5.3"
+}

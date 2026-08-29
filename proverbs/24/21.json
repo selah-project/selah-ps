@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "زویه مې، له یاهوه ⟨את⟩ او له پاچا ووېرېږه؛ له بدلون-کوونکو سره ګډ مه شه.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ووېرېږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زویه مې"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "او له پاچا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له...سره"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "بدلون-کوونکو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "ګډ شه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:40.031536668Z",
+  "model": "glm-5.3"
+}

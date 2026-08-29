@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه هغه به د خپل ژوند ⟨د⟩ ورځو ډېر یادونه نه کوي، ځکه الوهیم د زړه په خوښۍ کې ځواب ورکوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "یادونه کوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ژوند ورځې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ځواب"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "په خوښۍ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:22.404057351Z",
+  "model": "glm-5.3"
+}

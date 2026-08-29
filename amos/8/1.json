@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "داسې ادونای یاهوه ما ته را وښوده، او یو د دوبي محصول ټوکری و.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ما ته را وښوده"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "ټوکری"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "د دوبي محصول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:24.032449181Z",
+  "model": "glm-5.3"
+}

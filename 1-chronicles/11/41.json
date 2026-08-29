@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "اوریه هِتی، زاباد زوی د احلای،",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوریه"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "هِتی"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زاباد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "د احلای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:24.793074740Z",
+  "model": "glm-5.3"
+}

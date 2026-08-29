@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زموږ ميراث بهرنيو ته وګرځېد، زموږ کورونه پردیو ته.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "زموږ ميراث"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "وګرځېد"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "بهرنيو ته"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "زموږ کورونه"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "پردیو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:18.678703104Z",
+  "model": "glm-5.3"
+}

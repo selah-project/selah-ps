@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د دوی په لاس د هغوی سره ټینګ کړي وو رفایاه د هور زوی، د یروشلایم د نیمې سیمې مشر.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او د … سره"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ټینګ کړي وو"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رفایاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חור",
+      "gloss": "هور"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمې"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "سیمې"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:31.490331749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د ګناه قرباني غوړ به په مذبح کې سوځوي (خوشبووي).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "غوړ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "د ګناه قرباني"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "به سوځوي (خوشبووي)"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "په مذبح کې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:13.609652840Z",
+  "model": "glm-5.3"
+}

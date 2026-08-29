@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او حَفَرایم، او شِیون، او عَنَحَرات.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "حَفَرایم"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "شِیون"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "عَنَحَرات"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:33.483903791Z",
+  "model": "glm-5.3"
+}

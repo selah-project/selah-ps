@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 85,
+  "translation": "خېسېد او ریښتینولي سره ولیدل؛ عدالت او شالوم یو بل وښکل.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "او ریښتینولي"
+    },
+    {
+      "surface": "نפגשו",
+      "gloss": "سره ولیدل"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "او شالوم"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "یو بل وښکل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:02.386443079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او د کم‌سود وسایل شر دي: هغه بدمنې طرحې جوړوي، چې عاجز fleet په دروغجنو خبرو تباه کړي، او که بې‌سوا fleet حق خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "او د کم‌سود وسایل"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "وسایل"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "شر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "بدمنې طرحې"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "تباه کړي"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "عاجز fleet"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "په خبرو د"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغجنو"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "او خبرې کوي"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "بې‌سوا fleet"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:40.841883948Z",
+  "model": "glm-5.3"
+}

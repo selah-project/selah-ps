@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د هغه د ځنګل د ونو پاتې به شمېرلې وې، او یو ماشوم به يې ولیکي.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "او پاتې"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "د ونو"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "د هغه ځنګل"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وې"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "او ماشوم"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "به يې ولیکي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:14:31.213621279Z",
+  "model": "glm-5.3"
+}

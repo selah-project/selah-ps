@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "یوآب په شپور وغږاوه، او خلک د اسرائیل له تعقیب راستانه شول، ځکه چې یوآب ⟨את⟩ خلک درولي وو.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "وغږاوه"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "په شپور"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "راستانه شول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "له تعقیب"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "د"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "درولي وو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خلک"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    }
+  ],
+  "timestamp": "2026-08-28T22:47:52.652861227Z",
+  "model": "glm-5.3"
+}

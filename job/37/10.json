@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "د اِل په باد سره يخ ورکول کېږي، او د اوبو پراخوالی کلېږي.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "په باد سره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکول کېږي"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "يخ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "او پراخوالی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "کلېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:00.607705109Z",
+  "model": "glm-5.3"
+}

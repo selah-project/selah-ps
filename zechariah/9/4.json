@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ښه، ادونای ⟨هغه⟩ بېکوره کوي، او د هغې پوځ به په سمندر کې ووهي، او هغه به په اور کې وخوړل شي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "بېکوره کوي"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "او ووهي"
+    },
+    {
+      "surface": "בים",
+      "gloss": "په سمندر کې"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "د هغې پوځ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور کې"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "وخوړل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:40.195376029Z",
+  "model": "glm-5.3"
+}

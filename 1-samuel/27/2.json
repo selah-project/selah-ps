@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "نو داوېد پاڅېد، او هغه او شپږ سوه سړي چې ورسره وو، د گټ د پاچا د ماعوخ زوی اکیش ته ولاړل.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "پاڅېد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "او تېر شو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اکیش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "د ماعوخ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گټ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:39:59.066902121Z",
+  "model": "glm-5.3"
+}

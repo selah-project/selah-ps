@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه چې د هر مقصد لپاره وخت او حکم شته، ځکه چې د انسان شر پر ډېر دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مقصد"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او حکم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "شر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:24.433339761Z",
+  "model": "glm-5.3"
+}

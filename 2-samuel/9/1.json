@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او داوېد وویل: ایا د شاؤل د کور لپاره بل څوک پاتې ⟨دی⟩ چې د یهوناتان په خاطر ورسره خېسېد وکړم؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "پاتې"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور لپاره"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "او وکړم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "په خاطر"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یهوناتان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:59.849399092Z",
+  "model": "glm-5.3"
+}

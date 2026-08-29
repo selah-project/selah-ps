@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 32:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "ای ډاډمنې ښځې، پاڅېږئ، زما غږ واورئ؛ ای باوري لوڼې، غوږ ونیسئ زما خبرې.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "שאננות",
+      "gloss": "ډاډمنې"
+    },
+    {
+      "surface": "קמנה",
+      "gloss": "پاڅېږئ"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لوڼې"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "باوري"
+    },
+    {
+      "surface": "האזנה",
+      "gloss": "غوږ ونیسئ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "زما خبرې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:56.554384780Z",
+  "model": "glm-5.3"
+}

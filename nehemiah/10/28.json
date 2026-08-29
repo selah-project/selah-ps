@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ملوک، حارِم، بعرانا.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "ملوک"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بعرانا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:45.539947271Z",
+  "model": "glm-5.3"
+}

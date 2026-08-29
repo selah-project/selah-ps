@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ابیملک د اسرائیل پر واک درې کاله واکمن و.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "واکمن و"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابیملک"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-28T22:25:28.786986788Z",
+  "model": "glm-5.3"
+}

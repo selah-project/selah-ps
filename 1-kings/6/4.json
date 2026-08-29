@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او هغه د کور لپاره د چتکۍ کړکۍ جوړې کړې — ننوتې\/بندې شوې.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور لپاره"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "کړکۍ"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "چتکۍ"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "بندې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:53:06.217583918Z",
+  "model": "glm-5.3"
+}

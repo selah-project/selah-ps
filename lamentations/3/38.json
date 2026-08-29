@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د ایل عِلیون له خولې بدۍ او نېکي نه راوتلې وي؟",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "له خولې"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "راوتلې وي"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "او نېکي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:16.990395416Z",
+  "model": "glm-5.3"
+}

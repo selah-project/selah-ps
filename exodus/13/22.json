@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د ورېځې تېرۍ د ورځې لپاره او د اور تېرۍ د شپې لپاره د قوم له مخې نه لیرې کېده.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "لیرې کېده"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "تېرۍ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "د ورېځې"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "د ورځې لپاره"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "او تېرۍ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "د اور"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "د شپې لپاره"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د قوم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:18:00.874650459Z",
+  "model": "glm-5.3"
+}

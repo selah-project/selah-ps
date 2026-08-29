@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د دوی زړه ادونای ته چیغه ووهله: د تسیون د لور دیواله! لکه سیند اشک راکوز کړه، ورځې او شپې؛ ځان ته دمې مه راوړه، د سترګې لور مه درېږه.",
+  "tokens": [
+    {
+      "surface": "צעק",
+      "gloss": "چیغه ووهله"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "زړه یې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "دیوال"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "הורידי",
+      "gloss": "راکوز کړه"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "لکه سیند"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "اشک"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "او شپې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "راوړه"
+    },
+    {
+      "surface": "פוגת",
+      "gloss": "دمه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תדם",
+      "gloss": "درېږه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "سترګې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:57.830575903Z",
+  "model": "glm-5.3"
+}

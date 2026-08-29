@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "ژړا وکړئ! ځکه چې د یاهوه ورځ نږدې ده؛ دا لکه ړنګونه له شدای څخه راځي.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "ژړا وکړئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "لکه ړنګونه"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "له شدای څخه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راځي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:53.693107730Z",
+  "model": "glm-5.3"
+}

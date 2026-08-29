@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "هغه خبره چې ایرمیهو ته له ⟨את⟩ یاهوه څخه ورسېده، دا چې ووايي:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ورسېده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ایرمیهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "له ⟨את⟩ … څخه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دا چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:35.070018511Z",
+  "model": "glm-5.3"
+}

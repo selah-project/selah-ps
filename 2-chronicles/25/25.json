@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 25:25",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او امصیهو، د یوعاش زوی، د یهودا پاچا، د یوعاش زوی د یهواحاز، د اسرائیل د پاچا له مړینې وروسته پنځلس کال ژوند وکړ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "او ژوند وکړ"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "امصیهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوعاش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "מות",
+      "gloss": "له مړینې"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوعاش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "یهواحاز"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    }
+  ],
+  "timestamp": "2026-08-29T02:06:40.027832245Z",
+  "model": "glm-5.3"
+}

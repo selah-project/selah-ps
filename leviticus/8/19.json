@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه یې ذبح کړ، او موشې ⟨את⟩ وینه پر مذبح شاوخوا وټمبوله.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "ذبح کړ"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "وټمبوله"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وینه"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "شاوخوا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:37:55.531776514Z",
+  "model": "glm-5.3"
+}

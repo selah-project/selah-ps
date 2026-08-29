@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او فلسطیان راغلل او په رفاییم دره کې خپاره شول.",
+  "tokens": [
+    {
+      "surface": "וינטשו",
+      "gloss": ""
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "په … دره کې"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "او فلسطیان"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "خپاره شول"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "دره"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفاییم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:41.973482988Z",
+  "model": "glm-5.3"
+}

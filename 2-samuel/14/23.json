@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او یواب پاوه، ګشور ته لاړ او اوشلوم يې یروشلایم ته راوست.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "پاوه"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یواب"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "لاړ"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "ګشور ته"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راوست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوشلوم"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اوشلوم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:46:19.209588451Z",
+  "model": "glm-5.3"
+}

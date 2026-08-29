@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او موشې ودرېد شو؟ نه — موشې چټک شو او ځمکې ته يې سر ټېټ کړ او سجده يې وکړه.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "چټک شو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "سر ټېټ کړ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ځمکې ته"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "سجده يې وکړه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:26:18.129485954Z",
+  "model": "glm-5.3"
+}

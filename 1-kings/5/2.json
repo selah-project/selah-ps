@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د شلومو خوراک د يوې ورځې لپاره ⟨و⟩: دېرش «کور» ښه اوړه او شپېته «کور» اوړه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او … و"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "د شلومو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "د يوې ورځې لپاره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يوې"
+    },
+    {
+      "surface": "شלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "כר",
+      "gloss": "«کور»"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ښه اوړه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    },
+    {
+      "surface": "כר",
+      "gloss": "«کور»"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "اوړه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:52:56.102703124Z",
+  "model": "glm-5.3"
+}

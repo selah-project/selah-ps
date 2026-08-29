@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د اَیتان زوی، د زِمّه زوی، د شِمعي زوی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "اَیتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:23.226605637Z",
+  "model": "glm-5.3"
+}

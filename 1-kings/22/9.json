@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 22:9",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د یسرایل پاچا یوې خواجه سرایي ته وغوښتل او ویې ویل: «ژر میخیاهو بن یمله راوله.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "وغوښتل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خواجه سرایي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ژر"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میخیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "یمله"
+    }
+  ],
+  "timestamp": "2026-08-28T23:00:57.115548249Z",
+  "model": "glm-5.3"
+}

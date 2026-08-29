@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "بې سببه زما دښمنانو ما لکه مرغه ښکاري کړم.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ښکاري"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ما ښکاري کړم"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "لکه مرغه"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "زما دښمنانو"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بې سببه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:08.936852434Z",
+  "model": "glm-5.3"
+}

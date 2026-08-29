@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "بيا د ⟨ه⟩ ځمکې له مشرانو څو سړيو پاڅودل او د خلکو ټولې ټولنې ته يې وويل، چې:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "پاڅودل"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "څو سړيو"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "له مشرانو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "او يې وويل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ټولنې"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د خلکو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:47.766406440Z",
+  "model": "glm-5.3"
+}

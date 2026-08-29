@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ستا په لاس کې زما روح سپارم؛ زما اخیستی يې، ای یاهوه، ای د امانت ایل.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "ستا په لاس کې"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "سپارم"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "زما روح"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "اخیستی يې"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ زما",
+      "marks": "زما"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "امانت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:25.006660082Z",
+  "model": "glm-5.3"
+}

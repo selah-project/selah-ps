@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د هرې بشپړتیا پای مې لیدلی دی، خو ستا حکم ډېر پراخه دی.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "د هرې"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "بشپړتیا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مې لیدلی دی"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پای"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "پراخه دی"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "ستا حکم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:05.396611677Z",
+  "model": "glm-5.3"
+}

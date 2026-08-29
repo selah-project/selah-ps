@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "موږ زموږ زړه پر لاسونو پورته کوو، ایل ته چې په اسمانونو کې ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "پورته کوو"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "زموږ زړه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "لاسونو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "په اسمانونو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:20.580832722Z",
+  "model": "glm-5.3"
+}

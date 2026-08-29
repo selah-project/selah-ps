@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "هېڅ سړی ⟨את⟩ د خپل پلار ښځه واخيستل نه شي، او د خپل پلار څنډه به نه ښکاره کړي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "واخلي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د خپل پلار ښځه"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ښکاره کړي"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "څنډه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:38.391464482Z",
+  "model": "glm-5.3"
+}

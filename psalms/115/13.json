@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "یاهوه به هغه چې یاهوه بېسي برکت پر برکښي، کوچني سره لوی ټول.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "به برکت پر برکښي"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "هغه چې … بېسي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "کوچني"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "لوی ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:58.123187351Z",
+  "model": "glm-5.3"
+}

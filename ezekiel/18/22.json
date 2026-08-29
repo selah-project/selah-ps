@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 18:22",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "ټول سرکښۍ چې يې کړې دي، نه به يې په ياد شي؛ په خپل سپېڅلتوب چې يې کړی دی به ژوندی وي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "سرکښۍ يې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړې دي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "په ياد شي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "בצדקתו",
+      "gloss": "په سپېڅلتوب يې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړی دی"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ژوندی وي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:56:29.319819438Z",
+  "model": "glm-5.3"
+}

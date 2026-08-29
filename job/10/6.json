@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "چې ته زما د ګناه لټون کوې، او زما د خطا د پلټنې کوې؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "لټون کوې"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "زما د ګناه"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "او زما د خطا"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "پلټنې کوې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:32.696973208Z",
+  "model": "glm-5.3"
+}

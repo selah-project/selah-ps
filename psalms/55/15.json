@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "چې يوځای به مو خوږه مشوره کوله، په الوهیم ⟨the⟩ کور کې به يې په ډېره نفوس ګرځېدله.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "خوږه کووله"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "مشوره"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "ګرځېدله"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "په ډېره نفوس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:48.761385406Z",
+  "model": "glm-5.3"
+}

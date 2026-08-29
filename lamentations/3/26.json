@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ښه ده چې ⟨سړی⟩ تمه وکړي او په ارامۍ انتظار وکړي د یاهوه د خلاصون لپاره.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "تمه وکړي"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "په ارامۍ انتظار وکړي"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "د خلاصون لپاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.572386635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ته زما زویه، اورېدنه وکړه او هوښیار اوس، او خپل زړه په لار کې سم کړه.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "اورېدنه وکړه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زما زویه"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "او هوښیار اوس"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "او سم کړه"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "خپل زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:44.475950058Z",
+  "model": "glm-5.3"
+}

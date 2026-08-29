@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 14:26",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او خلک ځنګل ته ورغلل، او وګوره — موم راتاو و، خو هېڅوک خپله لاس خولې ته نه رساوه، ځکه خلکو له قسمه وېرېدل ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ورغلل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ځنګل"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "راتاو"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "موم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نه و"
+    },
+    {
+      "surface": "משיג",
+      "gloss": "رسول"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "خولې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "وېرېدل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلکو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قسم"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "له قسمه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:35:14.483340474Z",
+  "model": "glm-5.3"
+}

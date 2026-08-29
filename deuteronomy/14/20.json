@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "هر پاک الوتونکی (مرغه) خوړلی شئ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "الوتونکی (مرغه)"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خوړلی شئ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:38.054522013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د همدې لپاره زه تا ته امر کوم چې ووایې: درې ښارونه دې ځان لپاره جلا کړې.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې لپاره"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تا ته امر کوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووایې"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "جلا کړې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ځان لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:46.565629399Z",
+  "model": "glm-5.3"
+}

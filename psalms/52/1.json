@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "د سرټولوونکي لپاره، تعلیمي شعر، د داوېد لپاره.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د سرټولوونکي لپاره"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "تعلیمي شعر"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:23.977605259Z",
+  "model": "glm-5.3"
+}

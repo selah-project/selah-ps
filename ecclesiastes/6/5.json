@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "لمر يې هم نه دی لیدلی او نه يې پېژندلی؛ دې ته له هغه ډېر ارام دی.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "لیدلی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژندلی"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "له هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:26.188686550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "ښېره هغه چې له کمزوري سره پوهه ورکوي؛ په بد ورځ کې یاهوه هغه ژغوري.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ښېره"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "پوهه ورکوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزوري"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "ژغوري یې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:07.531900136Z",
+  "model": "glm-5.3"
+}

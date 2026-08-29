@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ځکه چې ورځ ⟨نږدې ده⟩، او د یاهوه ورځ نږدې ده؛ د وریځو ورځ به وي، د ملتونو وخت به وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "او نږدې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "وریځو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:01:41.025151057Z",
+  "model": "glm-5.3"
+}

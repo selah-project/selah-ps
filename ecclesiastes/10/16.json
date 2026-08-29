@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "وا ويېې تا ته، ای ځمکه، چې پاچا دې هلک وي، او اميران دې سهار خوري.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "وا ويېې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ای ځمکه"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "چې پاچا دې"
+    },
+    {
+      "surface": "נער",
+      "gloss": "هلک"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "او اميران دې"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خوري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:49.226123950Z",
+  "model": "glm-5.3"
+}

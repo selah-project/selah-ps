@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او زه هم به خپله سترګه و نه بخشم او رحم و نه کړم؛ د دوی لار به یې پر خپلو سرونو ورکړم.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "بخښل (سترګه)"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "رحم کوم"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "د دوی لار"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "پر خپلو سرونو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ورکړم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:32.468536320Z",
+  "model": "glm-5.3"
+}

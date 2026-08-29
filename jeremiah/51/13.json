@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 51:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ای بابل، ایې چې پر ډېرو اوبو مېشته يې، د خزانو ډېره يې — ستا پای راغی، د ستا د غنیمت اندازه.",
+  "tokens": [
+    {
+      "surface": "שכנתי",
+      "gloss": "ایې چې مېشته يې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرو"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "אוצרת",
+      "gloss": "د خزانو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "קצך",
+      "gloss": "ستا پای"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "اندازه"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "د ستا د غنیمت"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:59.399867865Z",
+  "model": "glm-5.3"
+}

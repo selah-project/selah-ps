@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ټول هغه چې په هغه ورځ لوېدل، له سړي څخه تر ښځې پورې، دولس زره وو — ټول د عاي سړي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ټول هغه چې... وو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "هغه چې لوېدل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په... ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "له سړي څخه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر... پورې"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "העי",
+      "gloss": "د عاي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:11.556292508Z",
+  "model": "glm-5.3"
+}

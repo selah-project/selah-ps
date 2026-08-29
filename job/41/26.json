@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "هغه ⟨את⟩ هر لوړ شي ته ګوري — هغه د ټولو زړورو زامنو پاچا دی.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر لوړ شی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ګوري"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "زړورو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:13.841153141Z",
+  "model": "glm-5.3"
+}

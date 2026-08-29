@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 65,
+  "translation": "کال ته د خپلې نېکۍ تاج ورکوې، او ستا لارې د غوړۍ تامې کوي.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج ورکوې"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "کال"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "ستا نېکۍ"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "ستا لارې"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "تامې کوي"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "غوړۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:22.601502286Z",
+  "model": "glm-5.3"
+}

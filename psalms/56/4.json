@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 56,
+  "translation": "هغه ورځ چې زه وارخطا کېږم، زه پر تا اتکا کوم.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "وارخطا کېږم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "اتکا کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:23.847984101Z",
+  "model": "glm-5.3"
+}

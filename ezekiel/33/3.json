@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او چې توره پر ځمکه راځي هغه ویني ⟨את⟩، په شپور ويې وهي او ⟨את⟩ خلک خبروي،",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "او ویني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "توره"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "באה",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "ويې وهي"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "په شپور"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "او خبروي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خلک"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    }
+  ],
+  "timestamp": "2026-08-29T00:02:48.625767905Z",
+  "model": "glm-5.3"
+}

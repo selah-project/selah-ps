@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یو ګاو، د غواوو بچی، یوه نر پس، یوه لمېسه، د یو کال بچی، د سوځولې قربانۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ګاو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د غواوو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "نر پس"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لمېسه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "د یو کال"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځولې قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:03.734469504Z",
+  "model": "glm-5.3"
+}

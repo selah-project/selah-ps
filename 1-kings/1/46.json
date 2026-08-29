@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او سلهمان هم د پاچاهي پر تخت كښېناست.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "كښېناست"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سلهمان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "د پاچاهي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:50:55.400303309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 31:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "زامن یې راپاڅېدل او هغه یې پر ډاډه کړه؛ مېړه یې هم هغه ستایله.",
+  "tokens": [
+    {
+      "surface": "קמו",
+      "gloss": "راپاڅېدل"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "زامن یې"
+    },
+    {
+      "surface": "ויאשרוה",
+      "gloss": "او هغه یې پر ډاډه کړه"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "مېړه یې"
+    },
+    {
+      "surface": "והללה",
+      "gloss": "هغه ستایله"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:34.358897889Z",
+  "model": "glm-5.3"
+}

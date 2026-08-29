@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او لوط ورته وویل: مه، ای ادونای!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او… وویل"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مهرباني"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:37.475880731Z",
+  "model": "glm-5.3"
+}

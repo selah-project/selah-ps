@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "شدای څه دی چې دې خدمت وکړو؟ او څه ګټه لرو که ورسره لیده وکړو؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נעבדנو",
+      "gloss": "دې خدمت وکړو"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "ګټه لرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "لیده وکړو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:29.010818509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 22:32",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د یاهوه فرښته ورته وویل: «ولې دې دا درې ځله ⟨את⟩ خره ووهله؟ وګوره، زه د مخالف په توګه راوتلی یم، ځکه چې لار زما مخې ته کج وه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرښته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ووهله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خره"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "خره"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ځله"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "راوتلی یم"
+    },
+    {
+      "surface": "לשטן",
+      "gloss": "د مخالف په توګه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ירט",
+      "gloss": "کج وه"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "زما مخې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:26.971786891Z",
+  "model": "glm-5.3"
+}

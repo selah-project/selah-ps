@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "که ستا دښمن ولوېږي، خوښي مه کوه؛ او که ونښلېږي، ستا زړه دې خوښي ونه کړي،",
+  "tokens": [
+    {
+      "surface": "בנפل",
+      "gloss": "که … ولوېږي"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ستا دښمن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "خوښي کوه"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "او که ونښلېږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "خوښي وکړي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ستا زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:05.104383484Z",
+  "model": "glm-5.3"
+}

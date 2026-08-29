@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او لمر راخېږي، او لمر ډوبېږي، او خپل ځای ته چوپه ساه اخلي — هغه ⟨هلته⟩ راخېږي.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "او راخېږي"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "او ډوبېږي"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ... ته"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "خپل ځای"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "چوپه ساه اخلي"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "راخېږي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:06.408923135Z",
+  "model": "glm-5.3"
+}

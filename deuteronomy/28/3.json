@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "مبارک يې ته په ښار کې، او مبارک يې ته په میدان کې.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "او مبارک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په میدان کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:31.787815252Z",
+  "model": "glm-5.3"
+}

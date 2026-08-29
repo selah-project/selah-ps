@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 121,
+  "translation": "دې نه پرېږدي چې ستا پښه ولړزېږي — دې مه ویده کېږي چې ستا ساتونکی دی.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "دې نه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "پرېږدي"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "چې … ولړزېږي"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ستا پښه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دې مه"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ویده کېږي"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ستا ساتونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:04.127086705Z",
+  "model": "glm-5.3"
+}

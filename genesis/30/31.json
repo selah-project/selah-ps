@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 30:31",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او هغه وویل: څه درکړم؟ او يVertexAttribېپياهم وویل: هېڅ ماته را نه کړې؛ که دا کار ماته وکړې، بيا ستم، ستا ګډې څروم او ساتم يې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "درکړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ویل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "درکوې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "وکړې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשובה",
+      "gloss": "بيا ستم"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "څروم"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ستا ګډې"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ساتم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:24.849501042Z",
+  "model": "glm-5.3"
+}

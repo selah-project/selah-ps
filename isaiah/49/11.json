@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 49:11",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "او زه به خپل ټول غرونه لار کړم، او زما لارې به لوړې شي.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "او زه به … کړم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "زما غرونه"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "ומסלתי",
+      "gloss": "او زما لارې"
+    },
+    {
+      "surface": "ירמון",
+      "gloss": "به لوړې شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:17.293634652Z",
+  "model": "glm-5.3"
+}

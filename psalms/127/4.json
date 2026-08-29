@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 127,
+  "translation": "لکه تېرونه چې د زبرلاس په لاس کې وي، همداسې د ځوانۍ زامن دي.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "لکه تېرونه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زبرلاس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "د ځوانۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:55.629006193Z",
+  "model": "glm-5.3"
+}

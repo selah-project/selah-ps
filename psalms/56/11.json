@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 56,
+  "translation": "په الوهیم کې به د خبر هېله کوم، په یاهوه کې به د خبر هېله کوم.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "په الوهیم کې"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "به هېله کوم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "د خبر"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه کې"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "به هېله کوم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "د خبر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:41.198230084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د دولسو میاشتو په پای کې هغه د بابل د پاچاهۍ ماڼۍ په چټ تېرېده.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "په پای کې"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "میاشتو"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ماڼۍ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "پاچاهۍ"
+    },
+    {
+      "surface": "די",
+      "gloss": "د"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "تېرېده"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "و"
+    }
+  ],
+  "timestamp": "2026-08-29T01:31:43.797522663Z",
+  "model": "glm-5.3"
+}

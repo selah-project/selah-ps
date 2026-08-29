@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "په خپل قوم کې د چغلګر په توګه مه ګرځه؛ د خپل نږدې په وینو کې ودریږه مه؛ زه یم یاهوه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "مه ګرځه"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغلګر"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "په خپل قوم کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעמد",
+      "gloss": "مه ودریږه"
+    },
+    {
+      "surface": "על",
+      "gloss": "په ... باندې"
+    },
+    {
+      "surface": "דם",
+      "gloss": "وینو"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "خپل نږدې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:14.918503644Z",
+  "model": "glm-5.3"
+}

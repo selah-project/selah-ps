@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "نو ییتسحاق له هغه ځایه ولاړ، په ګرار دره کې يې خیمه ودروله او هلته مېشت شو.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "نو ولاړ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "خیمه يې ودروله"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "په دره کې"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "ګرار"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "مېشت شو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:16.862771154Z",
+  "model": "glm-5.3"
+}

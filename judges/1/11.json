@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او له هغه ځایه ولاړ د دبیر اوسېدونکو ته — او د دبیر نوم پخوا قریت-سِفِر و.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "او ولاړ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "د اوسېدونکو"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دبیر"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "د دبیر"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پخوا"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریت"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "سِفِر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:01.048071268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې د ځواکونو د یاهوه ورځ ⟨is⟩ پر هر غروره او لوړ، او پر هر پورته شوي — او هغه به ټیټ شي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د ځواکونو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "غروره"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "او لوړ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "پورته شوي"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "او ټیټ شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:10:55.600834008Z",
+  "model": "glm-5.3"
+}

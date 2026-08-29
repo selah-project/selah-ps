@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 23:34",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "الیفلت د احسبای زوی، د ⟨the⟩ معکاتي؛ الیعام د احیتوفل زوی ⟨the⟩ ګیلوني،",
+  "tokens": [
+    {
+      "surface": "אליפלט",
+      "gloss": "الیفلت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחסבי",
+      "gloss": "احسبای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "⟨the⟩ معکاتي"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "الیعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "احیتوفل"
+    },
+    {
+      "surface": "הגלני",
+      "gloss": "⟨the⟩ ګیلوني"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:49.547415813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یوه روح زما مخ ته تېرېده؛ زما د بدن ویښتان ودرېدل.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "او یوه روح"
+    },
+    {
+      "surface": "על",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "زما مخ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "تېرېده"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "ودرېدل"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "ویښتان"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "زما د بدن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:49.895202147Z",
+  "model": "glm-5.3"
+}

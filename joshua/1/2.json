@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "«موشې زما بنده مړ شو؛ او اوس پاڅېږه، دا اردن ⟨את⟩ واوړه — ته او ټول دا قوم — هغې ځمکې ته چې زه يې ورکوم، د یسڕایل زامنو ته.»",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "زما بنده"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "קום",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "واوړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا اردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکوم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسڕایل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:26.069418430Z",
+  "model": "glm-5.3"
+}

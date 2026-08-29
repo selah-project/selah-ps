@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ⟨אתו⟩ دې په خالصو زرو پوښی، او ورته دې د سرو زرو غاړکۍ د چاپېرولو لپاره جوړه کړي.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "به پوښی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתو⟩",
+      "marks": "مېز"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرو"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالصو"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "به جوړه کړي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "زר",
+      "gloss": "غاړکۍ"
+    },
+    {
+      "surface": "زהב",
+      "gloss": "د سرو زرو"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:29.115113257Z",
+  "model": "glm-5.3"
+}

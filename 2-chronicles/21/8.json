@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "په هغه ورځو کې اېدوم د یهودا له لاس لاندې بغاوت وکړ، او پاچا يې پر ځان وټاکه.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "په هغه ورځو کې"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت وکړ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اېدوم"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "له…لاندې"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "او…يې وټاکه\/واچوله"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر ځان"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:46:27.309597018Z",
+  "model": "glm-5.3"
+}

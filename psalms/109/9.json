@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 109,
+  "translation": "د هغه زامنې يتيمان دي، او د هغه ښځه کونډه.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "دي\/شي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامنې"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "يتيمان"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "او د هغه ښځه"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "کونډه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:02.319314123Z",
+  "model": "glm-5.3"
+}

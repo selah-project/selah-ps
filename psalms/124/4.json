@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 124,
+  "translation": "هغه وخت به اوبو موږ ډوب کړي وو، سېلاب به پر زموږ نفس تېر شوی و.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "موږ ډوب کړي وو"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "سېلاب"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېر شوی و"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "زموږ نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T02:58:51.209254897Z",
+  "model": "glm-5.3"
+}

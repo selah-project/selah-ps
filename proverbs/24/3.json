@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "په حکمت کور جوړېږي، او په پوهه ټينګېږي.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "په حکمت"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "جوړېږي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "او په پوهه"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "ټينګېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:39.480776362Z",
+  "model": "glm-5.3"
+}

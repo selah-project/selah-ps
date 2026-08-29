@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "حصرو الکرملي، نعَراي زوی د اِزباي",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "حصرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "الکرملي"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "نعَراي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "اِزباي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:25.119130140Z",
+  "model": "glm-5.3"
+}

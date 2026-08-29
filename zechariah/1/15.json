@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 1:15",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او زه پر هغو ارام-غوړو ملتونو ستر غضب لرم؛ ځکه زه يوازې لږ غضب شوی وم، خو هغوي د بدۍ لپاره مرسته وکړه.",
+  "tokens": [
+    {
+      "surface": "וקצף",
+      "gloss": "او غضب"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "غضب لرم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ارام-غوړو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "קצפתי",
+      "gloss": "غضب شوی وم"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "خو هغوي"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "مرسته وکړه"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "د بدۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:25.290251326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زوی مې، که دې د خپل ملګري لپاره ګرو څښتن شوې وي، که دې د پردۍ سره لاس وهلی وي،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زوی مې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "ګرو څښتن شوې يې"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "د خپل ملګري لپاره"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "لاس وهلی يې دې"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "د پردۍ سره"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "دې لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:00.051966572Z",
+  "model": "glm-5.3"
+}

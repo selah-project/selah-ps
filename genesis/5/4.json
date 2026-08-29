@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د ادم ورځې ⟨את⟩ شېت له زېږولو وروسته اته سوه کالو ته ورسېدې، او هغه زامنو او لوڼو وروزل.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ورسېدې\/وشوې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "له زېږولو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شېت"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شېت"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اته"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالو"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وزېږول\/وروزل"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:30.421144871Z",
+  "model": "glm-5.3"
+}

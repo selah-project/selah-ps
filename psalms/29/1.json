@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د داوېد زبور. ورکړئ یاهوه ته، د ایلانو زامنو، ورکړئ یاهوه ته ویاړ او زور.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زبور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ورکړئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامنو"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "د ایلانو"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ورکړئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ویاړ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "او زور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:25.256106881Z",
+  "model": "glm-5.3"
+}

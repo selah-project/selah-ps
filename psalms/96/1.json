@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 96,
+  "translation": "یاهوه ته نوې سندره ووایاست؛ د ځمکې ټول ⟨او⟩ یاهوه ته سندره ووایاست.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ووایاست"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندره"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوې"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ووایاست"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول ⟨او⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:53.725819235Z",
+  "model": "glm-5.3"
+}

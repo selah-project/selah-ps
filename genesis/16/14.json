@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "همدې ته چې هغه څاهې بئر-لحی-رؤی (د ژوندي لیدونکي څاهه) ونومول شوه؛ ګورئ، دا د قادش او برد ترمنځ ده.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ونومول شوه"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "هغه څاهې ته"
+    },
+    {
+      "surface": "באר",
+      "gloss": "څاهه"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "د ژوندي"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "لیدونکي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګورئ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ترمنځ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "برد"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:23.189479624Z",
+  "model": "glm-5.3"
+}

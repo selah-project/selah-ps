@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د یهللایل زامن: زیف، زیفه، تیریا او اشریل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "یهللایل"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "زیفه"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "تیریا"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "اشریل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:24.093960109Z",
+  "model": "glm-5.3"
+}

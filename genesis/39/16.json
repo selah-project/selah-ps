@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او هغه جامې خپلې ترڅنګ کېښودې تر دې چې د هغه مالک خپل کور ته راغی.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "او هغه کېښودې"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "خپلې ترڅنګ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر دې چې"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "د راتګ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "د هغه مالک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خپل کور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:10:52.578952903Z",
+  "model": "glm-5.3"
+}

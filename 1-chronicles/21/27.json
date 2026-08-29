@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او یاهوه فرښتې ته وویل، او هغه خپله توره بېرته په خپل غلاف کې کېښوده.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "فرښتې ته"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "بېرته کېښوده"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "خپله توره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لوري \/ په"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "خپل غلاف"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:26.050896578Z",
+  "model": "glm-5.3"
+}

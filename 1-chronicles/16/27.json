@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "په هغه باندې جلال او ښکلا ده، او په خپل ځای کې زور او خوښي ده.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "او ښکلا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "د هغه مخې ته \/ په هغه باندې"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "او خوښي"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "په خپل ځای کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:40.119224619Z",
+  "model": "glm-5.3"
+}

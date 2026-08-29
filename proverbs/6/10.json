@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "«لږ خوب، لږ ویده کېدل، لږ د لاسونو غېرول د خوب لپاره»،",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ویده کېدل"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "غېرول"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "د لاسونو"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "د خوب لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:28.189023871Z",
+  "model": "glm-5.3"
+}

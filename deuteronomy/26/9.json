@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او هغه موږ دې ځای ته راوستل، او هغه موږ ته ⟨את⟩ دا ځمکه راکړه — هغه ځمکه چې د شیدو او مومې څخه بهېږي.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "راوستل موږ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "راکړه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "موږ ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "بهېدونکې"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شیدو"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "او مومې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:45.481513315Z",
+  "model": "glm-5.3"
+}

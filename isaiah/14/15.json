@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "يوازې ته به شیول ته راښکته شې، د کاندې په وروستيو څنډو کې.”",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "راښکته شې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ياركתي",
+      "gloss": "په وروستيو څنډو"
+    },
+    {
+      "surface": "בור",
+      "gloss": "د کاندې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:14:22.209576590Z",
+  "model": "glm-5.3"
+}

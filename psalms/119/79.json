@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ستا وېرونکي راته راوګرځي، او ستا ګواهۍ ⟨پېژني⟩.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "راوګرځي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "ستا وېرونکي"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "او ⟨پېژني⟩"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ستا ګواهۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:27.654879169Z",
+  "model": "glm-5.3"
+}

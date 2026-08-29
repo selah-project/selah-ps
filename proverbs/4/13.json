@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "له ښوونې ⟨الوهیم⟩ سره کلک نیږه وکړه، مه يې پرېږده؛ ساته يې، ځکه چې دا ستا ژوند دی.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "کلک نیږه وکړه"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "له ښوونې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "پرېږده"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "ساته يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ستا ژوند"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:37.378033500Z",
+  "model": "glm-5.3"
+}

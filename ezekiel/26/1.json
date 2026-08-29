@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او په یوولسم کال کې، د میاشتې په لومړۍ ورځ، د یاهوه خبرانه راته وشوه، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشی"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "په یوولسم"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس (یاتمه)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "په لومړۍ (ورځ)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د میاشتې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وشو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرانه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:51.217928868Z",
+  "model": "glm-5.3"
+}

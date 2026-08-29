@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او د هغه قوم په رسمونو مه ګرځئ چې زه يې ستاسو له مخه شړم، ځکه چې ⟨את⟩ دا ټول يې کړي وو او ما پرې کرکه وکړه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ګرځئ"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "په رسمونو"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "هغه قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "شړم"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ستاسو له مخه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کړي وو"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "او ما کرکه وکړه"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:17.158048799Z",
+  "model": "glm-5.3"
+}

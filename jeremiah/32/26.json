@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او د یاهوه خبره یرمیاهو ته راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:41:19.670253492Z",
+  "model": "glm-5.3"
+}

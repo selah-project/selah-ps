@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "لږ خوب، لږ ندره، لږ د لاسونو غېږول د وېشتلو لپاره.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ندره"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "غېږول"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "د لاسونو"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "د وېشتلو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:49.257302135Z",
+  "model": "glm-5.3"
+}

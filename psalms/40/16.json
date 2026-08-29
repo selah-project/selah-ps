@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "چې د خپل شرم په بدل کې ویجاړ شي هغه چې راته وايي: “اها، اها!”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ویجاړ شي"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "عקב",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "خپل شرم"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "هغه چې وايي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "האח",
+      "gloss": "اها"
+    },
+    {
+      "surface": "האח",
+      "gloss": "اها"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:23.315951003Z",
+  "model": "glm-5.3"
+}

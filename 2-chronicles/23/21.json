@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او ټول د ځمکې خلکو خوښي وکړه، او ښار ارام شو، او ⟨את⟩ عتلیاهو يې په توره وواژه.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "او خوښي وکړه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلکو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "او ښار"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ارام شو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عتلیاهو"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "عتلیاهو"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "وواژه"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "په توره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:45.062455947Z",
+  "model": "glm-5.3"
+}

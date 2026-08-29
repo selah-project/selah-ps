@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 72,
+  "translation": "د کمزوري او بېوزلي پر ډېره رحم کوي، او د بېوزلیو ډېرې ژغوري.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "رحم کوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزوري"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "او بېوسې"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "او ډېرې"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "د بېوزلیو"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "ژغوري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:52.893615121Z",
+  "model": "glm-5.3"
+}

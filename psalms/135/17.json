@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 135,
+  "translation": "غوږونه لري خو نه اورېدل کوي ښۍ دمې، او په خولو کې يې ساه نشته.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "غوږونه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لري"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "اورېدل کوي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ښۍ دمې، او"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨هغه څه چې شته⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ساه"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "په خولو کې يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:11.804825325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او لابان ⟨את⟩ د هغه ځای ټول سړي راټول کړل، او يې يو مېلمستیا جوړه کړه.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "راټول کړل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه ځای ټول سړي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "د هغه ځای"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "جوړه کړه يې"
+    },
+    {
+      "surface": "مשתה",
+      "gloss": "مېلمستیا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:02.805887991Z",
+  "model": "glm-5.3"
+}

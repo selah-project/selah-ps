@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "که له تار څخه تر د څملي د بند پورې له هغه ټول څخه چې ستا دي څه واخلم، نو مه وایه چې زما اوراهام بډایه کړ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "له تار څخه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "د څملي د بند"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "څملي"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "واخلم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "وایه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زما"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "بډایه کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوراهام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اوراهام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:18.894412386Z",
+  "model": "glm-5.3"
+}

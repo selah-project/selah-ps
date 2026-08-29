@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "د چوکاټ سره سمه کړۍ ولاړې وې — دننګونکو میلو لپاره ځایونه — چې مېز ⟨את>> وړل شي.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "سره سمې"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "چوکاټ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وې ولاړې"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "کړۍ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ځایونه"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "دننګونکو میلو"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "وړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مېز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "مېز"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:10.886828834Z",
+  "model": "glm-5.3"
+}

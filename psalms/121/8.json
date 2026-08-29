@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 121,
+  "translation": "یاهوه به ستا وتل او ستا راتګ وساتي، له همدې وخت نه تر دایمي پوره.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "وساتي"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ستا وتل"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "او ستا راتګ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "له همدې وخت"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر ... پوره"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دایمي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:14.230675313Z",
+  "model": "glm-5.3"
+}

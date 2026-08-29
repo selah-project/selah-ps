@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "نو عیسیو په همدغه ورځ د خپل لارې سره سم سعیر ته ستون شو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ستون شو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همدغه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسیو"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "د خپل لارې سره"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "سعیر ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:03.563311461Z",
+  "model": "glm-5.3"
+}

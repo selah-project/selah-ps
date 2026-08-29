@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "قسم مې وخوړ او ټینګوم چې ستا د عدالت احکام به وساتم.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "قسم مې وخوړ"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "او ټینګوم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "چې وساتم"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "احکام"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ستا د عدالت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:09.248376344Z",
+  "model": "glm-5.3"
+}

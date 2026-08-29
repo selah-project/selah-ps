@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ما په هغه وخت کې درته وویل: زه یوازې نشم کولی چې ⟨את⟩ تاسو زیږم.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او ما وویل"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "درته"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووایم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "نشم کولی"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "یوازې زه"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "زیږم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تاسو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:19.401069943Z",
+  "model": "glm-5.3"
+}

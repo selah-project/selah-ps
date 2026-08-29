@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او ⟨את⟩ د اهرون نوم دې پر د لوی مټه ولیکي، ځکه چې یوه مټه ده د دوی د پلرونو د کورونو د مشر لپاره.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د اهرون نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "ولیکي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مټه"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مټه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "د مشر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "د دوی پلرونو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:14.635572634Z",
+  "model": "glm-5.3"
+}

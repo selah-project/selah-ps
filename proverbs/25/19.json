@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ماته غاښ او ورغوېدلې پښه — دا هغه باور دی چې پر خیانتګر کوی، د سختې ورځې په ورځ.",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "غاښ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "او پښه"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "ورغوېدلې"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "باور"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "پر خیانتګر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ... ورځ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "د سختې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:31.454237529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 24:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "خو د نیوکو کوونکو لپاره ⟨هغه⟩ خوښېږي، او پر هغوی به د ښې برکت راځي.",
+  "tokens": [
+    {
+      "surface": "ולמוכיחים",
+      "gloss": "خو د نیوکو کوونکو"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "خوښېږي"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "او پر هغوی"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:05.297966928Z",
+  "model": "glm-5.3"
+}

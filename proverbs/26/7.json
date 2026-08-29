@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د لنگ پښې سستې څړکېږي، او متل د احمقانو په خوله کې ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "سستې څړکېږي"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "پښې"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "د لنگ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "او متل"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "په خوله کې"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "د احمقانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:01.114102142Z",
+  "model": "glm-5.3"
+}

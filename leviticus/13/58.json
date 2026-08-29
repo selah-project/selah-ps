@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "leviticus 13:58",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او جامې یا تار یا پټه یا هر د ځرمو سامان چې وینې، او ټپه له هغوی لرې شي، نو دویم ځل به وینل شي او پاک به شي.",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "او جامې"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "پټه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "העור",
+      "gloss": "د ځرمو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תכבס",
+      "gloss": "وینې"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "او لرې شي"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "له هغوی"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ټپه"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "او وینل شي"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دویم ځل"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "او پاک شي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:26.548576139Z",
+  "model": "glm-5.3"
+}

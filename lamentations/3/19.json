@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "په ياد کوه زده‌کشمې زما او زما تښتېدل، افسنتين او زهر.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "په ياد کوه"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "زده‌کشمې زما"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "او زما تښتېدل"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "افسنتين"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "او زهر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:30.548200500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ناخبره په لوړو ډېرو ځایونو کې کېښودل شو، او بډایه په ټیټ ځای کې ناست دي.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "کېښودل شو"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ناخبره"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "په لوړو ځایونو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "او بډایه"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "په ټیټ ځای"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ناست دي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:00.389133587Z",
+  "model": "glm-5.3"
+}

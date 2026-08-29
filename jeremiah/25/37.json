@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او د ارامۍ څړځایونه چپ شول، د یاهوه د مخې د ستر غوسې له امله.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "او چپ شول"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "څړځایونه"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "د ارامۍ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "د مخې له امله"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "د ستر"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غوسې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:37:30.695613551Z",
+  "model": "glm-5.3"
+}

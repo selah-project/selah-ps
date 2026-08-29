@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "اووم هکوظ ته، اتم ابیاه ته.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "هکوظ ته"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "اووم"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ابیاه ته"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اتم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:06.123305406Z",
+  "model": "glm-5.3"
+}

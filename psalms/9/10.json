@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او یاهوه به د مظلوم لپاره لوړ ځای وي، د بلا په وختونو کې لوړ ځای.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ... وي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "مשגב",
+      "gloss": "لوړ ځای"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "د مظلوم لپاره"
+    },
+    {
+      "surface": "مשגב",
+      "gloss": "لوړ ځای"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "په وختونو کې"
+    },
+    {
+      "surface": "בצרه",
+      "gloss": "د بلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:07.317961117Z",
+  "model": "glm-5.3"
+}

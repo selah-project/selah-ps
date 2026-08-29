@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او ⟨کله چې⟩ ابرام مِتسرایم ته ولاړ، مِتسرایمانو ⟨את⟩ ښځه وليده، ځکه هغه ډېره ښکلې وه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "کله چې ... ولاړ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "مِتسرایم ته"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "وليده"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "مِتسرایمانو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ښځه"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ښکلې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:00.630735518Z",
+  "model": "glm-5.3"
+}

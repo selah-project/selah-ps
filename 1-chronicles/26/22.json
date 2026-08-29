@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د یحی ایلي زامنو: زیتام او یوایل، د هغه ورور، پر د یاهوه کور خزانو باندې.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دامنو"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "یحی ایلي"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "زیتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "او یوایل"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د هغه ورور"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر…باندې"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:06.693486733Z",
+  "model": "glm-5.3"
+}

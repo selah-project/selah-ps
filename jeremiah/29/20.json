@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "نو تاسو واورئ د یاهوه خبر، ټول جلاوطنان چې ما له یروشلایم څخه بابل ته شړلي ياست.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "نو تاسو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "جلاوطنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ما شړلي"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "له یروشلایم څخه"
+    },
+    {
+      "surface": "بבלה",
+      "gloss": "بابل ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:58.694623517Z",
+  "model": "glm-5.3"
+}

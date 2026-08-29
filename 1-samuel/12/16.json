@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "همدا اوس ودرېږئ او ⟨את⟩ دا لوی کار وګورئ چې یاهوه ستاسو پر سترګو کوي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "ودرېږئ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "او وګورئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا لوی کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ستاسو پر سترګو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:33:48.960935514Z",
+  "model": "glm-5.3"
+}

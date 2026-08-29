@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "کتله، ته ښایسته يې، زما خویندغاره، بلکې خوندور يې؛ زموږ بستره هم شنه ده.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "کتله"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ښایسته"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "زما خویندغاره"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "خوندور"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "زموږ بستره"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "شنه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:35.088403269Z",
+  "model": "glm-5.3"
+}

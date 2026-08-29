@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "میدان وران شو، ځمکه ویرېږي، ځکه غنم وران شول، نوی شراب وچ شول، غوړ مړاوی شو.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "وران شو"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "ویرېږي"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "وران شول"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "غنم"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "وچ شو"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "نوی شراب"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "مړاوی شو"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "غوړ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:12:46.694433201Z",
+  "model": "glm-5.3"
+}

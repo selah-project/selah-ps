@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د بدکار مخ پورته کول ښه نه دي، تر څو په پرېکړه کې نیک سړی بې لارې کړي.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "پورته کول"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "بې لارې کړي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک سړی"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "په پرېکړه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:12.645513728Z",
+  "model": "glm-5.3"
+}

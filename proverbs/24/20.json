@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ځکه چې د بدکار لپره ⟨هېڅ⟩ راتلونکې نشته، د ظالمانو څراغ به مړاوی شي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "راتلونکې"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "د بدکار لپاره"
+    },
+    {
+      "surface": "נר",
+      "gloss": "څراغ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د ظالمانو"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "مړاوی شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:05.104931907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "د الوهیم قربانيان ماتې روح ده؛ مات او زړقېتی زړه — الوهیم نه سپکوې يې.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "قربانيان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ماتې"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "مات"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "او زړقېتی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "سپکوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:18.984918219Z",
+  "model": "glm-5.3"
+}

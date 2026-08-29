@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "دروغجن خبر مه پورته کوه؛ خپل لاس مه ږدې له ظالم سره، چې د تاون شاهد وې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "پورته کوه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ږدې"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "להית",
+      "gloss": "چې وې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تاون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:48.229919961Z",
+  "model": "glm-5.3"
+}

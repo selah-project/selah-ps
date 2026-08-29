@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "انصاف او پرېکړه کول د یاهوه نږدې له مذبح څخه غوره ټاکل شوي دي.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کول"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او پرېکړه"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "غوره ټاکل شوي دي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "له مذبح"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:36.348768348Z",
+  "model": "glm-5.3"
+}

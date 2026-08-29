@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د باغونو چینه، د ژوندیو اوبو څاه، او بهېدونکي چینې چې له لُبنان څخه راځي.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "چینه"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "باغونو"
+    },
+    {
+      "surface": "באר",
+      "gloss": "څاه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندۍ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "او بهېدونکي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لُبنان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:16.269834092Z",
+  "model": "glm-5.3"
+}

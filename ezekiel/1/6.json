@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او څلور مخونه يې ⟨وو⟩ يو ⟨ته⟩، او څلور وزونه يې ⟨وو⟩ يو ⟨ته⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخونه"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "يو ⟨ته⟩"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "وزونه"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "يو ⟨ته⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:50:05.576717735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "او هغه راته وویل: «زما خدمتګار يې، اسراییل، چې زه په تا ښکلی کېږم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "زما خدمتګار"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ښکلی کېږم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:14.401286648Z",
+  "model": "glm-5.3"
+}

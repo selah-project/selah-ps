@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او شاول ورته په یاهوه قسم وخوړ چې: ژوندی دی یاهوه، که دې ګناه په دې خبره کې ونه لګېږي.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "او قسم یې وخوړ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יקرך",
+      "gloss": "دې ونه لګېږي"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "په دې خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:40:13.653223771Z",
+  "model": "glm-5.3"
+}

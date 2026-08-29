@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ⟨هغه⟩ ⟨את⟩ زاغه ولېږه؛ هغه وتلو راستنېدلو ته روان و، تر هغه چې اوبه له ځمکې وچې شوې.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زاغه"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "زاغه"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ووتلو"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "وتلو"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "راستنېدلو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "وچې شوې"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:39.465387010Z",
+  "model": "glm-5.3"
+}

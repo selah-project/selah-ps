@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "ادونای یاهوه زما لپاره غوږ پرانیست، او زه نافرماني ونه کړم؛ شا ته نه راګرځېدم.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "پرانیست"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "نافرماني ونه کړم"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "شا ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "راګرځېدم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:24:13.066431752Z",
+  "model": "glm-5.3"
+}

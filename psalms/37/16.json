@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "لږ چې صالح لري، له ډېرو شریرانو د مالونو څخه غوره دی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره دی"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "چې صالح لري"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "له مالونو"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریرانو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:47.405719052Z",
+  "model": "glm-5.3"
+}

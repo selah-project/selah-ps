@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "د حکمت پیل د یاهوه وېره ده، او د سپېڅلیو پېژندنه ←بېنا ده.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "پیل"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "او پېژندنه"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "سپېڅلیو"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "بېنا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:58.516645558Z",
+  "model": "glm-5.3"
+}

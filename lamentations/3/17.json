@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او زما روح يې له ارامي لرې کړی، هېرېږې ده ما ته نيکي.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "او لرې کړی يې"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "له ارامي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما روح"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "هېرېږې ده ما ته"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "نيکي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:30.547913779Z",
+  "model": "glm-5.3"
+}

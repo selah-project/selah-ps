@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ترې لرې شه، پرې مه تېرېږه؛ ترې واوړه او تېر شه.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "ترې لرې شه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "تېرېږه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "واوړه"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "او تېر شه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:37.378330120Z",
+  "model": "glm-5.3"
+}

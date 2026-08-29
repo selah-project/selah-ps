@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 100,
+  "translation": "د مننې مزمور. ټوله ځمکه د یاهوه لپاره شوغ وغړوئ.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "د مننې"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "شوغ وغړوئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:09.184625302Z",
+  "model": "glm-5.3"
+}

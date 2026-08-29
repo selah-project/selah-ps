@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 22:24",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او کېږده پر خاور د کان زر، او د اوفیر زر د درو د تورو تيږو ترمنځ.",
+  "tokens": [
+    {
+      "surface": "ושית",
+      "gloss": "او کېږده"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاور"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "د کان زر"
+    },
+    {
+      "surface": "ובצור",
+      "gloss": "او د غټو تيږو"
+    },
+    {
+      "surface": "נחلים",
+      "gloss": "د درو"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اوفیر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:51.692080490Z",
+  "model": "glm-5.3"
+}

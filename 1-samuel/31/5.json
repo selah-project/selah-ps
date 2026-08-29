@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او د هغه د وسلو وړونکيune چې وليکل چې شاؤل مړ شوی، هغه هم پر خپله توره ولوېد او له هغه سره مړ شو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "چې وليکل"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "وړونکیune"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "د هغه د وسلو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مړ شوی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ولوېد"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "خپله توره"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "له هغه سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:41:44.190404132Z",
+  "model": "glm-5.3"
+}

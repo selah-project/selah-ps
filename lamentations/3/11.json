@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه زما لارې بېلې کړې او مې وشکاوه، مې يې وېرونکې {{شوم}} کړړه",
+  "tokens": [],
+  "timestamp": "2026-08-29T02:42:57.928778466Z",
+  "model": "glm-5.3"
+}

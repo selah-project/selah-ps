@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "deuteronomy 28:66",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او ژوند به دې درته له مخامخه ځوړند وي، او شپه او ورځ به وېرېږې، او خپل ژوند به باور نه کړې.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ژوند دې"
+    },
+    {
+      "surface": "תלאים",
+      "gloss": "ځوړند"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "له مخامخه"
+    },
+    {
+      "surface": "ופחדת",
+      "gloss": "او به وېرېږې"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "او ورځ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תאמין",
+      "gloss": "به باور کړې"
+    },
+    {
+      "surface": "בחייך",
+      "gloss": "په خپل ژوند"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:32.619144490Z",
+  "model": "glm-5.3"
+}

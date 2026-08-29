@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "دا هغه خبر دی چې یاهوه له هغه وخت راهیسې پر موآب ویلی دی.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویلی دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "له هغه وخت راهیسې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:14:49.280226783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د هوښیار فکرونه یوازې پر ګټه دي؛ خو د هر چټک (شتکار) یوازې پر کمښت.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "فکرونه"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "د هوښیار"
+    },
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "پر ګټه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "خو هر"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "چټک"
+    },
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "پر کمښت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.001228696Z",
+  "model": "glm-5.3"
+}

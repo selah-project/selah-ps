@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "او د زبولن زامن: سرد، او ایلون، او یحلایل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولن"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "سرد"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "او ایلون"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "او یحلایل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:47.789464263Z",
+  "model": "glm-5.3"
+}

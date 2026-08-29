@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او پارعوه وګرځېد او خپل کور ته لاړ، او خپل زړه يې دې ته هم ونه-ګمارله.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "او وګرځېد"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعوه"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او لاړ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خپل کور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ونه-ګمارله"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "خپل زړه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "دې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:59.067940265Z",
+  "model": "glm-5.3"
+}

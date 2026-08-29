@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "په تېرو او د کمان سره به هلته راشې، ځکه د شمېرو او خاریو به ټوله ځمکه وي.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "په تېرو"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "او د کمان سره"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "به راشي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "د شمېرو"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "او خاریو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:12:28.450037713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او د یاهوه خبره راته وشوه، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:56:48.646850391Z",
+  "model": "glm-5.3"
+}

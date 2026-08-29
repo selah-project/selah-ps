@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او که له دوی د مړې پر هر هغه کرل شوي تخم ولوېږي چې کرل کېږي، دا پاک دی.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "له دوی د مړې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "کرل شوي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "کرل کېږي"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:39:05.346912455Z",
+  "model": "glm-5.3"
+}

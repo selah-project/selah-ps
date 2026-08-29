@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او په موآب کې به قضاوتونه وکړم، او به پوه شي چې زه یاهوه یم.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "او په موآب کې"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "به وکړم"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "قضاوتونه"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "او به پوه شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:43.942421099Z",
+  "model": "glm-5.3"
+}

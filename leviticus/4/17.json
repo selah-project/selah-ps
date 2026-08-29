@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او کاهن به خپل ګوته په هغه وینه کې ډوبه کړه او اوه ځله د یاهوه په وړاندې، د پرده د مخې ⟨את⟩ پرې وټوټوي (وشیندل شي).",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "او ډوبه کړه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "خپل ګوته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "او وټوټوي"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ځله"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د پرده مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پرده"
+    }
+  ],
+  "timestamp": "2026-08-29T02:57:44.844169923Z",
+  "model": "glm-5.3"
+}

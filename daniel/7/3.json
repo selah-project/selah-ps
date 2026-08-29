@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او څلور لوی ځناور له سمندره راپورته شول، یو له بل سره بېل وو.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "ځناور"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "راپورته شول"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "سمندره"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "بېل وو"
+    },
+    {
+      "surface": "דא",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "דא",
+      "gloss": "بل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:33:25.339326949Z",
+  "model": "glm-5.3"
+}

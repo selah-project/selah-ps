@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او یاهوه ⟨את⟩ هغه فرشته چې په ما کې يې خبرې کولې، ښه خبرې، تسلۍ-بخښونکې خبرې، ځواب کړې.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ځواب يې کړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه فرشته"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشته"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "چې خبرې کولې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما کې"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "تسلۍ-بخښونکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:25.289820704Z",
+  "model": "glm-5.3"
+}

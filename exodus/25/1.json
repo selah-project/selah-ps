@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او یاهوه وویل موشې ته، چې وايي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي:"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:27.392111127Z",
+  "model": "glm-5.3"
+}

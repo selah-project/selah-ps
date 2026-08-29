@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 149,
+  "translation": "ځکه چې خوښ وي یاهوه ⟨په⟩ قوم د هغه، ښکلی کوي زغموال په نجات کې",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "خوښ وي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "⟨په⟩ قوم د هغه"
+    },
+    {
+      "surface": "ייפאר",
+      "gloss": "ښکلی کوي"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "زغموال"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "په نجات کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:39.259517706Z",
+  "model": "glm-5.3"
+}

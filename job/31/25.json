@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "که زه خوښېدلم چې زما شتمني ډېره ده، او چې زما لاس ډېر پیدا کړی دی،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "زه خوښېدلم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "زما شتمني"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "او چې"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "پیدا کړی دی"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "زما لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:25.816280778Z",
+  "model": "glm-5.3"
+}

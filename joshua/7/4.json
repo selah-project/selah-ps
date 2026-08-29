@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "نو د قوم له خوا هلته نږدې درې زره تنه پورته شول، او د العای د سړیو پر وړاندې وتښتېدل.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "پورته شول"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له خوا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "درې زره"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "איש",
+      "gloss": "تنه"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "وتښتېدل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړیو"
+    },
+    {
+      "surface": "העי",
+      "gloss": "العای"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:10.912191095Z",
+  "model": "glm-5.3"
+}

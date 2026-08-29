@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "خو زه تل ستا سره یم؛ ته زما ښي لاس نیولی دی.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "خو زه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "نیولی دی"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "زما ښي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:06.587433990Z",
+  "model": "glm-5.3"
+}

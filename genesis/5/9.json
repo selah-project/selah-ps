@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او اېنوش نويursې کالې ژوند وکړ، او يې ⟨את⟩ قینان زېږېده.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اېنوش"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نويursې"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالې"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "زېږېده يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قینان"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قینان"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:20.759628113Z",
+  "model": "glm-5.3"
+}

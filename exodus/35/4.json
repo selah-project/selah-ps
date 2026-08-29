@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 35:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او موشې د یسرایل د زامنو ټولې ټولنې ته وویل: دا هغه خبر دی چې یاهوه حکم کړی، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او…وویل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ټولنې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:32.728386928Z",
+  "model": "glm-5.3"
+}

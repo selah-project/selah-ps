@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او بالق بیا زیاته وکړه او امیران یې ولېږل — ډېر او له دوی نه سترو مانعان.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "بیا زیاته وکړه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالق"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ولېږل یې"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "امیران"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ונכبדים",
+      "gloss": "سترو"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "له دوی نه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:17.854789990Z",
+  "model": "glm-5.3"
+}

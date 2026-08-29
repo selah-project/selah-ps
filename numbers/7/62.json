@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "يوه د سرو زرو کف (د لاس اندازه لوښی) چې لس شېکلې وه، له بخور ډکه.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "زהב",
+      "gloss": "د سرو زرو"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکه"
+    },
+    {
+      "surface": "قטרת",
+      "gloss": "له بخور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:08.390631869Z",
+  "model": "glm-5.3"
+}

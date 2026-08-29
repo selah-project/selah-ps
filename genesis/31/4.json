@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او ياغوب راولېږه او راخېڅله راحېل او لېا د میدان ته، خپلې ډېرې ته.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "راولېږه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ياغوب"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "راخېڅله"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راحېل"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "او لېا"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د میدان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "خپلې ډېرې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:17.012601757Z",
+  "model": "glm-5.3"
+}

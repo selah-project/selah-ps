@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او خنوخ پنځه شپېته کاله ژوند وکړ، او يې متوشلاخ وزېږوه.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خنوخ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "شپېته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وزېږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "متوشلاخ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "متوشلاخ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:39.828243870Z",
+  "model": "glm-5.3"
+}

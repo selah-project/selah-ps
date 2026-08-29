@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او دوی به وږي لکه د وښو په منځ کې، لکه بیدمېشې د اوبو د بهېدو څنډو ته.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "او دوی به وږي"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "وښو"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "لکه بیدمېشې"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "د بهېدو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:13.134172325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "نو به خبرې کوم او نه به ورڅخه وېرېږم، ځکه زه پخپله داسې نه يم.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "خبرې به کوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "ورڅخه وېرېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "پخپله \/ له ځان سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:06.879936766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زه یاهوه ستا الوهیم یم، چې تا د غلامانو له کوره، له مِتسرایم (مصر) ځمکې وباسم.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "وباسم تا"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "له ځمکې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "له کوره"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "د غلامانو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:38.635563566Z",
+  "model": "glm-5.3"
+}

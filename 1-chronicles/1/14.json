@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ⟨את⟩ یبوسي، او ⟨את⟩ اموري، او ⟨את⟩ ګرګشي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "یبوسي"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یبوسي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "اموري"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ګرګشي"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ګرګشي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:59.842005607Z",
+  "model": "glm-5.3"
+}

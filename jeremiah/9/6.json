@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 9:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "نو داسې وايي یاهوه-صباؤت: زه به دا ويلي کړم او ازمويه يې کړم، ځکه څنګه به وکړم، د زما د قوم د لور له امله؟",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "دا زه"
+    },
+    {
+      "surface": "צורפם",
+      "gloss": "به يې ويلي کړم"
+    },
+    {
+      "surface": "ובחנתים",
+      "gloss": "او ازمويه به يې کړم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "به وکړم"
+    },
+    {
+      "surface": "מפنי",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما قوم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:56.294363600Z",
+  "model": "glm-5.3"
+}

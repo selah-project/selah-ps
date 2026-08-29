@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 72,
+  "translation": "او ټول پاچایان به ورته سجدې کوي؛ ټول ملتونه به ورته خدمت کوي.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "او سجدې کوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاچایان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "ورته خدمت کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:27.780503104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ⟨את⟩ درزونه د داوېد ښار مو ولیدل چې ډېر شوي وو، او د ښکته حوض اوبه مو راټولې کړې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "درزونه"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "درزونه"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "مو ولیدل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ډېر شوي"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "راټولې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوبه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ښکته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:10.312645249Z",
+  "model": "glm-5.3"
+}

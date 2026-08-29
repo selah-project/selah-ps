@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او هر جامو ته او هر پوستکي چې پرې د تناسل تخم وي، په اوبو کې به وینځل شي او تر ماښامه به ناپاکه وي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "עור",
+      "gloss": "پوستکی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "د تناسل د اړیکو"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "به وینځل شي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو کې"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "او ناپاکه به وي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ماښامه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:04.819606700Z",
+  "model": "glm-5.3"
+}

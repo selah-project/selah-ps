@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 26:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د تخت مخ نیسي، خپله ورېځه پرې پراخوي.",
+  "tokens": [
+    {
+      "surface": "מאחז",
+      "gloss": "نیسي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "פרשז",
+      "gloss": "پراخوي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "עננו",
+      "gloss": "خپله ورېږه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:10.148572995Z",
+  "model": "glm-5.3"
+}

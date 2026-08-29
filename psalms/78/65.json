@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او ادونای لکه ویده ویښ شو، لکه یو اتل چې له شرابه چیغه وهي.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "او ویښ شو"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "لکه ویده"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "لکه اتل"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "چیغه وهي"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "له شرابه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:26.821967253Z",
+  "model": "glm-5.3"
+}

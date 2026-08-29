@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او د ییسرایل زامنو چې موجود وو په هغه وخت کې ⟨את⟩ پسح وکړ، او ⟨את⟩ د ماتزوت اختر اووه ورځې.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وکړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرایل"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "موجود وو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د ماتزوت اختر"
+    },
+    {
+      "surface": "חג",
+      "gloss": "اختر"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ماتزوت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:11:46.831499502Z",
+  "model": "glm-5.3"
+}

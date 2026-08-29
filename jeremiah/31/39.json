@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او د اندازه پټه به بیا واوړي دهغې مخامخ، پر ګاریب غونډۍ، او به وڅرخي ګوعا ته.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "او به واوړي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "د اندازه پټه"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "اندازه"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "مخامخ یې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "غونډۍ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ګاریب"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "او به وڅرخي"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "ګوعا ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:55.532217250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دا وشول، چې کله د انسانانو د ډېرېدو پیل وشو د ځمکې پر مخ، او لوڼې ورته وزېږېدلې،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "החל",
+      "gloss": "پیل وشو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسانانو"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "د ډېرېدو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د مخ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼې"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "وزېږېدلې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:37.161992356Z",
+  "model": "glm-5.3"
+}

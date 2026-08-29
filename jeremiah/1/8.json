@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "له دوی مه وارخطا کېږه، ځکه چې زه ⟨את⟩ درسره یم د ستا د خلاصون لپاره، د یاهوه اعلان.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وارخطا کېږه"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "له دوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ درسره"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "د ستا د خلاصون لپاره"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:28:15.064095272Z",
+  "model": "glm-5.3"
+}

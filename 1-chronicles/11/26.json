@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او د لښکرو زړور اتلان دا وو: عاساه‌اېل، د یوآب ورور؛ اېلحانان، د دودو زوی، د بېت لحمي.",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "او د زړورو اتلانو"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "د لښکرو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "عاساه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-اېل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "د … ورور"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "اېلحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "د بېت"
+    },
+    {
+      "surface": "لחם",
+      "gloss": "لحمي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:50.028613754Z",
+  "model": "glm-5.3"
+}

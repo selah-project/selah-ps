@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "بلکې پر یتيم يې راغورځوئ، او خپل ملګری پلوريئ.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "راغورځوئ"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "پلوريئ"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "خپل ملګری"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:42.149438817Z",
+  "model": "glm-5.3"
+}

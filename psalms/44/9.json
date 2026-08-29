@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "په الوهیم کې مو ټوله ورځ وستایه او ستا نوم به د تل لپاره منو. سلاه.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "په الوهیم"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "وستایه مو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "او ستا نوم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "منو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:43.840644276Z",
+  "model": "glm-5.3"
+}

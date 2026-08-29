@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما تنګسه وګوره او مې خلاص کړه، ځکه ستا شريعت نه يم هېر کړی.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "زما تنګسه"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "او مې خلاص کړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ستا شريعت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "هېر کړی يم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:22.949702549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او یوسف ورته وویل: «دا يې تعبیر دی: درې ښاخونه — درې ورځې دي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل یې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "تعبیر"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ښاخونه"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:09.660944950Z",
+  "model": "glm-5.3"
+}

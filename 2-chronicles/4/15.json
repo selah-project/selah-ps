@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "⟨את⟩ يو سمندر، او ⟨את⟩ دولس غواګانې تر ده لاندې.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "⟨את⟩",
+      "marks": "غواګانې"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "غواګانې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(دوه لس)"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "تر ده لاندې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:38.899575820Z",
+  "model": "glm-5.3"
+}

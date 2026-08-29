@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 27:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "ځکه چې د منافق هيله څه ده، کله چې ⟨ګټه⟩ پرې کړي، کله چې الوه د هغه نفس وباسي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "هيله"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "د منافق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "יבצע",
+      "gloss": "پرې کړي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "وباسي"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "د هغه نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:42.498023356Z",
+  "model": "glm-5.3"
+}

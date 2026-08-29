@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د شمعون له قبیلې: شلومی ایل د تسوری شدای زوی.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "د شمعون (له قبیلې)"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شلومی ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "تسوری شدای"
+    }
+  ],
+  "timestamp": "2026-08-29T02:57:28.034053074Z",
+  "model": "glm-5.3"
+}

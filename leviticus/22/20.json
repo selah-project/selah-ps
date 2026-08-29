@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "هر څه چې عیب پکې وي، مه یې وړاندې کوئ، ځکه چې د خوښې وړ به نه وي تاسو ته.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عیب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "وړاندې کوئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "د خوښې وړ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:29.310281369Z",
+  "model": "glm-5.3"
+}

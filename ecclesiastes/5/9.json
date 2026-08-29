@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د سرو زرو مینه‌والی له سرو زرو نه ماتیږي، او څوک چې د ډېر مال مینه‌والی وي — هېڅ دخل نه؛ دا هم هېبېل دی.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "مینه‌والی"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سرو زر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ماتیږي"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سرو زرو"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک چې"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "مینه‌والی"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ډېر مال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "دخل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېبېل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:09.586122500Z",
+  "model": "glm-5.3"
+}

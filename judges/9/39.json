@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "نو ګاعل د شکیم د مشرانو مخې ته ووت او له ابیملخ سره يې جګړه وکړه.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "געל",
+      "gloss": "ګاعل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "د مشرانو"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "د شکیم"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "او جګړه يې وکړه"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "له ابیملخ سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:25:59.066133464Z",
+  "model": "glm-5.3"
+}

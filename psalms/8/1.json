@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "د رهبر لپاره، پر ګتیت (د ګت زېربې ته)، د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ګتیت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:44.437605776Z",
+  "model": "glm-5.3"
+}

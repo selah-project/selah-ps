@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او تاسو به ما ولټوئ ⟨את⟩ ماته او وموئئ، ځکه چې تاسو ⟨את⟩ ماته په خپل ټول زړه درشوئ.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "به ولټوئ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ماته",
+      "marks": "ما"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "او وموئئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ما درشوئ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:55.433718536Z",
+  "model": "glm-5.3"
+}

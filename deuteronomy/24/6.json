@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "نه دې اخیستل کېږي د ګرو اړېدونکې ډبره او پورتنۍ ډبره، ځکه چې دا د هغه نفس (ژوند) دی چې ګرو اخلي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "اخیستل کېږي ګرو"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "اړېدونکې ډبره"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "او پورتنۍ ډبره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس (ژوند)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ګرو اخلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:43.196609666Z",
+  "model": "glm-5.3"
+}

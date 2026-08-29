@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "ځکه چې دا دوه کاله دي چې قحطي د ځمکې په منځ کې ده، او لا پنځه کاله پاتې دي چې نه به کرنه وي او نه ریبل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دوه کاله"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحطي"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "او لا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "کرنه"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "او ریبل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:51.707958123Z",
+  "model": "glm-5.3"
+}

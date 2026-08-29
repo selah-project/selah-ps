@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "اوس زه درېږم، د یاهوه خبره ده؛ اوس زه لوړ شم؛ اوس زه ځان پورته کوم.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "زه درېږم"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "د … خبره ده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "زه لوړ شم"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "زه ځان پورته کوم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:23.220033109Z",
+  "model": "glm-5.3"
+}

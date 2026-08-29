@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 109,
+  "translation": "چې د بدکار خوله او د درغلي خوله ⟨زما⟩ پر against پرانیستې شوې؛ ⟨هماغوی⟩ ⟨את⟩ زما سره د دروغو ژبې خبرې وکړې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "او خوله"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "د درغلي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما پر against"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "پرانیستې شوې"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "خبرې وکړې"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "زما سره"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "د ... ژبې"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:18.522361423Z",
+  "model": "glm-5.3"
+}

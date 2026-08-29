@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او نوګه او نِفِګ او یاپیه،",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "او نوګه"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "او نِفِګ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "او یاپیه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:44.640587857Z",
+  "model": "glm-5.3"
+}

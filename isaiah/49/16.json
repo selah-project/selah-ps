@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "کتل! په لاسونو کې دې کنډ شوی یې؛ دېوالونه دې تل زما په وړاندې دي.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "کتل!"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "لاسونو کې"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "دې کنډ شوی یې"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "دېوالونه دې"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "زما په وړاندې"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:32:22.112891630Z",
+  "model": "glm-5.3"
+}

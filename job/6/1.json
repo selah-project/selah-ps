@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ایوب ځواب وکړ او ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "او ځواب یې وکړ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:39.213812335Z",
+  "model": "glm-5.3"
+}

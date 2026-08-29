@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 25:27",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او هلان لوی شول؛ عېساو د ښکار پوه سړی و، د میدان سړی؛ خو یعقوب بشپړ سړی و، چې په خیمو کې اوسېده.",
+  "tokens": [
+    {
+      "surface": "ויגדלו",
+      "gloss": "لوی شول"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "هلان"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "و"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عېساو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ښکار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "خو یعقوب"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "اوسېده"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "په خیمو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:38.254103313Z",
+  "model": "glm-5.3"
+}

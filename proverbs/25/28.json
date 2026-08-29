@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ښار چې مات شوی او دیوالونه نه لري — هغه سړی چې د خپل روح لپاره بندول نه لري.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "مات شوی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه لري"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوال"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه لري"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "بندول"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "د خپل روح لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:30.136216381Z",
+  "model": "glm-5.3"
+}

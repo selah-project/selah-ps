@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زوی حَشَبیا، زوی اَمَصیا، زوی حِلکیا.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "اَمَصیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلکیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:14.197859826Z",
+  "model": "glm-5.3"
+}

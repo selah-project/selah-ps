@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "درېيمه د حارم لپاره، څلورمه د سعوريم لپاره.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "د حارم لپاره"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "درېيمه"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "د سعوريم لپاره"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "څلورمه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:02.558271834Z",
+  "model": "glm-5.3"
+}

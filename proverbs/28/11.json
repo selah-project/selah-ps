@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "شتم سړی د خپلو سترګو (په وړاندې) پوه دی؛ خو غریب پوه د هغه درنګول کوي.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په سترګو کې یې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "شتم"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "خو غریب"
+    },
+    {
+      "surface": "مבין",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "יחקרنו",
+      "gloss": "درنګول کوي یې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:55.856313441Z",
+  "model": "glm-5.3"
+}

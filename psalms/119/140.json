@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ستا وينا ډېره تصفیه شوې ده، او ستا غلام يې مینه کوي.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "تصفیه شوې"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ستا وينا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "او ستا غلام"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "مینه کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:05.191524340Z",
+  "model": "glm-5.3"
+}

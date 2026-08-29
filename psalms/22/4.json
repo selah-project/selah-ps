@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ته سپېڅلی يې، د اسرائیل د ستاینو پر تخت ناست.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "سپېڅلی"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ناست"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "د ستاینو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:30.508114623Z",
+  "model": "glm-5.3"
+}

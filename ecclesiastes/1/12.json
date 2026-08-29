@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "زه قاهیلېت د اسرائیل ⟨پاچا⟩ په یروشلایم کې وم.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "قהלת",
+      "gloss": "قاهیلېت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وُم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "په یروشلایم کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:49.371394457Z",
+  "model": "glm-5.3"
+}

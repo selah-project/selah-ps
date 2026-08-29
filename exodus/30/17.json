@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او یاهوه له موشې سره وویل، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او … وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له … سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:46.443057093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "بيا مې ځواب ووايه او ورته ومې ويل: دا دوه زیتونونه څه دي، د څراغ پر ښي لوري او پر کیڼ يې؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "بيا مې ځواب ووايه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او ومې ويل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه دي"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "زیتونونه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ښي لوري"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "د څراغ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "کیڼ يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:31.569582585Z",
+  "model": "glm-5.3"
+}

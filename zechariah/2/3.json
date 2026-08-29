@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه ماته څلور صنعتګران وښودل.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ماته وښودل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "صنعتګران"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:45.604486428Z",
+  "model": "glm-5.3"
+}

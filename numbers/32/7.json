@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او ولې د یسرویل زامنو زړه خفه کوئ، چې هغه ځمکې ته بهېر شي چې یاهوه ورکړې ده؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "او ولې"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "خفه کوئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زړه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "بני",
+      "gloss": " … زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرویل"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "چې … بهېر شي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هغه ځمکې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:31.938035824Z",
+  "model": "glm-5.3"
+}

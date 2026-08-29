@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 86,
+  "translation": "په ورځ د زما د تنگسې به درې غږ کوم، ځکه چې تُه مې ځوابوې.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "د زما تنگسه"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "به درې غږ کوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "مې ځوابوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:15.852709186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 112,
+  "translation": "له ناوخبرۍ بدخبري نه ویرېږي؛ زړه يې ټینګ دی، په یاهوه باندې ډاډمن دی.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "له خبرۍ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ویرېږي"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ټینګ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ډاډمن"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:41.394154166Z",
+  "model": "glm-5.3"
+}

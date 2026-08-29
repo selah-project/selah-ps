@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او که پر ⟨هغه⟩ بستره وي یا پر هغه سامان چې هغه پرې ناسته وي، کله چې ⟨څوک⟩ پرې لاس ووهي، تر ماښامه پورې ناپاک کېږي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "بستره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وي"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "هغه سامان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ناسته وي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "کله چې لاس ووهي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک کېږي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ماښامه پورې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:44:50.723604613Z",
+  "model": "glm-5.3"
+}

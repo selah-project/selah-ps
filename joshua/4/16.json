@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "«کاهنان چې د شهادت صندوق اخلي، هغوي فرض کړه چې له اردن څخه پورته راوځي.»",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "فرض کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاهنان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "נשאي",
+      "gloss": "چې اخلي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "د شهادت"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "او راوځي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:16:12.799126246Z",
+  "model": "glm-5.3"
+}

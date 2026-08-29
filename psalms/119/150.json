@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "نږدې شول د شر计划的 څارونکي؛ له دېره يې ستا له شریعته لرې شول.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "نږدې شول"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "څارونکي"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "شر"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "له ستا له شریعته"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "لرې شول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:58.093975953Z",
+  "model": "glm-5.3"
+}

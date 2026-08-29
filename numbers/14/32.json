@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او ستاسو خپلې مړې ډډې به په دې بېديا کې ولوېږي.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "او ستاسو مړې ډډې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو خپل"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "به ولوېږي"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بېديا کې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:20.148835583Z",
+  "model": "glm-5.3"
+}

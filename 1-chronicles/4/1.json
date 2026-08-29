@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د یهودا زامن: پېرِتس، حِتسرون، کارمي، حور او شوبال.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پېرِتس"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حِتسرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "کارمي"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "شوبال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:39.826434415Z",
+  "model": "glm-5.3"
+}

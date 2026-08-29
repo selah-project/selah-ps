@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د قادېش پاچا یو، د کارمِل د یَقنِعام پاچا یو —",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادېش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "یَقنِعام"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "کارمِل ته\/پورې"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:25.921445423Z",
+  "model": "glm-5.3"
+}

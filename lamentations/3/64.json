@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ته دوی ته بدلہ ورکوې، ای یاهوه، د دوی د لاسونو د کار سره سم.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "ته ورکوې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دوی ته"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "د کار سره سم"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "د دوی د لاسونو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:34.258626623Z",
+  "model": "glm-5.3"
+}

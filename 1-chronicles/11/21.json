@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "له درېیو (د دویمو له ډلې) هغه درناوی و او د هغوی لارښود شو؛ خو تر لومړیو درېیو ونه رسېد.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "درېیو"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "د دویمو په ډله کې"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "درناوی و"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او شو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د هغوی"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "لارښود"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "خو تر"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "لومړیو درېیو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ورسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:53.529187545Z",
+  "model": "glm-5.3"
+}

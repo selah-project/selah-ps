@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "اوسپنه د اوسپنې په واسطه تېره کېږي، او یو سړی د خپل ملګري مخ تېره کوي.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "د اوسپنې په واسطه"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تېره کېږي"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "او یو سړی"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "تېره کوي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "د خپل ملګري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:58.578466136Z",
+  "model": "glm-5.3"
+}

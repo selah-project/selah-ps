@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "نو زما هیله چېرته ده؟ او زما هیله به څوک وویني؟",
+  "tokens": [
+    {
+      "surface": "ואיה",
+      "gloss": "نو … چېرته ده"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "زما هیله"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "او زما هیله"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "به وویني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:23.465082911Z",
+  "model": "glm-5.3"
+}

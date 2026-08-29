@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او اَبیشای، د صرویاه زوی، ⟨את⟩ اېدوم د مالحینو په دره کې واهه — اتلس زره.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "او اَبیشای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "صرویاه"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "واهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اېدوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اېدوم"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "په دره"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "د مالحینو"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اتلس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:56.944835422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "تاسو له یاهوه سره بغاوتي وئ، له هغه ورځې چې ما ⟨את⟩ تاسو پېژندل.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "بغاوتي"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "وئ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له... سره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "له هغه ورځې"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "چې ما پېژندل"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تاسو",
+      "marks": "تاسو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:38.678677832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "مِتسرايم يوه ډېره ښکلې نيمګړې غوا ده؛ له شمال څخه يو ګز راغلی، راغلی دی.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "نيمګړې غوا"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ښکلې"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ډېره ښکلې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "ګز"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "له شمال څخه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی دی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:41.870317909Z",
+  "model": "glm-5.3"
+}

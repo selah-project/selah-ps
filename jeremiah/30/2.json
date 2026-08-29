@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "«داسې وايي یاهوه، د اسراییل الوهیم: ټول هغه خبرونه چې ما ته دې ویلي، په یو کتاب کې ⟨את⟩ وليکه.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم د"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "כתב",
+      "gloss": "وليکه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته (د ځان لپاره)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه خبرونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ویلي يې دي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ته دې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "یو کتاب"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:49.677901916Z",
+  "model": "glm-5.3"
+}

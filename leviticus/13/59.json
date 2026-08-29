@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "leviticus 13:59",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "دا د اورمې د ټپ د ننگې په وروښۍ يا کتاني کې، يا په تار يا په ورېد کې، يا په هر څه د څرmxې د پاکه ويلو يا ناپاکه ويلو لارښود دى.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "لارښود"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "د ټپ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "اورمې"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "وروښۍ"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "د ورو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "הפשתים",
+      "gloss": "د کتان"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "تار"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ورېد"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "څه"
+    },
+    {
+      "surface": "עור",
+      "gloss": "د څرmxې"
+    },
+    {
+      "surface": "לטהרו",
+      "gloss": "د پاکه ويلو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "לטמאו",
+      "gloss": "د ناپاکه ويلو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:12.188268081Z",
+  "model": "glm-5.3"
+}

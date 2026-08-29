@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "یاهوه ⟨את⟩ ناتان داوېد ته ولېږه؛ هغه ورته راغی او ورته یې وویل: په یوه ښار کې دوه سړي وو — یو شتمن او یو بېوسه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "شتمن"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "او یو"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "بېوسه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:59.909470414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او یاهوه له موشې سره وويل، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:43.573422971Z",
+  "model": "glm-5.3"
+}

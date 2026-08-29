@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او د هغه د سختۍ په وخت کې هغه د یاهوه ضد لا زیاته خیانت وکړ — همدا پاچا اَحاز.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "او په وخت"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "د سختۍ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "لا زیاته يې وکړ"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "خیانت"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "پر یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "هמלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَحاز"
+    }
+  ],
+  "timestamp": "2026-08-29T02:07:44.869797174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "زما بستره مې په مُر، اهالیمو او قینامونو سره معطره کړې ده.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "مې معطره کړې ده"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "زما بستره"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مُر"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "اهالیم (لرګي)"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "او قینامون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:02.080342165Z",
+  "model": "glm-5.3"
+}

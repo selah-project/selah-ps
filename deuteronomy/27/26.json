@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "لعنت وې هغه چې د دې تورات خبرې نه پالي ⟨את⟩ د دې تورات خبرې، د عمل کولو لپاره ⟨את⟩ يې، او ټول قوم وویل: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت وې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "پالي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د تورات خبرې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "د عمل کولو لپاره"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ يې"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:42.863716294Z",
+  "model": "glm-5.3"
+}

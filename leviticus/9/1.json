@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او په اتمه ورځ وشول چې موشې اهرون او د هغه زامن او د یسرایل زاړه\/مشران وروبلل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اتمه"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "وروبلل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اهرون ته"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "او د هغه زامنو ته"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "او د مشرانو ته"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:37:54.824656794Z",
+  "model": "glm-5.3"
+}

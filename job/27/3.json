@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "ځکه چې تر دې چې زما باد په ما کې دی، او د الوه روح په زما پوزو کې،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "تر دې لا"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "زما باد"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما کې"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او روح"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "د الوه"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "په زما پوزو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:35.905538361Z",
+  "model": "glm-5.3"
+}

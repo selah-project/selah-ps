@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د زرach د زامنو څخه: یعوایل او د هغوی وروڼه، شپږ سوه او نوي.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له ... څخه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زراخ"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "یعوایل"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "او د هغوی وروڼه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "او نوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:45.121445481Z",
+  "model": "glm-5.3"
+}

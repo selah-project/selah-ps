@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "بې‌تجربه هره خبره مني، خو هوښيار خپل ګام بررسي کوي.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "بې‌تجربه"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "مني"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "خو هوښيار"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "بررسي کوي"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "خپل ګام"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:56.670686179Z",
+  "model": "glm-5.3"
+}

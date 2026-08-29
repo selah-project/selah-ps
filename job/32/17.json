@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "زه به هم ځواب ووایم — خپله برخه؛ زه به هم خپله پوهه څرګنده کړم.",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "ځواب ووایم"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "خپله برخه"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "څرګنده کوم"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "زما پوهه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:27.490047719Z",
+  "model": "glm-5.3"
+}

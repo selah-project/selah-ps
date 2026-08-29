@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "ما یاهوه تل زما مخې ته ږدم؛ ځکه چې زما ګډه لاس ته ⟨دی⟩، نه به ولړزم.",
+  "tokens": [
+    {
+      "surface": "שוيتי",
+      "gloss": "ما ... ږدم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "زما مخې ته"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "زما ګډه لاس ته"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "به ولړزم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:44.281437742Z",
+  "model": "glm-5.3"
+}

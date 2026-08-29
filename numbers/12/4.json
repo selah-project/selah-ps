@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او یاهوه ناڅاپي وویل موشې ته او اهرون ته او مریام ته: «تاسې درې واوسئ د لیدنې خیمې ته.» او هغوي درې ووتل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناڅاپي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او … ته"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او … ته"
+    },
+    {
+      "surface": "مרים",
+      "gloss": "مریام"
+    },
+    {
+      "surface": "צאو",
+      "gloss": "واوسئ"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "تاسې درې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د لیدنې"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "هغوي درې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:47.657701061Z",
+  "model": "glm-5.3"
+}

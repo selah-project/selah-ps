@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "زما ته غږ کوي: “زما الوهیم! مې پېژندلې، ای ییسرائل!”",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "زما ته"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "غږ کوي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "مې پېژندلې"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:10:49.215751261Z",
+  "model": "glm-5.3"
+}

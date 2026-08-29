@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "خو لاوي او بینیامین يې په منځ کې ونه شمېرل، ځکه د پاچا خبره د یوآب لپاره کرغېړنې وه.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "خو لاوي"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "او بینیامین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "وشمېرل"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "کرغېړنې وه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:03.594919555Z",
+  "model": "glm-5.3"
+}

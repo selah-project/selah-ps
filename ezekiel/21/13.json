@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "په دې سره د یاهوه ⟨خبره⟩ راته راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "په دې سره"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:57:04.045147768Z",
+  "model": "glm-5.3"
+}

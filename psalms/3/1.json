@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د داوېد مزمور، کله چې د خپل زوی اپشالوم له مخې وتښتېد.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "کله چې وتښتېد"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اپشالوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې د"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:13.107292079Z",
+  "model": "glm-5.3"
+}

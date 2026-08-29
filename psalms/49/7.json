@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "هغه چې پر خپل مال اعتماد کوي او په خپل ډېر شتمني فخر کوي —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "اعتماد کوونکي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "خپل مال"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "او په ډېروالي"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "د دوی شتمني"
+    },
+    {
+      "surface": "יתהلלו",
+      "gloss": "فخر کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:28.520863003Z",
+  "model": "glm-5.3"
+}

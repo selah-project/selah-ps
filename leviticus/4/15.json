@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د ټولنې مشران ⟨את⟩ خپل لاسونه د غوایي پر سر، د یاهوه مخې ته کېږدي، او څوک ⟨هغه⟩ غوایی ⟨את⟩ د یاهوه مخې ته ذبح کړي.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "او کېږدي"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "د ټولنې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل لاسونه"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "د غوایي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "او ذبح کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غوایي"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "غوایي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:34:39.478249591Z",
+  "model": "glm-5.3"
+}

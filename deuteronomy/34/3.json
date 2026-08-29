@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او ⟨את⟩ نِګب [سهيلي ځمکه]، او ⟨את⟩ دشت — د یریحو دره، د خرما ښار — تر صُعر پورې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نِګب"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نِګب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دشت"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "دشت"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "دره"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "د خرما"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر … پورې"
+    },
+    {
+      "surface": "צער",
+      "gloss": "صُعر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:44.455376237Z",
+  "model": "glm-5.3"
+}

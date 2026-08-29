@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "د ژغورنې لپاره اس دروغ دی، او د خپل ځواک په ډېروالي سره نه ژغوري.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "اس"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "د ژغورنې لپاره"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "او د ډېروالي"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "د هغه ځواک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ژغوري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:55.964075880Z",
+  "model": "glm-5.3"
+}

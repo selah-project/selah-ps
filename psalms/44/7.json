@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ځکه زه په خپله کمان باور نه کوم، او خپله توره ما نه ژغوري.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "په خپله کمان"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "باور کوم"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "او خپله توره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ما ژغوري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:17.414919727Z",
+  "model": "glm-5.3"
+}

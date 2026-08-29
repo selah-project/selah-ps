@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د نَبو زامن، پنځوس او دوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نَبو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:07.745284175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د خلك او د دوی د ښځو غږ پر وړاندې خپلو وروڼو يهوديانو ته غوټ shriek — لوی شو.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "او شو"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "د ... غږ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلك"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "او د دوی ښځې"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر وړاندې ... ته"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "خپلو وروڼو"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "يهوديانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:41:33.911209513Z",
+  "model": "glm-5.3"
+}

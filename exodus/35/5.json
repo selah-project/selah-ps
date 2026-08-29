@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "له ځان سره د یاهوه نذري واخلئ؛ هر چا چې زړه نېت وي، د یاهوه نذري ⟨את⟩ راوړي — زر او سيم او مس.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "واخلئ"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ له تاسو"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "نذري"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "نېت"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "راوړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه نذري"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "د…نذري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "او سيم"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "او مس"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:37.480902151Z",
+  "model": "glm-5.3"
+}

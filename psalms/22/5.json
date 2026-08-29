@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "په تا يې پلرونو.zoom اتکاء کوله؛ اتکاء يې وکړه او ته ⟨هغوی⟩ يې خلاص کړل.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "په تا"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "اتکاء کوله"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "پلرونو.zoom"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "اتکاء يې وکړه"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "او ⟨هغوی⟩ يې خلاص کړل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:25.667985918Z",
+  "model": "glm-5.3"
+}

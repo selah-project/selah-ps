@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "يو ګاو د غواوو له ډلې، يو غوايی، يو لم یو کاليز، د سوځېدونکې قربانۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ګاو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "له ډلې"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "غواوو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "غوايی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کاليز"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "يو کال"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځېدونکې قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:05.324846610Z",
+  "model": "glm-5.3"
+}

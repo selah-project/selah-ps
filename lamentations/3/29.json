@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "دې خوله په دوړو کې کېږدي، که څه هيله وي.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دې کېږدي"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "په دوړو کې"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "که څه"
+    },
+    {
+      "surface": "יש",
+      "gloss": "وي"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "هيله"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:56.474471341Z",
+  "model": "glm-5.3"
+}

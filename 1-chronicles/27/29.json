@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 27:29",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او پر غواوو چې په شارون کې روزل کېدې، شِترای شارونی و؛ او پر غواوو په درو کې شافَټ زوی عدلي و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "غواوو"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "چې روزل کېدې"
+    },
+    {
+      "surface": "בשרון",
+      "gloss": "په شارون کې"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "شِترای"
+    },
+    {
+      "surface": "השרוני",
+      "gloss": "شارونی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "غواوو"
+    },
+    {
+      "surface": "בעמקים",
+      "gloss": "په درو کې"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافَټ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עדלי",
+      "gloss": "عدلي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:07.449740025Z",
+  "model": "glm-5.3"
+}

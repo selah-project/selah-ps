@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨داسې⟩ وشول، د څلوېښت ورځو او څلوېښت شپو په پای کې یاهوه ما ته ⟨את⟩ د ډبرو دوه لوحې ورکړې — د تړون لوحې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "په پای کې"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "او څلوېښت"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ډبرو دوه لوحې"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحې"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "د ډبرو"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "لوحې"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "د تړون"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:19.591864596Z",
+  "model": "glm-5.3"
+}

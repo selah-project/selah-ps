@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د پوهانو زړه په ماتم کور کې دی، او د ناپوهانو زړه په خوښۍ کور کې.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "د پوهانو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتم"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "او زړه"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "د ناپوهانو"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوښۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:46.240800573Z",
+  "model": "glm-5.3"
+}

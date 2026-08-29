@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د لنډ-پوزه (تیز-غصه) سړی احمقي کوي، او د بدو تدبیرونو سړی کرکهل کېږي.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "لنډ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "پوزې\/غصه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "احمقي"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "او سړی"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "بد تدبیرونه"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "کرکهل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:42.607133602Z",
+  "model": "glm-5.3"
+}

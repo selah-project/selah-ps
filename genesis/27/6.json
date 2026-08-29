@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 27:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او رِبکاه خپل زوی یعقوب ته وویل: «کله! زما پلار ⟨את⟩ مې اورېده چې له ستا ورور عیسو سره یې ویل…",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "او رِبکاه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ته"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "خپل زوی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې (وایل)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "کله!"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "اورېده مې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما پلار"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ستا پلار"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "خبرې کولې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ستا ورور"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:13.614314580Z",
+  "model": "glm-5.3"
+}

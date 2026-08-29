@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او د شمعیاه هانهحلامي په اړه دې ووایې، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "او د … په اړه"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شمعیاه"
+    },
+    {
+      "surface": "הנחלמی",
+      "gloss": "هانهحلامي"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "دې ووایې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:53.252712047Z",
+  "model": "glm-5.3"
+}

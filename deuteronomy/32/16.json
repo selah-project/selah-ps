@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "پرديو شيانو سره يې وپاروه، له کرغېړنو کارونو يې قهر کړ.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "يې وپاروه"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "پرديو شيانو سره"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "له کرغېړنو کارونو"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "يې قهر کړ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:41.572279607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او تر هغه وروسته ګَبای، سَلای، نهه سوه شل او اته ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "ואחריو",
+      "gloss": "او تر هغه وروسته"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ګَبای"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "سَلای"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "او اته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:12.326522410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 18:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او غوښه يې به ستا وي — لکه د ښخېدلو قربانۍ سينه او لکه ښی ران، ستا به وي.",
+  "tokens": [
+    {
+      "surface": "ובשרם",
+      "gloss": "او غوښه يې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "כחזה",
+      "gloss": "لکه سينه"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "د ښخېدلو قربانۍ"
+    },
+    {
+      "surface": "וכשוק",
+      "gloss": "او لکه ران"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ښي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:10.132344958Z",
+  "model": "glm-5.3"
+}

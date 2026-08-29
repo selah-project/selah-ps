@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او د یاهوه خبر راته وشو، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:01.429739128Z",
+  "model": "glm-5.3"
+}

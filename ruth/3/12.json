@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "اوس، راستيه چې زه خپلوان يم، خو داسې خپلوان هم شته چې له ما نژدې دی.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "راستيه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "خپلوان"
+    },
+    {
+      "surface": "אנכي",
+      "gloss": "زه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "خپلوان"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نژدې"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    }
+  ],
+  "timestamp": "2026-08-29T01:19:24.529211699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او الوهیم دانیېل ته خېسېد او رحمت ورکړل، د خوژګیو د مشر ⟨او⟩ په مخ کې.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "او ورکړل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دانیېل"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیېل"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "خېسېد ته"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "او رحمت ته"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په مخ کې"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "خوژګیو د"
+    }
+  ],
+  "timestamp": "2026-08-29T01:29:06.539545989Z",
+  "model": "glm-5.3"
+}

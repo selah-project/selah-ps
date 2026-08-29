@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د هغه له مخې ټوله ځمکه رېږدېږي؛ هغه مهال نړۍ ټیکاوه کېږي، نه ځړېږي.",
+  "tokens": [
+    {
+      "surface": "חילو",
+      "gloss": "رېږدېږه"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "د هغه له مخې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هغه مهال"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ټیکاوه کېږي"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "نړۍ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ځړېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:00.560059415Z",
+  "model": "glm-5.3"
+}

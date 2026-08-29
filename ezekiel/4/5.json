@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ما درته د دوی د گناه کلونه د ورځو د شمېر پر مغز وروڼې دي — درې سوه او نوې Nigerian ورځې — او د یِسرایل کور گناه به لېږې.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "او ما"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "درته وروڼې دي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کلونه"
+    },
+    {
+      "surface": "שני",
+      "gloss": "کلونه"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "د دوی گناه"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "د شمېر پر مغز"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "او نوې Nigerian"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "او به لېږې"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:15.102808978Z",
+  "model": "glm-5.3"
+}

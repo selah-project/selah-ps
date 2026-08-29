@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "مبارک ⟨دی⟩ هغه چې پرېکړه ساتي، هغه چې په هر وخت عدالت کوي.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "هغه چې ساتي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پرېکړه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:09.124224656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "یاهوه ته مې وویل: ته ادونای یې؛ زما ښېګڼه بې له تا ⟨هېڅ نه ده⟩.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "مې وویل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "زما ښېګڼه"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هېڅ نه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "بې له تا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:53.714617414Z",
+  "model": "glm-5.3"
+}

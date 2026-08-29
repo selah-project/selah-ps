@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د کامل سړي نیکي د هغه لار سمه لارې کوي؛ او شریر د خپلې بدۍ په اثر نهېږي.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "نیکي"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "د کامل سړي"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "سمه لارې کوي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "د هغه لار"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "د خپلې بدۍ په اثر"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "نهېږي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:26.883672667Z",
+  "model": "glm-5.3"
+}

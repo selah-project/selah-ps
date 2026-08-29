@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "او زه ناوخبره وم او نه پوهېدم؛ څاروی وم ستا سره.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ناوخبره وم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "پوهېدم"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "څاروی"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وُم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:06.587293245Z",
+  "model": "glm-5.3"
+}

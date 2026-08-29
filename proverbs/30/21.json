@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "له درېیو (شیونو) ځمکه لړزېږي، او له څلورو ⟨هغه⟩ نه شي زغملی —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "له ... لاندې (د)"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "درېیو"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "لړزېږي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "او له ... لاندې"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "شي زغملی"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "(وزن) پورته کول"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:46.001774118Z",
+  "model": "glm-5.3"
+}

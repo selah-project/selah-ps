@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 68,
+  "translation": "تبارک دی ادونای، چې ورځ په ورځ زموږ بار وړي — همدا ايل زموږ خلاصون دی. سېلاه.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "تبارک دی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "بار وړي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "زموږ خلاصون"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:39.688424890Z",
+  "model": "glm-5.3"
+}

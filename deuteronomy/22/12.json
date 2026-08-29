@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "څلور څنډې دې چې په هغې پوښېږې، پر ځان ګېډلې (ګنګرۍ) جوړې کړه.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ګېډلې (ګنګرۍ)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوړې کړه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پر ځان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "څنډې"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "د پوښاک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "پوښېږې"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په هغې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:14.690935331Z",
+  "model": "glm-5.3"
+}

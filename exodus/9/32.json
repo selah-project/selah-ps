@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "خو غنم او سپلن ونه وهل شول، ځکه دوي ناوخته دي.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "خو غنم"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "او سپلن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "وهل شول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ناوخته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دوي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:17:02.671488369Z",
+  "model": "glm-5.3"
+}

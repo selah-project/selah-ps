@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د زما محبوب غږ! وګوره، هغه راروان دی، په غرونو ټوپ وهي، په ټیکړیو ټوپ کوي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "د زما محبوب"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راروان دی"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "ټوپ وهي"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "غرونو"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "ټوپ کوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ټیکړیو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:00.487494941Z",
+  "model": "glm-5.3"
+}

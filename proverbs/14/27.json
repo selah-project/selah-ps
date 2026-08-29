@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د یاهوه وېره د ژوند سرچینه ده، چې له د مړینې له ډېرو څخه لرې کړي.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "سرچینه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "چې لرې کړي"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "له ډېرو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړینه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:26.593842097Z",
+  "model": "glm-5.3"
+}

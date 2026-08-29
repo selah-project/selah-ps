@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او دوی ⟨את⟩ ډالۍ چمتو کړه تر دې چې یوسف په غرمه راشي، ځکه چې دوی اورېدلي وو چې هلته به ډوډۍ خوري.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "چمتو يې کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ډالۍ"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ډالۍ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر دې چې"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "په غرمه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اورېدلي وو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:05.787210634Z",
+  "model": "glm-5.3"
+}

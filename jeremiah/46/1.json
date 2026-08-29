@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "هغه ⟨چې⟩ د یاهوه خبره نبي یِرمیاهو ته د ملتونو په اړه وشوه.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "هغه ⟨چې⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وشوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "د ملتونو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:04.348755170Z",
+  "model": "glm-5.3"
+}

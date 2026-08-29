@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "کونډه او پردی وژني، او یتیمان قتلوي.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "کونډه"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "او پردی"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "وژني"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "او یتیمان"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "قتلوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:04.696681083Z",
+  "model": "glm-5.3"
+}

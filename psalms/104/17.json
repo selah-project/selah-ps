@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "چې هلته مرغۍ هګۍ شنه کوي؛ لک لک (بوتړ) په سرو ونو کې خپل کور لري.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "مرغۍ"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "هګۍ شنه کوي"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "لک لک (بوتړ)"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "په سرو ونو کې"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خپل کور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:18.748498231Z",
+  "model": "glm-5.3"
+}

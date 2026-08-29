@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "مه ډېر بدمن کېږه، او مه بې‌عقله اوسه — ولې په خپل وخت کې له مخې مړه شې؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "بدمن کېږه"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "اوسه"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "بې‌عقله"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مړه شې"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "په خپل وخت کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:06.492884903Z",
+  "model": "glm-5.3"
+}

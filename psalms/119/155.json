@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "له شریرانو څخه ژغورنه لرې ده، ځکه دوی ستا فرایضو ته نه دي لټولي.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "لرې"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "له شریرانو څخه"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ژغورنه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا فرایض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "لټولي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:22.950109195Z",
+  "model": "glm-5.3"
+}

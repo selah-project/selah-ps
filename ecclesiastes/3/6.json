@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وخت د لټولو، او وخت د له لاسه ورکولو؛ وخت د ساتلو، او وخت د غورځولو.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "د لټولو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "د له لاسه ورکولو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "د ساتلو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "د غورځولو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:38.042175452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 5:27",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "وګوره! دا مو پلټلې ده — همداسې ده؛ دا واورېده، او ته ځان ته يې پوه شه.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګوره!"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חקרנוה",
+      "gloss": "پلټلې ده"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "واورېده"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "דע",
+      "gloss": "پوه شه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ځان ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:20.716718221Z",
+  "model": "glm-5.3"
+}

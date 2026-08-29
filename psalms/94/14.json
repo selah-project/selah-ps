@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "ځکه یاهوه خپل قوم نه پرېږدي، او خپل میراث به نه wideېږي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "پرېږدي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "او خپل میراث"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "wideېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:30.058884605Z",
+  "model": "glm-5.3"
+}

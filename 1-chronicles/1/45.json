@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او یوبب مړ شو، او د تېماني له ځمکې حوشام د هغه پر ځای واکمن شو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوبب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "او واکمن شو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "د هغه پر ځای"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "حوشام"
+    },
+    {
+      "surface": "مארץ",
+      "gloss": "له ځمکې"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "د تېماني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:10.230347087Z",
+  "model": "glm-5.3"
+}

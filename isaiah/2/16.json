@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او پر ټولو بېړیو د ترشیش، او پر ټولو د لیدلو وړ ښکلیو شيانو،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "بېړیو"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "د ترشیش"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "د لیدلو وړ شيانو"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "ښکلیو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:03.561355435Z",
+  "model": "glm-5.3"
+}

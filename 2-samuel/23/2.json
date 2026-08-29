@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د یاهوه روح په ما خبرې کولې، او د هغه کلام پر زما ژبه و.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې کولې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "او د هغه کلام"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زما ژبه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:50:04.250353943Z",
+  "model": "glm-5.3"
+}

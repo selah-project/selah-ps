@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ځکه چې زه د دود په کې راټوټ شوي څرمې په څېر یم؛ ستا فرېښې نه هېرې کړي دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "یم"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "د څرمې په څېر"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "په دود کې"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا فرېښې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "هېرې کړي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:42.261542982Z",
+  "model": "glm-5.3"
+}

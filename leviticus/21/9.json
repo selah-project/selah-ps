@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او د کاهن لور، چې زنا پیل کړي، ⟨את⟩ خپل پلار هغه سپکوي — په اور کې به سوځول شي.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "او لور"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "پیل کړي"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "زنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل پلار"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "سپکوي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "سوځول شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:28.631015695Z",
+  "model": "glm-5.3"
+}

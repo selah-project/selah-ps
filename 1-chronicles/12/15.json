@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "دا د ګاد له زامنو وو، د لښکر مشران — یو کمزوری ⟨د⟩ سلو مقابل او لوی ⟨د⟩ زرو مقابل.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "له زامنو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "سلو ته"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "کمزوری"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "او لوی"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "زرو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:24.582614289Z",
+  "model": "glm-5.3"
+}

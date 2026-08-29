@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ځمکه به نه پلومل شي د تل لپاره، ځکه چې ځمکه زما ده، ځکه چې تاسو مېلمانه او مېشت شوي زما سره یاست",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "او ځمکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "به پلومل شي"
+    },
+    {
+      "surface": "لצמתת",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما ده"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "مېلمانه"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "او مېشت شوي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "زما سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:46.955039223Z",
+  "model": "glm-5.3"
+}

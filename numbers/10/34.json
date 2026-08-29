@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د یاهوه ورېځ د ورځې پر دوی وه، کله چې له پوځ څخه به یې سفر کاوه.",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "او ورېځ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر دوی"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "کله چې سفر یې کاوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پوښ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:54.286812718Z",
+  "model": "glm-5.3"
+}

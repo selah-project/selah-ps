@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "چا چې له اورېدلو مخکې ځواب ورکړ، دا له ده سره ناداني او شرمېدنه ده.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ځواب ورکوي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې\/خبر"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "له دې مخکې چې"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "واوري"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ناداني"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لره"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "او شرمېدنه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:20.271202008Z",
+  "model": "glm-5.3"
+}

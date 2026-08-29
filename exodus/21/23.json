@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "خو که زیان شي، نو نفس به پر ځای نفس ورکوې.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "خو که"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "زیان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "شي"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "نو ورکوې"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:07.013433398Z",
+  "model": "glm-5.3"
+}

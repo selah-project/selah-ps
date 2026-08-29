@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "که په د بلا په ورځ لاړ شوې، نو ستا زور ډېر لږ دی.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "لاړ شوې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په … ورځ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "د بلا"
+    },
+    {
+      "surface": "צר",
+      "gloss": "لږ (تنګ)"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "ستا زور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:29.670626030Z",
+  "model": "glm-5.3"
+}

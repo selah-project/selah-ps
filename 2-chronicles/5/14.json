@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 5:14",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او کاهنانو د ورېځې له مخې نه شول کولی دندې ته ودرېږي، ځکه چې د ياهوه جلال ⟨את⟩ د الوهيم کور ډک کړی و.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "شول کولی"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "לעמוד",
+      "gloss": "ودرېږي"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "دندې ته"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "د ورېځې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډک کړی و"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د ياهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د الوهيم کور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهيم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:05.340757068Z",
+  "model": "glm-5.3"
+}

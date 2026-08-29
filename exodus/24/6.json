@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او موشې د وینې نیمایي واخیست او په کاسو کې يې کېښود، او د وینې نیمایي يې پر مذبح وپاشله.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیست"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمایي"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "د وینې"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "کېښود يې"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "په کاسو کې"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "او نیمایي"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "د وینې"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "وپاشله"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:39.017840541Z",
+  "model": "glm-5.3"
+}

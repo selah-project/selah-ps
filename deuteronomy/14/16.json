@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "⟨את⟩ کوُس (کوچنی بوم)، او ⟨את⟩ يَنشُوف (لوی بوم)، او تِنشِمِت.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوُس"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "کوُس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يَنشُوف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "يَنشُوف"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "او تِنشِمِت"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:52.949112425Z",
+  "model": "glm-5.3"
+}

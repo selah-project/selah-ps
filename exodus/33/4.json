@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او قوم ⟨את⟩ دا بد خبر واورېد، او ويې ويرول؛ او هيڅوک خپل ډېرونه پر ځان نه کېښودل.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "او واورېد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا بد خبر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "ويې ويرول"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "کېښودل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هيڅوک"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "خپل ډېرونه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر ځان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:24:58.883913006Z",
+  "model": "glm-5.3"
+}

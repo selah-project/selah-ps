@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 140,
+  "translation": "مې ویل: ياهوه! ته ایل يې زما، غوږ ونیسه ای یاهوه د زما لوړو (تضرعو) غږ!",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "مې ویل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه!"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "غوږ ونیسه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "زما لوړو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:54.036562989Z",
+  "model": "glm-5.3"
+}

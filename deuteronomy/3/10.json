@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د میدان ټول ښارونه، او ټول ګلعاد، او ټول باشان تر سَلخه او ادرعي پورې — د عوغ د پاچاهۍ ښارونه په باشان کې.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "د میدان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ګلعاد"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر… پورې"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سَلخه"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "او ادرعي"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "د پاچاهۍ"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "عوغ"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "په باشان کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:04.384639547Z",
+  "model": "glm-5.3"
+}

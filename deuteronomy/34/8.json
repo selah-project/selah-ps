@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د يِسرایل زامنو ⟨את⟩ موشې د مُواب په دښتو کې دېرش ورځې وژړه؛ او د موشې د ژړا او ماتم ورځې بشپړې شوې.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "او وژړه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يِسرایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "په دښتو کې"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُواب"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "او بشپړې شوې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ژړا"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:41.039197003Z",
+  "model": "glm-5.3"
+}

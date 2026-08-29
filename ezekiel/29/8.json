@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 29:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "نو همداسې وایي ادونای یاهوه: همدا زه یم چې پر تا توره راوړم، او له تا به انسان او څاروی پرې کړم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وایي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "همدا زه یم"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "چې راوړم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "او به پرې کړم"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له تا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "او څاروی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:01:28.253165969Z",
+  "model": "glm-5.3"
+}

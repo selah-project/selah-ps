@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "شلوم، امریاه، یوسف",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امریاه"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-29T01:39:45.583557337Z",
+  "model": "glm-5.3"
+}

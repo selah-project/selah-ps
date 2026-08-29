@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "خپله ډوډۍ د اوبو پر مخ ولېږه، ځکه په ډېرو ورځو کې به يې ومومې.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ولېږه"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "خپله ډوډۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "پنי",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "په ډېرو"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "به يې ومومې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:31.515179052Z",
+  "model": "glm-5.3"
+}

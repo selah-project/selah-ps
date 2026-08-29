@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 59,
+  "translation": "هغوي د خوړو لپاره وارخطا ګرځي؛ که مړه نه شي، نو ټوله شپه ناست وي.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "هغوي"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "وارخطا ګرځي"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "د خوړو لپاره"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "مړه شي"
+    },
+    {
+      "surface": "וילינو",
+      "gloss": "ناست وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:31.080097062Z",
+  "model": "glm-5.3"
+}

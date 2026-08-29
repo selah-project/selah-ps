@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 20:11",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "نو د اسراییل ټول سړي د ښار پر لور راټول شوو، لکه يو سړی — ملګري.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "راټول شوو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسراییل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د ... پر لور"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "لکه يو سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ملګري"
+    }
+  ],
+  "timestamp": "2026-08-28T22:29:50.331429762Z",
+  "model": "glm-5.3"
+}

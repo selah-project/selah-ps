@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "یاهوه خپل قوم ته زور ورکوي؛ یاهوه ⟨את⟩ خپل قوم په سولې سره برکت ورکوي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "خپل قوم ته"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت ورکوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل قوم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "په سولې سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:05.651988793Z",
+  "model": "glm-5.3"
+}

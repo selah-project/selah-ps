@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "کتله، ته ښکلې يې، زما ملګرې؛ کتله، ته ښکلې يې؛ ستا سترګې کبوتران دي.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "کتله"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ښکلې"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "زما ملګرې"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "کتله"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ښکلې"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ستا سترګې"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "کبوتران"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:35.088288794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "د هغه لپاره يې اوږې جوړې کړې، نښلول شوې؛ پر خپلو دوو وروستیو سره نښلول شوې.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "اوږې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه لپاره"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "نښلول شوې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوو"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "وروستيو سره يې"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "نښلول شوې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:40.091122210Z",
+  "model": "glm-5.3"
+}

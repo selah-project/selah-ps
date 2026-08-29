@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "تسادوک د هغه زوی، اهیماعتس د هغه زوی.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "تسادوک"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "اهیماعتس"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:19.871108856Z",
+  "model": "glm-5.3"
+}

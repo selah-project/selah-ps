@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 24:22",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "یو حکم به ستاسو وي — لکه پاتې‌شوی همدارنګه زېږېدی: ځکه چې زه یاهوه ستاسو الوهیم یم.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכم",
+      "gloss": "ستاسو"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "لکه پاتې‌شوی"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "همدارنګه زېږېدی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:59.748775073Z",
+  "model": "glm-5.3"
+}

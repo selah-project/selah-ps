@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "همداسې د خپلو کړنو له مخې ځان څرګندوي ماشوم — که پاکه وي او که نېغه ده کړنه يې.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "د خپلو کړنو له مخې"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "ځان څرګندوي"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ماشوم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاکه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "نېغه"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کړنه يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:29.138646766Z",
+  "model": "glm-5.3"
+}

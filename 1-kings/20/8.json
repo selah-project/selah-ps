@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ټولو مشرانو او ټولو خلکو ورته وویل: «مه اوره او مه منمه.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "مشرانو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټولو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلقو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "اوره"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "منمه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:00:22.278050946Z",
+  "model": "glm-5.3"
+}

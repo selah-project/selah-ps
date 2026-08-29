@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "په هغه ورځ: د خوښې انګورتېکلی — دې ته ځواب ورکړئ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انګورتېکلی"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "د خوښې"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ځواب ورکړئ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "دې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:40.451080963Z",
+  "model": "glm-5.3"
+}

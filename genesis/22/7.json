@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 22:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او اسحاق خپل پلار ابراهیم ته وویل: «زما پلاره!» هغه وويل: « halo زه دې یم، زوی می.» هغه وويل: «كتل كيږي ⟨the⟩ اور او لرې، خو قربانۍ لپاره لambi چېرته دى؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اسحاق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهیم"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "زما پلاره"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "زه دې یم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زوی می"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "كتل كيږي"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "והעצים",
+      "gloss": "او لرې"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "چېرته دى"
+    },
+    {
+      "surface": "השה",
+      "gloss": "لambi"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:57.314137327Z",
+  "model": "glm-5.3"
+}

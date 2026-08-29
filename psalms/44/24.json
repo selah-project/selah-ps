@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ویښ شه! ولې ویده یې، ادونای؟ راپاڅېږه! موږ د تل لپاره مه رېdiscardږوه!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ویښ شه"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ویده یې"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "راپاڅېږه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "رېdiscrږوه"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "د تل لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:38.325306496Z",
+  "model": "glm-5.3"
+}

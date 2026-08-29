@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او په بیت-اوېل، او په حورما، او په صیقلګ.",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "او په بیت-اوېل"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "او په حورما"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "او په صیقلګ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:56.853155689Z",
+  "model": "glm-5.3"
+}

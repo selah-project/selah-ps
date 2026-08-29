@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ما په اسونه باندې غلامان لیدلي دي، او امیران لکه غلامان ⟨د⟩ ځمکه پر تلل.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ما لیدلي دي"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "اسونه"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "او امیران"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "تلل"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "لکه غلامان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:55.625978200Z",
+  "model": "glm-5.3"
+}

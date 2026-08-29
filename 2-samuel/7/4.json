@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د هغه شپې په شپه د یاهوه خبر ناتن ته راغی، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشوه"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "په شپه کې"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "د هغه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او راوړ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:17.412414421Z",
+  "model": "glm-5.3"
+}

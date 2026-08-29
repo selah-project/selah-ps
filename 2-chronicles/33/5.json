@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د اسمانونو ټولې لښکرې لپاره يې په ياهوه د کور دوو انګړونو کې قربانګاهونه جوړ کړل.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "جوړ کړل يې"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "قربانګاهونه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټولې"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لښکرې"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "په دوو"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "انګړونو کې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:10:01.016212077Z",
+  "model": "glm-5.3"
+}

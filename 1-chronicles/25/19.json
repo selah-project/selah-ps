@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 25:19",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د دولسم لپاره هَشَبَیاه، ⟨دى⟩، زامن يې او وروڼه يې — دولس.",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولسم (دوېلسه)"
+    },
+    {
+      "surface": "לחשביה",
+      "gloss": "د هَشَبَیاه لپاره"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولس (لس + دوه)"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:56.619206004Z",
+  "model": "glm-5.3"
+}

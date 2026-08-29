@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 32:31",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "ځکه چې دا ښار زما د قهر او زما د غضب لپاره و، له هغې ورځې چې جوړ يې کړ ⟨את⟩ هغه او تر دې ورځې، چې يې له زما له مخه لرې کړم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "د... پر\/له امله"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "زما د قهر"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او د"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "زما د غضب"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "למן",
+      "gloss": "له"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "جوړ يې کړ"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "להסירה",
+      "gloss": "چې لرې يې کړم"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "פני",
+      "gloss": "زما له مخه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:42:15.568953108Z",
+  "model": "glm-5.3"
+}

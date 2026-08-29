@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 58,
+  "translation": "نیک به وډېږي چې بدله يې وینې؛ خپلې ګډې به په د بدکار وینه وينځي.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "به وډېږي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدله"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "خپلې ګډې"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "به وينځي"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "په وینه"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدکار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:10.102160003Z",
+  "model": "glm-5.3"
+}

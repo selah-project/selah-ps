@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او که د هغه قرباني له څارویو وي — له ورېږو يا له وزو — د سوځېدنې لپاره، نارينه بې عيبه به يې وړاندې کړي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "څارویو"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "د هغه قرباني"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ورېږو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "وزو"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځېدنې لپاره"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نارينه"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بې عيبه"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "به يې وړاندې کړي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:47.761116787Z",
+  "model": "glm-5.3"
+}

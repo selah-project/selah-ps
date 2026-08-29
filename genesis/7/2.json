@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "له هرې پاکې څاروۍ دې ځان ته اووه اووه واخلې — نارینه او ښځینه يې؛ او له هغې څاروۍ چې پاکه نه ده، دوه — نارینه او ښځینه يې.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "له هرې"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څاروۍ"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاکې"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "واخلې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ځان ته"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "שבעه",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نارینه"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "او ښځینه يې"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څاروۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاکه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نارینه"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "او ښځینه يې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:13.720269933Z",
+  "model": "glm-5.3"
+}

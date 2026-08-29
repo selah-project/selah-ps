@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "زما نَفَسه، یاهوه وستایه؛ ای یاهوه، زما الوهیم، ته ډېر لوی يې؛ ته په هود او هedar کېونې پړه\/جامې اغوستې.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "وستایه"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نَفَسه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "لوی يې"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "هود"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "او هedar کېونې"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "اغوستې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:28.960578111Z",
+  "model": "glm-5.3"
+}

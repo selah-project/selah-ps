@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او شِوا ⟨كان⟩ لیکوال، او څاډوک او اېویاتار ⟨وو⟩ کاهنان.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "او شِوا"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "لیکوال"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "او څاډوک"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "او اېویاتار"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:47:38.899268429Z",
+  "model": "glm-5.3"
+}

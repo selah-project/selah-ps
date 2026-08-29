@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 32:14",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "د غواوو پنير، د مېږو شيدې، د لاسو غوړې، د باشان د زامنو ورې او تېسې، د غنمو له پښکم-غوړو سره؛ او د انګور له وينې يې شراب وڅښل.",
+  "tokens": [
+    {
+      "surface": "חמאת",
+      "gloss": "پنير"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د غواوو"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "او شيدې"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "د مېږو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "غوړې"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "د لاسو"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "او ورې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "او تېسې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "غوړو"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "پښکمو"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "غنمو"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "او وينې"
+    },
+    {
+      "surface": "ענב",
+      "gloss": "د انګور"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "يې وڅښل"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "شراب"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:41.571991458Z",
+  "model": "glm-5.3"
+}

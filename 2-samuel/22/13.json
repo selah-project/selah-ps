@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د هغه د مخې له روښنایۍ څخه د اور سکې وبل شوې.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "له روښنایۍ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "د هغه د مخې"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "وبل شوې"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "سکې"
+    },
+    {
+      "surface": "אש",
+      "gloss": "د اور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:46.603876705Z",
+  "model": "glm-5.3"
+}

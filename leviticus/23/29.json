@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ځکه چې هر هغه جان چې په همدغه ورځ وخپل ځان نه وځوري، د خپل قوم له منځه به وړنګول شي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "وځوري"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "په همدغه"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همدغه"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "به وړنګول شي"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "د خپل قوم له منځه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:25.674405128Z",
+  "model": "glm-5.3"
+}

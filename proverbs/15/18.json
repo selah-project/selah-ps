@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د خپه سړی شخړه پاروي، خو زوږ مهاره کويږی دمې لرونکی جنجال اراموي.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "د خپه"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "پاروي"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "شخړه"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "خو زوږ مهاره کويږی"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "دمې لرونکی"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "اراموي"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جنجال"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:04.143363299Z",
+  "model": "glm-5.3"
+}

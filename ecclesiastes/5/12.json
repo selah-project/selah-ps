@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "یوه ناروغه بدې شته چې لاندې لمر مې لیدلې: شتمني چې د خپل مالک لپازه خوندي شوې، د هغه د بدۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "ناروغه"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مې لیدلې"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "خوندي شوې"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "د خپل مالک لپاره"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "د هغه د بدۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:09.586743646Z",
+  "model": "glm-5.3"
+}

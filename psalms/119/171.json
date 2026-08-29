@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما شونډې دې ستاینه ووايي، ځکه ته مې خپل فرضونه ښایي.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "ووايي"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما شونډې"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ستاینه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ته مې ښایي"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "خپل فرضونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:42.339954728Z",
+  "model": "glm-5.3"
+}

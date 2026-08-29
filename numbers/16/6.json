@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "دا وکړئ: د خپلو لپاره د اور خاورې واخلئ، قورحه او ټوله ستاسو بېښې.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "وکړئ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "واخلئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "د خپلو لپاره"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "د اور خاورې"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورحه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټوله"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "ستاسو بېښې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:15.344887201Z",
+  "model": "glm-5.3"
+}

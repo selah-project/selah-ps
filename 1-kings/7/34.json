@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 7:34",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او څلورې اوږې ⟨وې⟩ د یوه بنسټ د څلورو ګوټونو په لور؛ له همدې بنسټ د هغې اوږې وې.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "اوږې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په لور"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "ګوټونو"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "د بنسټ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המכנה",
+      "gloss": "بنسټ"
+    },
+    {
+      "surface": "כתפיה",
+      "gloss": "د هغې اوږې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:53:31.533108604Z",
+  "model": "glm-5.3"
+}

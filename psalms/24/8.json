@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "څوک دی دا، د جلال پاچا؟ یاهوه — پیاوړی او اتل، یاهوه — د جګړې اتل.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "د جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "پیاوړی"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "او اتل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "اتل"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:55.984673884Z",
+  "model": "glm-5.3"
+}

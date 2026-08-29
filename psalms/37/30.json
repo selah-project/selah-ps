@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "د صدیق خوله حکمت څرګندوي او پر ژبه يې ⟨د⟩ عدالت خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صدیق"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "څرګندوي (زمزمه کوي)"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "او پر ژبه يې"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:34.781791298Z",
+  "model": "glm-5.3"
+}

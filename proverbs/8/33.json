@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "لارښوونه واورئ او هوښیار شئ، او يې مه ردوه.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "لارښوونه"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "او هوښیار شئ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "يې مه ردوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:04.796820390Z",
+  "model": "glm-5.3"
+}

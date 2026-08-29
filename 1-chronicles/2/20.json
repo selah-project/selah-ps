@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او حور ⟨את⟩ اوری پیداکړ، او اوری ⟨את⟩ بِتسالِیل پیداکړ.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "او حور"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیداکړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوری"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوری"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "او اوری"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیداکړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِتسالِیل"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بِتسالِیل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:22.359362024Z",
+  "model": "glm-5.3"
+}

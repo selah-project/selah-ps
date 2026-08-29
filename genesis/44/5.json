@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ایا دا هماغه نه دی چې زما ادونای ⟨په⟩ هغه څښي، او هغه ⟨په⟩ هغه فال لګوي؟ تاسو هغه بدۍ وکړه چې موږ يې کړې ده.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ایا… نه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "څښي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "فال"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "لګوي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "بدۍ مو وکړه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "کړې ده"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:55.177158748Z",
+  "model": "glm-5.3"
+}

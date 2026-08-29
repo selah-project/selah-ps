@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او ویې ویل: زما مخ به ولاړ شي، او زه به تا ته ارامي درکړم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "פני",
+      "gloss": "زما مخ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "به ولاړ شي"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "او به ارامي درکړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:37.724792845Z",
+  "model": "glm-5.3"
+}

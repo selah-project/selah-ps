@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ایا د یاهوه ورځ تیاره نه ده، نه روښنایي؟ او تورتم، چې هېڅ ځلا نه لري؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ایا... نه"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تیاره"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روښنایي"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "تورتم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "ځلا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ⟨لري⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T00:14:40.454530061Z",
+  "model": "glm-5.3"
+}

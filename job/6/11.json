@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زما ځواک څه دی چې هيله وکړم؟ او زما پای څه دی چې زما نفس اوږد کړم؟",
+  "tokens": [
+    {
+      "surface": "مה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زما ځواک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "هيله وکړم"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "زما پای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "اوږد کړم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:08.612921414Z",
+  "model": "glm-5.3"
+}

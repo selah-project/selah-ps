@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او هغه سړی لوی شو، او ⟨هغه⟩ لا month... لا روان شو، لویېدو ته لاړ، تر دې چې هغه ډېر لوی شو.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "لوی شو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "او لا روان شو"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "روان-روان"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "او لویېدو ته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر دې چې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "لوی شو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:04.853208667Z",
+  "model": "glm-5.3"
+}

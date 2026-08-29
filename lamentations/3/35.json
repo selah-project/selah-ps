@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "چې د یو سړي حقه د عِلیون د مخې په وړاندې کاږي،",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "چې کاږي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حقه"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "د یو سړي"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د مخې"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "د عِلیون"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:30.428522525Z",
+  "model": "glm-5.3"
+}

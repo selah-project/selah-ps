@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "نو اهرون مذبح ته نږدې شو، او ⟨את⟩ د ګناه-قربانۍ steer calf چې د هغه وو، ذبح کړ.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "نږدې شو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "ذبح کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ګناه-قربانۍ steer calf"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "steer calf"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "د ګناه-قربانۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه وو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:23.503590242Z",
+  "model": "glm-5.3"
+}

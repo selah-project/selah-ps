@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د قهات د زامنو ⟨له ډلې⟩ اوریایل مشر ⟨و⟩، او د هغه وروڼه يو سل او شل ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اوریایل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يو سل"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:45.074372923Z",
+  "model": "glm-5.3"
+}

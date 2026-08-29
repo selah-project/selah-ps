@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "په ټولو خپلو لارو کې يې پېژندنه وکړه، او هغه به ستا لارې سمې کړي.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "خپلو لارو"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "يې پېژندنه وکړه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "سمې کړي"
+    },
+    {
+      "surface": "ארחاتיך",
+      "gloss": "ستا لارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:25.144500782Z",
+  "model": "glm-5.3"
+}

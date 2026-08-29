@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او شمشون عزې ته ولاړ، او هلته يې يوه فاحشه ښځه وليده، او نږدې ⟨هغې⟩ ته ننوت.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شمشون"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "عزې ته"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "او وليده"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "فاحشه"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او ننوت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "نږدې ⟨هغې⟩ ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:28:58.491336182Z",
+  "model": "glm-5.3"
+}

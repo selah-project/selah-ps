@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "خپل لار یاهوه ته وسپاره او پر هغه باور وکړه، او ⟨هغه⟩ به يې ترسره کړي.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "وسپاره"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "خپل لار"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "او باور وکړه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او ⟨هغه⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "به يې ترسره کړي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:11.289272788Z",
+  "model": "glm-5.3"
+}

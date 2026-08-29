@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 23:16",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ورڼه واخله، پر ښار وګرځه، ای هېره شوې فاحشې؛ ښه ونږوه، ډېرې سندرې وویه، چې بیا دې یاد شي.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "واخله"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "ورڼه"
+    },
+    {
+      "surface": "סבי",
+      "gloss": "وګرځه"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "پر ښار"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "فاحشې"
+    },
+    {
+      "surface": "נשכחה",
+      "gloss": "هېره شوې"
+    },
+    {
+      "surface": "היטיבי",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ونږوه"
+    },
+    {
+      "surface": "הרבי",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندرې"
+    },
+    {
+      "surface": "למען",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "دې یاد شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:27.573126644Z",
+  "model": "glm-5.3"
+}

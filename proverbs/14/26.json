@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "په د یاهوه په وېره کې د ځواک ډاډ ⟨دی⟩، او د هغه زامنو ته به پناه وي.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "په وېره کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ډاډ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "او د هغه زامنو ته"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:26.593689659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 28:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د سپینو ز мудرو ډبرو يې ځای دی، او د سرو زرو خاوره لري.",
+  "tokens": [
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سپين ز مودر"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "د هغې ډبرې"
+    },
+    {
+      "surface": "ועפרת",
+      "gloss": "او د ... خاوره"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سر زر"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:23.920273647Z",
+  "model": "glm-5.3"
+}

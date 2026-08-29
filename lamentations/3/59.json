@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "یاهوه، زما زيانونه دې ليدلي دي؛ زما وړاندې پرېکړه وکړه.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "دي ليدلي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "زما زيانونه"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "پرېکړه وکړه"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "زما وړاندې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:32.728644995Z",
+  "model": "glm-5.3"
+}

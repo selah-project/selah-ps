@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "وروته یې وکتل او روښانه شول، او مخونه به یې شرمېدلي نه وي.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "وکتل یې"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "وروته"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "او روښانه شول"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "او مخونه یې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "شرمېدلي وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:47.927316054Z",
+  "model": "glm-5.3"
+}

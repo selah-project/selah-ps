@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او قوم موشې ته چیغې ووهلې؛ او موشې ياهوه ته لمونځ وکړ، او اور مړاوی شو.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "او چیغې ووهلې"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "او لمونځ يې وکړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "او مړاوی شو"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اور"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:49.580122344Z",
+  "model": "glm-5.3"
+}

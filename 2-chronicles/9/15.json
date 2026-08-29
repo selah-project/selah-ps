@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او پاچا شلمې دوه سوه لوی سپرونه د ټکول شوي زرو جوړ کړل؛ شپږ سوه شېکله ټکول شوي زر پر یوه لوی سپر وختل.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلمې"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "لوی سپر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ټکول شوي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "شېکله زر"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ټکول شوي"
+    },
+    {
+      "surface": "יעלه",
+      "gloss": "وختل (خېژدل)"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "لوی سپر"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:20.276226785Z",
+  "model": "glm-5.3"
+}

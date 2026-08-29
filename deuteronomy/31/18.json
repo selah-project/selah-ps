@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او زه په هغه ورځ د هغه د ټولې هغې بدۍ لپاره چې کويې وي، په ډاډ سره زما مخ پټوم، ځکه چې هغوی نورو الوهیمو ته مخ اړوي.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "په ډاډ سره پټول"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "پټوم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "زما مخ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "על",
+      "gloss": "د... لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولې"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کويې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "مخ اړوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیمو"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "نورو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:06.227258668Z",
+  "model": "glm-5.3"
+}

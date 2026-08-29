@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 3:24",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او یوآب پاچا ته راغی او ويې ويل: څه دې وکړل؟ پام چې ابنر تا ته راغی؛ ولې يې دا پرېښودل او هغه تللی دی؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ويل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "دې وکړل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "پام چې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ابنر"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שלחתו",
+      "gloss": "دې پرېښود"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "او ولاړ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "تللی دی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:42:58.787286952Z",
+  "model": "glm-5.3"
+}

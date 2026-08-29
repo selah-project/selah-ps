@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "العارز ⟨את⟩ پینحاس وزیږه، پینحاس ⟨את⟩ ابیشوع وزیږه.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "العارز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پینحاس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینحاس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینحاس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابیشوع"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ابیشوع"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:17.442289931Z",
+  "model": "glm-5.3"
+}

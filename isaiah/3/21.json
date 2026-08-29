@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "انګشترۍ او د پوزې زړې",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "انګشترۍ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "او د … زړې"
+    },
+    {
+      "surface": "האף",
+      "gloss": "پوزه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:33.598889721Z",
+  "model": "glm-5.3"
+}

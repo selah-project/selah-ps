@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "د سرود مشر ته، د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د سرود مشر ته"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:49.107634670Z",
+  "model": "glm-5.3"
+}

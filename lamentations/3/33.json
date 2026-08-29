@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه چې هغه د خپل زړه له خوا نه ځپي، نه د انسانانو زامنې غمېږوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ځپي"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "د خپل زړه له خوا"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "نه غمېږوي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د انسانانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:30.428169593Z",
+  "model": "glm-5.3"
+}

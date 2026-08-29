@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "هغه چې کمزوری په ظلمېدو ډېروي ځان ته، او هغه چې شتمن ته ورکوي — یوازې د کمبې لپاره.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "په ظلم مومي"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزوری"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "ډېروي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "شتمن ته"
+    },
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "د کمبې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:41.526862854Z",
+  "model": "glm-5.3"
+}

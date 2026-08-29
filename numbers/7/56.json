@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یوه سروزرې کاسه، لس شېکه، ډکهله بخور.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کاسه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سروزرې"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکهله"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:55.582437553Z",
+  "model": "glm-5.3"
+}

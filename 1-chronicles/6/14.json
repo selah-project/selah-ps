@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د مراري زامن: مَحلي، لِبني زوی يې، شِمعي زوی يې، عُزا زوی يې.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "مררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحلي"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبني"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعي"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عُزا"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:17.075401428Z",
+  "model": "glm-5.3"
+}

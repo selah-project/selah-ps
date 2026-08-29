@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د عُزیئیل زامن: میکا ⟨چې⟩ مشر او یِشيا دویم.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزیئیل"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "او یِشيا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:37.102773455Z",
+  "model": "glm-5.3"
+}

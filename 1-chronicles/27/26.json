@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او پر هغو چې د ډګر کار يې کاوه، د ځمکې د کښت لپاره، عزري د کلوب زوی و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "هغو چې کار کوي"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د ډګر"
+    },
+    {
+      "surface": "لעבדת",
+      "gloss": "د کښت\/خدمت لپاره"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "عزري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د … زوی"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "کلوب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:10.229084858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "ځکه چې پر زما ژبه کلمه نه شته، خو پوه شه — یاهوه، ته ټوله وپېژندله.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه شته"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "کلمه"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "پر زما ژبه"
+    },
+    {
+      "surface": "הן",
+      "gloss": "پوه شه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ته وپېژندله"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ټوله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:07.742007486Z",
+  "model": "glm-5.3"
+}

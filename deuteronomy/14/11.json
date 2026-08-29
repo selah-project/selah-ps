@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "هر پاک مرغهی خوړل شئ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "مرغهی"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خوړل شئ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:36.872115843Z",
+  "model": "glm-5.3"
+}

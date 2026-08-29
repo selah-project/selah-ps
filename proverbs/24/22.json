@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ځکه چې ناڅاپه به يې بلا پاڅېږي، او د دواړو پړاوان څوک پېژني؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناڅاپه"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "پاڅېږي"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "بلا يې"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "او پړاوان"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "د دواړو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژني"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:40.031794864Z",
+  "model": "glm-5.3"
+}

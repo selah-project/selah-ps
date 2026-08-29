@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او یبھار او الیشمع او الیفَلَت،",
+  "tokens": [
+    {
+      "surface": "וגבהר",
+      "gloss": "او یبھار"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "او الیشمع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "او الیفَلَت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:44.640477632Z",
+  "model": "glm-5.3"
+}

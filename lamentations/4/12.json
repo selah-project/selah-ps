@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د ځمکې پاچاهانو او د ټولې نړۍ اوسېدونکو نه باور کاوه چې دښمن او دوښهان به د یروشلایم په دروازو کې ننوځي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "باور کاوه"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچاهانو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکو"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "د نړۍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوځي"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "ו אויב",
+      "gloss": "او دوښهان"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "په دروازو کې"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "د یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:33.927706709Z",
+  "model": "glm-5.3"
+}

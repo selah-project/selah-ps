@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "زامن او لوڼې به زیږوې خو د دوی به ستا نه وي، ځکه چې بندۍ ته به ځي.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼې"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "به زیږوې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "به ځي"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "بندۍ ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:08.851083320Z",
+  "model": "glm-5.3"
+}

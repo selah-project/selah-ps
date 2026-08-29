@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او بشپړ شول اسمانونه او ځمکه او ټول ⟨زوڅونه⟩ يې.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "شول"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "او ځمکه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "زوڅونه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:39.582567875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د یاهوه وېره د حکمت روزنه ده، او له شرمېدنې وړاندې تواضع ⟨ده⟩.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "د یاهوه وېره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "روزنه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "د حکمت"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "او له … وړاندې"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "له شرمېدنې"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "تواضع"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:02.245029108Z",
+  "model": "glm-5.3"
+}

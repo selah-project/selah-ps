@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "مه وېرېږه له ناڅاپي وېرې، نه له شرمیرو د خلخښت څخه، کله چې ⟨دا⟩ راشي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وېرېږه"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "له وېرې"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناڅاپي"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "او له خلخښت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شرمیرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "راشي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:55.031449383Z",
+  "model": "glm-5.3"
+}

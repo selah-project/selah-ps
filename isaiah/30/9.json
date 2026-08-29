@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ځکه چې دا یو بغاوي قوم دی، دروغجن زامن، زامن چې نه غواړي د یاهوه پر تورات غوږ ونیولي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "بغاوي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا… دی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "غواړي"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "غوږ ونیولي"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:33.784588565Z",
+  "model": "glm-5.3"
+}

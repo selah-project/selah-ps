@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "چینه چې لوڅه شوې او سرچینه چې خرابه شوې — صدیق چې د شریر له مخې rhetktېږي.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "چینه"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "لوڅه شوې"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "او سرچینه"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "خرابه شوې"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "מט",
+      "gloss": "rhetktېږي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:30.135981201Z",
+  "model": "glm-5.3"
+}

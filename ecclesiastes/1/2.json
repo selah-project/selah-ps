@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "تشه د تشو، وايي قاهیلت؛ تشه د تشو، ټول تشه.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "تشه"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "د تشو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قاهیلت"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "تشه"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "د تشو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "تشه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:57.158772167Z",
+  "model": "glm-5.3"
+}

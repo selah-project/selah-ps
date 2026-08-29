@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او Shelomah د Sidon اوسېدونکو د الهې Ashtoreth او د Ammon د کرغېړن מلکم تعقیب ته ولاړ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "تعقیب ته"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoreth"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الهې"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "د Sidon اوسېدونکو"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "او تعقیب ته"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "ملکم"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "د Ammon"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:41.314514905Z",
+  "model": "glm-5.3"
+}

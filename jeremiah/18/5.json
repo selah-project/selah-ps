@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "بیا د یاهوه خبره راته راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "بیا و"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:56.569119084Z",
+  "model": "glm-5.3"
+}

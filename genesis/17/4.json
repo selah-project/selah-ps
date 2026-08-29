@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "زه — وګوره، زما تړون ⟨את⟩ دا ده چې له تا سره ده، او ته به د ډېرو ملتونو پلار شي.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "زما تړون"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "له تا سره"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "او به … شي"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "המון",
+      "gloss": "د ډېرو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:15.717128305Z",
+  "model": "glm-5.3"
+}

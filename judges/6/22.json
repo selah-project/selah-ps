@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 6:22",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "کله چې ګدعون وليدل چې هغه د یاهوه فرښتی ده، نو ګدعون وويل: اې ادونای یاهوه! ځکه چې ما د یاهوه فرښتی مخې ته مخ لیدلې ده.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وليدل"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ګدعون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرښتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ګدعون"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "اې"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "لیدلې ده ما"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرښتی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "پنیم",
+      "gloss": "مخې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:24:03.614832811Z",
+  "model": "glm-5.3"
+}

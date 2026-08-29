@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "هغوی ما ته د نېکۍ په بدل کې بدۍ ورکوي؛ زما نفس بېاوله کوي.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "ما ته ورکوي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "په بدل کې"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "د نېکۍ"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "بېاوله کوي"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "زما نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.833920533Z",
+  "model": "glm-5.3"
+}

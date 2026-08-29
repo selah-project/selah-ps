@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او اِبصان مړ شو، او په بیت لحم کې خښ شو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبصان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "خښ شو"
+    },
+    {
+      "surface": "بבית",
+      "gloss": "په بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:12.274465856Z",
+  "model": "glm-5.3"
+}

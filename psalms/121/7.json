@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 121,
+  "translation": "یاهوه به دې له هر شر څخه وساتي، ⟨دې به⟩ ⟨את⟩ ستا نفس وساتي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "دې وساتي"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له هر څه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "وساتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا نفس"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ستا نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:14.230525380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "هر وقف شوی شی چې په ییسرویل کې وي، د تا به وي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "وقف شوی شی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په ییسرویل کې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "د تا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:00.627997893Z",
+  "model": "glm-5.3"
+}

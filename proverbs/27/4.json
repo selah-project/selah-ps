@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د قهر سختې او د غضب طوفان؛ خو څوک د زارۍ پر وړاندې ولاړ شي؟",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "سختې"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "د قهر"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "او طوفان"
+    },
+    {
+      "surface": "אף",
+      "gloss": "د غضب"
+    },
+    {
+      "surface": "وמי",
+      "gloss": "خو څوک"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ولاړ شي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "د زارۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:16.662782353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "همداسې دي لارې د هر چا چې د بې-انصافه ګټې پسې ګرځي: د مالک خپل ⟨את⟩ نفس اخلي.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "چې د بې-انصافه ګټې پسې ګرځي"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "بې-انصافه ګټه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نفس"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "د مالک خپل"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "اخلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:47.875479775Z",
+  "model": "glm-5.3"
+}

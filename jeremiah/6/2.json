@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د ښکلي او نازک په څېر مې د تصیون لور پرېښوده.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "ښکلي"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "او نازک"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "مې پرېښوده"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تصیون"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:24.862865094Z",
+  "model": "glm-5.3"
+}

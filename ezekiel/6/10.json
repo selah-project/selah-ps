@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دوی به پوه شي چې زه یاهوه یم؛ مې په بې-بنياده توګه نه ده ویلې چې دا بدی پر دوی وکړم.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "او دوی به پوه شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "هېڅ(ډول)"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "په بې-بنياده توګه"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مې وویل"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې وکړم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پر دوی"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:59.466749517Z",
+  "model": "glm-5.3"
+}

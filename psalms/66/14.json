@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 66,
+  "translation": "چې زما شونډو پرانیستل او زما خولې په زما سختي کې وویل.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "پرانیستل"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما شونډو"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "פי",
+      "gloss": "زما خولې"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "په سختی کې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:12.443701943Z",
+  "model": "glm-5.3"
+}

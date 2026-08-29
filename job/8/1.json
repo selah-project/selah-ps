@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او بيلداد شوحی ځواب ووايه، او يې وويل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "او ځواب يې ووايه"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "بيلداد"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "شوحی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او يې وويل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:02.729656636Z",
+  "model": "glm-5.3"
+}

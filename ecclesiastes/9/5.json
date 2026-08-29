@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځکه چې ژوندي پوهېږي چې مري، خو مړي هېڅ نه پوهېږي، او نور هېڅ اجر ورته نشته، ځکه چې د دوی یادونه هېره شوې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژوندي"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "چې مري"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "خو مړي"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "هېره شوې"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "د دوی یادونه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:13.245149807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او که يو سړی په خپل ملګري کې عیب وټومبلې، لکه څنګه چې يې کړي دي، همداسې پر هغه وشي.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او که يو سړی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "وټومبلې"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عیب"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "په خپل ملګري کې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړي دي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "وشي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:19.670596515Z",
+  "model": "glm-5.3"
+}

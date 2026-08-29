@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 58,
+  "translation": "بلکې په زړه کې تاسو بدي عمل کړئ؛ په ځمکه کې د خپلو لاسونو زور تاولئ.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "تפעלון",
+      "gloss": "عمل کړئ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "د خپلو لاسونو"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "تاولئ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:09.800690014Z",
+  "model": "glm-5.3"
+}

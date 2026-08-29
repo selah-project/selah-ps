@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ځکه چې تו ⟨את⟩ د هغه د سر پر سر انګارې راټولوې، او یاهوه به دې ته بدله درکړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "انګارې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو",
+      "marks": "انګارې"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "راټولوې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "د هغه سر"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "او یاهوه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدله درکړي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:31.367833654Z",
+  "model": "glm-5.3"
+}

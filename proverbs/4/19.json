@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د بدکارانو لار د تیارې غوندې ⟨ده⟩؛ نه پوهېږي په څه کې ټېټېږي.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "د تیارې غوندې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "במה",
+      "gloss": "په څه کې"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ټېټېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:57.680025225Z",
+  "model": "glm-5.3"
+}

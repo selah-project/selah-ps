@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "او پوه شي چې ⟨تو⟩ یې یوازې ستا نوم یاهوه، تر ټولو لوړ، پر ټوله ځمکه.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "او پوه شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو یې"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "تر ټولو لوړ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:14.083513713Z",
+  "model": "glm-5.3"
+}

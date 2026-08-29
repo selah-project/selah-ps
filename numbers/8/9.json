@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ته به لویان د ملاقات خیمې مخې ته راولې، او د یسراییل زامنو ټوله ټولنه به راغواړې.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ته به راولې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د ملاقات"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "به راغواړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټوله ټولنه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ټولنه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسراییل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:00.268943951Z",
+  "model": "glm-5.3"
+}

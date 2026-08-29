@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د شر رسول په شر کې لوېږي، خو د امینو رسول درملنه ده.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "رسول"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "لوېږي"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "په شر کې"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "خو رسول"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "امینو"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "درملنه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:13.342604796Z",
+  "model": "glm-5.3"
+}

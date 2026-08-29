@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ادونای، د زما د ښودنې دعاگانې دې وګټلې؛ زما ژوند دې ازاد کړ.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "دعاگانې دې وګټلې"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "د زما د ښودنې"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "ازاد کړ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زما ژوند"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:32.728501443Z",
+  "model": "glm-5.3"
+}

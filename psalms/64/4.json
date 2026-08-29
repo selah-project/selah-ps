@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "چې توره غوندې يې ژبه تېره کړې ده، خپل تېر يې وګواښه — تريخه خبره.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "تېره کړې ده"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "توره غوندې"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "یې ژبه"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "يې وګواښه"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "خپل تېر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تريخه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:49.108144969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د مقدیایل سردار، د عیرام سردار. دا د اډوم سرداران دي.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "مقدیایل"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "عیرام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "سرداران"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اډوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:28.216490015Z",
+  "model": "glm-5.3"
+}

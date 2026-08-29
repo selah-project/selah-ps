@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او اوس، ای یاهوه، تُه یې هغه الوهیم، او د ستا د بنده لپاره دې دا ښېګڼه وویله.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "یې هغه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "وویله"
+    },
+    {
+      "surface": "על",
+      "gloss": "لپاره"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "د ستا د بنده"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ښېګڼه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:21.743296474Z",
+  "model": "glm-5.3"
+}

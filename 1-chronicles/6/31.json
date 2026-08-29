@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زوی اَمَصي، زوی باني، زوی شِمِر.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "اَمَصي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شِمِر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:14.197977236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د پلرونو د مشرانو ټول شمېر د زور-اورو سرتېرو دوو زرو او شپږ سوه وو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "د پلرونو"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "د زور-اورو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سرتېرو"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوو زرو"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:08:12.954243487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "له بدو کسانو مه حسدوه، او مه هېلمنه اوسه چې ⟨את⟩ له دوی سره شې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسدوه"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "له ... کسانو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "هېلمنه اوسه"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "چې شې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "له دوی سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:39.480436467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "له دې چې ⟨زه⟩ وځپل شوم، زه ووتم؛ خو اوس زما ستا خبره وساتله.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "له دې چې"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "وځپل شوم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "ووتم"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "خو اوس"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ستا خبره"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "وساتله"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:41.785095398Z",
+  "model": "glm-5.3"
+}

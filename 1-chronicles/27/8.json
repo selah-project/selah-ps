@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 27:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "پنځم د پنځمې میاشتې لپاره مشر شم‌هوث هیزراحی و، او پر هغه ⟨هغه⟩ ډلګۍ شل او څلور زره وو.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنځم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د میاشتې لپاره"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پنځمه"
+    },
+    {
+      "surface": "השר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "שמהות",
+      "gloss": "شم‌هوث"
+    },
+    {
+      "surface": "היזרח",
+      "gloss": "هیزراحی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "د هغه ډلګۍ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:27.249454410Z",
+  "model": "glm-5.3"
+}

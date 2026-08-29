@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "مه وېرېږه چې کله یو سړی شتمن شي، چې کله د کور د هغه شان زيات شي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وېرېږه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "شتمن شي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "زيات شي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "د کور د هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:34.636379432Z",
+  "model": "glm-5.3"
+}

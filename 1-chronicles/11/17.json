@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او داوېد هېراندې وکړه او ويې ویل: «څوک به مې راڅښوي اوبه د بېټ‌لحم له څاهې، چې په دروازه کې ده؟»",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "هېراندې وکړه"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ویل"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "به مې راڅښوي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "له څاهې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د بېټ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "په دروازه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:09.329432284Z",
+  "model": "glm-5.3"
+}

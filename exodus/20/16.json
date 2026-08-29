@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د خپل همسایه ⟨پهAgainst⟩ against شهادت نه ورکوې — د دروغګو شهادت.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענه",
+      "gloss": "شهادت ورکوې"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "د خپل همسایه against"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شهادت"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغګو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:31.373393385Z",
+  "model": "glm-5.3"
+}

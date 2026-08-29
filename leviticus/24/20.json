@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ماته د ماتې، سترګه د سترګې، غاښ د غاښ؛ لکه څنګه چې يې په انسان کې عیب ټومبلی دی، همداسې پر هغه وټومبل شي.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "د"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ماتې"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "د"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "שן",
+      "gloss": "غاښ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "د"
+    },
+    {
+      "surface": "שן",
+      "gloss": "غاښ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ټومبلی دی"
+    },
+    {
+      "surface": "מום",
+      "gloss": "عیب"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "په انسان کې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "وټومبل شي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:19.670870774Z",
+  "model": "glm-5.3"
+}

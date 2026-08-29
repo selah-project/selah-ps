@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ارفکشاد ⟨את⟩ شلاح وزېږه، او شلاح ⟨את⟩ عېبِر وزېږه.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "او ارفکشاد"
+    },
+    {
+      "surface": "ילد",
+      "gloss": "وزېږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلاح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شلاح"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "او شلاح"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وزېږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عېبِر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عېبِر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:13.719477905Z",
+  "model": "glm-5.3"
+}

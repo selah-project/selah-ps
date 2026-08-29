@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "خو ټول ⟨تاسو⟩ بېرته راستون شئ او اوس راشئ، او ستاسو ترمنځ به حکیم وم نهم.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "راستون شئ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "او راشئ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "وم نهم"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ستاسو ترمنځ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:13.150670084Z",
+  "model": "glm-5.3"
+}

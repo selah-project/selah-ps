@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "څپړېدئ، څپړېدئ زما قوم، وايي ستاسو الوهیم.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "څپړېدئ"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "څپړېدئ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما قوم"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:21:09.554880302Z",
+  "model": "glm-5.3"
+}

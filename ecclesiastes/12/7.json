@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او خاکه ⟨به⟩ بېرته پر ځمکه ځي لکه څنګه چې وه، او روح ⟨به⟩ بېرته الوهیم ته ځي چې هغه يې ورکړې وه.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "او بېرته ځي"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خاکه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "لکه څنګه چې وه"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "او روح"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بېرته ځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ورکړې وه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:26:24.147029685Z",
+  "model": "glm-5.3"
+}

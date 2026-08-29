@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ماش دې پر خپلې لار وروزه؛ ان کله چې زوړ شي، له هغې به نه وړی ګرځي.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "وروزه"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ماش دې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "پر … سر (د خولې له مخې)"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "خپلې لار"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "زوړ شي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "وړی ګرځي"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "له هغې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:38.189628595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 108,
+  "translation": "چا مې دننه وړي بېدیا شوې ښار ته؟ چا مې لار ښیي تر ادومه؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "چا"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "مې دننه وړي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "بېدیا شوې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چا"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "مې لار ښیي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادومه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:54.175926900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "که هغه دېوال وي، پر هغه به يوې سپين‌زري ماڼۍ جوړه کړو، او که هغه دروازه وي، به هغه دې د ارودار تختو په خونه کړو.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دېوال"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "جوړه کړو"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "ماڼۍ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپين‌زر"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "خونه کړو"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "به هغه"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختې"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ارودار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:12.267069695Z",
+  "model": "glm-5.3"
+}

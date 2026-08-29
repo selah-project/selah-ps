@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 56,
+  "translation": "زما دښمنان ټوله ورځ نگي ځکه چې زما سره د جنګېدو ډېر دي — ماروم.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "نگي"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "زما دښمنان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "د جنګېدو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما سره"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ماروم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:23.847797997Z",
+  "model": "glm-5.3"
+}

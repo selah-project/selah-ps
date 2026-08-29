@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "کرږوم د درغلو بې ګټې شیانو ساتونکي، خو زما اتکا پر یاهوه ده.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "کرږوم"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ساتونکي"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "بې ګټې شیانو"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "درغلو"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "خو زما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "اتکا ... ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:25.006802291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ځکه چې ستا په مټ زه په لښکر تېرېږم، زموږ په الوهیم زه د دیوال اوړم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ستا په مټ"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "تېرېږم\/منډم"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "په الوهیم"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "اوړم"
+    },
+    {
+      "surface": "שור",
+      "gloss": "د دیوال"
+    }
+  ],
+  "timestamp": "2026-08-29T02:24:47.425829228Z",
+  "model": "glm-5.3"
+}

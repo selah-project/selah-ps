@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د هغوی شمېرل شوی، د اپرایم د قبیلې لپاره، څلوېښت زره او پنځه سوه وو.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "د هغوی شمېرل شوی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپرایم"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:45.403080686Z",
+  "model": "glm-5.3"
+}

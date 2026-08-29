@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او که ښځینه وي، ستا ارزونه به دېرش شیکلې وي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ښځینه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وي"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ستا ارزونه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکلې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:50.615859250Z",
+  "model": "glm-5.3"
+}

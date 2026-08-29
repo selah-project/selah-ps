@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "شتاب مې وکړ او ځنډ ونه کړم ستا حکمونه د ساتلو لپاره.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "شتاب مې وکړ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ځنډ وکړم"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "د ساتلو لپاره"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ستا حکمونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:53.722161391Z",
+  "model": "glm-5.3"
+}

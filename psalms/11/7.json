@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ځکه چې یاهوه عادل ⟨دی⟩؛ ⟨هغه⟩ عدالت خوښوي، رېښتیني به ⟨هغه⟩ ویني ⟨هغه⟩ مخ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خوښوي"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "رېښتیني"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "به ویني"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "مخ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:00.697184873Z",
+  "model": "glm-5.3"
+}

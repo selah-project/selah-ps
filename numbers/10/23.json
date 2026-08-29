@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د منسي د زامنو د قبیلې د پوړ پر سر ګملییل زوی پدهتصور و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر سر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "د پوړ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "د قبیلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منسي"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ګملییل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پده"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تصور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:58.059583267Z",
+  "model": "glm-5.3"
+}

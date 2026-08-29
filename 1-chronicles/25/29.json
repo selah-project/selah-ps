@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 25:29",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د دوه او شلو قدم ټاکل شوې وه לګیدالتي ته، هغه، زامن يې او وروڼه يې، دولس",
+  "tokens": [
+    {
+      "surface": "לשנים",
+      "gloss": "د دوه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شلو"
+    },
+    {
+      "surface": "לגדלתי",
+      "gloss": "لګیدالتي ته"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:17.236363843Z",
+  "model": "glm-5.3"
+}

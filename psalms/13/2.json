@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "تر کله یاهوه به ما هېروې، تل؟ تر کله به خپله ⟨את⟩ مخ ماته پټوې؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תשכחנي",
+      "gloss": "به ما هېروې"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "تل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کله"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "به پټوې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مخ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپله مخ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ماته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:23.457350685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "بیا یهوشوع ⟨את⟩ قوم خوشې کړ، هر سړی خپل میراث ته.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "خوشې کړ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "لנחלתו",
+      "gloss": "خپل میراث ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:21.996710521Z",
+  "model": "glm-5.3"
+}

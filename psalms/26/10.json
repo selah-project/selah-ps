@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "چې په دوو لاسونو کې يې بد نقشه ده، او ښي لاس يې له رشوتونو ډک دی.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "په دوو لاسونو کې"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "بد نقشه"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "او ښي لاس"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډک"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "له رشوتونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:46.471174066Z",
+  "model": "glm-5.3"
+}

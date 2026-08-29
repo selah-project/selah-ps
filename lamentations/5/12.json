@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "شاهزادګانې په خپلو لاسونو وځوړول شوې؛ د زاړو مخونه نه وو درنښت شوي.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "شاهزادګانې"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "په خپلو لاسونو"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "وځوړول شوې"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخونه"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "د زاړو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "درنښت شوي وو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:25.685607477Z",
+  "model": "glm-5.3"
+}

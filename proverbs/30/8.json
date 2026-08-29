@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "باطله او دروغجنې خبرې ما څخه لرې کړه؛ بېوزلي او شتمني مه راکوه؛ زما د ټاکلې برخې خواړه راکړه.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "باطله"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "او خبرې"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغجنې"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ما څخه"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "بېوزلي"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "او شتمني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "راکوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "را"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "خواړه راکړه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "زما د ټاکلې برخې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:37.544832823Z",
+  "model": "glm-5.3"
+}

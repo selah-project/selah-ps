@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "په دې ټولو کې ایوب ګناه ونه کړه، او ⟨את⟩ الوهیم ته يېې حماقت ونه منله.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو کې"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ګناه وکړه"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او ونه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "منله"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "حماقت"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوهیم ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:07.646582748Z",
+  "model": "glm-5.3"
+}

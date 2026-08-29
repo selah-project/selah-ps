@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه له موشې او له اهرون سره خبرې وکړې، ويې ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او خبرې وکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له … سره خبرې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او له … سره خبرې"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ويې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:05.528384035Z",
+  "model": "glm-5.3"
+}

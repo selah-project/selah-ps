@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 137,
+  "translation": "د بابل پر سیندونو کې هلته ناست وو، همداراز مو ژړل، کله چې مو ⟨את⟩ صهیون په یاد کړ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "سیندونو"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ناست وو"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همداراز"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "ژړل"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "کله چې مو په یاد کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صهیون"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:02.628559139Z",
+  "model": "glm-5.3"
+}

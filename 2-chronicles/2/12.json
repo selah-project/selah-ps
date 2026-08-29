@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او اوس ما حورام ته یو پوه سړی استولی دی — پوهېدونکی د سم لارښوونې — زما پلار.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ما استولی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پوهېدونکی"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سم لارښوونه"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "حورام ته"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "زما پلار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:19.705867619Z",
+  "model": "glm-5.3"
+}

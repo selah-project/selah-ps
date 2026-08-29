@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هغې وویل: «دا شپږ اوږې د اوربشو هغه ما ته راکړل، ځکه چې هغه وویل: مه راځې تش د خپلې خواښې ته.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او هغې وویل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "اوږې"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "راکړل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "هغه وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "راځې"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "تش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "د خپلې خواښې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:42.970454762Z",
+  "model": "glm-5.3"
+}

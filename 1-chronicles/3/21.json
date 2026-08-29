@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 3:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د حننیا زامن: پلت-یاه او یشع-یاه؛ د رفایا زامن، د اَرنان زامن، د عُبادیا زامن، د شکنیا زامن.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حننیا"
+    },
+    {
+      "surface": "פלטיה",
+      "gloss": "پلت-یاه"
+    },
+    {
+      "surface": "וישעיה",
+      "gloss": "اویشع-یاه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رفایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اَرنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عُبادیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "شکنیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:50.535418148Z",
+  "model": "glm-5.3"
+}

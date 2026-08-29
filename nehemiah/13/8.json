@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او دا زما ډېر بد راته وښوده، نو ما ⟨את⟩ د طوبیه د کور ټول لوښي له لسوکې بهر وغورځول.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "او بد راته وښوده"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "نو وغورځول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول لوښي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "طوبیه"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "لسوکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:23.981900304Z",
+  "model": "glm-5.3"
+}

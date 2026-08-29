@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ⟨את⟩ راموت او ⟨את⟩ د هغې څړدښتې، ⟨את⟩ عانېم او ⟨את⟩ د هغې څړدښتې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "راموت"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د هغې څړدښتې"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "د هغې څړدښتې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "عانېم"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "عانېم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د هغې څړدښتې"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "د هغې څړدښتې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:14.252478451Z",
+  "model": "glm-5.3"
+}

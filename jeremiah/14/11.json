@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او یاهوه راته وویل: د دې قوم لپاره د دوی په ښېګڼه دوعا مه کوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دوعا کوه"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "لپاره"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "په ښېګڼه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:33:48.739530233Z",
+  "model": "glm-5.3"
+}

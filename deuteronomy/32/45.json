@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او موشې دا ټول خبرې د ټول یسرایل (اسراییل) سره ویل بشپړ کړل.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "بشپړ کړل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "د خبرو ویل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:36.802226336Z",
+  "model": "glm-5.3"
+}

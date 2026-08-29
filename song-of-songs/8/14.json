@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ټېټ پټوځه، زما مينه، او ځان لکه غوایه يا د هوسرو بچی ورسپاره، د خوشبو په غرونو باندې!",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "پټوځه\/تېښته وکړه"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "زما مينه"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "او ځان ورسپاره"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "لکه غوایه"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "د بچی"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "د هوسرو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "غرونو"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:43.590534990Z",
+  "model": "glm-5.3"
+}

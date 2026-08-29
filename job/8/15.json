@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "هغه پر خپل کور تکیه کوي خو درېږي نه؛ هغه ېې کلک نیسي خو ولاړ نه شي.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "تکیه کوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خپل کور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "درېږي"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "کلک نیسي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ېې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ولاړ شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:38.642860504Z",
+  "model": "glm-5.3"
+}

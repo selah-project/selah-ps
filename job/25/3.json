@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ایا د هغه د لښکرو شمېر شته؟ او پر چا د هغه رڼا نه راپاڅي؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ایا... شته"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "د هغه د لښکرو"
+    },
+    {
+      "surface": "وעל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "راپاڅي"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "د هغه رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:40.610242253Z",
+  "model": "glm-5.3"
+}

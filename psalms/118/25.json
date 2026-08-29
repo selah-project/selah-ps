@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 118,
+  "translation": "اې یاهوه، اوس خلاص کړه، چې زما دعا ده؛ اې یاهوه، اوس بریا راکړه، چې زما دعا ده.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "اې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "خلاص کړه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اې (د لورینې particula) چې زما دعا ده"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "اې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "بریا راکړه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اې چې زما دعا ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:29.441440541Z",
+  "model": "glm-5.3"
+}

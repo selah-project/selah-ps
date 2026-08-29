@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او دینا، د لیه لور چې د یعقوب لپاره یې زېږولې وه، ووتله چې د ځمکې لوڼو ته وګوري.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "وووته"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دینا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زېږولې وه"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "د یعقوب لپاره"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "د لیدلو لپاره"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "لوڼو ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:54.194411265Z",
+  "model": "glm-5.3"
+}

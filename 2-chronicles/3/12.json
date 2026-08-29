@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 3:12",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د بل کروب وزله پنځه امش وه، چې د کور دیوال ته رسېده، او بله وزله پنځه امش وه، چې د بل کروب وزلې ته نښتې وه.",
+  "tokens": [
+    {
+      "surface": "וכנף",
+      "gloss": "او وزله"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "د کروب"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "امش"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "מגיע",
+      "gloss": "رسېده"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "دیوال ته"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "והכנף",
+      "gloss": "او بله وزله"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "بله"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "امش"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "نښتې وه"
+    },
+    {
+      "surface": "לכנף",
+      "gloss": "وزلې ته"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "د کروب"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "بل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:55.927222899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "نو د يسرائيل پاچاه او يهوشافات، د يهوداه پاچاه، راموت ګيلعد ته وختل.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وختل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچاه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائيل"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "او يهوشافات"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچاه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهوداه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګيلعد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:04.412657829Z",
+  "model": "glm-5.3"
+}

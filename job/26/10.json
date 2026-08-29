@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "حد يې پر اوبو مېنه کړی — د روښنایي تر بریده د تیارې سره.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "حد"
+    },
+    {
+      "surface": "חג",
+      "gloss": "مېنه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "بریده"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روښنایي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تیارې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:10.148839568Z",
+  "model": "glm-5.3"
+}

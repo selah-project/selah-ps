@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او یاهوه موشې سره وويل، په داسې حال:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "په داسې حال"
+    }
+  ],
+  "timestamp": "2026-08-28T21:34:56.221742129Z",
+  "model": "glm-5.3"
+}

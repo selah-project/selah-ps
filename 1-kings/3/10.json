@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او دا خبره د ادونای په سترګو ښه ښکاره شوه، ځوکه شلومو دا خبره غوښتې وه.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "ښه ښکاره شوه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځوکه"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "غوښتې وه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا خبره"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:25:23.758343682Z",
+  "model": "glm-5.3"
+}

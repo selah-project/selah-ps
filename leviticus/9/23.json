@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 9:23",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او موشې او اهرون د لیدو خیمې ته ننوتل، او ووتل او ⟨את⟩ قوم يې برکت کړ، او د یاهوه جلال ټول قوم ته ښکاره شو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ننوتل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمه"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "لیدو"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "برکت يې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ښکاره شو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:56.041085708Z",
+  "model": "glm-5.3"
+}

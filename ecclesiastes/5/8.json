@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د ځمکې ګټه د ټولو لپاره ده: ⟨the⟩ پاچا ⟨is>> د کرهندې له خوا خدمتول کېږي.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "او…ګټه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "د ټولو لپاره"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "کرهنده"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "خدمتول کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:23.848838772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "⟨د هغه⟩ کیڼ لاس زما د سر لاندې دی، او ⟨د هغه⟩ ښي لاس ما غېږې ته نيسي.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "د هغه کیڼ لاس"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "زما د سر"
+    },
+    {
+      "surface": "וימינو",
+      "gloss": "او د هغه ښي لاس"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ما غېږې ته نيسي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:00.487171948Z",
+  "model": "glm-5.3"
+}

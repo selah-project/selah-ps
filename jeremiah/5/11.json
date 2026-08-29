@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه چې د اسرائیل کور او د یهودا کور زما سره سترې خیانتۍ کړی، د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "ستره خیانتۍ"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "خیانت یې کړی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "زما سره"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او کور"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:11.806109882Z",
+  "model": "glm-5.3"
+}

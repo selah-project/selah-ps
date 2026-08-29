@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 36:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او دا د رعوېل زامن دي، د عیسو زوی: مشر ناحت، مشر زرح، مشر شمّه، مشر مزه؛ دا د رعوېل مشران دي، په اډوم ځمکه کې؛ دا د بشمته، د عیسو د ښځې، زامن دي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوېل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ناحت"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زرح"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شمّه"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "مزه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "د رعوېل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اډوم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بشمته"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:11.717208504Z",
+  "model": "glm-5.3"
+}

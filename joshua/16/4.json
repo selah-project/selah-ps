@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د یوسف زامنو — منشه او افرایم — خپل میراثونه ترلاسه کړل.",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "او میراث يې ترلاسه کړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "او افرایم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:04.988423310Z",
+  "model": "glm-5.3"
+}

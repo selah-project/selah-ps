@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د یوه سست سړي پر میدان تېر شوم، او پر هغه تاک باندې د یوه ⟨بې>‌زړه ⟨سړي⟩ چې زړه لري نه.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سست"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "تېر شوم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "تاک"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "لري نه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:55.950068495Z",
+  "model": "glm-5.3"
+}

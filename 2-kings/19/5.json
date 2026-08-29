@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او د پاچا خېزکیاهو خدمتګارو یشعیاهو ته راغلل.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "او راغلل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "د خدمتګارو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خېزکیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاهو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:07:45.624333406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ⟨את⟩ مذبح به له خاکستریو پاک کړي، او پرې به ارغواني بستره پراخه کړي؛",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "خاکستری به لرې کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مذبح"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "پراخ کړي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "بستره"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "ارغواني"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:51.678397125Z",
+  "model": "glm-5.3"
+}

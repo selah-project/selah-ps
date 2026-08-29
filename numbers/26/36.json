@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او دا د شوتلاح زامن دي: د عیران ← کورنۍ ← د عیرانیانو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شوتلاح"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "د عیران"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "د عیرانیانو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:51.583031043Z",
+  "model": "glm-5.3"
+}

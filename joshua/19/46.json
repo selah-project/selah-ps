@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او مې-هایارقون، او رقون، د يافو پر وړاندې ⟨د⟩ سرحد سره يو ځای.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "او مې-"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "هایارقون"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "او رقون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מול",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "يافو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:59.893793370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "داسې وايي یاهوه زما الوهیم: «روزه ⟨את⟩ د ذبح لپاره ټاکل شوې ګله.»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "روزه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ذبح لپاره ټاکل شوې ګله"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ګله"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "د ذبح لپاره ټاکل شوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:02.255942566Z",
+  "model": "glm-5.3"
+}

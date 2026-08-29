@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او پرعوه وویل یوسف ته: زه پرعوه یم، او له تا پرته به هيڅ سړی په مِتسرایم کې ⟨את⟩ خپل لاس او ⟨את⟩ خپله پښه پورته نه کړي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرعوه"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "له تا پرته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "پورته کړي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل لاس"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خپله پښه"
+    },
+    {
+      "surface": "רגלو",
+      "gloss": "پښه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټوله"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:28.267684597Z",
+  "model": "glm-5.3"
+}

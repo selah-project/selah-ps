@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "یوازې الوهیم ته زما نفس چوپ دی؛ له هغه څخه زما خلاصون دی.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "چوپ دی"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه څخه"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "زما خلاصون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:32.325203562Z",
+  "model": "glm-5.3"
+}

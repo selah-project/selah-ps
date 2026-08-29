@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ظلم کرنکۍ زیاتی رېبي، او د هغه د قهر تاو به پای ومومي.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "کرنکۍ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "رېبي"
+    },
+    {
+      "surface": "און",
+      "gloss": "زیاتی"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "او … تاو"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "د هغه د قهر"
+    },
+    {
+      "surface": "יכלه",
+      "gloss": "پای ومومي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:38.189908072Z",
+  "model": "glm-5.3"
+}

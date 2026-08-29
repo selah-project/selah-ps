@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او ناتان داوېد ته وویل: «هر څه چې ستا په زړه کې دي وکړه، ځکه چې الوهیم له تا سره دی.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ستا په زړه کې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:00.393875765Z",
+  "model": "glm-5.3"
+}

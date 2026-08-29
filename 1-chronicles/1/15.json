@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ⟨את⟩ حِوي، او ⟨את⟩ عرقي، او ⟨את⟩ سيني.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حِوي"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حِوي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "عرقي"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عرقي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "سيني"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سيني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:59.842152594Z",
+  "model": "glm-5.3"
+}

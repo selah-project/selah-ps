@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 71,
+  "translation": "زما خوله د ستاینې ډکه شي، ټول ورځ ستا د جلال سره.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ډکه شي"
+    },
+    {
+      "surface": "פי",
+      "gloss": "زما خوله"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ستا د ستاینې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ستا د جلال"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:12.118221497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "څوک به د یاهوه په غره وخېژي، او څوک به په ⟨د هغه⟩ سپېڅلي ځای کې ودريږي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "وخېژي"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ودريږي"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "په ځای کې"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "سپېڅلی (د هغه)"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:05.386907327Z",
+  "model": "glm-5.3"
+}

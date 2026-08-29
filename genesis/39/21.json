@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او یاهوه د یوسف ⟨את⟩ سره ؤ، او خېسېد يې ورته وغځاوه، او يې خوږل tinا د زندان د کور د مشر په سترګو کې ورکړه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سره"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "او وغځاوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "او ورکړه يې"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "خوږلتيا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "زندان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:10:26.229276302Z",
+  "model": "glm-5.3"
+}

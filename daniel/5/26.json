@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 5:26",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "دا د دې خبرې مانا ده: مَنې — الوه دې پاچاهي شمېرلې او پای ته رسولې ده.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "مانا"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مَنې"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "شمېرلې"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "پاچاهي دې"
+    },
+    {
+      "surface": "והשלמה",
+      "gloss": "او پای ته رسولې ده"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:13.961797599Z",
+  "model": "glm-5.3"
+}

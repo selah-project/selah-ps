@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 24:15",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "نو په رڼاییو کې یاهوه لوی کړئ، د سمندر په ټاپو کې د یاهوه، د اسراییل د الوهیم نوم.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدغه"
+    },
+    {
+      "surface": "בארים",
+      "gloss": "په رڼاییو کې"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "لوی يې کړئ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "באיי",
+      "gloss": "په ټاپو کې"
+    },
+    {
+      "surface": "הים",
+      "gloss": "د سمندر"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:44.166191228Z",
+  "model": "glm-5.3"
+}

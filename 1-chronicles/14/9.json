@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او فلسطیان راغلل او په رفاییم دره کې يې خپل ځان پراخ کړ.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "او فلسطیان"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "خپل ځان يې پراخ کړ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "په دره کې"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "د رفاییم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:04.343801874Z",
+  "model": "glm-5.3"
+}

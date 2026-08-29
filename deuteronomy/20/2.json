@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ہېږي چې کله جګړې ته نږدې شئ، کاهن به مخکې راشي او له قوم سره وغږېږي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او ہېږي"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "کله چې نږدې شئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جګړې"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "مخکې به راشي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "او وغږېږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:51.054249427Z",
+  "model": "glm-5.3"
+}

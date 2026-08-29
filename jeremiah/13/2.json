@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "نو ما ⟨את⟩ کمربند واخیست، د یاهوه په خبره، او د خپلو مټو پر غاړه مې کېښود.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "نو ما واخیست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کمربند"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "کمربند"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "د خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "او کېښودم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "زړه د مټو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:33:39.945274076Z",
+  "model": "glm-5.3"
+}

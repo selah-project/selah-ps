@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "ځکه چې د ټولې ⟨the⟩ ځمکې پاچا الوهیم دی؛ په پوهې زمزمه وکړئ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "زمزمه وکړئ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "په پوهې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:13.885374106Z",
+  "model": "glm-5.3"
+}

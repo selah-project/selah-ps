@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه څوک دی چې خوړلی شي، او څوک دی چې هڅېدلی شي، زما پرته؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوړلی شي"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "هڅېدلی شي"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "پرته"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "زما"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:20.291134266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 77,
+  "translation": "ته د خپل قوم د ډېرې په څېر رهبري کړ، د موشې او اهرون په لاس.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "رهبري کړ"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "د ډېرې په څېر"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "د خپل قوم"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "او اهرون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:56.684587230Z",
+  "model": "glm-5.3"
+}

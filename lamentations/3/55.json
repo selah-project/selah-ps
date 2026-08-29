@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ستا نوم مې ومانه، ای یاهوه، له تر ټیټې غاره.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "مانه مې"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "له غاره"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "تر ټیټې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:57.041659681Z",
+  "model": "glm-5.3"
+}

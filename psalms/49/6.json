@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "ولې ووېرېږم د شر په ورځو، کله چې زما د پښو ګناه ما راچاپېر کړي؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ووېرېږم"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "په ورځو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "زما د پښو (ښېکو)"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ما راچاپېر کړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:28.520693822Z",
+  "model": "glm-5.3"
+}

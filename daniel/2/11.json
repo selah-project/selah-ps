@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 2:11",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او خبره چې پاچا غواړي غوره\/سخته ده، بل څوک نشته چې يې د پاچا مخې وښايي، مگر الهه چې مېشتنه يې له غوښه سره نه ده.",
+  "tokens": [
+    {
+      "surface": "ומלתא",
+      "gloss": "او خبره"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "غواړي"
+    },
+    {
+      "surface": "יקירה",
+      "gloss": "غوره\/سخته"
+    },
+    {
+      "surface": "ואחרן",
+      "gloss": "بل څوک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "איתי",
+      "gloss": "شته"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יחונה",
+      "gloss": "وښايي"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "להן",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אלהין",
+      "gloss": "الهه"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מדרהון",
+      "gloss": "مېشتنه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "بשרא",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "איתוהي",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-29T01:29:28.542095671Z",
+  "model": "glm-5.3"
+}

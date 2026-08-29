@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 28:33",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د ستا د ځمکې مېوه او ټول ستا محنت به هغه قوم وخوري چې ته يې نه پېژندې، او ته به يوازې مظلوم او کوز شوی وې ټولې ورځې.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "مېوه"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ستا د ځمکې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "ستا محنت"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "به وخوري"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پېژندې"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "او ته به وې"
+    },
+    {
+      "surface": "רק",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "עשוק",
+      "gloss": "مظلوم"
+    },
+    {
+      "surface": "ורצוץ",
+      "gloss": "او کوز شوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:27.392968679Z",
+  "model": "glm-5.3"
+}

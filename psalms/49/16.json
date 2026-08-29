@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "خو الوهیم به زما نفس له د شیول له لاس څخه خلاص کړ؛ ځکه چې هغه به مې ونیسي. سلا.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "به خلاص کړ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاس څخه"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "د شیول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "به مې ونیسي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:45.457418816Z",
+  "model": "glm-5.3"
+}

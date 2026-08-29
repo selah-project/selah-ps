@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه ورته وویل: چا ⟨⟨د⟩⟩ انسان خوله جوړه کړې؟ يا چا ګونګ جوړ کړی، يا کاڼی، يا ليدایی، يا ړوند؟ ایا زه نه یم یاهوه؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "جوړه کړې"
+    },
+    {
+      "surface": "פה",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چا"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "جوړ کړی"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ګونګ"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کاڼی"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ليدایی"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ړوند"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ایا … نه"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:45.134957402Z",
+  "model": "glm-5.3"
+}

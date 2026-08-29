@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او یاهوه له ګاد، د داوېد بینا سره وويل چې",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "بینا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:12.235703272Z",
+  "model": "glm-5.3"
+}

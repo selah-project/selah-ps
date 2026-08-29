@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "زما شبتونه وساتئ او زما سپېڅلی استوګنځی ودرناوئ؛ زه یاهوه یم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما شبتونه"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "زما شبتونه"
+    },
+    {
+      "surface": "תשمרו",
+      "gloss": "وساتئ"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "او زما سپېڅلی استوګنځی"
+    },
+    {
+      "surface": "תיראو",
+      "gloss": "ودرناوئ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:29.385182510Z",
+  "model": "glm-5.3"
+}

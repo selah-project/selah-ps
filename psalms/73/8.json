@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "دوی سپکاوی کوي او په شر ظلم خبرې کوي؛ له لوړوالي خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "دوی سپکاوی کوي"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "او خبرې کوي"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "په شر"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "له لوړوالي"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "خبرې کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:06.085540007Z",
+  "model": "glm-5.3"
+}

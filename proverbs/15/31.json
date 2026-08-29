@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "غوږ چې د ژوند د سمونې غږ واوري، د هوښیارانو په منځ کې اوسي.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "چې ... واوري"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "د سمونې"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "د هوښیارانو"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "اوسي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:08.927486065Z",
+  "model": "glm-5.3"
+}

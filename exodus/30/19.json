@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او اهرون او زامن يې به ترې ومېنځي ⟨את⟩ لاسونه او ⟨את⟩ پښې د دوی.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "او به ومېنځي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "او زامن يې"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاسونه"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "پښې"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "پښې د دوی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:30.129988891Z",
+  "model": "glm-5.3"
+}

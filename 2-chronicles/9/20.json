@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 9:20",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ټول د پاچا شلومو د څښاک لوښي طلا وو، او ټول د لبنان د ځنګل د کور لوښي د بندې-طلا وو — سپينه زر د شلومو په ورځو کې هيڅ نه وو ګڼل کېدلي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښي"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "د څښاک"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ځنګل"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "د لبنان"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "بندې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هيڅ نه"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپينه زر"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "ګڼل کېدلي"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "په ورځو کې"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "למאומה",
+      "gloss": "هيڅ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:46:03.968870389Z",
+  "model": "glm-5.3"
+}

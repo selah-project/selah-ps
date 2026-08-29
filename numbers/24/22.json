@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "خو که قین ویجاړ شي — تر کله؟ اشور به دې بنديان کړي».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ویجاړ شي"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قین"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کله"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "دې بنديان کړي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:46.837977409Z",
+  "model": "glm-5.3"
+}

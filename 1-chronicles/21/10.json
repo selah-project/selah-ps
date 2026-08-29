@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "«ورشه او له داوېد سره ووایه چې داسې وايي یاهوه: درې [څیزه] زه دې پر مخ ږدم؛ يو يې ټاکل زما د دې لپاره چې تا ته يې وکړم.»",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ورشه"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "او ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ږدم"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "دې پر مخ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ټاکل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "يو"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "يې"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "او وکړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:12.235922390Z",
+  "model": "glm-5.3"
+}

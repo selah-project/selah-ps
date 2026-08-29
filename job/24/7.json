@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "لوڅ په شپه تېروي بې له جامو، او په ساړه کې ورته هيڅ پوښ نه شته.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "لوڅ"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "په شپه تېروي"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "جامو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نه شته"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "پوښ"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "په ساړه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:58.880050801Z",
+  "model": "glm-5.3"
+}

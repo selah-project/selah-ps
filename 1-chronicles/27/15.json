@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 27:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "دولسم د دولسمې میاشتې لپاره حِلدای هانېتوپاتی، د عثنیا د کورنۍ؛ او پر ډلې يې شل او څلور زره وو.",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "دولسم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "دولسمې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "החדש",
+      "gloss": "میاشتې"
+    },
+    {
+      "surface": "חלדי",
+      "gloss": "حِلدای"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "هانېتوپاتی"
+    },
+    {
+      "surface": "לעתניאל",
+      "gloss": "د عثنیا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "ډلې يې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:11.802185773Z",
+  "model": "glm-5.3"
+}

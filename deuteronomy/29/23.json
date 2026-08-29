@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او ټول ملتونه به ووايي: ولې یاهوه ⟨ה⟩ د دې ځمکې سره داسې وکړل؟ د دې ستر قهر د لوړې تودوخې مانا څه ده؟",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "به ووايي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "د تودوخې"
+    },
+    {
+      "surface": "האף",
+      "gloss": "د قهر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "د دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:02.662841347Z",
+  "model": "glm-5.3"
+}

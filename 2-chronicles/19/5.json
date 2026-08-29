@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او يې په ځمکه کې، د یهودا په ټولو محصورو ښارونو کې، له ښاره تر ښاره قاضيان ودرول.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ودرول يې"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "قاضيان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونو کې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "محصورو"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "له ښاره"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "تر ښاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:31.216983577Z",
+  "model": "glm-5.3"
+}

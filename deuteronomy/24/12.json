@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او که هغه د فقیر سړی وي، د هغه د ګرو سره مه کښېنه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "עני",
+      "gloss": "د فقیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "کښېنه"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "د هغه د ګرو سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:06.146634392Z",
+  "model": "glm-5.3"
+}

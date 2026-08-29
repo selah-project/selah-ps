@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "حکمت په بهر کې غږ کوي، په پراخو لارو کې خپل غږ اوروي.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "په بهر کې"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "غږ کوي"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "په پراخو لارو کې"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "اوروي (پرېښودي)"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "خپل غږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:47.875596223Z",
+  "model": "glm-5.3"
+}

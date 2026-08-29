@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او د یاهوه خبر راته راغی، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او بیا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:04.581497268Z",
+  "model": "glm-5.3"
+}

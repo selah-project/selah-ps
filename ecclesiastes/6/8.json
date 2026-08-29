@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه حکیم ته له نادان څه زیات دی؟ هغه غریب چې د ژوندیو مخې ته تللو پوهه لري، څه لري؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "زیات"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "حکیم ته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "غریب ته"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "د تللو"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژوندیو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:26.189247980Z",
+  "model": "glm-5.3"
+}

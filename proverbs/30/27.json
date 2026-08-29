@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ملخې ته کوم پاچا نشته، خو ټولې په صف وځي.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "کوم پاچا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ملخې ته"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "په صف"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ټولې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:05.135889603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "له پاچا مخکې ځان مه ستایه، او د سترو په ځای کې مه درېږه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "ځان ستایه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "له مخکې"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "او په ځای کې"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "د سترو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "درېږه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:38.402561906Z",
+  "model": "glm-5.3"
+}

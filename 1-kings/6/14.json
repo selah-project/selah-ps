@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "نو سلیمان ⟨את⟩ کور جوړ کړ او بشپړ يې کړ.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "نو … جوړ کړ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "سلیمان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کور"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ויכלהو",
+      "gloss": "او بشپړ يې کړ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:53:08.000448981Z",
+  "model": "glm-5.3"
+}

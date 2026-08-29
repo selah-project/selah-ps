@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 30:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "همداسې د زناکارې ښځې لار: يې وخوړه، خوله يې پاکه کړه، او ويې ويل: ما هيڅ بدۍ نه ده کړې.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "مנאפת",
+      "gloss": "زناکارې"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "يې وخوړه"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "او پاکه يې کړه"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "او ويې ويل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "فעלתי",
+      "gloss": "ما کړې"
+    },
+    {
+      "surface": "און",
+      "gloss": "هيڅ بدۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:02.936550353Z",
+  "model": "glm-5.3"
+}

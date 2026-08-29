@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "د زړه کم‌شوی سړی لاس وهي ⟨او⟩ د خپل ملګري پر وړاندې ګرو ګرځي.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کم‌شوی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "لاس وهي"
+    },
+    {
+      "surface": "כף",
+      "gloss": "د لاس کلی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ګرو ګرځي"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ګرو\/ضمانت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "د خپل ملګري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:59.529309909Z",
+  "model": "glm-5.3"
+}

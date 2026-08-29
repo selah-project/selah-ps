@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 35:16",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "ځکه چې د یهوناداب زوی د ریکاب زامنو ⟨את⟩ د خپل پلار حکم پوره کړ چې هغه يې حکم کړی و، خو دا قوم زما غوږ وانه نیئ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "پوره کړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "یهوناداب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ریکاب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکم"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "د پلار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צום",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "خو قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "غوږ وانه نیئ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما"
+    }
+  ],
+  "timestamp": "2026-08-28T23:43:17.388370077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ټوله عرابه، د اردن ⟨هغه⟩ غاړې، ختيځ لور ته، او تر عرابې سمندره، د پسګه د لمنو لاندې.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټوله"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عرابه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "غاړې"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "د اردن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ختيځ لور ته"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "د عرابې"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "د لمنو"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "د پسګه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:11.117922544Z",
+  "model": "glm-5.3"
+}

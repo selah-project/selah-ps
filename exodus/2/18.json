@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او هغوی د خپل پلار رعوایل خوا ته راغلې، هغه وويل: ولې نن ورځ داسې ژر راغلئ؟",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "راغلې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خوا ته"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "د پلار"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل يې"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "ژر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلئ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:51.558258009Z",
+  "model": "glm-5.3"
+}

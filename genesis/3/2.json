@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ښځې مار ته وویل: “د باغ د ونو میوه خورو،”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "له میوې"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "د ونو"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "د باغ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "خورو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:12.663155472Z",
+  "model": "glm-5.3"
+}

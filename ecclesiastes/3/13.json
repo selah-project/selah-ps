@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او دا هم چې هر سړی ⟨خوړل⟩ وڅښي او په ټول خپل محنت کې ښېگڼه وويني — دا د الوهيم مټه (بخشښت) ده.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او دا هم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "وخوري"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "او وڅکي"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "او وويني"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښېگڼه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "خپل محنت کې"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "مټه (بخشښت)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهيم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:32.924666419Z",
+  "model": "glm-5.3"
+}

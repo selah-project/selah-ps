@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "هغه د تل لپاره پر زړه دې وتړه، او پر غاړه دې وتړه يې.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "وتړه يې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "زړه دې"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "وتړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "غاړه دې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:18.763510443Z",
+  "model": "glm-5.3"
+}

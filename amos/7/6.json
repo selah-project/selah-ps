@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یاهوه پر دې بېرته ورغی؛ «دا هم به نه وي،» ویل ادونای یاهوه.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "بېرته ورغی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا (نارینه بڼه) ⟨دا⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:56.546078630Z",
+  "model": "glm-5.3"
+}

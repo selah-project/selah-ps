@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د یاوان زامن: الیشه او ترشیشه، کیتیم او رودانیم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او … زامن"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوان"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "الیشه"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "او ترشیشه"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کیتیم"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "او رودانیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:34.895849241Z",
+  "model": "glm-5.3"
+}

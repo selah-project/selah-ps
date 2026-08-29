@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د صدیقینو رڼا خوښۍ کوي، خو د بدکارانو څراغ مړاوی شي.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د صدیقینو"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوښۍ کوي"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "خو څراغ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "مړاوی شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:16.469858514Z",
+  "model": "glm-5.3"
+}

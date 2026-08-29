@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د احمق قهر په همدې ورځ ښکاري، خو هوښیار د شرم پټوونکی دی.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "د احمق"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ښکاري\/پېژندل کیږي"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "خو پټوي"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "هوښیار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:01.496139707Z",
+  "model": "glm-5.3"
+}

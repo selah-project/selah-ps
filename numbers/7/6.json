@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او موشې ⟨את⟩ ګاډۍ او ⟨את⟩ غواوان واخیستل او هغوی يې لاویانو ته ورکړل.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیستل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګاډۍ"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ګاډۍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "غواوان"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "غواوان"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ورکړل يې"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ هغوی",
+      "marks": "لاویانو ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویانو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:10.250277606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "یاهوه له اسمانونو څخه ویني، هغه ⟨את⟩ ټول د انسانانو زامن وګورل.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "له اسمانونو څخه"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وګورل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسانانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:48.538678197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او یاهوه موشې سره وویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:37.275456778Z",
+  "model": "glm-5.3"
+}

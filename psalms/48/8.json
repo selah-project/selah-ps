@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "په ختیځ باد سره د تارشیش بېړۍ ماتوې.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "په باد"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ختیځ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ماتوې"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "بېړۍ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تارشیش"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:29.642351713Z",
+  "model": "glm-5.3"
+}

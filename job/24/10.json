@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "لوڅ [بې-جامو] گرځي، بې له جامو، او وږي د غوږيو بوخه لېږدوي.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "لوڅ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "گرځي"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "جامو"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "او وږي"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "لېږدوي"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "د غوږيو بوخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:37.582904996Z",
+  "model": "glm-5.3"
+}

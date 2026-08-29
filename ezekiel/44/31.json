@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "هر مړه ځناور او په ښکار وېجاړ شوی — له مرغیو او له څارویو — کاهنان به يې نه خوري.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "مړه ځناور"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "او په ښکار وېجاړ شوی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرغیو"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څارویو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "به خوري"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:07:08.178418780Z",
+  "model": "glm-5.3"
+}

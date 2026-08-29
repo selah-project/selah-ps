@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او هغوی يې د خپل مقدس سرحد ته راوستل — همدا غر چې د هغه ښي لاس يې ترلاسه کړی.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "راوستل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "د هغه مقدس"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "ترلاسه کړی"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "د هغه ښي لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:41.261153767Z",
+  "model": "glm-5.3"
+}

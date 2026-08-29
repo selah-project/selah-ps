@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وخت د ډبرو د غورځولو، او وخت د ډبرو د راټولولو؛ وخت د غېږه نیولو، او وخت د غېږې څخه لرې کېدو.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "د غورځولو"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ډبرو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "د راټولولو"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ډبرو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "د غېږه نیولو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "لرې کېدو"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "له غېږې څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:38.041930893Z",
+  "model": "glm-5.3"
+}

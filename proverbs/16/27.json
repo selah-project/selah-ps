@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "بې ارزښته سړی (بليعل) بدرېږي چې بدې کوي، او پر شونډو يې لکه سوځونکې اور ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بې ارزښته (بليعل)"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "بدرېږي چې"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شونډو يې"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "لکه اور"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "سوځونکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:13.965373683Z",
+  "model": "glm-5.3"
+}

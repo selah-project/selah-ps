@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "د همدې لامل زه ځان رېځم او پښېمانه یم — پر خاوره او په اير.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې لامل"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ځان رېځم"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "او پښېمانه یم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاوره"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "او اير"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:18.940056233Z",
+  "model": "glm-5.3"
+}

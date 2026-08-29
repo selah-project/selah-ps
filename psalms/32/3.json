@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "کله چې ما چوپتیا کوله، زما هډوکي زړېدل؛ په زما غږ کې ټول ورځ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ما چوپتیا کوله"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "زړېدل"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "زما هډوکي"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "په زما غږ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.133275648Z",
+  "model": "glm-5.3"
+}

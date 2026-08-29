@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "ستا ښارونه به ویړه کړم، او ته به ویړه شې، او به پېژنې چې زه یاهوه یم",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "ستا ښارونه"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ویړه"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "کړم"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویړه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "شې"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "او به پېژنې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:36.825276299Z",
+  "model": "glm-5.3"
+}

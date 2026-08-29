@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "دا څه بِنایاهو د یِهویدا زوی وکړل، او د هغه نوم ⟨is⟩ د درېیو اتلانو ترمنځ [مېشته وو].",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا څه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړل"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یِهویدا"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "او د هغه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "د درېیو"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "اتلانو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:57.262355918Z",
+  "model": "glm-5.3"
+}

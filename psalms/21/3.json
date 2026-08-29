@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د زړه مینه دې ورکړه، او د شونډو غوښتنه دې هېڅکله نه ده دریغه کړې. سېلاه.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "مینه"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "دې ورکړه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ور"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "او غوښتنه"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "د شونډو"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هېڅکله نه"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "دې دریغه کړې"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:49.373258160Z",
+  "model": "glm-5.3"
+}

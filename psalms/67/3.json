@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 67,
+  "translation": "چې په ځمکه کې ⟨د⟩ ستا لار معلومه شي، په ټولو ملتونو کې ستا نجات.",
+  "tokens": [
+    {
+      "surface": "לדעت",
+      "gloss": "چې معلومه شي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "دרכך",
+      "gloss": "ستا لار"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونو کې"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ستا نجات"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:24.219373320Z",
+  "model": "glm-5.3"
+}

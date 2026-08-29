@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ستا د نوم له پاره، ای یاهوه، زما ګناه وبخښه، ځکه چې لویه ده.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "له پاره"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "وبخښې"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "زما ګناه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "لویه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:46.988392637Z",
+  "model": "glm-5.3"
+}

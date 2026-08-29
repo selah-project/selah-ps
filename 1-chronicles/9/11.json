@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 9:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او عَزَریه د حِلقیه زوی، د مِشُلام زوی، د صادوق زوی، د مِرایوت زوی، د اَحِتوب زوی — د الوهیم د کور مشر.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "او عَزَریه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلقیه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَحِتوب"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:26.175143289Z",
+  "model": "glm-5.3"
+}

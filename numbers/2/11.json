@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د هغه لښکر او شمېرل شوي يې شپږ او څلوېښت زره او پنځه سوه وو.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "او د هغه لښکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "او شمېرل شوي يې"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "او څلوېښت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:40.132652807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "«همدې خاطر ستا د ليدو ته ووتم، ستا د څېرې په لټه کې شوم او ومې موندلې ته",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې خاطر"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ووتم"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ستا د ليدو ته"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "په لټه کې"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا د څېرې"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "او ومې موندلې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:21.121022952Z",
+  "model": "glm-5.3"
+}

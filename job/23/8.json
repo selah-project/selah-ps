@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "وګوره! مخکې ځم — خو هغه نشته؛ شاتهګرځم — او هغه نه پېژنم.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "مخکې"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ځم"
+    },
+    {
+      "surface": "ו איננו",
+      "gloss": "خو هغه نشته"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "شاته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "پېژنم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:31.208347046Z",
+  "model": "glm-5.3"
+}

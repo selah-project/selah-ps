@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ولې تاسو ⟨את⟩ د یاهوه ټولګي دا دښته ته راوستل، چې موږ او زموږ څاروي هلته مړه شي؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "او ولې"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "راوستل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه ټولګي"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ټولګی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "دا دښته"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مړه شي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "زموږ څاروي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:48.133805323Z",
+  "model": "glm-5.3"
+}

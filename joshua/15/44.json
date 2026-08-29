@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 15:44",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او قېیله، اخزیب، او ماره‌شاه — نهه ښارونه او د هغوی کلي.",
+  "tokens": [
+    {
+      "surface": "וקעילה",
+      "gloss": "او قېیله"
+    },
+    {
+      "surface": "ואכזיב",
+      "gloss": "اخزیب"
+    },
+    {
+      "surface": "ומראשה",
+      "gloss": "او ماره‌شاه"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نهه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "او د هغوی کلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:49.615356503Z",
+  "model": "glm-5.3"
+}

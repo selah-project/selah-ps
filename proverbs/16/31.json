@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د سپینو وېښتانو تاج د ښکلا دی؛ په نیکۍ لار کې موندل کېږي.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "د ښکلا"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "د سپینو وېښتانو (بوډاټوبا)"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "نیکۍ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "موندل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:16.062034614Z",
+  "model": "glm-5.3"
+}

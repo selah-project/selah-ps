@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "په دولسمه ورځ د نفتالي د زامنو مشر، اهیرا زوی عینان ⟨پرېکړه وکړه⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ... ورځ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د ... زامنو"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اهیرا"
+    },
+    {
+      "surface": "بן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عینان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:12.310605573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 99,
+  "translation": "یاهوه په تسیون کې ستر دی، او ⟨هغه⟩ لوړ دی له ټولو خلکو.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "په تسیون کې"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "او لوړ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "על",
+      "gloss": "له ... پورته \/ پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "خلکو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:16.392366408Z",
+  "model": "glm-5.3"
+}

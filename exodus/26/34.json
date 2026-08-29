@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او کېږده ⟨את⟩ کفاره پر د شهادت صندوق، په مقدس المقدسو کې.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "او کېږده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفاره"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفاره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "شهادت"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "په مقدس … کې"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدسو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:23:10.373833735Z",
+  "model": "glm-5.3"
+}

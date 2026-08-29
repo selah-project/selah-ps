@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 18:28",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او وګوري او له ټولو هغو سرغړونو چې يې کړې دي وګرځي — هغه به ژوندی ژوند کوي، نه به ومري.",
+  "tokens": [
+    {
+      "surface": "ויראه",
+      "gloss": "او وګوري"
+    },
+    {
+      "surface": "וישוב",
+      "gloss": "او وګرځي"
+    },
+    {
+      "surface": "مכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "سرغړونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يې کړې دي"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "يחיה",
+      "gloss": "ژوند کوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "به ومري"
+    }
+  ],
+  "timestamp": "2026-08-28T23:56:33.644609070Z",
+  "model": "glm-5.3"
+}

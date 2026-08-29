@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ډېرې اوبه نشي کولی ⟨את⟩ مینه وژنځوي، او سیندونه يې نه وینځي. که یو سړی ⟨את⟩ د خپل کور ټول مال په مینه کې ورکړي، بهرې به يې سپکاوی کړي.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "نشي کولی"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "وژنځوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مینه"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "مینه"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "او سیندونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישטפוה",
+      "gloss": "يې وینځي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکړي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول مال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "د خپل کور"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "په مینه کې"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "سپکاوی"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "به کړي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "بهرې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:55.138013916Z",
+  "model": "glm-5.3"
+}

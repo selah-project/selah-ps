@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د رامه او ګبعه زامن — شپږ سوه شل او یو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "د رامه"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "او ګبعه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:07.883712066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "د مُوآب مښه پرې شوه، او ⟨هغه⟩ ځواک مات شو — د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "پرې شوه"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "مښه"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "او ځواک"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "مات شو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:06.557038581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "یوه نسل ⟨«هغه⟩ د خپل پلار لعنتوي، او ⟨את⟩ خپله مور برکت نه ورکوي.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "יקלل",
+      "gloss": "لعنتوي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خپله مور"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "خپله مور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت ورکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:26.553766712Z",
+  "model": "glm-5.3"
+}

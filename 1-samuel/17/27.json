@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 17:27",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او خلکو ورته د دې خبر په څېر ځواب ورکړ، ويې ویل: هغه سړی چې هغه ووهي، هغه ته به داسې وشي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلکو"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "د خبر په څېر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ويې ویل"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "وشي"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ووهي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:56.830875904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او زما قربانګاه ته په زینو مه خځه، چې ستا عورت پرې و نه ښکاره شي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "خځه"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "په زینو"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "زما قربانګاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגלه",
+      "gloss": "ښکاره شي"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ستا عورت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:50.273912153Z",
+  "model": "glm-5.3"
+}

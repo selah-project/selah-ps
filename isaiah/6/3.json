@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دا هغه بل ته غږ کړ او ویې ویل: مقدس، مقدس، مقدس دی یاهوه څواووت — د هغه جلال ټوله ځمکه ډکوي.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "او غږ کړ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "بل"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "څواووت"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "د هغه جلال"
+    }
+  ],
+  "timestamp": "2026-08-28T23:12:02.703563259Z",
+  "model": "glm-5.3"
+}

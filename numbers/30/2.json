@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 30:2",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او موشې د یسرائیل زامنو د قبیلو مشرانو ته وويل: دا ⟨هغه⟩ خبر دی چې یاهوه حکم کړی.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشرانو"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "د قبیلو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:55.336684566Z",
+  "model": "glm-5.3"
+}

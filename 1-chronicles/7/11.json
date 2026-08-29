@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 7:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ټول دا د یِدیعایل زامن وو، د پلرونو مشرانو ته، د زور ناروی، اولس زره او دوه سوه، چې جنګ ته پوځ ته وځي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د ... زامن"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "یِدیعایل"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "مشرانو ته"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "د پلرونو"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "د زور ناروی"
+    },
+    {
+      "surface": "חילים",
+      "gloss": "زور"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "او دوه سوه"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "چې وځي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "پوځ ته"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنګ ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:47.769646008Z",
+  "model": "glm-5.3"
+}

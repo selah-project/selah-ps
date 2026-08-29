@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ځکه چې یاهوه ⟨את⟩ يعقوب خلاص کړی، او پر هغه د هغه له لاسه يې فدايه کړی چې له هغه ځواکمن و.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "خلاص کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يعقوب"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "يعقوب"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "او فدايه يې کړی"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاسه"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ځواکمن"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:24.768759331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "الیهورف او اهیه، زامن شیشا، لیکوالان؛ یهوشافات زوی اهیلود، یادګارچي (recorder).",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "الیهورف"
+    },
+    {
+      "surface": "وאחיה",
+      "gloss": "او اهیه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "شیشا"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "لیکوالان"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "اهیلود"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "یادګارچي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:50:55.856780827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "خو زه به له شدای سره خبرې وکړم، او له ایل سره د مناظرې هڅه کوم.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "خبرې وکړم"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "او مناظره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "هڅه کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:44.845317572Z",
+  "model": "glm-5.3"
+}

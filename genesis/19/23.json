@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "لمر پر ځمکه راووت او لوت تسوعر ته ننوت.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "راووت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ו",
+      "gloss": "او"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ننوت"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "تسوعر ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:32.693412226Z",
+  "model": "glm-5.3"
+}

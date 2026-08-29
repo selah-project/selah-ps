@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "خو که دا خبره رښتيا وه چې هغه نجلۍ ته د پاکۍ نښانې نه وې موندل شوې —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "خو که"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "رښتيا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "د خبرې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "موندل شوې"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "د پاکۍ نښانې"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "نجلۍ ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:41.813798480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 27:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "اوم ⟨هو⟩ د اومې میاشتې لپاره — حِلِتس فَلوني، د افرایم له زامنو؛ او پر ډلګۍ يې شل او څلور زره.",
+  "tokens": [
+    {
+      "surface": "השביעי",
+      "gloss": "اوم"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د میاشتې لپاره"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "اومې"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حِلِتس"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "فَلوني"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "مחלקתו",
+      "gloss": "ډلګۍ يې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:04.787608607Z",
+  "model": "glm-5.3"
+}

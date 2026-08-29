@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "نوي دي د سهګاه پر مهال — لویه ده ستا امانتي.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "نوي"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "د سهګاه پر مهال"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "لویه"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "امانتي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:01.341127280Z",
+  "model": "glm-5.3"
+}

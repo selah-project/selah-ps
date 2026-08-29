@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ټولۍ لپاره اوبه نه وې، نو دوی پر موشې او پر اهرون راټول شول.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ټولۍ لپاره"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "راټول شول"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:48.133465679Z",
+  "model": "glm-5.3"
+}

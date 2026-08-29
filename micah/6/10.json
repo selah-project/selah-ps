@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "اوس هم؟ ای د بدکار کور، د بدۍ خزانې، او لنډه اېفه چې لعنتی ده!",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "اوس هم"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ای"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د ... کور"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانې"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "د بدۍ"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "او لنډه اېفه"
+    },
+    {
+      "surface": "רזون",
+      "gloss": "لنډه\/کمزه"
+    },
+    {
+      "surface": "זעوma",
+      "gloss": "لعنتی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:17:54.359278032Z",
+  "model": "glm-5.3"
+}

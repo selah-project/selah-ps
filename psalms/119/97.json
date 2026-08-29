@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "څومره چې زما د لور مینه ده! ټوله ورځ هغه زما فکر دی.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "مینه لرم"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ستا لور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "زما فکر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:39.294612553Z",
+  "model": "glm-5.3"
+}

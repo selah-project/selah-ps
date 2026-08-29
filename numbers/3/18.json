@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او دا د ګرشون د زامنو نومونه دي د دوی د کورنیو له مخې: لِبنۍ او شِمعي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نومونه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ګرشون"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "د دوی د کورنیو له مخې"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنۍ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "او شِمعي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:50.347126706Z",
+  "model": "glm-5.3"
+}

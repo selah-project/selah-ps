@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 2:16",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او دانیل ننوت او له پاچا يې وغوښتل چې هغه ته وخت ورکړل شي، او پاچا ته تعبیر څرګند کړي.",
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "او دانیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "ننوت"
+    },
+    {
+      "surface": "ובעה",
+      "gloss": "او وغوښتل يې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ورکړل شي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "او تعبیر"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "څرګند کړي"
+    },
+    {
+      "surface": "למלכا",
+      "gloss": "پاچا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:29:34.929279860Z",
+  "model": "glm-5.3"
+}

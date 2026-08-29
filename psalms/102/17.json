@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "ځکه یاهوه صهیون آباد کړی، په خپل جلال کې ښکاره شو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "آباد کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیون"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ښکاره شو"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "په خپل جلال کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:51.369376956Z",
+  "model": "glm-5.3"
+}

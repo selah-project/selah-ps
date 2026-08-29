@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او پر عَزَرْیاهو (عزریا) زوی ۋدېد باندې د الوهیم روح وه.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "عَزَرْیاهو زوی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ودېد"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر … باندې"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:15.459988464Z",
+  "model": "glm-5.3"
+}

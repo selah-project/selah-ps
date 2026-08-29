@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 1:11",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د یاهوه خبره راته راغله، چې ووايي: “یرمیاهو، څه ګورې؟” او مې وويل: “د بادام ونې څانګه ګورم.”",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او… وشو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ראه",
+      "gloss": "ګورې"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "مې وويل"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "څانګه"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "د بادام ونې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ګورم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:28:02.947088394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "څوک چې عدالت او خېسېد تعقیبوي، ژوند، عدالت او عزت مومي.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "تعقیبوي"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "او خېسېد"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "مومي"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "او عزت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:24.832359711Z",
+  "model": "glm-5.3"
+}

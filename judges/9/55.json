@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "judges 9:55",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د یسرایلو سړیو چې و يې ليدله چې ابی‌ملک مړ شوی، هر سړی خپل ځای ته ولاړ.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "واو ويليدل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړیو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مړ شوی"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ابی‌ملک"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "واو ولاړ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "خپل ځای ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:26:11.152329340Z",
+  "model": "glm-5.3"
+}

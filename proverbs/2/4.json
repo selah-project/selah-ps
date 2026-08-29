@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "که يې لکه سپین زر ولټوې، او يې لکه پټې خزانې ولټوې،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "لکه سپین زر ولټوې"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "لکه سپین زر"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "او لکه پټې خزانې"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "ولټوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:13.074249584Z",
+  "model": "glm-5.3"
+}

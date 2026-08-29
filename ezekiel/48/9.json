@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 48:9",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "نذر چې تاسو يې لپاره یاهوه پورته کوئ، د اوږدوالي پنځه او شل زره او د پلنوالي لس زره.",
+  "tokens": [
+    {
+      "surface": "התרומה",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "پورته کوئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "لپاره یاهوه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "د اوږدوالي"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "او د پلنوالي"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:09:35.571198503Z",
+  "model": "glm-5.3"
+}

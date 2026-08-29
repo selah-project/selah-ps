@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د غوښې ژوند په روغ زړه کې دی، خو حسد د هډوکو ورسته (چېنج) دی.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "غوښې"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "روغ"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "خو ورسته"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "هډوکي"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "حسد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:14.167792645Z",
+  "model": "glm-5.3"
+}

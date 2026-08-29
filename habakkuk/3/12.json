@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "په غوسه دې ⟨په⟩ ځمکه وګړېدل، په قهر دې ملتونه کوب کړل.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "په غوسه"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "وګړېدل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "באף",
+      "gloss": "په قهر"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "کوب کړل"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:19.039599121Z",
+  "model": "glm-5.3"
+}

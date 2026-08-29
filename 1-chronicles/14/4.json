@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او دا د هغو زامنو نومونه دي چې په یروشلایم کې ورته وزېږېدل: شموع او شوبب، ناتان او شلومو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نومونه"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "د زېږېدلو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "په یروشلایم کې"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شموع"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "او شوبب"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "او شلومو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:37.259616889Z",
+  "model": "glm-5.3"
+}

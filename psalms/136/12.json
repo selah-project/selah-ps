@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 136,
+  "translation": "په قوي لاس او وغځول شويو بازو، ځکه چې د هغه خېسېد د تل لپاره دی.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "او په بازو"
+    },
+    {
+      "surface": "נטונה",
+      "gloss": "وغځول شوې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "لעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "د هغه خېسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:28.972389736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او خره یو شپېته زره،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "او خره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "شپېته"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:28.140765330Z",
+  "model": "glm-5.3"
+}

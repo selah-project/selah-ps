@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "خو یهوشافاط وويل: «ایا دلته د یاهوه بل نبي نشته، چې ترې پوښتنه وکړو؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ویل"
+    },
+    {
+      "surface": "י הושפט",
+      "gloss": "یهوشافاط"
+    },
+    {
+      "surface": "האין",
+      "gloss": "ایا نشته"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بل"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "چې ترې پوښتنه وکړو"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ له هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:50.778331802Z",
+  "model": "glm-5.3"
+}

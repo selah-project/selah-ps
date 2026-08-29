@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 1:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او شلومو هلته د یاهوه مخې ته، د ټاکلي خیمې پر مخ د مسو مذبح ته وخت؛ او پر هغه يې زر سوغټنې وختې.",
+  "tokens": [
+    {
+      "surface": "ויעال",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "د مسو"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "د خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ټاکلی"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "او وختې يې"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "سوغټنې"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:28.208213304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د یاهوه غږ د اور لمسې پرې کوي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "پرې کوي"
+    },
+    {
+      "surface": "لהבות",
+      "gloss": "لمسې"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:26.603445419Z",
+  "model": "glm-5.3"
+}

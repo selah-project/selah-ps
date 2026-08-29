@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "تر کله به دا ګړېږې؟ او د خولې دې خبرې د مښټي باد په څېر دي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אן",
+      "gloss": "کله"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "ګړېږې"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او باد"
+    },
+    {
+      "surface": "کביר",
+      "gloss": "مښټی\/قوي"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "د خولې دې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:02.729915484Z",
+  "model": "glm-5.3"
+}

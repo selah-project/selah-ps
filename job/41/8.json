@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "یو بل ته نږدې کېږي، او هوا د دوی ترمنځ نه راځي.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "بل ته"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "نږدې کېږي"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او هوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "د دوی ترمنځ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:06.218965345Z",
+  "model": "glm-5.3"
+}

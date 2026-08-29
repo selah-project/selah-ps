@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "یاهوه بې‌برخې کوي او شتمن کوي، ټيټوي، بلکه پورته کوي يې.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "بې‌برخې کوي"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "او شتمن کوي"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ټيټوي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "پورته کوي يې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:30:56.828300831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "هغه وخت د هغه له مخې د لاس ورغوی واستول شو، او دا لیکنه وليکل شوه.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "د هغه له مخې"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "واستول شو"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "د لاس ورغوی"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "د لاس"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "او لیکنه"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "وليکل شوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:07.143191179Z",
+  "model": "glm-5.3"
+}

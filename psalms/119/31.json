@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زه د ⟨the⟩ ستا په ګواهیو پورې نښلم، یاهوه — مه مې شرمېده",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "نښلم"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "په ګواهیو دې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "شرمېده مې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:58:19.040153111Z",
+  "model": "glm-5.3"
+}

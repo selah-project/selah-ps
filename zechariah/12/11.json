@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "په هغه ورځ به په یروشلایم کې وير لوی وي، لکه د هدد-رمون وير د مګیدو په دره کې.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יגדل",
+      "gloss": "لوی وي"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "وير"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "په یروشلایم کې"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "لکه د وير"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هدد"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رمون"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "په دره کې"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "مګیدو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:08.646384829Z",
+  "model": "glm-5.3"
+}

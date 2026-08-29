@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د لعدان زامن ← مشر يهي ایل، او زېتام، او یوایل ← درې.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "د لعدان"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "يهي ایل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "او زېتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "او یوایل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:46.868275434Z",
+  "model": "glm-5.3"
+}

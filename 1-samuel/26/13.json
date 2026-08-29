@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او داوېد هغه غاړې ته واوښت او د غره پر سر ولاړ، له لرې لارې؛ لوی ځای ⟨و⟩ د دوی ترمنځ و.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "واوښت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "هغه غاړې"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "د غره"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "له لرې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "د دوی ترمنځ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:40:11.776855473Z",
+  "model": "glm-5.3"
+}

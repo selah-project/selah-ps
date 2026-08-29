@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "چې هغه مې له رحمه نه وژلم، او مور مې زما قبر وایي، او د هغې رحم د تل لپاره لمېدلی وایي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "مې وژلم"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "له رحمه"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "او ... وایي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "مور"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "زما قبر"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "او د هغې رحم"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "لمېدلی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "د تل لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:19.760913721Z",
+  "model": "glm-5.3"
+}

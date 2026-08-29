@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ټول نَتوینیم او د شلومو د غلامانو زامن — درې سوه نوي او دوه ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הנתינیم",
+      "gloss": "نَتوینیم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او … زامن"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "د غلامانو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوي"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:32.474060076Z",
+  "model": "glm-5.3"
+}

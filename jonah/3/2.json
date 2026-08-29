@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "پاڅېږه، نینوه ته لاړ شه، ⟨د⟩ لوی ښار، او ورته اعلان کړه ⟨את⟩ هغه اعلان چې زه يې تا ته وایم.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لاړ شه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوه"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "او اعلان کړه"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه اعلان"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وایم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:16:08.380097305Z",
+  "model": "glm-5.3"
+}

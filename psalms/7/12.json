@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "الوهیم نیک قاضي دی، او ایل چې هره ورځ په غوسه دی.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ایل"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "په غوسه دی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هره"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:29.001361522Z",
+  "model": "glm-5.3"
+}

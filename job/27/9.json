@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "ایا ایل د هغه چیغه اوري، کله چې پر هغه سختیا راځي؟",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "د هغه چیغه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "سختیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:05.129159709Z",
+  "model": "glm-5.3"
+}

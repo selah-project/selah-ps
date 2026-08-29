@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د خاکسرو سپینه زره چې پر خټین لوښي مښل شوې وي — همداسې سوځېدونکې لښکې او بد زړه.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "سپینه زره"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "د خاکسرو"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "مښل شوې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خټین لوښي"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "لښکې"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "سوځېدونکې"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "او زړه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:09.440275074Z",
+  "model": "glm-5.3"
+}

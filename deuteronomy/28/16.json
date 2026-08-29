@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "لعنتی يې په ښار کې، او لعنتی يې په دښته کې.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "او لعنتی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په دښته کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:51.542735563Z",
+  "model": "glm-5.3"
+}

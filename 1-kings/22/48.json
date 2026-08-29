@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او په اډوم کې پاچا نه و؛ يو ټاكړېلی ⟨هغه⟩ پاچا وو.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "او پاچا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه و"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "په اډوم"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ټاكړېلی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:01:12.192241259Z",
+  "model": "glm-5.3"
+}

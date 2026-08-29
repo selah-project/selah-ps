@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "له زړو څخه زه پوهېږم ډېر، ځکه زما ستا حکمونه وساتل.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "له زړو"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ستا حکمونه"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "وساتل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:39.295045109Z",
+  "model": "glm-5.3"
+}

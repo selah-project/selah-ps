@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "او ورسره وتړېدې هم درېشګانې هم سپاره، او ټول مخېښ (لښکر) ډېر دروند وو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "وتړېدې\/خېژېدې"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "درېشګانې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سپاره"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وو\/شو"
+    },
+    {
+      "surface": "המחנه",
+      "gloss": "مخېښ (لښکر)"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "دروند"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:31.967911439Z",
+  "model": "glm-5.3"
+}

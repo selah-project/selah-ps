@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "کله چې له یخه تور شي، پر هغوی باندې واوره پټه وي؛",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "تور شي"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "یخ"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "پټه وي"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "واوره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:14.196801031Z",
+  "model": "glm-5.3"
+}

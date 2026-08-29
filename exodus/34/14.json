@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "ځکه چې بل کوم ایل ته به نه سجده کوې، ځکه چې یاهوه نوم يې «غيورت» دی — هغه غيور ایل دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "به سجده کوې"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "بل کوم ایل ته"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غيور"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نوم يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "غيور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:26:07.301129913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ایا به دوه یوځای وګرځي، که دوی سره په تړون نه وي پېژندلي؟",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "ایا به وګرځي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "که نه"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "سره په تړون وي پېژندلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:13:32.789189602Z",
+  "model": "glm-5.3"
+}

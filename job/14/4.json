@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "څوک ⟨یاهوه⟩ ته دا شوني کړي چې له ناپاکه پاک راوباسي؟ یو هم نه.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دا شوني کړي"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "له ناپاکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو هم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:07:15.739609858Z",
+  "model": "glm-5.3"
+}

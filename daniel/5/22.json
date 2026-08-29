@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او ته، د هغه زویه بیلشاصره، خپل زړه نه و ټیټ کړی، په داسې حال کې چې ټول دا دې پوه وو.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "زویه"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بیلشاصره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "ټیټ کړی و"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "خپل زړه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "په"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "داسې حال کې"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "کל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دې پوه وو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:07.142731399Z",
+  "model": "glm-5.3"
+}

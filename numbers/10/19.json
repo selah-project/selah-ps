@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او پر د شمعون زامنو د قبيلې پوځ ⟨هغه⟩ شلومیل زوی د تصوریشدای و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شلومیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "تصوري"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:51.548585409Z",
+  "model": "glm-5.3"
+}

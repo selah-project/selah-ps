@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "په هغه وخت کې پاچا احاز د آشور پاچايانو ته استوزي ولېږل چې ⟨مرسته⟩ ورسره وکړي.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ولېږل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "احاز"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچايانو"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "آشور"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مرسته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:08:15.316146117Z",
+  "model": "glm-5.3"
+}

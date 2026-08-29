@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ستا ټولې ونې او ستا د ځمکې مېوه هغه ټډی به میراث کړي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ستا ونې"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "او مېوه"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ستا د ځمکې"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "به میراث کړي"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "هغه ټډی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:08.851540605Z",
+  "model": "glm-5.3"
+}

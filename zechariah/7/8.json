@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د یاهوه خبر زکریا ته راغلی، دا چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او … راغلی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زکریا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دا چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:06.335666846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او داوېد ⟨את⟩ ټول خلک راټول کړل او رابه ته لاړ، او پرې يې جګړه وکړه او ويې نيوله.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "راټول کړل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول خلک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "لاړ"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "رابه ته"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "جګړه يې وکړه"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ويې نيوله"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:04.929053839Z",
+  "model": "glm-5.3"
+}

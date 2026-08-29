@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "واورېږه لکه پېغله چې د خپل د ځوانۍ مېړه لپاره د وړۍ جامې وتړلې.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "واورېږه"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "لکه پېغله"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "وتړلې"
+    },
+    {
+      "surface": "שק",
+      "gloss": "د وړۍ جامې"
+    },
+    {
+      "surface": "על",
+      "gloss": "لپاره"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مېړه"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "د ځوانۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:12:03.894574942Z",
+  "model": "glm-5.3"
+}

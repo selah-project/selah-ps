@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 26:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او د هغې لوڼې چې په ډګر کې دي په توره به ووژل شي، او پوه به شي چې زه یاهوه یم.",
+  "tokens": [
+    {
+      "surface": "ובנותיה",
+      "gloss": "او د هغې لوڼې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په ډګر کې"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "په توره"
+    },
+    {
+      "surface": "תהרגנה",
+      "gloss": "به ووژل شي"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "او به پوه شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:00:11.051967186Z",
+  "model": "glm-5.3"
+}

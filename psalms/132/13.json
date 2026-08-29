@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 132,
+  "translation": "ځکه چې یاهوه صهیون وټاکه، هغه يې د خپل اوسېدو ځای په توګه غوښته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "وټاکه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صهیون"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "غوښته"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "د اوسېدو ځای"
+    },
+    {
+      "surface": "לו",
+      "gloss": "خپل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:38.296610646Z",
+  "model": "glm-5.3"
+}

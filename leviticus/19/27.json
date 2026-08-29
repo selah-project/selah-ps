@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د خپل سر څنډې به نه پرې کوئ، او ⟨את⟩ د خپلې ږدې څنډه به نه خرابوئ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "پرې کوئ"
+    },
+    {
+      "surface": "پאת... او په عیسویانو کې د هغوی په پرتله",
+      "gloss": "؟"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:12.179394001Z",
+  "model": "glm-5.3"
+}

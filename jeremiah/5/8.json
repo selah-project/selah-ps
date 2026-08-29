@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "هغوی ډېر غوړ شوي آسونه، ژېل گرځېدونکي وو؛ هر سړی د خپل گاونډي د ښځې ورته پټۍ کوي.",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "آسونه"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "ډېر غوړ شوي"
+    },
+    {
+      "surface": "مשכים",
+      "gloss": "ژېل گرځېدونکي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "د خپل گاونډي"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "پټۍ کوي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:56.963940174Z",
+  "model": "glm-5.3"
+}

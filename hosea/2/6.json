@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او ⟨את⟩ د هغې زامنو ته به رحم و نه کړم، ځکه د زنا زامن دي هغوي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د هغې زامنو"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "د هغې زامنو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "رحم وکړم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "د زنا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:09:10.728883510Z",
+  "model": "glm-5.3"
+}

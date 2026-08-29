@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او اوبه پر ځمکه پنځوس او سلو ورځو غالبې شوې.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "غالبې شوې"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "او سلو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:28.527944303Z",
+  "model": "glm-5.3"
+}

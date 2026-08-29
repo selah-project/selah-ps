@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "چې هغه مهال نه وي چې ته خپل شکل نور نور ته ورکوې او خپل کالونه په بېرحمه",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "چې ... نه وي"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ورکوې"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "نور نور ته"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "خپل شکل"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "خپل کالونه"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "په بېرحمه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:59.070845002Z",
+  "model": "glm-5.3"
+}

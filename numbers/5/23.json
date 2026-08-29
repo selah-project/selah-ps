@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او کاهن به ⟨את⟩ دا لعنتونه په کتاب کې ولیکي، او هغه به په تریو اوبو کې ړنګ يې کړي.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "ولیکي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لعنتونه"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "لعنتونه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "په کتاب"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "او ړنګ کړي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "מי",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "تریو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:59.470304110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "هغه نر چې دې ليدلی و، چې دوه ښکرې يې لرې، دا د مادای او فارس پاچاهان دي.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "هغه نر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "دې ليدلی و"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "لرونکی"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "دوه ښکرې"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچاهان دي"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "د مادای"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "او فارس"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:06.238692708Z",
+  "model": "glm-5.3"
+}

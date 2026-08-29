@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "او دا د ځمکې پوله ده، د شمال لوري ته: له لوی سمندره، د حتولن لار، د سدداه د داخلېدو تر ځایه.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "لوري ته"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندره"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "حتولن"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "د داخلېدو"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "سدداه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:37.672539104Z",
+  "model": "glm-5.3"
+}

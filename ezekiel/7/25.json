@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "وېره راروانه ده، او دوی به سوله ولټوي، خو هېڅ به نه وي.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راروانه ده"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "او به ولټوي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سوله"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نه وي شته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:11.857825008Z",
+  "model": "glm-5.3"
+}

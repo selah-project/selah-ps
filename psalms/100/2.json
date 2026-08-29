@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 100,
+  "translation": "یاهوه ⟨את⟩ په خوښۍ کې وګړئ؛ د هغه پر مخ په سندرو راشئ.",
+  "tokens": [
+    {
+      "surface": "עבدو",
+      "gloss": "وګړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "په خوښۍ کې"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راشئ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "د هغه پر مخ"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "په سندرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:09.184966038Z",
+  "model": "glm-5.3"
+}

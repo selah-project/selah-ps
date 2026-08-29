@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او هغوی ⟨את⟩ خپل غلو پر خپلو سیسۍانو کېښودل او له هغه ځایه ولاړل.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "کېښودل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل غلو"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "خپل غلو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "خپلو سیسۍانو"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ولاړل"
+    },
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:24.140733874Z",
+  "model": "glm-5.3"
+}

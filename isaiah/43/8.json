@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "راوباسي هغه قوم چې ړوند دی خو سترګې ⟨لري⟩، او کوڼ خو غوږونه ⟨لري⟩.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "راوباسي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ړوند"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "خو سترګې"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨لري⟩"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "او کوڼ"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "او غوږونه"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:03.780851772Z",
+  "model": "glm-5.3"
+}

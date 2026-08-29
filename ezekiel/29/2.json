@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 29:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د آدم زویه، خپل مخ پر فرعون، د مِتسرایم پاچا، وږده، او پر هغه او پر مِتسرایم ټول وپړسبه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "وږده"
+    },
+    {
+      "surface": "پניך",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "او وپړسبه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:01:39.832226501Z",
+  "model": "glm-5.3"
+}

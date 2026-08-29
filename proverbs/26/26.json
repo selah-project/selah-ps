@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "که چېرې دومړنه په دروغو پټه شي، بدي به يې په ټولګي کې ښکاره شي.",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "پټه شي"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "دومړنه"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "په دروغو"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ښکاره شي"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "بدي يې"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په ټولګي کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:12.456593308Z",
+  "model": "glm-5.3"
+}

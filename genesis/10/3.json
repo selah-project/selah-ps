@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د ګومر زامن: اشکناز، ریفت او توګرما.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ګومر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اشکناز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "او ریفت"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "او توګرما"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:38.224635010Z",
+  "model": "glm-5.3"
+}

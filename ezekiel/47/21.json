@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "او تاسو به دا ځمکه ⟨את⟩ ځانته د یسرایل د قبیلو په څېر ووېشئ.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "او تاسو به ووېشئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ځانته"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "د قبیلو په څېر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:09.508385776Z",
+  "model": "glm-5.3"
+}

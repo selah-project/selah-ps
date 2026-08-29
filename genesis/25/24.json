@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او د هغې د زېږون ورځې بشپړې شوې، او ايا! په هغې رحم کې غبرګولي وو.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "بشپړې شوې"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "د زېږون"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ايا"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "غبرګولي"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "په هغې رحم کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:14.530889130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او ⟨את⟩ بسمته د یشماعیل لور، د نیبایوت خور.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "بسمته"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بسمته"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یشماعیل"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خور"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نیبایوت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:05.078913594Z",
+  "model": "glm-5.3"
+}

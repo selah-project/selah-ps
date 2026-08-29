@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه پر ما دېوال ودراوه چې نه ووځم؛ زنځیر یې زما درنګ کړ.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "دېوال یې ودراوه"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "پر ما شاوخوا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "چې نه"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ووځم"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "درنګ یې کړ"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "زنځیر زما"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:09.737546733Z",
+  "model": "glm-5.3"
+}

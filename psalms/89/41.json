@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "ته د هغه ټول دیوالونه مات کړل؛ ته د هغه کلاوې ورانې کړې.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "مات کړل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "دیوالونه يې"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "کښېښودلې"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "کلاوې يې"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ورانې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:28.609587885Z",
+  "model": "glm-5.3"
+}

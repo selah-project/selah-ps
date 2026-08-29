@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او د ټولنې نیمایي، د مېږو له ډلې، درې لک او دېرش زره، اووه زره او پنځه سوه وه،",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "وه"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "نیمایي"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "د ټولنې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له ډلې"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "د مېږو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "لک"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "او دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:50.436448093Z",
+  "model": "glm-5.3"
+}

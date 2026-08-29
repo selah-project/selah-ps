@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 146,
+  "translation": "ستایئ یاه! ستایئ، زما نفش، ⟨את⟩ یاهوه.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایئ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ستایئ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفش"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:59.931566521Z",
+  "model": "glm-5.3"
+}

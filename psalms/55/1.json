@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "د سرود مشر ته، د موسيقي آلو سره؛ د داوېد تعليمي شعر.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د سرود مشر ته"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "د موسيقي آلو سره"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "تعليمي شعر"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:03.358006083Z",
+  "model": "glm-5.3"
+}

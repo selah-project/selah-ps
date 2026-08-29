@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د یِساکار زامنو ته — تولا او پوا، یاشوب او شمرون — څلور وو.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "د … زامنو ته"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساکار"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تولا"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "او پوا"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "یاشوب"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "او شمرون"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:03.247866778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "څنګه وپلټل شو عیساو! څرګند شوې پټینې يې!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "وپلټل شو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیساو"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "څرګند شوې"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "پټینې يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:49.021535755Z",
+  "model": "glm-5.3"
+}

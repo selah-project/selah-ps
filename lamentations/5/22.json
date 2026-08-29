@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "که ته موږ په بشپړه توګه له پامه غورځولي يې، که ته پر موږ تر پولې پورې په سخت غضب کې يې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "په بشپړه توګه"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "موږ له پامه غورځولي يې"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "په سخت غضب کې يې"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "پر موږ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر پولې پورې"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:16.549302650Z",
+  "model": "glm-5.3"
+}

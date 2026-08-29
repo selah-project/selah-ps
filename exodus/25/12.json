@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 25:12",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ته به ورته څلور د زر کړۍ وېږې، او ته به يې پر څلورو پښو کېږې — دوه کړۍ پر يوه غاړه او دوه کړۍ پر دویمه غاړه يې.",
+  "tokens": [
+    {
+      "surface": "ויצקת",
+      "gloss": "او ته به وېږې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "کړۍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "د زر"
+    },
+    {
+      "surface": "וונתתה",
+      "gloss": "او ته به کېږې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "פעמתיو",
+      "gloss": "پښو"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "کړۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "غاړه يې"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "کړۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צלעו",
+      "gloss": "غاړه يې"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دویمه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:30.328064017Z",
+  "model": "glm-5.3"
+}

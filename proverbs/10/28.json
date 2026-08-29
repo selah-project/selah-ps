@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د صدیقانو تمه خوښي ⟨ده⟩، خو د ناوړو هيله له منځه ځي.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "تمه"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د صدیقانو"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "خو ... هيله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د ناوړو"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "له منځه ځي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:42.507369186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "ځکه چې د ملتونو ټول معبودونه بتان دي، خو یاهوه اسمانونه جوړ کړي دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "معبودونه د"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "بتان"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "خو یاهوه"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:40.119083342Z",
+  "model": "glm-5.3"
+}

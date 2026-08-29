@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او پر ⟨سینه‌بند⟩ به زنېرونه جوړ کړې — د تاب شوي زرين تارونو کار، د خالصو زرو.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "او جوړ به يې کړې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینه‌بند"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "زنېرونه"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "تاب شوي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "د تارونو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرين"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-28T21:23:29.536849286Z",
+  "model": "glm-5.3"
+}

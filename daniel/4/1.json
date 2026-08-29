@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "زه نبوکدنصر په خپل کور کې په ارام وتم او په خپله ماڼۍ کې می روڼ وم.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نبوکدنصر"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "په ارام"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "وتم"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "په خپل کور کې"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "او روڼ"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "په خپله ماڼۍ کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:30:50.071806879Z",
+  "model": "glm-5.3"
+}

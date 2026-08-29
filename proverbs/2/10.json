@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې حکمت به ستا په زړه کې راشي، او پوهه به ستا نفس ته خوندور وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ستا په زړه کې"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ستا نفس ته"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "خوندور وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:10.561782841Z",
+  "model": "glm-5.3"
+}

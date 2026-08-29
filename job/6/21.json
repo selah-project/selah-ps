@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه چې اوس تاسو همداسې شوي یاست؛ وېرېږئ چې غېټ [=خبره] وینئ او وېرېږئ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "شوي یاست"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "תראו",
+      "gloss": "وینئ"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "ותיראו",
+      "gloss": "او وېرېږئ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:41.329470496Z",
+  "model": "glm-5.3"
+}

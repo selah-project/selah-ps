@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "غوږ ونیسئ او زما غږ واورئ؛ پام وکړئ او زما خبره واورئ.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "غوږ ونیسئ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "او واورئ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "پام وکړئ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "او واورئ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "زما خبره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:29:11.875437341Z",
+  "model": "glm-5.3"
+}

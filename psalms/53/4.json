@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 53,
+  "translation": "ټول شا ته ولاړل، یوځای يې کرغېړنه وکړه؛ نیک کونکی نشته — حتی یو نه.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "סג",
+      "gloss": "شا ته ولاړل"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "کرغېړنه يې وکړه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کونکی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:29.470196426Z",
+  "model": "glm-5.3"
+}

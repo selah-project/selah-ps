@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "دیارلسم هېفاه ته، څوارلسم یېشبآب ته.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "هېفاه ته"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس (دیارلسم)"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "یېشبآب ته"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس (څوارلسم)"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:32.123943177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 60,
+  "translation": "دا څوک دي چې لکه ورېدې وزي، او لکه کوترې خپلو کړکیو ته؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "لکه ورېدې"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "چې وزي"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "او لکه کوترې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "خپلو کړکیو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:26:17.218221861Z",
+  "model": "glm-5.3"
+}

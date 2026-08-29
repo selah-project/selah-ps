@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 19:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "که په رښتیا هم پر ما لویېږئ او زما رسوایی پر ما ملامتوي،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "په رښتیا هم"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "תגדילו",
+      "gloss": "لویېږئ"
+    },
+    {
+      "surface": "ותוכיחו",
+      "gloss": "ملامتوي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "زما رسوایی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:54.231410559Z",
+  "model": "glm-5.3"
+}

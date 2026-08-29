@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "څومره مرسته وکړه د هغه ⟨چې⟩ ځواک نه لري! څومره وژغورله زراعه ⟨چې⟩ قوت نه لري!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مرسته وکړه"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "وژغورله"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "زراعه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עז",
+      "gloss": "قوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:11.172741550Z",
+  "model": "glm-5.3"
+}

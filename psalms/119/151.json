@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "تا نږدې يې، ای یاهوه، او ټول ستا حکمونه رښتینا دي.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ستا حکمونه"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "رښتینا دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:58.094104565Z",
+  "model": "glm-5.3"
+}

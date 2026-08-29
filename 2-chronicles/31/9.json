@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او حِزقیاهو له کاهنانو او لاویانو د غوټو په اړه پوښتنه وکړه.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "پوښتنه يې وکړه"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "حِزقیاهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه د"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "لاویانو"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "غوټو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:09:24.630153272Z",
+  "model": "glm-5.3"
+}

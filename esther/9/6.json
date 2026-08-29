@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او په شوشان بڼه کې یهودیانو پنځه سوه تنه وژلي او ړنګ کړي.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "او په شوشان"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "بڼه کې"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "وژلي"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یهودیانو"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "او ړنګ کړي"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "تنه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:28.060705046Z",
+  "model": "glm-5.3"
+}

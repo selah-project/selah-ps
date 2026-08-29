@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 59,
+  "translation": "زما قوته! درته به پام کوم، ځکه الوهیم ⟨هغه⟩ زما لوړه پناګاه ده.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "زما قوته"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "به پام کوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "زما لوړه پناګاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:17.317419310Z",
+  "model": "glm-5.3"
+}

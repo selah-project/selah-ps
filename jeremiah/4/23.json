@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ما ⟨את⟩ ځمکه ولیدله او وګوره — خالي او تشه وه؛ او ⟨پر⟩ اسمانونو يې وکتل او ⟨د هغوی⟩ رڼا نه وه.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ما ولیدله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "خالي"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "او تشه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نه وه"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "د هغوی رڼا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:46.543740621Z",
+  "model": "glm-5.3"
+}

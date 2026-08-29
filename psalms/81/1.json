@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 81,
+  "translation": "د رهبر لپاره، پر ګیتیت، د آساف لپاره.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "ګیتیت"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "د آساف لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:16.533889998Z",
+  "model": "glm-5.3"
+}

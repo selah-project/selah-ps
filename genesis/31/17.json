@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "نو یعقوب ولاړ، او ⟨את⟩ خپل زامن او ⟨את⟩ خپلې ښځې يې پر اوښانو کېښودل.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "نو ولاړ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "کېښودل يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل زامن"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "خپل زامن"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خپلې ښځې"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "خپلې ښځې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "اوښانو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:25.314232739Z",
+  "model": "glm-5.3"
+}

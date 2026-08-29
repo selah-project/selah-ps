@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 103,
+  "translation": "یاهوه عدالت کوي او د ټولو مظلومانو لپاره پرېکړې.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "او پرېکړې"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټولو لپاره"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "مظلومانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:58.999075542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او هغوی پر ما خپله خوله پرانسته، ويل يې: اها، اها، زموږ ⟨سترګې⟩ وليده!",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "او پرانسته"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "خپله خوله"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ويل يې"
+    },
+    {
+      "surface": "האח",
+      "gloss": "اها"
+    },
+    {
+      "surface": "האח",
+      "gloss": "اها"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "وليده"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "زموږ سترګو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:31.670868957Z",
+  "model": "glm-5.3"
+}

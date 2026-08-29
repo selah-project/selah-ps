@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او میکایاهو، د گمریاهو زوی، د شافان لمسی، ⟨את⟩ ټولې د یاهوه خبرې له کتابه واورېدې.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "واورېدې"
+    },
+    {
+      "surface": "مיכיהו",
+      "gloss": "میکایاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "گمریاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "شافان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې د یاهوه خبرې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کتابه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:42:58.187365886Z",
+  "model": "glm-5.3"
+}

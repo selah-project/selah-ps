@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ځکه زه خپلې سرکښۍ پېژنم، او زما ګناه تل زما مخې ته ده.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "خپلې سرکښۍ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "پېژنم"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "او زما ګناه"
+    },
+    {
+      "surface": "نגדי",
+      "gloss": "زما مخې ته"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:25.348522723Z",
+  "model": "glm-5.3"
+}

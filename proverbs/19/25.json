@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "مخوري ته ووهه، او ساده هوښیار شي؛ او پوه ته پوختنه وکړه، نو هغه به پوهه درک کړي.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "مخوري"
+    },
+    {
+      "surface": "תכه",
+      "gloss": "ووهه"
+    },
+    {
+      "surface": "וופתי",
+      "gloss": ""
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "او ساده"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "هوښیار شي"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "او پوختنه وکړه"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "پوه ته"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "درک کوي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:07.894522797Z",
+  "model": "glm-5.3"
+}

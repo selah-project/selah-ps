@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 57,
+  "translation": "ویښ شه، زما جلاله، ویښ شه، نابِل! او کنور! زه سهار ویښوم.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ویښ شه"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "زما جلاله"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ویښ شه"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "نابِل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "او کنور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "زه ویښوم"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سهار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:35.527430958Z",
+  "model": "glm-5.3"
+}

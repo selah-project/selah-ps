@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "دا د دیشان زامن وو: عُوص او اران.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دیشان"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عُوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "او اران"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:07.392144194Z",
+  "model": "glm-5.3"
+}

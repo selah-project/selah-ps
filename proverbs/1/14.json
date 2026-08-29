@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "خپله پیکه زموږ په منځ کې واچوه، یو کیس به د ټولو زموږ لپاره وي.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "خپله پیکه"
+    },
+    {
+      "surface": "تפיל",
+      "gloss": "واچوه"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "زموږ په منځ کې"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "کیس"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "لכלנו",
+      "gloss": "د ټولو زموږ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:53.780946905Z",
+  "model": "glm-5.3"
+}

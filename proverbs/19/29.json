@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 19:29",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د ټوپکوهونکو لپاره ← ruthlessness → غ rendering…",
+  "tokens": [
+    {
+      "surface": "נכונו",
+      "gloss": "چمتو شوي دي"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "د ټوپکوهونکو لپاره"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "حکمونه"
+    },
+    {
+      "surface": "ומהלومות",
+      "gloss": "او وهنې"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "د شا لپاره"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "د ناپوهانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:14.181470121Z",
+  "model": "glm-5.3"
+}

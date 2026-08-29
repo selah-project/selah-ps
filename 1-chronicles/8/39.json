@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د هغه ورور عیشق زامنو: اولم لومړی زوی، یعوش دویم او الیپلت درېیم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "عیشق"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ورور"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اولم"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "لومړی زوی"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "یعوش"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "الیپلت"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "درېیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:31.932143829Z",
+  "model": "glm-5.3"
+}

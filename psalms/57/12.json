@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 57,
+  "translation": "لوړ شه، الوهیم، د اسمانونو له پورته؛ ستا جلال د ټولې ځمکې له پورته وي.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "لوړ شه"
+    },
+    {
+      "surface": "על",
+      "gloss": "له پورته"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "له پورته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ستا جلال"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:35.528119646Z",
+  "model": "glm-5.3"
+}

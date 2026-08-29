@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او د اسحاق ورځې ⟨وې⟩ سل کاله او اتیا کاله.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او … ⟨وې⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د … ورځې"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اسحاق"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "او اتیا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:04.950872869Z",
+  "model": "glm-5.3"
+}

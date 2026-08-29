@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او زِلپه، د لِیا مینځه، یعقوب ته یو زوی وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "د مینځه"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِیا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوب ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "یو زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:25.096344810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "اِیوب ځواب ورکړ ⟨את⟩ یاهوه او ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ځواب یې ورکړ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:13.053695764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هر الوتونکی خزنده چې څلور پښې لري، هغه ستاسو لپاره کرغېړن دی.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الوتونکی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لري"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پښې"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:24.402514032Z",
+  "model": "glm-5.3"
+}

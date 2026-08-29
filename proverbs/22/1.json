@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ټاکل شوی ⟨دی⟩ نوم له ډېرې شتمنۍ، له سپينو زرو او له سرو زرو — ښه فضل.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "ټاکل شوی ⟨دی⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "له ډېرې شتمنۍ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "له سپينو زرو"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "او له سرو زرو"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فضل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:34.788200709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او معونوتای ⟨את⟩ عفره وزیږاوه؛ او سرایه ⟨את⟩ یوآب وزیږاوه، د صنعتکارو د درې پلار — ځکه چې صنعتکاران وو.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "معونوتای"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عفره"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "عفره"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "سرایه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "د درې"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "د صنعتکارو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "صنعتکاران"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:24.093675533Z",
+  "model": "glm-5.3"
+}

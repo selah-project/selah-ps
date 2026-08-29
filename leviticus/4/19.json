@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ⟨את⟩ ټولې غوړۍ به يې له هغه څخه پورته کوي، او پر مذبح به يې وسوزوي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې غوړۍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "غوړۍ يې"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "پورته کوي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه څخه"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "او وسوزوي"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "پر مذبح"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:45.958350697Z",
+  "model": "glm-5.3"
+}

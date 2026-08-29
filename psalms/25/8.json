@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "نیک او رښتینی ⟨دی⟩ یاهوه؛ ځکه نو ګناهګران په لار کې لارښووني کوي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "او رښتینی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "د ... په پار"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "لارښووني کوي"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ګناهګران"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:09.821981331Z",
+  "model": "glm-5.3"
+}

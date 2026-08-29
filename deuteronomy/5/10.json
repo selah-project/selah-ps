@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او خېسېد کوم تر زرګونو پورې د هغوی چې ما مینه لري او زما فرمانونه ساتي.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "او کوم"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "تر زرګونو پورې"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "د هغوی چې ما مینه لري"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "او ساتي"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "زما فرمانونه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:36.293390998Z",
+  "model": "glm-5.3"
+}

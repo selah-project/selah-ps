@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ځکه چې اوس به وايي: زموږ پاچا نشته، ځکه موږ ⟨את⟩ یاهوه ونه وېرېدو؛ او پاچا به زموږ لپاره څه وکړي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "وېرېدو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "او پاچا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "وکړي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:12:13.553523558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 101,
+  "translation": "کج زړی به له ما واوړي، بدې سره به پېژندګلوی نه کوم.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "زړی"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کج"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "به واوړي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "پېژندګلوی به کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:21.570451023Z",
+  "model": "glm-5.3"
+}

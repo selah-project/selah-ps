@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "بیا حنانیه نبي ⟨את⟩ زولۍ له غاړې د یِرمیه نبي واخیسته او ماته يې کړه.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیسته"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حنانیه"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زولۍ"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "زولۍ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "غاړې"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یِرمیه"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "او ماته يې کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:05.465940382Z",
+  "model": "glm-5.3"
+}

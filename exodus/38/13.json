@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او د ختیځې خوا لپاره، د لمر خاته، پنځوس اَمه وې.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "او د … خوا لپاره"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ختیځې"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "د لمر خاته"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:33.047026909Z",
+  "model": "glm-5.3"
+}

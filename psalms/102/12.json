@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "زما ورځې ⟨دي⟩ لکه غځېدلی سيوری، او زه لکه بوټی وچ شوی یم.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "زما ورځې"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "لکه سيوری"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "غځېدلی"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "لکه بوټی"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "وچ شوی یم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:41.226091448Z",
+  "model": "glm-5.3"
+}

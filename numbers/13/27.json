@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 13:27",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او هغه ته يې وویل: موږ هغې ځمکې ته ورغلو چې ته مو استولي وو؛ او همداiguratively ⟨هغه⟩ د شیدو او مټو څڅېدونکې ده، او دا يې مېوه ده.",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "يې وویل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "او وويل يې"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "ورغلو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שלחתנו",
+      "gloss": "مو استولي وو"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "څڅېدونکې"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "د شیدو"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "او مټو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "مېوه ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:22.134763355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او که کاهن وګوري، او وګورې چې داغ په جامې کې نه دی خپور شوی، نه په تارونو کې، نه په پنځونو کې، او نه په کوم د څرمنې لوښي کې،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "وګوري"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او وګورې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "خپور شوی"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "په جامې کې"
+    },
+    {
+      "surface": "או",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "په تارونو کې"
+    },
+    {
+      "surface": "או",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "په پنځونو کې"
+    },
+    {
+      "surface": "או",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په کوم"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښي"
+    },
+    {
+      "surface": "עור",
+      "gloss": "د څرمنې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:59.568788595Z",
+  "model": "glm-5.3"
+}

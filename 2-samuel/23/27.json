@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ابيعزر عناتوتي، مبناي حوشاتي،",
+  "tokens": [
+    {
+      "surface": "אֲבִיעֶזֶר",
+      "gloss": "ابيعزر"
+    },
+    {
+      "surface": "הָעַנְתֹתִי",
+      "gloss": "عناتوتي"
+    },
+    {
+      "surface": "מְבֻנַּי",
+      "gloss": "مبناي"
+    },
+    {
+      "surface": "הַחֻשָׁתִי",
+      "gloss": "حوشاتي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:40.638953914Z",
+  "model": "glm-5.3"
+}

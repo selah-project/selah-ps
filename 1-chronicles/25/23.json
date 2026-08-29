@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د شپاړلسم لپاره حَنَنیاهو، د هغه زامن او وروڼه، دولس:",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "حَنَنیاهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:59.725023356Z",
+  "model": "glm-5.3"
+}

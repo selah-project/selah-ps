@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 129,
+  "translation": "پر شا مې بزګرانو کرل وکړ، خپلې کرښې يې اوږدې کړې.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "شا مې"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "کرل يې وکړ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "بزګرانو"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "اوږدې يې کړې"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "خپلې کرښې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:17.113376648Z",
+  "model": "glm-5.3"
+}

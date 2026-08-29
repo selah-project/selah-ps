@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 111,
+  "translation": "د تل لپاره، د bases لپاره ټینگ ولاړ دي؛ په رښتیا او سمتیا جوړ شوي دي.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "ټینگ ولاړ دي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د پای لپاره"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "جوړ شوي دي"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "په رښتیا"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "او په سمتیا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:44.121872798Z",
+  "model": "glm-5.3"
+}

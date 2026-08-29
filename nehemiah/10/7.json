@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "دانیل، ګینتون، باروک،",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "دانیل"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ګینتون"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروک"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:19.528611202Z",
+  "model": "glm-5.3"
+}

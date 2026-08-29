@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او به زنا نه کوې.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "به زنا کوې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:21.248847182Z",
+  "model": "glm-5.3"
+}

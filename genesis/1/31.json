@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او الوهیم ⟨את⟩ ټول هغه څه ولیدل چې یې کړي وو، او ګوره — ډېر ښه وو. او ماښام شو، او سهار شو — شپږمه ورځ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "او ولیدل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه څه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "یې کړي وو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ګوره"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شپږمه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:30.245033136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او که يو یې زور کړي، دواړه يې پر وړاندې درېږي؛ او درې-ګونه تار څرګند نه ماتېږي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "زور وکړي"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "دواړه"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "درېږي"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "پر وړاندې يې"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "او تار"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "درې-ګونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "په څرګند ډول"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ماتېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:41.412213832Z",
+  "model": "glm-5.3"
+}

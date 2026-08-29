@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 71,
+  "translation": "مه مې وباسه د زوړوالي په وخت کې؛ د زړښت په وخت کې مه مې پرېږده.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "مې وباسه"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "د زوړوالي"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "په پای ته رسېدو"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زما ځواک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "مې پرېږده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:56.082317530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "او خپل مخ له خپل بنده پټوه، ځکه چې ⟨زنې⟩ راته تنګ دی؛ ژر ځواب راکړه.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תסתر",
+      "gloss": "پټوه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "له خپل بنده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنګ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ژر"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ځواب راکړه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:44.184756548Z",
+  "model": "glm-5.3"
+}

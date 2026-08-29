@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "ښوونکی [شعر]، د ایتان هاعزرای [لیکل شوی].",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ښوونکی [شعر]"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "د ایتان"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "هاعزرای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:22.917131607Z",
+  "model": "glm-5.3"
+}

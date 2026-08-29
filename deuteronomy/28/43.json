@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "هغه پردي چې ستا په منځ کې دی به لوړ لوړ پر تا وخېژي، او ته به ټیټ ټیټ راښکته شې.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "هغه پردي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ستا په منځ کې"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "به وخېژي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "به راښکته شې"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ټیټ"
+    },
+    {
+      "surface": "מטه",
+      "gloss": "ټیټ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:08.851755089Z",
+  "model": "glm-5.3"
+}

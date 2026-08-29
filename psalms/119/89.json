@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "لتر ټول یاهوه، ستا خبره ⟨هغه⟩ په اسمانونو کې ولاړه ده.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "لتر ټول"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ستا خبره"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ولاړه ده"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "په اسمانونو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:43.722901549Z",
+  "model": "glm-5.3"
+}

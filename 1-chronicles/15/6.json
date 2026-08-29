@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د مراري د زامنو ⟨له ډلې⟩ عسایه مشر ⟨و⟩، او د هغه وروڼه دوه سله او شل ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراري"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عسایه"
+    },
+    {
+      "surface": "השר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سله"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:45.074569036Z",
+  "model": "glm-5.3"
+}

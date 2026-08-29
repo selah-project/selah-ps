@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "خو انسان د درد لپاره زېږېدلې دی، او د رشف زامن يې الوتنه لوړوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "د درد لپاره"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "زېږېدلې دی"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او د ... زامن"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "رشف"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "لوړوي"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "الوتنه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:44.177588819Z",
+  "model": "glm-5.3"
+}

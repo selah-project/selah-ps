@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او کله چې ⟨هغه⟩ له ⟨את⟩ پنو‌ایله تېر شو، لمر ورته وځلېد، او هغه پر خپل ران زګرون تېرېده.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "او وځلېد"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېر شو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنو‌ایل"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "پنو‌ایل"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "زګرون تېرېده"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "خپل ران"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:14.936830919Z",
+  "model": "glm-5.3"
+}

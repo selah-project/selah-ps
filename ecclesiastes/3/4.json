@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وخت د ژړلو، او وخت د خندلو؛ وخت د ماتم کولو، او وخت د نڅا.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "د ژړلو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "د خندلو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "سפוד",
+      "gloss": "د ماتم کولو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "د نڅا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:11.076744079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او ټول د ځمکې لسمکى — د ځمکې د تخم او د ونې د مېوې — د یاهوه دی؛ دا د یاهوه لپاره مقدس دی.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "لسمکى"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "د تخم څخه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "د مېوې څخه"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "د ونې"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:48.357693080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "یهودیانو ته روښنایي او خوښي، شادي او عزت وموندل.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "یهودیانو ته"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وموندل"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "روښنایي"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "او خوښي"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "شادي"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "او عزت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:28:23.412716259Z",
+  "model": "glm-5.3"
+}

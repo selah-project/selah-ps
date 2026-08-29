@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د هغه یادونه له ځمکې ورکېږي، او پر ⟨د⟩ کوڅه کې هېڅ نوم نه لري.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "د هغه یادونه"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ورکېږي"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لري"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د مخې \/ ⟨د⟩ کوڅه کې"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "بهر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:40.597168854Z",
+  "model": "glm-5.3"
+}

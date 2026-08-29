@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ما خپل لپاره د اوبو حوضونه جوړ کړل، چې په هغو سره د ونیو هغه ځنګل اوبه کړم چې ونه ونه پکې راشنه کېږي.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "خپل لپاره"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "حوضونه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "چې اوبه کړم"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "په هغو سره"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ځنګل"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "راشنه کېږي"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "د ونیو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:14.133292003Z",
+  "model": "glm-5.3"
+}

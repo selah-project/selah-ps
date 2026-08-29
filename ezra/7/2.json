@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د شَلّوم زوی، د صادوق زوی، د اَحیطوب زوی،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شَلّوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَحیطوب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:37:55.923786922Z",
+  "model": "glm-5.3"
+}

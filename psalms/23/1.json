@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "مزمور د داوېد لپاره. یاهوه زما شپون دی؛ زه به هیڅ نه کمېږم.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد لپاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "زما شپون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "کم شم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:45.374270218Z",
+  "model": "glm-5.3"
+}

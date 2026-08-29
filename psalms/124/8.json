@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 124,
+  "translation": "زموږ مرسته د یاهوه په نوم کې ده، جوړونکی د اسمانونو او ⟨د⟩ ځمکې.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "زموږ مرسته"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړونکی"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "د اسمانونو"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "او ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:44.065254769Z",
+  "model": "glm-5.3"
+}

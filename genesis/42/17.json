@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او هغوی یې ⟨את⟩ بندته وسپارلې د درېیو ورځو لپاره.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "وسپارلې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هغوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "بندته"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درېیو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:41.602886259Z",
+  "model": "glm-5.3"
+}

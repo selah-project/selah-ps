@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "له غوسې لاس واخلې او قهر پرېږده؛ یوازې د بد کار لپاره غوسه مه کوه.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "لاس واخلې"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "له غوسې"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "او پرېږده"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "غوسه"
+    },
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "د بد کار لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:21.166215407Z",
+  "model": "glm-5.3"
+}

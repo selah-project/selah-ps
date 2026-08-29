@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "د ده د الوهیم شریعت زړه کې ⟨دی⟩؛ د ده ګامونه به نه ټولېږي.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "د ده د الوهیم"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "زړه کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "به ټولېږي (لړزېږي)"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "د ده ګامونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:34.781943225Z",
+  "model": "glm-5.3"
+}

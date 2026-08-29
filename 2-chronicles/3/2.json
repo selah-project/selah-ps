@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هغه د پیلولو په دویمه میاشت کې پیل وکړ، په خپلې واکمنۍ څلورمه کال.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "پیل يې وکړ"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "د جوړولو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "په میاشت کې"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "په دویمه"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "په کال کې"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورمه"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "د خپلې واکمنۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:43.734258378Z",
+  "model": "glm-5.3"
+}

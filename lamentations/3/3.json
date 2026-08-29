@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "یقیناً یوازې پر ما راګرځي؛ ټوله ورځ خپل لاس په بدله اړوي.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یقیناً یوازې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "راګرځي"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "په بدله اړوي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.103440809Z",
+  "model": "glm-5.3"
+}

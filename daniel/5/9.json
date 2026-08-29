@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 5:9",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "آن مهال بادشاه بَلشَتسار ډېر وارخطا شو، او ⟨هغه⟩ رنګ يې پر بدن بدل شو، او د هغه ستر FirebaseFirestoreزمان يې په ګډوډۍ کې اچېدل.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "آن مهال"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاه"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بَلشَتسار"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מתבهל",
+      "gloss": "وارخطا شو"
+    },
+    {
+      "surface": "וזיוהי",
+      "gloss": "او رنګ يې"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "بدل شو"
+    },
+    {
+      "surface": "עלוהי",
+      "gloss": "پر بدن يې"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "او د هغه ستر grandiươi"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:08.759714132Z",
+  "model": "glm-5.3"
+}

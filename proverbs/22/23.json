@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ځکه چې یاهوه به د هغوی دعوه وکړي، او ⟨את⟩ د هغوی څېلوونکو روح به وځېلي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "دعوه وکړي"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "د هغوی"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "او وځېلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغوی څېلوونکو روح"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "د هغوی څېلوونکو"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:41.088705169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او پر د زبولون پر پولې، له ختيځې خوا څخه تر لويديځې خوا پورې، ګاد ⟨یوه⟩ برخه.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پولې"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له خوا څخه"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ختيځې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر پورې"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لويديځې"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "⟨یوه⟩ برخه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:36:50.642113335Z",
+  "model": "glm-5.3"
+}

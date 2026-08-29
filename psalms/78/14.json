@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او په ورځ يې په ورېځه رهبري کول، او ټوله شپه د اور په رڼا.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "رهبري يې کول"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "په ورېځه"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټوله"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "באור",
+      "gloss": "په رڼا"
+    },
+    {
+      "surface": "אש",
+      "gloss": "د اور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:04.642323103Z",
+  "model": "glm-5.3"
+}

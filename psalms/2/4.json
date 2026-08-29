@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "هغه چې په اسمانونو کې ناست دی، خاندل؛ ادونای به په ملنډو يې واخلي.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "ناست دی"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "په اسمانونو کې"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "خاندل"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "په ملنډو واخلي"
+    },
+    {
+      "surface": "למו",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:43.542097326Z",
+  "model": "glm-5.3"
+}

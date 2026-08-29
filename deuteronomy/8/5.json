@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او دا به په خپل زړه کې پېژندې چې لکه څنګه چې یو سړی ⟨את⟩ خپل زوی ادبوي، داسې یاهوه ستا الوهیم تا ادبوي.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "او به پېژندې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ستا زړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "ادبوي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل زوی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "خپل زوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "تا ادبوي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:04.584938505Z",
+  "model": "glm-5.3"
+}

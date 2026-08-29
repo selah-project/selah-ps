@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "لار دې يې تياره او لغړنده وي، او د یاهوه فرښته يې تعقیبوي.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "لار يې"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تياره"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "او لغړنده"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "او … فرښته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "تعقیبوي يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:34.047193857Z",
+  "model": "glm-5.3"
+}

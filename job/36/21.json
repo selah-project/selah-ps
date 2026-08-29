@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 36:21",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "ځان وساته، مه اړوه ⟨את⟩ بدۍ ته، ځکه ته دې دا د زیانونو پر ځای وټاکله.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "ځان وساته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "اړوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "وټاکله دې"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "د زیانونو پر ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:23.036595307Z",
+  "model": "glm-5.3"
+}

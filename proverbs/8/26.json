@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "تر هغه وخته چې هغه نه وې ځمکه جوړه کړې، نه دښتې، او نه د نړۍ د دوړو ⟨the⟩ سر.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر هغه وخته چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړه کړې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "وחוצות",
+      "gloss": "او دښتې"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "او… سر"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "دوړې"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "نړۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:13.269681349Z",
+  "model": "glm-5.3"
+}

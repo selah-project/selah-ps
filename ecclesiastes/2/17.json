@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "نو ما ⟨את⟩ ژوند وستمه، ځکه چې هغه کار چې تر لمر لاندې کېږي پر ما بد دی؛ ځکه چې ټول هوا او د روح خفه‌والی دی.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "وستمه مې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ژوند"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "هغه کار"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "چې کېږي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هوا"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "او خفه‌والی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:57.782994481Z",
+  "model": "glm-5.3"
+}

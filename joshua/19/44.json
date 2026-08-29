@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او ایلْتَقه، ګِبتون او بَعَله.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "ایلْتَقه"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "ګِبتون"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "بَعَله"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:32.313081517Z",
+  "model": "glm-5.3"
+}

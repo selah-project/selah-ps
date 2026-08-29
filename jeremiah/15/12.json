@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "ايا اوسپنه ماتولای شي — شمالي اوسپنه او مس؟",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ايا ... ماتولای شي"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    },
+    {
+      "surface": "مצפון",
+      "gloss": "شمالي"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "او مس"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:55.267821044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د سخت قهر خاوند سزا غټوي؛ ځکه چې که يې خلاصې کړې، بيا به يې بیا وکړې.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "חמه",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "غټوي\/ګرځوي"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "سزا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "خلاصې کړې"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "او بیا"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "زیاتوې\/بیا کوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:14.756141001Z",
+  "model": "glm-5.3"
+}

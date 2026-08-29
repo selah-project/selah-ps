@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "deuteronomy 28:60",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او به په تا بېرته راولي ⟨את⟩ ټولې هغه د مِتسرایم ناروغۍ چې ته ترې وېرېدې، او به هغوی په تا ونښلي.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "به بېرته راولي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناروغۍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "מדוה",
+      "gloss": "ناروغۍ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יגרת",
+      "gloss": "وېرېدې"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "ודבקו",
+      "gloss": "ونښلي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:29.401812855Z",
+  "model": "glm-5.3"
+}

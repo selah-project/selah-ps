@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او شپږ دېرش زره غوايي،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "او غوايي"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:50.436562346Z",
+  "model": "glm-5.3"
+}

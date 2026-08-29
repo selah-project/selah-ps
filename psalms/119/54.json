@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ستا فرایض ما لپاره سندرې شوې دي، د مېشتېدو په کور کې.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "سندرې"
+    },
+    {
+      "surface": "היו",
+      "gloss": "شوې دي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما لپاره"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا فرایض"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "زما د مېشتېدو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:43.665953632Z",
+  "model": "glm-5.3"
+}

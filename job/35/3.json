@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "ځکه چې ته وایې: «تا ته څه ګټه ده؟ زما له ګناه څخه څه ته پورته کېږم؟»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ته وایې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ګټه ده"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "پورته کېږم"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "زما له ګناه څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:01.770053707Z",
+  "model": "glm-5.3"
+}

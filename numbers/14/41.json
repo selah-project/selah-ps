@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او موشې وویل: دا ولې کوئ؟ تاسو ⟨את⟩ د یاهوه له خولې (له قوله) تېرېږئ، خو دا به بریالي نه شي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "تېرېږئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه خوله"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "به بریالي شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:26.142487786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځه، دوی ته ووایه: بېرته لاړ شئ خپلو خیمو ته.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ځه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دوی ته"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "بېرته لاړ شئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "پخپله"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "خپلو خیمو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:17.514762220Z",
+  "model": "glm-5.3"
+}

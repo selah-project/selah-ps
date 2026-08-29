@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "«د یسرائیل زامنو ته ووایه چې زما لپاره offering واخلي: له هر هغه سړي چې زړه يې هڅوي، ⟨את⟩ زما offering به يې واخلئ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د … زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "واخلي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "offering"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "هڅوي"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه يې"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "به واخلئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما offering"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "زما offering"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:27.392425522Z",
+  "model": "glm-5.3"
+}

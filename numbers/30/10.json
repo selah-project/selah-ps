@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او د کونډې او د طلاقه ښځې نذر — هر هغه څه چې پر خپلې نفس يې تړلي، پر هغې به ټینګ پاتې شي.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "او نذر"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "کونډې"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "او طلاقه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "تړلي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "خپلې نفس"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "به ټینګ پاتې شي"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پر هغې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:14.325246290Z",
+  "model": "glm-5.3"
+}

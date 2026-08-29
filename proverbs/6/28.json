@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "که چېرې سړی پر تودو انګارو وګرځېدلای شي، او د هغه پښې دې و نه سوځول شي؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که چېرې"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "وګرځېدلای شي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "تودو انګارو"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "او د هغه پښې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "و نه سوځول شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:54.181193687Z",
+  "model": "glm-5.3"
+}

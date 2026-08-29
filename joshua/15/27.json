@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او حصر-ګده، او حیشمون، او بیت-پلټ،",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "او حصر"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "ګده"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "او حیشمون"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او بیت"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پلټ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:40.012478834Z",
+  "model": "glm-5.3"
+}

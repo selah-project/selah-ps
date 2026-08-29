@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او د دوو کلونو ⟨د⟩ پای ورسېد، او پِرعو خوب ولید، او ښه چې هغه پر سیند ودرېد.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ورسېد"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "د پای"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دوو کلونو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "ויפרעה",
+      "gloss": "او پِرعو"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خوب ولید"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ښه چې"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ودرېد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "سیند"
+    }
+  ],
+  "timestamp": "2026-08-28T21:10:40.779373635Z",
+  "model": "glm-5.3"
+}

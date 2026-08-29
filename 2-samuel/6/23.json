@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او مِیخال، د شاول لور ته، تر خپلې مړینې ورځې پورې هېڅ ماشوم نه شو.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "او مِیخال ته"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شو"
+    },
+    {
+      "surface": "לה",
+      "gloss": "د هغې"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ماشوم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر…پورې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "مړینې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:42:58.378496581Z",
+  "model": "glm-5.3"
+}

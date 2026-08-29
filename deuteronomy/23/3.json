@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "مامزَر د یاهوه په قوم کې نه ننوزي؛ همدارنګه لسم نسل يې هم د یاهوه په قوم کې نه ننوزي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوزي"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "مامزَر"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په قوم کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همدارنګه"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوزي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې (لپاره يې)"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په قوم کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:38.391938900Z",
+  "model": "glm-5.3"
+}

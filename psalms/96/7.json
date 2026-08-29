@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 96,
+  "translation": "ورکړئ ياهوه ته، د قومونو کورنۍ! ورکړئ ياهوه ته شکته او زور.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "ورکړئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه ته"
+    },
+    {
+      "surface": "مשפחות",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "د قومونو"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ورکړئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه ته"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شکته"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "او زور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:53.216336693Z",
+  "model": "glm-5.3"
+}

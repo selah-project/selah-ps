@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او هغه هم راحېل ته ننوت، او راحېل يې هم له لیا څخه زیاته مینه کوله، او له هغه سره يې لاdomainه اووه نور کاله خدمت وکړ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "او…ننوت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحېل"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "او…مینه يې کوله"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "راحېل"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحېل"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "له لیا څخه زیاته"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "او…خدمت يې وکړ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "له هغه سره"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لاdomainه"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "نور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:26.899238385Z",
+  "model": "glm-5.3"
+}

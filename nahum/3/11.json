@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ته به هم مست شې، به پټه شې؛ ته به هم د دښمن له امله پناه ولټوې.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "به مست شې"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "به شې"
+    },
+    {
+      "surface": "نעלامה",
+      "gloss": "پټه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "به ولټوې"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "پناه"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "له دښمن"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:32.121003640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او د يشرایل کور به پېژني چې زه یاهوه يم، د دوی الوهیم، له همغې ورځې او وروسته.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "او به پېژني"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یشرایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "د دوی الوهیم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همغې"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "او وروسته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:31.910087093Z",
+  "model": "glm-5.3"
+}

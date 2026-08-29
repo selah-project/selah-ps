@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 15:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او یاهوه له موشې سره خبرې وکړې، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "خبرې وکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:48.629341029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او لابان وويل: «دا تود زما او ستا ترمنځ نن شاهد دی؛ همدې ته يې نوم ګلعید کېښود.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "دا تود"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "زما"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "او ستا ترمنځ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "על",
+      "gloss": "د همدې لپاره"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدلته"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ونومول شو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نوم يې"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګلعید"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:23.930483640Z",
+  "model": "glm-5.3"
+}

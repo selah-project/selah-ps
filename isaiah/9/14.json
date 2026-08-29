@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "پیر او مخ-لوستی، هغه سر دی؛ او نبي چې درواغ ښیي، هغه لنب دی.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "پیر"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "او لوستی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "او نبي"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ښودنه کوونکی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "لنب"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:32.584919232Z",
+  "model": "glm-5.3"
+}

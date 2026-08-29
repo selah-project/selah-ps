@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 51:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ناڅاپه بابل ولوېده او مات شو؛ پرې وژړئ، د دې د درد لپاره بلسم واخلئ — ښایي چې روغ شي.",
+  "tokens": [
+    {
+      "surface": "פתאם",
+      "gloss": "ناڅاپه"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "ولوېده"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "او مات شو"
+    },
+    {
+      "surface": "הילילو",
+      "gloss": "وژړئ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "واخلئ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "بلسم"
+    },
+    {
+      "surface": "لמכאובה",
+      "gloss": "د درد لپاره"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ښایي چې"
+    },
+    {
+      "surface": "תרפא",
+      "gloss": "روغ شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:50.596241582Z",
+  "model": "glm-5.3"
+}

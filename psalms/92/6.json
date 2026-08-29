@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 92,
+  "translation": "څومره لوي دي ستا کارونه، ای یاهوه! ډېر ژور دي ستا فکرونه.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "لوي دي"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ستا کارونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ژور دي"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ستا فکرونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:28.016938854Z",
+  "model": "glm-5.3"
+}

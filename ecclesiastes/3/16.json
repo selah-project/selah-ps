@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او بيا ما لاندې لمر وليدل: د عدالت په ځای کې هلته بدې، او د سپېڅلتیا په ځای کې هلته بدې.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "او بيا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ما وليدل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "په ځای کې"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "د عدالت"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "او په ځای کې"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "د سپېڅلتیا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:32.925801241Z",
+  "model": "glm-5.3"
+}

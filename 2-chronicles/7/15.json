@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "اوس زما سترګې به پرانیستې وي او زما غوږونې به غږېدونکې وي د دې ځای لمنځ ته.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګې"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "وی"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "پرانیستې"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "او زما غوږونې"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "غږېدونکې"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "د… لمنځ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:48.907350985Z",
+  "model": "glm-5.3"
+}

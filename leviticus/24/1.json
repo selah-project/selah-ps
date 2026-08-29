@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او یاهوه ⟨את⟩ موشې سره وویل، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او ... وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي:"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:14.572877844Z",
+  "model": "glm-5.3"
+}

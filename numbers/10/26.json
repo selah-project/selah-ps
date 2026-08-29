@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او پر د اشر د زامنو د قبیلې لښکر باندې پګعیل د عکران زوی ؤ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אשر",
+      "gloss": "اشر"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پګعیل"
+    },
+    {
+      "surface": "بן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عکران"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:05.824642426Z",
+  "model": "glm-5.3"
+}

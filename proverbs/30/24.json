@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "څلور ⟨دي⟩ د ځمکې کوچني، خو ⟨هغوي⟩ له هوښیارو هوښیار دي:",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دي"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "کوچني"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "خو هغوي"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "له هوښیارو (زيات) هوښیار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:46.002308634Z",
+  "model": "glm-5.3"
+}

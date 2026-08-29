@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ته به ورته ووایې: داسې وايي یاهوه: ایا راپرېوزي او نه پاڅېږي؟ که بېرته ګرځي او نه ګرځي؟",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "او ته به ووایې"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "ایا راپرېوزي"
+    },
+    {
+      "surface": "וlo",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "پاڅېږي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بېرته وګرځي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "وګرځي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:33:25.535674164Z",
+  "model": "glm-5.3"
+}

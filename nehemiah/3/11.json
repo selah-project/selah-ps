@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "دویمه برخه ټینګه کړه مالکیه د حارم زوی او حشوب د فحت موآب زوی، او ⟨את⟩ د تنورونو برج یې (ټینګ کړ).",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ټینګه کړه"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مالکیه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "او حشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "فحت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د تنورونو برج"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "د تنورونو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:31.490766828Z",
+  "model": "glm-5.3"
+}

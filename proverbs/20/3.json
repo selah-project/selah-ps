@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "ښېګلنه ⟨ده⟩ د سړي لپاره د شخړې ډډه کول؛ خو هر ناپوه په ټیټۍ لګیا وي.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "ښېګلنه"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "د سړي لپاره"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ډډه کول"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "د شخړې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "خو هر"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ناپوه"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "په ټیټۍ لګیا وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:55.619941871Z",
+  "model": "glm-5.3"
+}

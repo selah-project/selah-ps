@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د ستا د غلام ورځې څومره دي؟ کله به پر زما تعاقب کوونکو حکم وکړې؟",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "د ستا د غلام"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "به وکړې"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "پر زما تعاقب کوونکو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:42.261693115Z",
+  "model": "glm-5.3"
+}

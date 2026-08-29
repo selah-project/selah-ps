@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "لکه څنګه چې په اوبو کې مخ مخ ته ځان ښيي، همداسې د انسان زړه د انسان لپاره.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "لکه … اوبو"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "مخ ته"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "د انسان لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:58.578879570Z",
+  "model": "glm-5.3"
+}

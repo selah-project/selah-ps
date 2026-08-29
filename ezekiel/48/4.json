@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او د نَفتالي په پوله، له ختیځې څنډې څخه تر لوېدیځې څنډې پورې — مَنَشه یوه برخه.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "د نَفتالي"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له څنډې"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ختیځې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "څنډې"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لوېدیځې"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:31.060813178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "لویان نه حکمت لري، او زاړه پوهېږي ⟨⟩ نه پر فیصله ⟨د⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "حکمت لري"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "او زاړه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پر فیصله"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:25.737042097Z",
+  "model": "glm-5.3"
+}

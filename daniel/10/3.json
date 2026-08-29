@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "خوښ خواړه مې ونه خوړل، او غوښ او شراب زما خولې ته نه راوتل، او غوړ مې ونه مېښودل، تر هغه چې درې اونۍ ورځې بشپړې شوې.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "خوښ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "مې وخوړل"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "او غوښ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "او شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راوتل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פי",
+      "gloss": "زما خولې"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "او غوړ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "مې مېښودل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "بشپړې شوې"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اونۍ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:34:42.554856433Z",
+  "model": "glm-5.3"
+}

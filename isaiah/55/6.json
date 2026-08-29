@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "یاهوه وپلټئ کله چې موندل کېږي، هغه وغواړئ کله چې نږدې دی.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "وپلټئ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "کله چې موندل کېږي"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "هغه وغواړئ"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې دی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:24:24.733669489Z",
+  "model": "glm-5.3"
+}

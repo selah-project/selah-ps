@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "که زه ځان په واورو ووينځم او لاسونه مې په بوره پاک کړم،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "ځان ووينځم"
+    },
+    {
+      "surface": "במו",
+      "gloss": "په"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "واورو"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "پاک کړم"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "په بوره"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "لاسونه مې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:55.884813935Z",
+  "model": "glm-5.3"
+}

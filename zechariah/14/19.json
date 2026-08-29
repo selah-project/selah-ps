@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "دا به د مِتسرایم گناه وي او د ټولو هغو ملتونو گناه چې ⟨את⟩ د خېمو عید د اخیستلو لپاره نه وخېژي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "د مِتسرایم"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "او گناه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغوی چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "وخېژي"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "د عید د اخیستلو لپاره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د خېمو عید"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عید"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "د خېمو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:22.151428256Z",
+  "model": "glm-5.3"
+}

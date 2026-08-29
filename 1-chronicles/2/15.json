@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "اُتسم شپږم، داوېد اوم،",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "اُتسم"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شپږم"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "اوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:21.030532734Z",
+  "model": "glm-5.3"
+}

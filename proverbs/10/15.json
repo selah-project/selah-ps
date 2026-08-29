@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د شتمن شتمني د هغه د ځواک ښار دی؛ د کمزوریو وراني دوی بېوزلي ده.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "عשיר",
+      "gloss": "د شتمن"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "د ځواک"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "وراني"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "د کمزوریو"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "بېوزلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:43.956365774Z",
+  "model": "glm-5.3"
+}

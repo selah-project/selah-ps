@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د سَلای لپاره قَلای؛ د عاموق لپاره عێبېر.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "د سَلای لپاره"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "قَلای"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "د عاموق لپاره"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عێبېر"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:28.925353105Z",
+  "model": "glm-5.3"
+}

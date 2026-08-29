@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 18:19",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او ربشاقه ورته وویل: حزقیاهو ته ووایاست: داسې وايي لوی پاچا، د آشور پاچا: دا باور څه دی چې پرهې بښلې؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "רב",
+      "gloss": "رب"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "شاقه"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ووایاست"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مهرباني وکړئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاهو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "د آشور"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "הבטחון",
+      "gloss": "باور"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "پرهې بښلې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:08:12.457166809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ځکه چې ټول میزونه له قي او چټلۍ ډک دي — بې پاک ځایه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "میزونه"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ډک دي"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "قي"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "چټلۍ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:28.716139009Z",
+  "model": "glm-5.3"
+}

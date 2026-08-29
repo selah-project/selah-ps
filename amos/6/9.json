@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او که لس کسان په یوه کور کې پاتې شي، نو هغوی به مري.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "پاتې شي"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "کسان"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "نو هغوی به مري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:14:44.846892600Z",
+  "model": "glm-5.3"
+}

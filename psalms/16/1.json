@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د داوېد میختام. مې وساته، ای ایل، ځکه چې تا ته پناه یوړمه.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "میختام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "שמرני",
+      "gloss": "مې وساته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناه یوړمه"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:53.714395971Z",
+  "model": "glm-5.3"
+}

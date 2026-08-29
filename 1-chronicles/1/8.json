@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د حام زامن: کوش او مِتسرایم، پوت او کنعان.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "او مِتسرایم"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "پوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "او کنعان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:34.896013733Z",
+  "model": "glm-5.3"
+}

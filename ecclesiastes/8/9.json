@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "⟨את⟩ ټول دا مې لیدلي دي، او ⟨مې⟩ زړه مې ورکړی دی ⟨את⟩ د هر کار لپاره چې تر لمر لاندې کېږي؛ یو وخت چې انسان پر انسان واکمني کوي، د هغه د بدۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "مې لیدلي دي"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "او ورکړی دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زړه"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کېږي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر لاندې"
+    },
+    {
+      "surface": "עת",
+      "gloss": "یو وخت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "واکمني کوي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "پر انسان"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "د بدۍ لپاره"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:26.137887869Z",
+  "model": "glm-5.3"
+}

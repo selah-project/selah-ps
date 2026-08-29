@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زه هغه سړی یم چې د هغه د غضب په چارچوبه کې بدمرغي لیدلې ده.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "لیدلې ده"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بدمرغي"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "په چارچوبه کې"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "د هغه د غضب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.103111113Z",
+  "model": "glm-5.3"
+}

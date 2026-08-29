@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او عزوبه مړه شوه، او کالِب ⟨את⟩ افرات واخیسته ځان ته، او هغې ورته ⟨את⟩ حور وزېږوه.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "او مړه شوه"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "عزوبه"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "او واخیسته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "افرات"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "افرات"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "او وزېږوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حور"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:22.359221559Z",
+  "model": "glm-5.3"
+}

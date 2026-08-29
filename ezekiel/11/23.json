@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او د یاهوه جلال د ښار له مینځه راپورته شو، او پر غره ودرېد چې د ښار ختيځ لور ته دی.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "او راپورته شو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له … څخه"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "مینځه"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "او ودرېد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ختيځ لور ته"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "د ښار"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:05.497395947Z",
+  "model": "glm-5.3"
+}

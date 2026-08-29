@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او یاهوه، د لښکرو الوهیم — یاهوه ⟨د هغه⟩ یادګار دی.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "او یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "د لښکرو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "يادګار يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:11:32.486024025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او پر اهرون یاهوه ډېر وغوصېږي چې له منځه یې یوسي، او زه هم د اهرون لپاره په هغه وخت دعا وکړه.",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "او پر اهرون"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "وغوصېږي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "چې له منځه یې یوسي"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "دعا وکړه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "د...لپاره"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:29.841500789Z",
+  "model": "glm-5.3"
+}

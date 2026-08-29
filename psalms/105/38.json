@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "مِتسرایم د دوی پر وتلو خوښ شو، ځکه چې د دوی وېره پرې راټېته شوه.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "خوښ شو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "د دوی پر وتلو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "نפל",
+      "gloss": "راټېته شوه"
+    },
+    {
+      "surface": "פחدם",
+      "gloss": "د دوی وېره"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:40.087420503Z",
+  "model": "glm-5.3"
+}

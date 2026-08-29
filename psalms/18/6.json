@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د شیول چ期末ې راچاپېرې وې، د مړینې دانې مخامخ راته ودرېدې.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "د … چ期末ې"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "راچاپېرې وې"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "مخامخ راته ودرېدې"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "د … دانې"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړینې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:39.050432256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "دا د یِسرائیل زامن وو: راؤبېن، شیمعون، لېوي او یِهودا، یِساسکار او زِبولون.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "راؤبېن"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شیمعون"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېوي"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "او یِهودا"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساسکار"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "او زِبولون"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:46.080167136Z",
+  "model": "glm-5.3"
+}

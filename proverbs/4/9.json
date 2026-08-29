@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ده به ستا سر ته د چېڼۍ خېر درکړي، د ښکلا تاج به دې وساتي.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ده به درکړي"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ستا سر ته"
+    },
+    {
+      "surface": "لוית",
+      "gloss": "چېڼۍ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خېر"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ښکلا"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "به دې وساتي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:27.246753447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "رېۍ او غوايې، ټول ېې، او همدارنګه د میدان څاروي.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "رېۍ"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "او غوايې"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول ېې"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او همدارنګه"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "د میدان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:05.693681530Z",
+  "model": "glm-5.3"
+}

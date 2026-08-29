@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "لکه ساړې اوبه پر ستړې نېفس، داسې ⟨هغه⟩ ښه خبر د لرې ځمکې څخه.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ساړې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نېفس"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ستړې"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "او خبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "له ځمکې"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "لرې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:30.135754277Z",
+  "model": "glm-5.3"
+}

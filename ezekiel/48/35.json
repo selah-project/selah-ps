@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "چاپېر اتلس زره؛ او د ښار نوم له هغه ورځې راهیسې به وي: یاهوه-شامَه.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اتلس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "له هغه ورځې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته (شامَه)"
+    }
+  ],
+  "timestamp": "2026-08-29T00:09:52.540946568Z",
+  "model": "glm-5.3"
+}

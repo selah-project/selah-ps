@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "غوږ ونيوه خپل هغه پلار چې تا يې زېږولی، او هغه مور سپکانه مه کوه چې زړه شوې ده.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "غوږ ونيوه"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "خپل پلار ته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "چې تا يې زېږولی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "سپکانه کوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "زړه شوې"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "خپله مور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:05.700373856Z",
+  "model": "glm-5.3"
+}

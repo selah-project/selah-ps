@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او هغه د ورګې دالان ⟨את⟩ د کور له خوا واندازه کړ — يو قامې.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "او واندازه يې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ورګې دالان"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "دالان"
+    },
+    {
+      "surface": "השער",
+      "gloss": "د ورګې"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "د کور له"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "قامې"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:59.263452398Z",
+  "model": "glm-5.3"
+}

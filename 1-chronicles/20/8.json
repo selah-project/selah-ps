@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "دا د رفاع زېږېدلي په ګت کې وو، او د داوېد په لاس او د هغه د غلامانو په لاس ولوېدل.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "دا"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "زېږېدلي وو"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "د رفاع"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "په ګت کې"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "او ولوېدل"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "او په لاس"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "د هغه غلامانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:53.270700146Z",
+  "model": "glm-5.3"
+}

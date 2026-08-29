@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 60,
+  "translation": "څوک مې د خښتو ښار ته راولي؟ څوک مې تر اِدومه لار ښيي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "مې راولي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "د خښتو\/محاصره"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "مې لار ښيي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدومه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:34.541065107Z",
+  "model": "glm-5.3"
+}

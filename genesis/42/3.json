@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "نو د یوشېف لسو وروڼو مِتسرایم ته غله د اخیستو لپاره سفر وکړ.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ښکته لاړل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "وروڼو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوشېف"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "د اخیستو لپاره"
+    },
+    {
+      "surface": "בר",
+      "gloss": "غله"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:47.362955445Z",
+  "model": "glm-5.3"
+}

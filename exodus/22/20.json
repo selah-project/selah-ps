@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او مېلمه به نه ظلم کوې او نه به يې ځپې، ځکه تاسو په مِتسرایم کې مېلمانه وؤ.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "او مېلمه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ظلم کوې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "به يې ځپې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "مېلمانه"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "وؤ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ... کې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:16.834129459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او ⟨את⟩ يوه نگ به واخلې، او اهرون او زامن يې به ⟨את⟩ خپل لاسونه پر د نگ سر کېکاږي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "يوه نگ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "نگ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "به واخلې"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "او به کېکاږي"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "او زامن يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاسونه"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "د نگ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:24:03.025306398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او شاؤل تر عمالق ښار ته ورسېد، او په دره کې يې کمين ونیو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "او ... ورسېد"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "او ... کمين ونیو"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "په دره کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:01.870891046Z",
+  "model": "glm-5.3"
+}

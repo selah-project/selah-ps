@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او لومړۍ قرعه د يهوياريب لپاره ووته، دويمه د يدعيا لپاره.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "او ووته"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعه"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړۍ"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "د يهوياريب لپاره"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "د يدعيا لپاره"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دويمه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:02.558168993Z",
+  "model": "glm-5.3"
+}

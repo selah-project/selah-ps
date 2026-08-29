@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "خو څوک ⟨دې⟩ وړی ∈دې∈؟ — دا د یتون ماسره لفظي بڼه نه لري",
+  "tokens": [],
+  "timestamp": "2026-08-29T01:07:10.768646158Z",
+  "model": "glm-5.3"
+}

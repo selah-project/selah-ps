@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 88,
+  "translation": "ولې، ای یاهوه، زما نفوس شړې؟ ولې خپله مخینه له ما پټوې؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "شړې"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفوس"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "پټوې"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپله مخینه"
+    },
+    {
+      "surface": "مמני",
+      "gloss": "له ما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:45.861558236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او موشې له غره د قوم خوا ته راکوز شو، او قوم يې پاک کړ، او هغوی خپلې جامې ووینځلې.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "او راکوز شو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د ... خوا ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "او پاک يې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "او ووینځلې"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "خپلې جامې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:22.601032302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د اِلیفاز زامن: تِمان، او اومار، صِفي، او غَعتام، قِناز، او تِمنع، او عمالِک.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تِمان"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "او اومار"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "صِفي"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "او غَعتام"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قِناز"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "او تِمنع"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "او عمالِک"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:01.311586466Z",
+  "model": "glm-5.3"
+}

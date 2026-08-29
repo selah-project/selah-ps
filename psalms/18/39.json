@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "زه دوی مې کوبم او دوی نه شي پاڅېدلی؛ دوی زما د پښو لاندې لوېږي.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "زه دوی مې کوبم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "دوی شي"
+    },
+    {
+      "surface": "קום",
+      "gloss": "پاڅېدلی"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "دوی لوېږي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "زما د پښو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:01.590067092Z",
+  "model": "glm-5.3"
+}

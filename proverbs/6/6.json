@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "لاړ شه او تسې، اې تنبلې، د هغې لارې وګوره او هوښیار شه.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "لاړ شه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "او تسې"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "مږی"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "اې تنبلې"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "د هغې لارې"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "او هوښیار شه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:05.802095462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 124,
+  "translation": "که یاهوه نه وای چې زموږ لپاره ⟨و⟩، کله چې انسان پر موږ راپاوه،",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "که … نه وای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "چې … ⟨و⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ لپاره"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "کله چې راپاوه"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "پر موږ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:55.320835282Z",
+  "model": "glm-5.3"
+}

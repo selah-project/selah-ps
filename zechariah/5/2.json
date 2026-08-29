@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او راته ویې ویل: «څه وینې؟» او ومې ویل: «زه یوه الوتونکې مګېله وینم؛ اوږدوالی یې شل امه دی او پلنوالی یې لس امه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "راته ویې ویل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ره"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وینې"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ومې ویل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وینم"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "مګېله"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "الوتونکې"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "اوږدوالی یې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "بאמה",
+      "gloss": "امه"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "پلنوالی یې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "امه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:45.586148888Z",
+  "model": "glm-5.3"
+}

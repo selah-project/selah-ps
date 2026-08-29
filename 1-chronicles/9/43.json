@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او موتسا ⟨את⟩ بینِعا وزیږوه؛ او رِفایا یې زوی، اِلعاسه یې زوی، اوتسِل یې زوی.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "او موتسا"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بینِعا"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بینِعا"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "او رِفایا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "یې زوی"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "اِلعاسه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "یې زوی"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "اوتسِل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "یې زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:29.445757930Z",
+  "model": "glm-5.3"
+}

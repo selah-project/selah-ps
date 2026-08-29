@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 29:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "ووی ارییل، ارییل، هغه ښار چې داوېد پکې پښه ټېکړې وه! کال پر کال زیاتوه؛ جشنونه به راتېرېږي.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ووی"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "ارییل"
+    },
+    {
+      "surface": "אריאל",
+      "gloss": "ارییل"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "پښه ټېکړې وه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "زیاتوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "חגים",
+      "gloss": "جشنونه"
+    },
+    {
+      "surface": "ינקפו",
+      "gloss": "راتېرېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:00.474060295Z",
+  "model": "glm-5.3"
+}

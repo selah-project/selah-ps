@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "یرمیاهو لسم، مکبناي یوولسم.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "مکبناي"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "یوولس-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-م"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:24.582445459Z",
+  "model": "glm-5.3"
+}

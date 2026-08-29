@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او داوېد ⟨هو⟩ کشر و، درې مشره د شاؤل پسي تللي وو.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "او داوېد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هو"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "کشر"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "مشره"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "تللي وو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پسي"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:35:39.610200884Z",
+  "model": "glm-5.3"
+}

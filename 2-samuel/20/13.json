@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "چې ⟨هغه⟩ له لارې لېرې شو، هر سړی د یوآب په تعقیب تېر شو، چې د بېکري زوی شېباع تعقیب کړي.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "لېرې شو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېر شو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "په تعقیب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "چې تعقیب کړي"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "په تعقیب"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شېباع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "بېکري"
+    }
+  ],
+  "timestamp": "2026-08-28T22:48:10.303276880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او داوېد ⟨את⟩ دا قینه د شاؤل او د هغه د زوی یهوناتان په باره کې وویله.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "قینه وویله"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا قینه"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "قینه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "په باره کې"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او په باره کې"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یهوناتان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:41:46.453068915Z",
+  "model": "glm-5.3"
+}

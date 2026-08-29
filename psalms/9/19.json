@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځکه چې د دلیل مړې نه دی د تل لپاره هېر — د زمریو تمه به د تل لپاره نه له مینځه ځي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "هېر کېږي"
+    },
+    {
+      "surface": "אביون",
+      "gloss": "دلیل مړی"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "تمه"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "د زمریو"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "له مینځه ځي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "د تل لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:09.381559484Z",
+  "model": "glm-5.3"
+}

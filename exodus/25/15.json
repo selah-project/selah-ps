@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د صندوق په کړيو کې به میخونه وي؛ له هغه څخه به نه لرې کړل شي.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "په کړيو کې"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "د صندوق"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "میخونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסרو",
+      "gloss": "لرې کړل شي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:28.130780282Z",
+  "model": "glm-5.3"
+}

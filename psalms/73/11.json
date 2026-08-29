@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "او وايي: «څنګه ایل پېژني؟ او ایا په عِلیون کې پوهه شته؟»",
+  "tokens": [
+    {
+      "surface": "ו⁠אמרו",
+      "gloss": "او وايي"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ו⁠יש",
+      "gloss": "او ایا شته"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "בעליون",
+      "gloss": "په عِلیون کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:07.753056Z",
+  "model": "glm-5.3"
+}

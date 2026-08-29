@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "د جګړې غږ په ځمکه کې دی، او لوی ویجاړی.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "او ویجاړی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:40.286230256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه چې د بدکارې ښځې بدلہ تر یوه ډوډۍ راکمېږي، خو د سړي مېرمن بدکاره د غوره ساه ښکار کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "د … لپاره"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "بدکارې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "خو د … مېرمن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ساه"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "ښکار کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:54.180907076Z",
+  "model": "glm-5.3"
+}

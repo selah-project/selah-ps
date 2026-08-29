@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "یوه لار ⟨is⟩ د سړي مخې ته سمه ښکاري، خو د هغې پای د مرګ لارې دي.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "یوه لار ⟨is⟩ (شته)"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سمه"
+    },
+    {
+      "surface": "لפני",
+      "gloss": "د مخې ته"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "خو د هغې پای"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مرګ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:13.965065360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "سمندر پر بابل راپورته شو؛ د خپلو څپو په ډېره والي پوښل شوې ده.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "راپورته شو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "په ډېره والي"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "د خپلو څپو"
+    },
+    {
+      "surface": "نכסתה",
+      "gloss": "پوښل شوې ده"
+    }
+  ],
+  "timestamp": "2026-08-28T23:49:36.115599924Z",
+  "model": "glm-5.3"
+}

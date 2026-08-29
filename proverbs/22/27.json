@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "که دې د تادیې لپاره څه نه وي، ولې دې بستره له لاندې واخلي؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "د تادیې لپاره"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "واخلي"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "بستره دې"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "له لاندې دې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:46.356830758Z",
+  "model": "glm-5.3"
+}

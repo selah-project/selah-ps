@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 29:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "پاچا چې د کمزوریو په رښتيا قضاوت وکړي، د هغه تخت د تل لپاره ټينګ شي.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "قضاوت وکړي"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "په رښتيا"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "د کمزوریو"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "د هغه تخت"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ټينګ شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:36.147305326Z",
+  "model": "glm-5.3"
+}

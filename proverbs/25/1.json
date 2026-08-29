@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "دا هم د شلومو متلونه دي، چې د یهودا د پاچا حزقیا سړوو نقل کړل.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "متلونه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "نقل کړل"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړوو"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "حزقیا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:35.051508304Z",
+  "model": "glm-5.3"
+}

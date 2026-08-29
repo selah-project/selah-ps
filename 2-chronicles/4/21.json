@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ګلان، څراغونه او د ډبرو سکېرو اخیستونکې د سرو زرو وې — دا ټول بشپړ سرو زر وو.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "او ګلان"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "څراغونه"
+    },
+    {
+      "surface": "و המלקחים",
+      "gloss": "د ډبرو سکېرو اخیستونکې"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "د سرو زرو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سرو زر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:45.576273622Z",
+  "model": "glm-5.3"
+}

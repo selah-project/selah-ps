@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د انسان د زړه ارادې دي، خو د ژبې ځواب له یاهوه وي.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "ارادې دي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "خو له یاهوه"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ځواب"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "د ژبې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:37.908693288Z",
+  "model": "glm-5.3"
+}

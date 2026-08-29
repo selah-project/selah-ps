@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 46:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "د هغې ځنګل يې وکړه، د یاهوه وينا؛ ځکه نه تر سترګو کېږي، ځکه له ملخو ډېر شوي دي او د هغوی شمېر نشته.",
+  "tokens": [
+    {
+      "surface": "כרתو",
+      "gloss": "وکړه يې"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "د هغې ځنګل"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "تر سترګو کېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "رבו",
+      "gloss": "ډېر شوي دي"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "له ملخو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د هغوی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:31.002597677Z",
+  "model": "glm-5.3"
+}

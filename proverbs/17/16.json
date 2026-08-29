@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "ولې دا بیه په لاس کې د ناپوهه کې ده چې حکمت واخلي، خو زړه ⟨نلري⟩؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "بیه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس کې"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ناپوهه"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "چې واخلي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "خو زړه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نلري"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:11.523885814Z",
+  "model": "glm-5.3"
+}

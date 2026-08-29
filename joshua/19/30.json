@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او عمه، او افق، او رحوب — شل او دوه ښارونه او د هغوی کلي.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "او عمه"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "او افق"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "او رحوب"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "او د هغوی کلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:49.607451908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او شموېل ⟨את⟩ قوم د یاهوه پر وړاندې په مېتسپه کې راټول کړ.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "راټول یې کړ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموېل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته\/پر وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "مېتسپه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:33:45.806874212Z",
+  "model": "glm-5.3"
+}

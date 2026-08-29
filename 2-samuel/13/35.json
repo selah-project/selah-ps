@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 13:35",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او یونادب پاچاه ته وويل: وا، د پاچاه زامن راغلي؛ لکه څنګه چې زما پاله چېlien اتل ويل، همداسې وشول.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "یونادب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچاه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچاه"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلي"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "لکه د خبرې"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا بنده"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وشول"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:24.528645226Z",
+  "model": "glm-5.3"
+}

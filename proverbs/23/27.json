@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ځکه زناکاره ښځه یوه ژوره غار ده، او بهرنۍ ښځه یوه تنګ څاهی ده.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "غار"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ژوره"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناکاره ښځه"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "او څاهی"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنګ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "بهرنۍ ښځه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:50.696743324Z",
+  "model": "glm-5.3"
+}

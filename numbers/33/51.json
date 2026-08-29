@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "«د یِسرائیل زامنو ته ووایه او ورته ووایه چې: تاسو ⟨את⟩ اردن ⟨to⟩ د کَنَعان ځمکې ته تېرېږئ،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "او ورته ووایه"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "تېرېږئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "د کَنَعان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:23.017257077Z",
+  "model": "glm-5.3"
+}

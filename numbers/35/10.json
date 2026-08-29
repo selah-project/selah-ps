@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "د یسرائیل زامنو سره ووایه او ورته ووايه: «کله چې تاسو ⟨את⟩ اردن تېروئ، د کنعان ځمکې ته،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "او ورته ووايه"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "تېروئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ځمکې ته"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:37.221255809Z",
+  "model": "glm-5.3"
+}

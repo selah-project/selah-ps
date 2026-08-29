@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ډېر تخم به په کره کې وکرې، خو لږ به راټول کړې، ځکه چې هغه به يې ژړوک و خوري.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "به وکرې"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "په کره کې"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "خو لږ"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "به راټول کړې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יחסلנו",
+      "gloss": "به يې وخوري"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ژړوک"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:03.621344623Z",
+  "model": "glm-5.3"
+}

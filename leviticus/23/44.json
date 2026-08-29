@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او موشې د یاهوه ټاکلي وختونه ⟨את⟩ د اسراییل زامنو ته وویل.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او...وویل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټاکلي وختونه"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "ټاکلي وختونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسراییل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:32.600823345Z",
+  "model": "glm-5.3"
+}

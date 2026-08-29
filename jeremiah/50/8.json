@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 50:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "له بابل له منځه تښتئ، او له کاسدیانو له ځمکې ووځئ، او د رمې مخې ته د تېسو په څېر اوسئ.",
+  "tokens": [
+    {
+      "surface": "נדו",
+      "gloss": "تښتئ"
+    },
+    {
+      "surface": "مתוך",
+      "gloss": "له منځه"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "او له ځمکې"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کاسدیانو"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ووځئ"
+    },
+    {
+      "surface": "وהיו",
+      "gloss": "اوسئ"
+    },
+    {
+      "surface": "כעתודים",
+      "gloss": "د تېسو په څېر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "رمې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:58.174618609Z",
+  "model": "glm-5.3"
+}

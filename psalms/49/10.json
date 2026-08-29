@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "او دا چې د تل لپاره لا ژوندی پاتې شي، هغه قبر به و نه ويني.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "او ژوندی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "قبر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:30.214601860Z",
+  "model": "glm-5.3"
+}

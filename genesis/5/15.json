@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او مَهَلَلیل پنځه شپېته کاله ژوند وکړ، او يارِد يې ⟨את⟩ وزیږاوه.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "او ژوند وکړ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مَهَلَلیل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "او زیږول يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يارِد"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارِد"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:55.457199364Z",
+  "model": "glm-5.3"
+}

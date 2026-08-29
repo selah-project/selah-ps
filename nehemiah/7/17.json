@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د عزګاد زامن: دوې زرې درې سوه شل دوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "عزګاد"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوې زرې"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:22.921972696Z",
+  "model": "glm-5.3"
+}

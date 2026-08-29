@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او بېلا د بېعور زوی په ادوم کې واکمن شو، او د هغه د ښار نوم دینهابه و.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "واکمن شو"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "په ادوم"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بېلا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "بېعور"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "د هغه د ښار"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "دینهابه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:46.132540570Z",
+  "model": "glm-5.3"
+}

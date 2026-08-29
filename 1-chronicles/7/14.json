@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د منشه زامن: اشرییل، چې د هغه صیغه ارامي‌ۍ هغې ته وزېږوله؛ هغې ⟨את⟩ ماخیر د ګیلعاد پلار وزېږوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "اشرییل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وزېږولو"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "د هغه صیغه"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "ارامي‌ۍ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وزېږوله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ماخیر"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګیلعاد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:08.706573368Z",
+  "model": "glm-5.3"
+}

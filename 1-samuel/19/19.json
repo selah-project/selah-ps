@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او شاؤل ته وویل شو، چې: کله! داوېد په نایوت کې دی، په رامه کې.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "او وویل شو"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل ته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "کله!"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "په نایوت کې"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "په رامه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:37:15.654025138Z",
+  "model": "glm-5.3"
+}

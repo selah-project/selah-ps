@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨سړو⟩ له دوی له خواړو واخیستل، خو د یاهوه خوله يې ونه پوښتله.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "واخیستل"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "سړو"
+    },
+    {
+      "surface": "مצידם",
+      "gloss": "له دوی له خواړو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه خوله"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שאלو",
+      "gloss": "پوښتله"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:41.962662831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او که څه هم زره کاله، دوه ځله، ژوندی وي، خو ښه يې نه وي لیدلي — ايا ټول يو ځای ته نه ځي؟",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "او که څه هم"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ژوندی وي"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دوه ځله"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "خو ښه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "لیدلي"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ايا نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ځي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:26.188987410Z",
+  "model": "glm-5.3"
+}

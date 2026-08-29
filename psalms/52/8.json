@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "نیک کسان به وګوري او وېرې شي، او پر هغه به وخاندې —",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "به وګوري"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیک کسان"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "او وېرې شي"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "او پر هغه"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "به وخاندې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:05.004896726Z",
+  "model": "glm-5.3"
+}

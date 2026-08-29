@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ته ووایې په زړه کې: زما ځواک او د زما لاس مړهیو دا شتمني ⟨את⟩ راته جوړه کړې.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ووایې"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زما ځواک"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "او مړهیو"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "د زما لاس"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړه کړې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا شتمني"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:36.949607820Z",
+  "model": "glm-5.3"
+}

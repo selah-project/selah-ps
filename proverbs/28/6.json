@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "غریب چې په سپینتیا ګرځي، له هغه چې لارې يې کږې دي او شتمن ⟨هغه⟩ دی، غوره دی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره دی"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "په سپینتیا"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "کږې"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "شتمن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:32.401047091Z",
+  "model": "glm-5.3"
+}

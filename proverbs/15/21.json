@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "ابلهت د هغه لپاره خوښي ده چې زړه يې کم دی، خو د پوهې سړی خپل ځان سموي چې سم لار ووهي.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ابلهت"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "د هغه لپاره چې کم دی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "خو سړی"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "پوهې"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "سموي"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "چې لار ووهي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:17.098155330Z",
+  "model": "glm-5.3"
+}

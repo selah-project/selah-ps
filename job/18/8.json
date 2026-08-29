@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "ځکې په خپلو پښتو په جال کې ولوېږي، او په ښکېۍ به تل وګرځي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکې"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "په جال کې"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "په خپلو پښتو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او په"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "ښکېۍ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "وګرځي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:37.128841627Z",
+  "model": "glm-5.3"
+}

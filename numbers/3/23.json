@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 3:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د ګرشونیانو کورنۍ به د مسکن شاته، ختيځ لوري ته خیمه ودروله.",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "د ګرشونیانو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "شاته"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "د مسکن"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "خیمه ودروله"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ختيځ لوري ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:40.808049467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "دوه سوه ښځينه وزې او شل نر وزې، دوه سوه مېږې او شل قوچکران.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "ښځينه وزې"
+    },
+    {
+      "surface": "مאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "او نر وزې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "مېږې"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "او قوچکران"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:51.529656675Z",
+  "model": "glm-5.3"
+}

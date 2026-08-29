@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او وزې به ⟨את⟩ د هغوی ټولې سرغړونې پر ځان ولېږدوي، بېلې سیمې ته، او ⟨את⟩ وزې به دښتې ته پرېږدي.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "ولېږدوي"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "وزې"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر ځان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې سرغړونې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "سرغړونې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "سیمې"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "بېلې"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "پرېږدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وزې"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "وزې"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "دښتې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:22.924262845Z",
+  "model": "glm-5.3"
+}

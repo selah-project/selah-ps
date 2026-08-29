@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 4:45",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "دا د مراری د زامنو د کورنیو شمېرل شوي دي، چې موشې او اهرون د یاهوه په خوله، د موشې په لاس شمېرلي وو.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "شمېرل شوي"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "د کورنیو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مراری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "شمېرلي وو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "او اهرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:41.311655262Z",
+  "model": "glm-5.3"
+}

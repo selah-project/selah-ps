@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "خو ته هماغه يې، او ستا کالونه به نه پایمومي.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "خو ته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هماغه"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "او ستا کالونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "به پایمومي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:42.311527176Z",
+  "model": "glm-5.3"
+}

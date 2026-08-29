@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ایا هغه زما لارې نه ویني، او زما ټول ګامونه شمېري؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ایا نه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "زما لارې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "زما ګامونه"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "شمېري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:53.435366925Z",
+  "model": "glm-5.3"
+}

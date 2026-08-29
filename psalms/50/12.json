@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "که ما وږی شوی وای، به تا ته يې نه وای ويلي: ځکه چې نړۍ او د هغې ډېدود زما دی.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ما وږی شوی وای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وای ويلي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "نړۍ"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "او ډېدود"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:45.709676688Z",
+  "model": "glm-5.3"
+}

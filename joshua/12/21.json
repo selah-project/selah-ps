@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د تَعناک پاچا یو، د مِګېدو پاچا یو —",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "تَعناک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "مِګېدو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:25.921077331Z",
+  "model": "glm-5.3"
+}

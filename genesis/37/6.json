@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هغه ورته وویل: «واورئ، لطفاً، دا خوب چې ما لیدلی دی",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او... وویل"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ورته (دوی ته)"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "لطفاً"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "دا خوب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ما لیدلی دی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:30.949628781Z",
+  "model": "glm-5.3"
+}

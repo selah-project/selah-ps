@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او موشې قورح ته وويل: ته او ټولې ستا ټولنه بايد د یاهوه مخې ته اوسئ — ته او هغه او اهرون، سبا.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټولې"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "ستا ټولنه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اوسئ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د ... مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "והם",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "او اهرون"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سبا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:40.622257830Z",
+  "model": "glm-5.3"
+}

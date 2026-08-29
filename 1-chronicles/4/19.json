@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 4:19",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د هودِیاه د ښځې زامن — د نَحَم خور، د قېلا د ګِرمي پلار — او اَشتِموع هغه مَعَخاتي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "هودِیاه"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خور"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "نَحَم"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "قېلا"
+    },
+    {
+      "surface": "הגרמי",
+      "gloss": "ګِرمي"
+    },
+    {
+      "surface": "ואשתמע",
+      "gloss": "اَشتِموع"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "مَعَخاتي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:21.238703072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د یاهوه فرښټي هغه د اوبو پر چینه، په بادیا کې ومومده — پر هغه چینه چې د شُور پر لار پرته ده.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "او … ومومده"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرښټی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چینه"
+    },
+    {
+      "surface": "המים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بادیا کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העין",
+      "gloss": "هغه چینه"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "پر لار"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شُور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:39.307706553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما ستا یم، ما وژغوره، ځکې ستا فرمانونه مې لټولي دي.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زما"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ما وژغوره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکې"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ستا فرمانونه"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "مې لټولي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:05.396318844Z",
+  "model": "glm-5.3"
+}

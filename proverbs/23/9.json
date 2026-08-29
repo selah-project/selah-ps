@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "په کونجي غوږونو کې مه خبرې کوه، ځکه چې هغه به ستا د خبرو پوهه سپکه کړي.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "په غوږونو کې"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کونجي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "خبرې کوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "به سپکه کړي"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "ستا د خبرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:41.999062213Z",
+  "model": "glm-5.3"
+}

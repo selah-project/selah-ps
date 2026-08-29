@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او ټول ورځې د ادم چې ژوند ؤی نؤ سې کاله دېرش کاله شوې، او هغه مړ شو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "شوې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوند ؤی"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نؤ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سې"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:59.739343756Z",
+  "model": "glm-5.3"
+}

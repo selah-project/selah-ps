@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د زبولون د زامنو د قبیلې لپاره ⟨هغه⟩ مشر، اېلیتصپان د پارناک زوی.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "اېلیتصپان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "پارناک"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:07.981245195Z",
+  "model": "glm-5.3"
+}

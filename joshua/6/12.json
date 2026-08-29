@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او یهوشعا سهار وختي پاڅېد، او کاهنانو د یاهوه ⟨את⟩ تابوت پورته کړ.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "سهار وختي پاڅېد"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشعا"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "پورته کړ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:16:31.932352824Z",
+  "model": "glm-5.3"
+}

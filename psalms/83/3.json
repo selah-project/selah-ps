@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "ځکه چې وګوره، ستا دښمنان غوغا کوي، او ستا کرښویونکي سر لوړ کړی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ستا دښمنان"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "غوغا کوي"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "او ستا کرښویونکي"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "لوړ کړی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:11.442876284Z",
+  "model": "glm-5.3"
+}

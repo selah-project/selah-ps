@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 92,
+  "translation": "یو څاروی-سې мужчина نه پېژني، او یو نادان نه فهموي ⟨את⟩ دا",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "یو ...男主角"
+    },
+    {
+      "surface": "בער",
+      "gloss": "څاروی-سې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "او یو نادان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "فهموي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:28.017120380Z",
+  "model": "glm-5.3"
+}

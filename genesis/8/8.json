@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ⟨هغه⟩ ⟨את⟩ کبوتره له ځان سره ولېږه، چې وګوري ایا اوبه د ځمکې له مخه کمې شوې دي که نه.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کبوتره"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوتره"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "له ⟨את⟩ ځان يې"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "چې وګوري"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "کمې شوې دي"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخه"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:39.465612790Z",
+  "model": "glm-5.3"
+}

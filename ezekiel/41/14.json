@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او د کور د مخې پلنوالی او ⟨د⟩ گېزره ختيخ لوري ته — سل ذراع.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "او پلنوالی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د مخې"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "او گېزره"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "ختيخ لوري ته"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ذراع"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:42.472096500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "خو ټول څاروي او د ښارونو غنیمت موږ ځانته لوټ کړل.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "خو ټول"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "او غنیمت"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "د ښارونو"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "لوټ مو کړل"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ځانته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:17.537859855Z",
+  "model": "glm-5.3"
+}

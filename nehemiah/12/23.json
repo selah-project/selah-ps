@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 12:23",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د لېوی زامن، د کورنیو مشران، د «د ورځو د حالاتو په کتاب» کې ليکل شوي وو، تر د چې د یوحوinan د زوی اَلْیاشیب تر ورځو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېوی"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "د کورنیو"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ليکل شوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "د حالاتو"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوحوinan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "اَلْیاشیب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:44.921389082Z",
+  "model": "glm-5.3"
+}

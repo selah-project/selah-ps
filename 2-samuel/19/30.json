@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او پاچا ورته وویل: ولې نور خپلې خبرې کوې؟ ما وویل: ته او څېبا به ⟨את⟩ څمېله ووېشئ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویل يې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "خبرې کوې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "خپلې خبرې"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "او څېبا"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "ووېشئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "څمېله"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "څمېله"
+    }
+  ],
+  "timestamp": "2026-08-28T22:48:45.251938822Z",
+  "model": "glm-5.3"
+}

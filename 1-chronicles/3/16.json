@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د یهویاکیم زامن: یکنیاه زوی يې، صدقیاهو زوی يې.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن يې"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "یهویاکیم"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یکنیاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "صدقیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:49.699550556Z",
+  "model": "glm-5.3"
+}

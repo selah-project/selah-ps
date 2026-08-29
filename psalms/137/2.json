@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 137,
+  "translation": "پر بیدو پکې ځانګړې زموږ کنارې (وارو) ځړولې وې.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "بیدو"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ځړولې وې"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "زموږ کنارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:02.628799099Z",
+  "model": "glm-5.3"
+}

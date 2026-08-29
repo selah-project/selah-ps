@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "کښېوتونکي سمندر ته په بېړیو کې، کار کوونکي په ډېرو اوبو کې",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "کښېوتونکي"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر ته"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "په بېړیو کې"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کار کوونکي"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو کې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:24.273505810Z",
+  "model": "glm-5.3"
+}

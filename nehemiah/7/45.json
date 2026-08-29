@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "nehemiah 7:45",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د دروازو ساتنکي: د شلوم زامن، د اتر زامن، د تلمون زامن، د عقوب زامن، د خطیتا زامن، د شبای زامن — سل دېرش او اته.",
+  "tokens": [
+    {
+      "surface": "השערים",
+      "gloss": "د دروازو ساتنکي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "اتر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "טלמן",
+      "gloss": "تلمون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בני שלום",
+      "gloss": ""
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "عقوب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חטיטא",
+      "gloss": "خطیتا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "شبای"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "او اته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:33.348125095Z",
+  "model": "glm-5.3"
+}

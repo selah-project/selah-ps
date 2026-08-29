@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او مالکي-صېدق، د شالیم پاچا، ډوډۍ او شراب راوویستل؛ او هغه د ایل عِلیون کاهن و.",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "او مالکي-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "-صېدق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "شالیم"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "راوویستل"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "او شراب"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه ⟨و⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "د ایل"
+    },
+    {
+      "surface": "עליون",
+      "gloss": "عِلیون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:36.589248588Z",
+  "model": "glm-5.3"
+}

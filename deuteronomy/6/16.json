@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "یاهوه ستاسو الوهيم مه ازمویئ، لکه څنګه چې تاسو په ماسه کې ازمویلی وو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "ازمویئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهيم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "ازمویلی وو"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "په ماسه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:29.722151202Z",
+  "model": "glm-5.3"
+}

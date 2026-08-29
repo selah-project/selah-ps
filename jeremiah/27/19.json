@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 27:19",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "ځکه چې د پوځونو یاهوه د ستونو، او د بحر، او د سکېګانو، او د هغو پاتې لوښو په اړه چې په دې ښار کې پاتې دي، داسې وايي:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "پوښونو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د … په اړه"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ستونو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او د"
+    },
+    {
+      "surface": "הים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او د"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "سکېګانو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او د"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "پاتې"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "لوښو"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "پاتې دي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:14.411002656Z",
+  "model": "glm-5.3"
+}

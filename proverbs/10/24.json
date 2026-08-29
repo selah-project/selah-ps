@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د بدکار وېره هغه راځي پرې، خو د صالحانو هيله ورکول کېږي.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "د بدکار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "راځي پرې"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "خو هيله"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د صالحانو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکول کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:43.464226007Z",
+  "model": "glm-5.3"
+}

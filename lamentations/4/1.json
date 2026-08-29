@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "څنګه تور شوی زر! څنګه بدل شوی غوره خالص زر! د مزار ښېرازېږي د ټولو کوڅو په سر کې.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "تور شوی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "بدل شوی"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "غوره خالص زر"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "ښېرازېږي"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "د مزار"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مزار ډبرې"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "په سر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "کوڅو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:23.449595024Z",
+  "model": "glm-5.3"
+}

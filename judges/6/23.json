@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او یاهوه ورته وویل: «درته سلامتي! مه وېرېږه، ته به نه مړې شې.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او… وویل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وېرېږه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "به مړې شې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:22:41.119765140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ما خپل آقا ته وویل: «ښايي هغه ښځه وروسته مې رانغلې شي.»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ما… وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "خپل آقا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ښايي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "به رانغلې شي"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "هغه ښځه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته مې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:19.607929777Z",
+  "model": "glm-5.3"
+}

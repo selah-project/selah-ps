@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "څېره شو وچه وښه، او ښکاره شو نوې شنه بوټي، او راټولې شوې د غرونو وښې.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "څېره شو"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "وچه وښه"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "او ښکاره شو"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "نوې شنه بوټي"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "او راټولې شوې"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "وښې"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "د غرونو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:23.654103571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 11:3",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او ورته ووایه: داسې وايي یاهوه، د یسراییل الوهیم: لعنتي دی هغه سړی چې ⟨את⟩ د دې تړون خبرونه نه اوري،",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "او ووایه"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "لعنتي"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دې تړون خبرونه"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرونه"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "د تړون"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "د دې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:33:04.999637100Z",
+  "model": "glm-5.3"
+}

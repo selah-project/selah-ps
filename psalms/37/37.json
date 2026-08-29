@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "بشپړ ⟨سړی⟩ وګوره او سمه لار وګوره، ځکه چې د سولې سړي ← پای ← سوله ده.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سمه لار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پای"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سولې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:51.701183485Z",
+  "model": "glm-5.3"
+}

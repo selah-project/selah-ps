@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "مه يې اورئ؛ د بابل پاچا ته ⟨את⟩ خدمت وکړئ او ژوندي اوسئ؛ ولې دا ښار ويجاړ پاتې شي؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "اورئ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "يې"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت وکړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاچا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "او ژوندي اوسئ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "پاتې شي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ويجاړ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:14.410341353Z",
+  "model": "glm-5.3"
+}

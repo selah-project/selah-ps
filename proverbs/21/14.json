@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "پټه ډالۍ غوسه ماتوي، او په بشکه کې رشوت سخته تودخه ماتوي.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "ډالۍ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "پټه"
+    },
+    {
+      "surface": "יכپה",
+      "gloss": "ماتوي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غوسه"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "او رشوت"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "په بشکه کې"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "تودخه"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "سخته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:05.521562345Z",
+  "model": "glm-5.3"
+}

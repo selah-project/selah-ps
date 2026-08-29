@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او لابان وويل: دا ښه ده چې زه ⟨את⟩ هغه تا ته درکړم، نه دا چې ⟨את⟩ هغه بل سړي ته درکړم؛ زما سره اوسه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "لבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه ده"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "چې زه درکړم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "نه دا چې درکړم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "سړي ته"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "اوسه"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "زما سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:20.451447206Z",
+  "model": "glm-5.3"
+}

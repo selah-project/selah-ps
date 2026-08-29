@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ایا کلنو د کرخمیش په څېر نه دی؟ ایا حمات د ارپد په څېر نه دی؟ ایا شمرون د دمشق په څېر نه دی؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ایا…نه"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "د کرخمیش په څېر"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "کلنو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "د ارپد په څېر"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "د دمشق په څېر"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرون"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:24.501452159Z",
+  "model": "glm-5.3"
+}

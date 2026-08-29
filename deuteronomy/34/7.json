@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او موشې د مړينې پر مهال د سلو شلو کلن و؛ سترګه يې نه وه ماته شوې او تازګي يې نه وه تېښتې.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "او موشې"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زامن\/پر"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سلو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "شلو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کلن"
+    },
+    {
+      "surface": "במתو",
+      "gloss": "د مړينې پر مهال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "کהתה",
+      "gloss": "ماته شوې"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נס",
+      "gloss": "تېښتې"
+    },
+    {
+      "surface": "لחה",
+      "gloss": "تازګي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:41.038919114Z",
+  "model": "glm-5.3"
+}

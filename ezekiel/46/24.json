@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "او هغه راته وويل: «دا د اېشونکو کورونه دي چې د کور خادمان به د خلكو قرباني ⟨את⟩ هلته اېشي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کورونه\/کور"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "د اېشونکو د"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "اېشي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "خادمان د"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور د"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قرباني"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د خلكو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:07:58.383549158Z",
+  "model": "glm-5.3"
+}

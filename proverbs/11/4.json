@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "شتمني په د غضب په ورځ ګټه نه کوي، خو عدالت له مرګه ژغوري.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ګټه کوي"
+    },
+    {
+      "surface": "הון",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "د غضب"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "او عدالت"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ژغوري"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "له مرګه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:19.051459910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او چې څوک خپل پلار او مور بدوایي، په مړينې به مړ شي.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "بدوایي"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "او مور"
+    },
+    {
+      "surface": "מות",
+      "gloss": "په مړينې"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مړ شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:20.788450648Z",
+  "model": "glm-5.3"
+}

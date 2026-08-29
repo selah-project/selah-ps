@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او هغه ⟨את⟩ مېلې د شنې ونې له لرګیو جوړې کړې او هغه يې په مسو پوښلې.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مېلې"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "مېلې"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لرګی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شنه ونه"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "پوښلې يې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ هغوی",
+      "marks": "هغوی (مېلې)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-28T21:29:57.805199407Z",
+  "model": "glm-5.3"
+}

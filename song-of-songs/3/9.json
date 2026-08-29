@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "يو تخت-کوټه (اپیریهون) شاه شلومو د لبنانو له لرګيو ځان ته جوړه کړه.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "تخت-کوټه (اپیریهون)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړه کړه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "شاه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "له لرګيو"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "د لبنانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:37.399265739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 91,
+  "translation": "ځکه چې هغه به دې له ښکاري دام او له ويجاروونکي وبا څخه وژغوري.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "دې وژغوري"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "له دام"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ښکاري"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "له وبا"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ویجاروونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:54.704613662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "یاهوه پر ستاسو پلرونو ډېر خپه شو — لټکهAnd aنګ!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "خپه\/غوسه شو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ستاسو پلرونو"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "لټکهAnd aنګ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:02.224296674Z",
+  "model": "glm-5.3"
+}

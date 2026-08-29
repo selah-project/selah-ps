@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "او اسرائیل مِتسرایم ته راغی، او یعقوب په حام ⟨په⟩ ځمکه کې میشت شو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "او یعقوب"
+    },
+    {
+      "surface": "גר",
+      "gloss": "میشت شو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:40.250819635Z",
+  "model": "glm-5.3"
+}

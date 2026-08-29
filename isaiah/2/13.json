@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او پر ټولو لوړو او پورته-شویو اردڼو د لوبنان، او پر ټولو بلوطو د باشان،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "اردڼو"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "د لوبنان"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "لوړو"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "او پورته-شویو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "بلوطو"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "د باشان"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:03.560859845Z",
+  "model": "glm-5.3"
+}

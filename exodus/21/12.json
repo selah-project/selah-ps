@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "چا چې یو سړی وواهه او ⟨هغه⟩ ومړ، هغه به په مرګ ووژل شي.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "چا چې ... وواهه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "يو سړی"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "او ومړ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "په مرګ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ووژل شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:08.688997809Z",
+  "model": "glm-5.3"
+}

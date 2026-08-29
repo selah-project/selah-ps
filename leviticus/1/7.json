@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د اهرون زامنو، کاهن، به پر مذبح اور کېښود، او پر ⟨هغه⟩ اور به يې لرګي پرتې کړل.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "کېښود"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "הכهן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "پرتې کړل"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لرګي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:41.633699433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "چې ښه سترګه لري، هغه ⟨هو⟩ برکتمن دی، ځکه چې يې له خپلې ډوډۍ څخه مسکين ته ورکړې.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکتمن دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړې"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "له خپلې ډوډۍ څخه"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "مسکين ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.315314659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د عزموت زامن، څلوېښت او دوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عزموت"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:10.158782622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 25:8",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او دې ته به وشمېرې د کلونو اوه شنبې — اوه کاله اوه ځله — او د کلونو د اوه شنبو ورځې به دې ته نه څلوېښت کاله وي.",
+  "tokens": [
+    {
+      "surface": "וספרת",
+      "gloss": "او به وشمېرې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شنبې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "د کلونو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ځله"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "שבתת",
+      "gloss": "شنبې"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "د کلونو"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نه"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "او څلوېښت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:31.363347331Z",
+  "model": "glm-5.3"
+}

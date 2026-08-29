@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او رېفاه ⟨زوی يې⟩، او رېشېف، او تېلاح ⟨زوی يې⟩، او تاحان ⟨زوی يې⟩.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "او رېفاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "او رېشېف"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "او تېلاح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "او تاحان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:56.662576540Z",
+  "model": "glm-5.3"
+}

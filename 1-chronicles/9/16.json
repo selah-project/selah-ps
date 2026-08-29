@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 9:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او عوبادیا زوی شمعیا، زوی ګلال، زوی یدوتون؛ او برخیا زوی اسا، زوی القنه، هغه چې د نطفاتي په کلي کې اوسېده.",
+  "tokens": [
+    {
+      "surface": "ועבדיה",
+      "gloss": "او عوبادیا"
+    },
+    {
+      "surface": "بן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "ګلال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یدوتون"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "او برخیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اسا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "القنه"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "هغه چې اوسېده"
+    },
+    {
+      "surface": "בחצרי",
+      "gloss": "په کلي کې"
+    },
+    {
+      "surface": "נטופתי",
+      "gloss": "نطفاتي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:08.814454755Z",
+  "model": "glm-5.3"
+}

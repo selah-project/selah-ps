@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او که ته د وتلو انکار وکړې، نن وه، زه به ⟨את⟩ ټول ستا پولې په بېلکاوو ووهه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکار وکړې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "د وتلو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "نن وه"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ووهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول ستا پولې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ستا پولې"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "په بېلکاوو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:16:40.394165708Z",
+  "model": "glm-5.3"
+}

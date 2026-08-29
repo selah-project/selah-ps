@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "های، د یاهوه توره! تر کله به نه ارامېږې؟ راټوله شه، په غلاف کې ځای شه، ارام شه او چوپ اوسه.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "های"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کله"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ارامېږې"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "راټوله شه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "غلاف"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "ارام شه"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "او چوپ اوسه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:49.071941516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او په دې خبره کې تاسو یاهوه ستاسو الوهیم ته باوري نه یاست.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "او په دې خبره کې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "نه یاست"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "باوري"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:49.035635560Z",
+  "model": "glm-5.3"
+}

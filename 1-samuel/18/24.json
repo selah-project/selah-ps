@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او د شاول مزدورانو هغه ته وويل: داوېد داسې خبرې وکړې.",
+  "tokens": [
+    {
+      "surface": "وיגדו",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "مزدورانو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "داسې خبرې"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وکړې"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:41.875754432Z",
+  "model": "glm-5.3"
+}

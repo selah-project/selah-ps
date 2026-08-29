@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "حکم دې د موږ لپاره وټاکو؛ په منځ کې دې پوه شو چې څه ښه دي.",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "وټاکو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "د موږ لپاره"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "پوه شو"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:49.292470304Z",
+  "model": "glm-5.3"
+}

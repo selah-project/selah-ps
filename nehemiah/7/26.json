@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د بیت لحم او نطوفه سړو یو سل اتیا او اته.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "سړو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "او نطوفه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یو سل"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اتیا"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "او اته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:26.059221382Z",
+  "model": "glm-5.3"
+}

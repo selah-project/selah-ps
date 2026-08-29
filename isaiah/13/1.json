@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د بابل بار، چې یشعیهو (یشعیهو)، د اموص زوی، لیدلی دی.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "لیدلی دی"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د ... زوی"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اموص"
+    }
+  ],
+  "timestamp": "2026-08-29T02:29:13.685140960Z",
+  "model": "glm-5.3"
+}

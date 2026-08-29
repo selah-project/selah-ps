@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د کمزوري هوډ سړی خپله ښکار نه پخوي، خو د زیارکښ سړي مال ګران‌بیه دی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "پخوي"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "د کمزوري هوډ سړی"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "خپله ښکار"
+    },
+    {
+      "surface": "והון",
+      "gloss": "خو … مال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ګران‌بیه"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "د زیارکښ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:13.652410926Z",
+  "model": "glm-5.3"
+}

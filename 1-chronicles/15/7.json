@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د ګرشوم د زامنو ⟨له ډلې⟩ یوعیل مشر ⟨و⟩، او د هغه وروڼه يو سل او دېرش ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ګرشوم"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوعیل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يو سل"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "او دېرش"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:45.074696686Z",
+  "model": "glm-5.3"
+}

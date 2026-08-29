@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او هغه د خپل پلار آسا په لار روان شو او له هغې نه وانه ووښت، چې د یاهوه په سترګو کې سمه کار وکړي.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "روان شو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "סר",
+      "gloss": "واوښت"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "له هغې"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې وکړي"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سمه کار"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:44.493820742Z",
+  "model": "glm-5.3"
+}

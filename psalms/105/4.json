@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "یاهوه ولټوی او د هغه ځواک، د هغه مخ په دوامداره توګه ولټوی.",
+  "tokens": [
+    {
+      "surface": "דרשو",
+      "gloss": "ولټوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "او د هغه ځواک"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ولټوی"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "د هغه مخ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "په دوامداره توګه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:47.415073367Z",
+  "model": "glm-5.3"
+}

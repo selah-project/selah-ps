@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "ویې ویل: راشئ او یو ملت يې ورکړو، او د ییسروېل نوم بیا وه نه یادېږي.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "راشئ"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "او يې ورکړو"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "له ملت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "وه یادېږي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسروېل"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:10.923025024Z",
+  "model": "glm-5.3"
+}

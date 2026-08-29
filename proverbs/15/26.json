@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د شر افکار د یاهوه کرړه (توابع) دي، خو د پاکانو وینا د خوښۍ خبرې دي.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "کرړه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "افکار"
+    },
+    {
+      "surface": "רע",
+      "gloss": "د شر"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "خو د پاکانو"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "وینا"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "د خوښۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:53.190840833Z",
+  "model": "glm-5.3"
+}

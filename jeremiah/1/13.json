@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 1:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د یاهوه خبر راته دویم ځل وشو، په ویلو: ته څه وینې؟ او ومې ویل: زه یوه د ابلې نافوخه دیګه وینم، او مخ يې له شماله دی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دویم ځل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "په ویلو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وینې"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ومې ویل"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "دیګه"
+    },
+    {
+      "surface": "نפוח",
+      "gloss": "د ابلې\/نافوخه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وینم"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "او مخ يې"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمال"
+    }
+  ],
+  "timestamp": "2026-08-28T23:28:49.087312384Z",
+  "model": "glm-5.3"
+}

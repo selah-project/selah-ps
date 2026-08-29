@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "چې ټینګې سنجشې وساتې، او ستا شونډې پوهه وساتي.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "چې وساتې"
+    },
+    {
+      "surface": "مזמות",
+      "gloss": "ټینګې سنجشې"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ستا شونډې"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "وساتي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:10.917840871Z",
+  "model": "glm-5.3"
+}

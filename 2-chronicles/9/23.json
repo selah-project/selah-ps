@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 9:23",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د ځمکې ټولو پاچاهانو د شلومو مخ ټلواره کاوه، چې د هغه حکمت واوري چې الوهیم يې په زړه کې ورکړی و.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټولو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچاهانو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "ټلواره کاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "چې واوري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکمت"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړی و"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "په زړه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:46:46.407345077Z",
+  "model": "glm-5.3"
+}

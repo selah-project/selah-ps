@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د اولام زامن: بیدان. دا د ګیلیاد زامن وو، زوی د ماخیر، زوی د مناشه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د زامنو"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اولا"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بیدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګیلیاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مناشه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:09.752125989Z",
+  "model": "glm-5.3"
+}

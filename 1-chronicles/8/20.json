@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او اِلیعِنای، او صِلِتای، او اِلیاِل.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "او اِلیعِنای"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "او صِلِتای"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "او اِلیاِل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:31.038751425Z",
+  "model": "glm-5.3"
+}

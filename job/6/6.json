@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ایا بېخونده خواړه بې له مالګې خوړل کېږي؟ یا په د «חלמות» juices juice خوند شته دی؟",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "خوړل کېږي"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "بېخونده"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "مالګې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته ⟨دی⟩"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "خوند"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "د «בריר» juice (تېر شوی خوړ)… د چا juice د بېلګو (تړل شوی)"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "د «חלמות» خواړه (رطوبت، د مطبوخ)"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:18.218422262Z",
+  "model": "glm-5.3"
+}

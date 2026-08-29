@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او د مسکن د دویمې ضلعې لپاره، د شمال خوا ته، شل تختې يې جوړې کړې.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "او د ضلعې لپاره"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "د مسکن"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "د خوا ته"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:29:32.895501507Z",
+  "model": "glm-5.3"
+}

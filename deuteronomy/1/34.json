@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او یاهوه ⟨את⟩ د ستاسو د خبرو غږ واورېد، او قهرېدو او قسم يې وکړ، ويې ويل:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "واورېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ستاسو د خبرو غږ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ستاسو خبرې"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "قهرېدو"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "قسم يې وکړ"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "ويې ويل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:32.705271154Z",
+  "model": "glm-5.3"
+}

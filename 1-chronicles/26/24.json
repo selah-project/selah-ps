@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او شبو ایل، د ګیرشوم زوی، د موشې زوی، د خزانو پر سر مشر و.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "او شبو ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گیرشوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خزانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:06.693760468Z",
+  "model": "glm-5.3"
+}

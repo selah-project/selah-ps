@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د یافِت زامن: ګومر او ماګوګ او مادای او یاوان او توبال او میشِک او تیراس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافِت"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ګومر"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "او ماګوګ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "او مادای"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "او یاوان"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "او توبال"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "او میشِک"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "او تیراس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:34.895366548Z",
+  "model": "glm-5.3"
+}

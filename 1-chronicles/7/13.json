@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د نفتالي زامن: یحصییل، ګوني، یېصر او شالوم — د بلهه زامن وو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "یحصییل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "او ګوني"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "او یېصر"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "او شالوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:08.706328519Z",
+  "model": "glm-5.3"
+}

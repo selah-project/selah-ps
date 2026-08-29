@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ⟨את⟩ ستاسو سره به هر قبیلې یو سړی وي — هر یو د هغوی د پلرونو د کور سر، هغه.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "او ⟨את⟩ ستاسو سره"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "هر قبیلې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یو"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "د هغوی پلرونو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:15.986784149Z",
+  "model": "glm-5.3"
+}

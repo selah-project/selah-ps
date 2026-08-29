@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه یهوشوع ته وويل، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:16:12.798998855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او شالوم وزیږه ⟨את⟩ حِلقیاه، او حِلقیاه وزیږه ⟨את⟩ عَزَریاه",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "او شالوم"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حِلقیاه"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلقیاه"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "او حِلقیاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَزَریاه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریاه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:11.234897804Z",
+  "model": "glm-5.3"
+}

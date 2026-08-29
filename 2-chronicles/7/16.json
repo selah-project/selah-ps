@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او اوس ما دا کور ټاکلی او سپېڅلی کړی دی چې زما نوم تر ⟨تر پایه⟩ هلته وي؛ او زما سترګې او زما زړه به ټول ورځې هلته وي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ما ټاکلی"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "او سپېڅلی کړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا کور"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "چې وي"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "زما نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پایه"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګې"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "او زما زړه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:48.907478695Z",
+  "model": "glm-5.3"
+}

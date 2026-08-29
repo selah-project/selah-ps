@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او دوی دواړه برېښن وو — הآدم ⟨او⟩ د هغه ښځه — او شرمېدل يې نه.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "دوی دواړه"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "برېښن"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "הآدم (انسان)"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "او د هغه ښځه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "شرمېدل"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:22.357063674Z",
+  "model": "glm-5.3"
+}

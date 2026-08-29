@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "دې يوازې ستا وي، او له بهرنیو سره ⟨את⟩ دې مه وي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "يوازې ستا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "بهرنیو"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ له تا سره",
+      "marks": "له تا سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:38.854524672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "څوک دا ویلای شي: زما زړه مې پاک کړ، له خپل ګناه مې پاکېږدېدم؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "وایې شي"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "پاک مې کړ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "پاکېږدېدم"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "له خپل ګناه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:29.138299547Z",
+  "model": "glm-5.3"
+}

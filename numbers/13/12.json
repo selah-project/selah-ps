@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د دان د قبیلې لپاره: عَمِّیایل د گَمَلي زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "عَمِّیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "گَمَلي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:02.474001667Z",
+  "model": "glm-5.3"
+}

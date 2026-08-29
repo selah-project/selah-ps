@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 10:13",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او دا ټول ته په خپل زړه کې پټ کړي دي؛ زه پوهېږم چې دا ستا سره ده.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "پټ کړي يې"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "په زړه کې دې"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:07:03.692088511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "پر دې زه پوهېږم چې ته ⟨زما⟩ خوښ یې، ځکه زما دښمن پر ما چیغې نه وهي.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "پر دې"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "خوښ یې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "چیغې وهي"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "زما دښمن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:14.056410521Z",
+  "model": "glm-5.3"
+}

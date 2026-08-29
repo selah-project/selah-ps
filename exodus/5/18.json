@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او اوس لاړه شئ، کار وکړئ؛ درملشتون به درنه نه ورکول شي، خو د خښتو ټاکلی به يې راکوئ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "لכו",
+      "gloss": "لاړه شئ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "کار وکړئ"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "درملشتون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ورکول شي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "درنه"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ټاکلی"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "د خښتو"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "راکوئ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:30.140799618Z",
+  "model": "glm-5.3"
+}

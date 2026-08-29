@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "پرېږدي یاهوه ټولې چاپلوسانه شونډې، هغه ژبه چې لویې خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "پرېږدي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "چاپلوسانه"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "لویې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:09.068364663Z",
+  "model": "glm-5.3"
+}

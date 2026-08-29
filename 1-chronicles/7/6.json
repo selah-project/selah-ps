@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "بنیامین — بېلا، او بېخِر، او یِدِیعایل، درې.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بېلا"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "او بېخِر"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "او یِدِیعایل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:19.214625299Z",
+  "model": "glm-5.3"
+}

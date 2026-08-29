@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او کونډه او یتیم، مهاجر او مسکین مه ظلموئ؛ او د سړي د خپل ورور بدي مه په خپلو زړونو کې فکر کوئ.",
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "او کونډه"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "او یتیم"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مهاجر"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "او مسکین"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "ظلموئ"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "او بدي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د خپل ورور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "فکر کوئ"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "په خپلو زړونو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:20.312751393Z",
+  "model": "glm-5.3"
+}

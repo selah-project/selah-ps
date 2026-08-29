@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 8:30",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ګیدعون اویا زامن درلودل، چې له رانځه يې وتلي وو، ځکه چې ډېرې ښځې يې وې.",
+  "tokens": [
+    {
+      "surface": "ולגדעון",
+      "gloss": "او ګیدعون"
+    },
+    {
+      "surface": "היו",
+      "gloss": "درلودل"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "وتلي"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "له رانځه يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:25:49.255543355Z",
+  "model": "glm-5.3"
+}

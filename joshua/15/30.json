@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او اِلتولَد او کِسیل او حورمَه،",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "اِلتولَد"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "کِسیل"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "حورمَه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:41.423858766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ⟨את⟩ هادورام او ⟨את⟩ اوزال او ⟨את⟩ دقله.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "هادورام"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "هادورام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "اوزال"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "اوزال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "دقله"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "دقله"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:31.242514987Z",
+  "model": "glm-5.3"
+}

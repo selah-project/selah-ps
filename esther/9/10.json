@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "لس زامنې د هامان، زوی د همدتا، د یهودانو دښمن، یې ووژل؛ خو پر غنیمت یې ⟨את⟩ خپل لاس ونه غځاوه.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "لس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنې"
+    },
+    {
+      "surface": "המן",
+      "gloss": "د هامان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "د همدتا"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "د یهودانو"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "یې ووژل"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "خو پر غنیمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "یې ونه غځاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل لاس"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:28:05.289422928Z",
+  "model": "glm-5.3"
+}

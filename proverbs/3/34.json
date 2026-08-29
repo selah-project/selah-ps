@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "که له ټوټوالي کوونکو سره ده، هغه ټوټالی کوي، خو بېوزلو ته فیض ورکوي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "له ټوټوالي کوونکو سره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ټوټالی کوي"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "خو بېوزلو ته"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فیض"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:06.589252720Z",
+  "model": "glm-5.3"
+}

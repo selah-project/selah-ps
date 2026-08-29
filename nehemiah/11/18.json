@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ټول لویان ⟨وو⟩ په سپېڅلې ښار کې — دوه سوه اتیا څلور.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "سپېڅلې"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اتیا"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:29.344072896Z",
+  "model": "glm-5.3"
+}

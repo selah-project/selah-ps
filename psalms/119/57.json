@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما برخه یاهوه ⟨دی⟩؛ ما وویل چې ستا ټکي ساتم.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "زما برخه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "چې ساتم"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ستا ټکي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:53.721669790Z",
+  "model": "glm-5.3"
+}

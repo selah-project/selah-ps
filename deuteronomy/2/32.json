@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او سیحون زموږ مخې ته راووت، هغه او ټول د هغه قوم، د جګړې لپاره، یهصه ته.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "او راووت"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سیحون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "زموږ مخې ته"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "د هغه قوم"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "د جګړې لپاره"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "یهصه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:04.620068199Z",
+  "model": "glm-5.3"
+}

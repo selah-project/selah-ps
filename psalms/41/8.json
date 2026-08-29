@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "ټول زما کرېدلي يوځای پر ما پټ خبرې کوي؛ پر ما بدي پلانوي چې زما پر ضد وي.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "پټ خبرې کوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "زما کرېدلي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "پلانوي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما پر ضد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:30.383464078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 76,
+  "translation": "روڼ ځلېږې ته، زبردست یې له د غنیمت غرونو.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "روڼ ځلېږې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "زبردست"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "له غرونو"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "غنیمت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:50.699037554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زه به د ياهوه فرمان بيان کړم؛ هغه راته وويل: زما زوی يې، زه نن دې زېږېدلی کړم.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "زه به بيان کړم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فرمان (ټاکلی حکم)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "هغه وويل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زما زوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "يې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "دې زېږېدلی کړم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:47.979456456Z",
+  "model": "glm-5.3"
+}

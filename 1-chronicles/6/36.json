@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "بُکي د هغه زوی، عُزي د هغه زوی، زرخیا د هغه زوی.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "بُکي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرخیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:28.502269234Z",
+  "model": "glm-5.3"
+}

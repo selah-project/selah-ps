@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د ایمر د زامنو له ډلې: حناني او زبادیا.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "او د زامنو له ډلې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ایمر"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حناني"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "زبادیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:39:33.854274660Z",
+  "model": "glm-5.3"
+}

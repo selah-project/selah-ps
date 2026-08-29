@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "وی هغه چې پلار ته وايي: «څه پیدا کوې؟» او ښځې ته: «څه زیږوې؟»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وی"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "پلار ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "پیدا کوې"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "او ښځې ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "زیږوې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:54.278261875Z",
+  "model": "glm-5.3"
+}

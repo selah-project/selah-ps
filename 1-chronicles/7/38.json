@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د یَتِر زامن: یَفُنِه او پِسپاه او اَرا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یَتِر"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یَفُنِه"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "او پِسپاه"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "او اَرا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:58.861525962Z",
+  "model": "glm-5.3"
+}

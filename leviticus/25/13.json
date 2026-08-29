@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "په دې یوبیل کال کې به هر سړی خپل ملکیت ته ستون شي.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "په کال کې"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "د یوبیل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "به ستون شئ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "خپل ملکیت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:57.226160098Z",
+  "model": "glm-5.3"
+}

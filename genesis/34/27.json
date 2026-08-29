@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "د یعقوب زامن پر مړو راغلل، او ښار یې لوټ کړ، ځکه چې هغوي یې خور په steer\/نجاست مړه کړې وه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "مړو"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "او لوټ یې کړ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "טמאو",
+      "gloss": "نجس\/الوتلي وه یې"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "خور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:02.647928234Z",
+  "model": "glm-5.3"
+}

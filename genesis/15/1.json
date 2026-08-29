@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 15:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "له دې خبرو وروسته د یاهوه خبره په یوه لیدنه (بmachaze) کې اوراهام ته راغله، ویې ویل: مه وېرېږه اوراهام، زه دې سپر یم، د تا اجر ډېر زیات دی.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "له دې خبرو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وشوه\/راغله"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "במחזה",
+      "gloss": "په لیدنه کې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وېرېږه"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "د تا"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "د تا اجر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زیات"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:05.355454980Z",
+  "model": "glm-5.3"
+}

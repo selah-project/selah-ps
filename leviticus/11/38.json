@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او که پر تخم اوبه ورکړل شي او د دوی مړې پرې ولوېږي، دا تاسو ته ناپاک دی.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکړل شي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "او ولوېږي"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "د دوی مړې"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:39:05.347143488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "خو که انکار او سرکشي وکړئ، توره به درته ښخه کړي؛ ځکه چې د یاهوه خوله دا ويلي دي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "خو که"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "انکار وکړئ"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "سرکشي وکړئ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "به ښخه کړي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ويلي دي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:10:46.509226842Z",
+  "model": "glm-5.3"
+}

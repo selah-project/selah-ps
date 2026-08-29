@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او هغه ⟨את⟩ دا ټول کارونه ونه کړل — ځکه چې هغه په غرونو کې هم وخوړ او د خپل ګاونډي مېرمن يې ⟨את⟩ نجسه کړه،",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "غرونو کې"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "وخوړ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د خپل ګاونډي مېرمن"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "مېرمن"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "د خپل ګاونډي"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجسه کړه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:56:01.190132948Z",
+  "model": "glm-5.3"
+}

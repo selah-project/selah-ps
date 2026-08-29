@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ګدور، او اخیو، او زاخر.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "او ګدور"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او اخیو"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "او زاخر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:10.913011419Z",
+  "model": "glm-5.3"
+}

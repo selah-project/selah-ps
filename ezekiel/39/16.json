@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او هم د ښار نوم به همونه وي، او دوی به ځمکه پاکه کړي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "همونه"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "او به پاکه کړي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:19.840109086Z",
+  "model": "glm-5.3"
+}

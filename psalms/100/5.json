@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 100,
+  "translation": "ځکه چې ښه دی یاهوه؛ د تل لپاره دی خېسېد يې، او تر نسل له نسله پورې دی امانت يې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خېسېد يې"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تر ... پورې"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "له نسله"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "امانت يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:05.216607381Z",
+  "model": "glm-5.3"
+}

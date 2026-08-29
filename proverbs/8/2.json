@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "د لوړو ځایونو په سر کې، پر لار، د لارو د تقاطع په څنډه کې ولاړه ده",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "په سر کې"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "لوړو ځایونو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د... ځای"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "لارو"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ولاړه ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:25.313310702Z",
+  "model": "glm-5.3"
+}

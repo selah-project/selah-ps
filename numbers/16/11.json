@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 16:11",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "نو ته او ټول دا ټولګی چې پر یاهوه راټول شوي ياست، او اهرون — هغه څه دی چې تاسو پر هغه شکایت کوئ؟",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "ستا ټولګی"
+    },
+    {
+      "surface": "הנעדים",
+      "gloss": "چې راټول شوي ياست"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "او اهرون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "شکایت کوئ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:29.526848227Z",
+  "model": "glm-5.3"
+}

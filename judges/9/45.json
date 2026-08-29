@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "judges 9:45",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ابيمالک ټول هغه ورځ پر ⟨the⟩ ښار وجنګېد؛ او ښار يې ونيوه، او ⟨את⟩ هغه قوم چې په کې وو يې ووژل؛ او ښار يې ونړاوه، او پرې يې مالحه وکره.",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "او ابيمالک"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "وجنګېد"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "پر ښار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هغه ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همغه"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "وينوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ښار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ووژل"
+    },
+    {
+      "surface": "ויתץ",
+      "gloss": "ونړاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ښار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ויזרעה",
+      "gloss": "پرې يې وکره"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "مالحه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:26:17.696966503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "له عَروعیر څخه چې د اَرنون د درې پر غاړه پروت دی، تر سِیون غره — همدا حِرمون دی.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "له عَروعیر څخه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "غاړه"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "د درې"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اَرنون"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "سِیون"
+    },
+    {
+      "surface": "هוא",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حِرمون"
+    }
+  ],
+  "timestamp": "2026-08-29T02:20:42.567562359Z",
+  "model": "glm-5.3"
+}

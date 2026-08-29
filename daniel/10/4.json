@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د لومړۍ مياشتې په څلوروېشتمه ورځ زه د ستر سيند پر غاړه وُم — هغه هېدَقِل دی.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "او په ورځ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د مياشتې"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړۍ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وُم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "غاړه"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "سيند"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "هېدَقِل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:34:42.555001758Z",
+  "model": "glm-5.3"
+}

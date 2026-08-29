@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 103,
+  "translation": "تر پایه به نه شخړه کوي، او نه به د تل لپاره خپل قهر په ځان کې ساتي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تر پایه"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "شخړه کوي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "په ځان کې ساتي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:47.664346351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 74,
+  "translation": "دا وپېژنده: دښمن یاهوه بې عزت کړی، او بې عقله قوم ستا نوم سپک کړی دی.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "وپېژنده"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "بې عزت کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "او قوم"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "بې عقله"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "سپک کړی دی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:43.303371839Z",
+  "model": "glm-5.3"
+}

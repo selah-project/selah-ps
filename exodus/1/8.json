@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او یو نوی پاچا پر مِتسرایم راپاڅېد، چې ⟨את⟩ یوسف يې نه پېژانده.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "او راپاڅېد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژانده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:06.835264469Z",
+  "model": "glm-5.3"
+}

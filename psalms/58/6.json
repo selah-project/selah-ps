@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 58,
+  "translation": "هغه چې د زمزمه کوونکو (جادوګرو) غږ نه اوري، که څومره هم په فلمونو کې ماهر وي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "زمزمه کوونکو"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "فلم \/ جادو"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "فلمونو"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ماهر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:07.804732985Z",
+  "model": "glm-5.3"
+}

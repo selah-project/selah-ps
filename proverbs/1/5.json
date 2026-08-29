@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "حکیم به وېړي او زده یې زیاتوي، او پوه د تدبیرونه ترلاسه کوي.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "به وېړي"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "او زده یې زیاتوي"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "زده"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "او پوه"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "تدبیرونه"
+    },
+    {
+      "surface": "יקנه",
+      "gloss": "ترلاسه کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:49.586494518Z",
+  "model": "glm-5.3"
+}

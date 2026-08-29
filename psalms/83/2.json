@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "الوهیم، چې دمې مه کوه، خپل غږ مه نیسه او مه ارامېږه، ای ایل.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "چې دمې مه کوه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "غږ مه نیسه"
+    },
+    {
+      "surface": "وאל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ارامېږه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:11.442605905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "له همدې امله اوس دا واوره، ای ځورېدلې او مسته، خو له شرابه نه",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "له همدې امله"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "ای ځورېدلې"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "او مسته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "له شرابه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:24:41.542871301Z",
+  "model": "glm-5.3"
+}

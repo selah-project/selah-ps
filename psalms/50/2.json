@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "د صهیون څخه، د ښکلايو بشپړتيا، الوهیم ځلېدلی دی.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "د صهیون څخه"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "بشپړتيا"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "د ښکلايو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ځلېدلی دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:53.346986326Z",
+  "model": "glm-5.3"
+}

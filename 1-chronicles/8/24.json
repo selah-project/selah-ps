@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او حَنانْیه، او عِیلام، او عَنتُتیْیه —",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "او حَنانْیه"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "او عِیلام"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "او عَنتُتیْیه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:25.972157857Z",
+  "model": "glm-5.3"
+}

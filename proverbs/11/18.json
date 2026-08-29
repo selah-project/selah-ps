@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "بدکار درواغجن کار کوي، خو هغه چې پرېکړه کوي، د کره ملزوم وي.",
+  "tokens": [],
+  "timestamp": "2026-08-29T00:55:40.104581392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "ستا له ملامتۍ څخه تښتېدې، ستا د غر غږ له امله چټک شول.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له … څخه"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "ستا ملامتۍ"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "تښتېدې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له … له امله"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غر غږ"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ستا د"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "چټک شول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:11.189889521Z",
+  "model": "glm-5.3"
+}

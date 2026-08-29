@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د خوږوالي خبرې د شاتو کوڼده دي — نفس ته خوږې او هډوکو ته روغښت.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "کوڼده"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شاتو"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "خوږوالي"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "خوږې"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "نفس ته"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "او روغښت"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "هډوکو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:42.438824288Z",
+  "model": "glm-5.3"
+}

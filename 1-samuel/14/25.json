@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او د ټولې ځمکې خلک ځنګل ته ننوتل، او پر دښتې مخ باندې د موم مېوه وه.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې خلک"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ننوتل"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ځنګل ته"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وه"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "موم مېوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ باندې"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د دښتې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:35:14.483086786Z",
+  "model": "glm-5.3"
+}

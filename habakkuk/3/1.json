@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د حبقوق نبي دوعا، د شېګایونوت (په سرګردانو شعرونو) په اړه.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دوعا"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "د حبقوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "شېګایونوت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:17.971846904Z",
+  "model": "glm-5.3"
+}

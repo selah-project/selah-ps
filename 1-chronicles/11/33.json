@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "عزموت ⟨ה⟩بحرومی، الیحبا ⟨ه⟩شعلبونی،",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "عزموت"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "بحرومی"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "الیحبا"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "شعلبونی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:20.543183154Z",
+  "model": "glm-5.3"
+}

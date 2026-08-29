@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ابراهام خپله لاس ⟨את⟩ وغځاوه او ⟨את⟩ چاقو واخیست چې ⟨את⟩ زوی يې ذبح کړي.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "وغځاوه"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاس"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپله لاس"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "واخیست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چاقو"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "چاقو"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "چې ذبح کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زوی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:57:31.082518355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د شریرانو بندونه مې ونیولم، خو ستا تورات مې نه هېر کړ.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "د بندونه"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریرانو د"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "مې ونیولم"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ستا تورات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "هېر کړم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:01.512427449Z",
+  "model": "glm-5.3"
+}

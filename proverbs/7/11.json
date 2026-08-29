@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "غږګړې ده ⟨هغه⟩ او سرکښه؛ په خپل کور کې د هغې پښې نه اوسيږي.",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "غږګړې ده"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "او سرکښه"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "په خپل کور کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "اوسيږي"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "د هغې پښې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:37.154305126Z",
+  "model": "glm-5.3"
+}

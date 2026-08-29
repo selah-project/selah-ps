@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "یَطور، نافیش، او قِدمه — دا د یِشماؤیل زامن وو.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "یَطور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نافیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "او قِدمه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشماؤیل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:35.803216870Z",
+  "model": "glm-5.3"
+}

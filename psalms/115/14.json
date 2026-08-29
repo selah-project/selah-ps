@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "یاهوه به درته زیات کړي، درته او ستاسو پر زامنو.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "به زیات کړي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "درته"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "درته"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ستاسو پر زامنو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:58.123380889Z",
+  "model": "glm-5.3"
+}

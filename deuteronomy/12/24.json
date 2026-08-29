@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "به يې نه خوری — پر ځمکه به يې د اوبو په څېر تویوی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "به يې خوری"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "به يې تویوی"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "د اوبو په څېر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:17.343717760Z",
+  "model": "glm-5.3"
+}

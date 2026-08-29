@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او ټول غوښه به وویني چې زه یاهوه يم چې هغه مې بل کړې؛ هغه به مړه نشي.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "او به وویني"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "هغه مې بل کړې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "تכבה",
+      "gloss": "مړه شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:57:43.192251738Z",
+  "model": "glm-5.3"
+}

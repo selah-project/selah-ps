@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 32:20",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "مبارك دې ياست تاسو چې د اوبو سره سره كرئ كوئ، د غوا او آس پښې خوشېوئ.",
+  "tokens": [
+    {
+      "surface": "אשריכם",
+      "gloss": "مبارك دې ياست تاسو"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "چې كرئ كوئ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سره سره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د هرې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "משלחי",
+      "gloss": "خوشېوئ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پښې"
+    },
+    {
+      "surface": "השור",
+      "gloss": "د غوا"
+    },
+    {
+      "surface": "و החמור",
+      "gloss": "او د آس"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:18.600524912Z",
+  "model": "glm-5.3"
+}

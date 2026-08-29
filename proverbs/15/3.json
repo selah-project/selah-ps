@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "په هر ځای کې د یاهوه سترګې نیغې دي، پر بدو او نیکو.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "نیغې دي"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "پر بدو"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "او نیکو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:32.156203149Z",
+  "model": "glm-5.3"
+}

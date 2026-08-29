@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې رښتیني به په ځمکه کې اوسیږي، او بې-عیبه به په ⟨هغه⟩ کې پاتې شي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "رښتیني"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "به اوسیږي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "او بې-عیبه"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "به پاتې شي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په ⟨هغه⟩ کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:58.129429356Z",
+  "model": "glm-5.3"
+}

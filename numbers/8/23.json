@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او یاهوه موشې سره وويل، چې دا ووايي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې دا ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:29.060932574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "هغه بیا سجده وکړه او ويې ويل: «ستا بنده څه دی چې مړ سپی داسې زما شان ته وګورې؟»",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "سجده وکړه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا بنده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "وګورې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "سپی"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مړ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "زما شان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:58.738675727Z",
+  "model": "glm-5.3"
+}

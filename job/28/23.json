@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "الوهیم ⟨את⟩ د دې لار پوه دی او هغه ⟨את⟩ د دې ځای پېژني.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "پوه دی"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "د دې لار"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دې ځای"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "د دې ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:26.365496676Z",
+  "model": "glm-5.3"
+}

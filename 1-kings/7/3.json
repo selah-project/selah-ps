@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او له پاسه يې په اردن پوښ شوی و، پر هغو ضلعو چې پر څلویښتو پنځه ستونو وې — پنځلس په هر کتار.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "او پوښل شوی و"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "په اردن"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "له پاسه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "ضلعو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ستونو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلویښت"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "کتار"
+    }
+  ],
+  "timestamp": "2026-08-28T22:52:38.127857753Z",
+  "model": "glm-5.3"
+}

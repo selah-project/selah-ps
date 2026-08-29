@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "په ستا نوم به ټول ورځ خوښي کوي، او په ستا عدالت به لوړ شي.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "په ستا نوم"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "خوښي کوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "او په ستا عدالت"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "لوړ شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:40.497545498Z",
+  "model": "glm-5.3"
+}

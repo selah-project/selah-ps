@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او یایِر مړ شو، او په قامون کې خاورو ته وسپارل شو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یایِر"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "او خاورو ته وسپارل شو"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "په قامون کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:26:21.086482924Z",
+  "model": "glm-5.3"
+}

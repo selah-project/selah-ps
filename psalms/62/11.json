@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "په زیاتي مه باور وکړئ او په غلا بې‌هېله مه شئ؛ که شتمني زیاته شي، زړه پرې مهږدئ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "باور وکړئ"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "په زیاتي"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "او په غلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "بې‌هېله مه شئ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "زیاته شي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "مهږدئ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:02.994227057Z",
+  "model": "glm-5.3"
+}

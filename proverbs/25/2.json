@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د الوهیم جلال د ⟨یو⟩ شی پټول دي، خو د پاچاهانو جلال د ⟨یو⟩ شی پلټنه ده.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "پټول"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شی"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "خو جلال"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاچاهانو"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "پلټنه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:35.051695591Z",
+  "model": "glm-5.3"
+}

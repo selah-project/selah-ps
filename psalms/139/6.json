@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "دا پوهه ← په عجیبه ډول له ما پورته ده، پورته شوې — زه يې نه شم توانېدلی.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "په عجیبه ډول"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    },
+    {
+      "surface": "נשגبה",
+      "gloss": "پورته شوې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "شم توانېدلی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:06.852972157Z",
+  "model": "glm-5.3"
+}

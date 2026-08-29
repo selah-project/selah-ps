@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دا هغه دي چې داوېد يې د ياهوه د کور د سندرې (خدمت) په لاسونو ودرول، له هغه وروسته چې تابوت وارام شو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "ودرول"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "لاسونو"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندرې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "له ارامې وروسته"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "تابوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:17.075688850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "د هغې کور له واورې نه وېرېږي، ځکه چې ټول کور يې په شني اغوستلي دي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وېرېږي"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "د هغې کور"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "له واورې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "کور يې"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "اغوستلي دي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "په شني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:54.785429446Z",
+  "model": "glm-5.3"
+}

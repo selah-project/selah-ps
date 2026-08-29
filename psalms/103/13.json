@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 103,
+  "translation": "لکه څنګه چې پلار پر زامنو رحم کوي، داسې یاهوه پر خپلو وېرونکو رحم کوي.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "لکه څنګه چې رحم کوي"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم کوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "خپلو وېروونکو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:56.489371731Z",
+  "model": "glm-5.3"
+}

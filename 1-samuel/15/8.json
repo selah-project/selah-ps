@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او ⟨את⟩ اګاګ د عمالق پاچا يې ژوندی ونيوه، خو ⟨את⟩ ټول قوم يې د تورې په خولو له منځه يووست.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "او ... ونيوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اګاګ"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "اګاګ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالق"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول قوم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "له منځه يووست"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "په خولو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تورې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:01.871506602Z",
+  "model": "glm-5.3"
+}

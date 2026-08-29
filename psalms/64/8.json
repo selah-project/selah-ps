@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "خو الوهیم به ناڅاپي پر هغوی تېر وويشي؛ ټپونه به يې ناڅاپي وي.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "خو به وويشي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "تېر"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "ناڅاپي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وي"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ټپونه يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:04.777213077Z",
+  "model": "glm-5.3"
+}

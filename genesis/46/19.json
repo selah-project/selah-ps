@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "د راحیل زامن — د یعقوب مېرمن — یوسف او بنیامین.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "د ... زامن"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "مېرمن"
+    },
+    {
+      "surface": "یעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "او بنیامین"
+    }
+  ],
+  "timestamp": "2026-08-28T21:13:07.822030679Z",
+  "model": "glm-5.3"
+}

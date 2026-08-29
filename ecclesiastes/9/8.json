@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "په هر وخت ستا جامې سپينې وي، او ستا پر سر غوړ کم نشي.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "يהיו",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ستا جامې"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "سپينې"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "او غوړ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ستا سر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کم نشي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:13.245686909Z",
+  "model": "glm-5.3"
+}

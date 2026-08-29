@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "مې له خپل ورور، له عیسو، له لاسه وژغوره، چې زه ⟨את⟩ هغه وېرېدم؛ دا چې نه راشي او ما ووهي — مور د بچیانو پر سر.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "مې وژغوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مهرباني"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاسه"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "خپل ورور"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاسه"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "وېرېدم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (عیسو)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "دا چې نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "او ما ووهي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مور"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بچیانو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:46.929408201Z",
+  "model": "glm-5.3"
+}

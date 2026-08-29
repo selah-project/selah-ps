@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "غلي شي د درواغو شونډې، چې پر صالح ⟨شخص⟩ په غرور او سپکاوي <او> پرکۍ خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "غلي شي"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درواغو"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "پرکۍ"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "په غرور"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "او سپکاوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:52.322426161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 114,
+  "translation": "ای غرونه، چې د میږو په څېر وښېودل؛ ای ټيټۍ، چې د ورې په څېر وښېودل؟",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ای غرونه"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "وښېودل"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "د میږو په څېر"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ای ټيټۍ"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "د بچیو"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "د ورې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:40.279015236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "ستا سترګه دې پرې رحم ونه کړي، او د پاکې وینې ګناه به د یسرایل له منځه وباسي، او دا به دې په ښه وي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم ونه کړي"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ستا سترګه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "او به وباسي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "د وینې"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "پاکې"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "د یسرایل له منځه"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "او ښه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:15.392299362Z",
+  "model": "glm-5.3"
+}

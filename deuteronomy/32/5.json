@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "هغوی ځان ته خرابي وکړه، خپلولی يې نه دې چې د هغه زامن وي؛ دا د خپل عیب میراث دی — یو نسل کږ او تاوپېچ.",
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "خرابي وکړه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځان ته (لوی)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "دامن يې"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "د هغوی عیب"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کږ"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "او تاوپېچ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:49.965167688Z",
+  "model": "glm-5.3"
+}

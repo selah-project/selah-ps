@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ځکه چې ستاسو مشران په تصان کې وو، او ستاسو استازي حنس ته ورسېدل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "په تصان کې"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "او استازي"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "حنس"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "ورسېدل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:40.543574304Z",
+  "model": "glm-5.3"
+}

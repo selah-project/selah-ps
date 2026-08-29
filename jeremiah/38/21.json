@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او که ته د وتلو انکار وکړې، دا هغه خبر دی چې یاهوه ما ته يې راښودلی:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکار وکړې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "د وتلو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ما ته راښودلی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:44:20.125983514Z",
+  "model": "glm-5.3"
+}

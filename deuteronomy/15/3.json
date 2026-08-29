@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "پر ⟨به⟩ ناکراي بهې غواړې؛ خو هغه څه چې دې له خپل ورور سره دي، خپل لاس بهې پرېږدي.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناکراي"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "ناکراي"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "غواړې"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "خو هغه څه چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل ورور"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "خپل ورور"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "بهې پرېږدي"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "خپل لاس"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:57.188184075Z",
+  "model": "glm-5.3"
+}

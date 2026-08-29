@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او کور — هغه ⟨چې⟩ د مخې له خوا يې معبرد — څلوېښت اَمه و.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "او څلوېښت"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "په اَمه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "معبد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې خوا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:53:06.999110112Z",
+  "model": "glm-5.3"
+}

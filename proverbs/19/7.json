@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د محتاج ټول وروڼه یې کرہه کوي؛ څومره چې خو د هغه ملګري ترې لرې شوي! هغه په خبرو ورپسې ځي، خو دا یې نه شته.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "وروڼه"
+    },
+    {
+      "surface": "רש",
+      "gloss": "محتاج"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "یې کرہه کوي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "څومره چې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "خو"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "د هغه ملګري"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "لرې شوي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "پسې ځي"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "په خبرو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "دا یې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:54.317005144Z",
+  "model": "glm-5.3"
+}

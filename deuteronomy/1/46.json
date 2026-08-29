@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او په قادېش کې ډېر ورځې پاتې شوست، د هغو ورځو په شان چېرې چې مو هلته پاتې وست.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "او پاتې شوست"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "په قادېش کې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "د هغو ورځو په شان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چېرې چې"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "پاتې وست"
+    }
+  ],
+  "timestamp": "2026-08-29T02:20:17.973733010Z",
+  "model": "glm-5.3"
+}

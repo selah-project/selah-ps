@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 95,
+  "translation": "چې د ځمکې ژورې لارې يې په لاس کې دي، او د غرونو لوړ څوکې يې دي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "په لاس کې"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ژورې لارې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "لوړ څوکې"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "د غرونو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:16.008840258Z",
+  "model": "glm-5.3"
+}

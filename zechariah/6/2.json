@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "په لومړۍ رته کې سور آسونه وو، او په دویمه رته کې تور آسونه.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "په لومړۍ رته کې"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "لومړۍ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "آسونه"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "سور"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "او په دویمه رته کې"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "آسونه"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "تور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:55.530560657Z",
+  "model": "glm-5.3"
+}

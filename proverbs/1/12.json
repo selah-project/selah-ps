@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "به يې لکه شیول ژوندي څکو، او بشپړ، لکه هغه چې کټۍ ته ښکته کېږي.",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "به يې څکو"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "لکه شیول"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندي"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "او بشپړ"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "لکه هغه چې ښکته کېږي"
+    },
+    {
+      "surface": "בור",
+      "gloss": "کټۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:53.348232215Z",
+  "model": "glm-5.3"
+}

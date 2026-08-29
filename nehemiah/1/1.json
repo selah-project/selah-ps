@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د نِحَمیا خبرې، د حَخَلیه زوی. او په کِسلو میاشت کې، د شلم کال، زه په شوشن ماڼۍ کې وم.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "نِحَمیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "حَخَلیه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وپېښه شول"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "په میاشت کې"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "کِسلو"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "د کال"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وم"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "په شوشن کې"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ماڼۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:24.651521469Z",
+  "model": "glm-5.3"
+}

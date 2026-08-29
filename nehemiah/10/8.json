@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "مشُلام، ابیا، میامین،",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "مشُلام"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیا"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "میامین"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:19.528745254Z",
+  "model": "glm-5.3"
+}

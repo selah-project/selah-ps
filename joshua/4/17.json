@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یهوشُع ⟨את⟩ کاهنانو ته یې امر وکړ چې ووايي: د یَردېن څخه پورته شئ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "او امر وکړ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشُع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاهنان"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "پورته شئ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "څخه"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردېن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:40.713439860Z",
+  "model": "glm-5.3"
+}

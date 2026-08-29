@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ⟨את⟩ رِسِن، د نینوه او کَلَح ترمنځ — هغه ⟨is⟩ لوی ښار.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رِسِن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "رِسِن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ترمنځ (د ...)"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوه"
+    },
+    {
+      "surface": "وבין",
+      "gloss": "او ... ترمنځ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کَلَح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:11.881014313Z",
+  "model": "glm-5.3"
+}

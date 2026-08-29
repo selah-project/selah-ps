@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "توره يم او ښایسته يم، د یروشلایم لوڼو، د قیدار په خیمو، د شلومو په پردو سره يې ورته.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "توره"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "او ښایسته"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لوڼې"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "د خیمو په څېر"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قیدار"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "د پردو په څېر"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:24.276851923Z",
+  "model": "glm-5.3"
+}

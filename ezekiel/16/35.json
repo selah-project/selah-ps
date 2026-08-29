@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "نو ځکه، ای زناکاره، واورېدله د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "لכן",
+      "gloss": "نو ځکه"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ای زناکاره"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "واورېدله"
+    },
+    {
+      "surface": "دבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:54:43.237776732Z",
+  "model": "glm-5.3"
+}

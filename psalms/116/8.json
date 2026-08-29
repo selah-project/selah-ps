@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "ځکه چې تا زما نفش له مرګه وژغوره، ⟨את⟩ زما سترګې له اوښکو، ⟨את⟩ زما پښې له لوېدو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "وژغوره"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفش"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "له مرګه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما سترګې"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "اوښکو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما پښې"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "زما پښې"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "له لوېدو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:08.825835838Z",
+  "model": "glm-5.3"
+}

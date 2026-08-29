@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 25:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د درې او شلو قدم ټاکل شوې وه لماحزیوت ته، هغه، زامن يې او وروڼه يې، دولس",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "د درې"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شلو"
+    },
+    {
+      "surface": "למחזיאות",
+      "gloss": "لماحزیوت ته"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:17.236537613Z",
+  "model": "glm-5.3"
+}

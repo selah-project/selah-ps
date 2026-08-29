@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "شتمن او غريب سره مخامخ کېږي؛ د ټولو د دوی جوړونکی یاهوه ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "شتمن"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "او غريب"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "سره مخامخ کېږي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړونکی"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "د ټولو د دوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:34.788420108Z",
+  "model": "glm-5.3"
+}

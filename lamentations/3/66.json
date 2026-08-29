@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ته به په غوسه ورپسې ځې او د ياهوه د اسمانونو له لاندې به يې ړنګوې.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "ته به ... ورپسې ځې"
+    },
+    {
+      "surface": "באף",
+      "gloss": "په غوسه"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "او ... به يې ړنګوې"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "له لاندې"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "د اسمانونو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:19:45.857279708Z",
+  "model": "glm-5.3"
+}

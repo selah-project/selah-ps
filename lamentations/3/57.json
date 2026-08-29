@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "په هغه ورځ چې زه تا بولم، نږدې شوې؛ ويل دې کړل: مه وېرېږه.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "نږدې شوې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په هغه ورځ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "زه تا بولم"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ويل دې کړل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وېرېږه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:32.728276352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "نو مِتسرایم ⟨את⟩ د یشارېل زامن په بېرحمه سختۍ سره کارول.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "کارول"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یشارېل زامن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یشارېل"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "په بېرحمه سختۍ سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:51.235651416Z",
+  "model": "glm-5.3"
+}

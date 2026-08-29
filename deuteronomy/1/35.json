@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "«که به يو تن له دې خلکو، له دې بد نسل، ⟨את⟩ هغه ښه ځمکه وويني، چې ما قسم کړی چې پلارونو ته به يې درکوم —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که به"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "وويني"
+    },
+    {
+      "surface": "איש",
+      "gloss": "يو تن"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "له خلکو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه ښه ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ما قسم کړی"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "چې درکوم"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "پلارونو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:32.705482127Z",
+  "model": "glm-5.3"
+}

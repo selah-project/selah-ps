@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "الوهیم دې یفت پراخ کړي، او ⟨هغه⟩ دې په د شېم خېمو کې استوګن شي؛ او کنعان د هغوی غلام وي.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "دې پراخ کړي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "یفت"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "او استوګن شي"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "په خېمو کې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "למו",
+      "gloss": "د هغوی"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:50.733891186Z",
+  "model": "glm-5.3"
+}

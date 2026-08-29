@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او داوېد بیا ⟨את⟩ ټول ټاکلي سړي چې په یسرائل کې وو راټول کړل — دېرش زره.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "او بیا یې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول ټاکلي سړي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ټاکلي سړي"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په یسرائل کې"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:38.745570111Z",
+  "model": "glm-5.3"
+}

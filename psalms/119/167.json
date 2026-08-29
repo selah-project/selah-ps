@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما نفس ستا ګواهي وساتلې، او زه يې ډېره مینه لرم.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "وساتلې"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ستا ګواهي"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "او مینه يې لرم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:57.412935257Z",
+  "model": "glm-5.3"
+}

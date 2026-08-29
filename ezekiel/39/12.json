@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او د یسرایل کور به ⟨את⟩ هغوی ښخ کړي، څنګه چې ⟨את⟩ ځمکه پاکه کړي — اوو میاشتو.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "او به ښخ کړي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "למען",
+      "gloss": "څنګه چې"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "پاکه کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اوو"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "میاشتو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:23.028764997Z",
+  "model": "glm-5.3"
+}

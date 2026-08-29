@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "اولسم حېزیر ته، اتلسم هپیتسِس ته.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "حېزیر ته"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس (اولسم)"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "هپیتسِس ته"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اته"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس (اتلسم)"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:32.124284856Z",
+  "model": "glm-5.3"
+}

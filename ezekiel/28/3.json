@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "وګوره، ته له دانېل څخه هوښیار یمې؛ هېڅ پټ شی دې له دوی پټ نه دی،",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "له دانېل څخه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هېڅ … شی"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "پټ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "دې پټ دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:00:54.136632922Z",
+  "model": "glm-5.3"
+}

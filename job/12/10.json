@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "چې د هر ژوندي existence او د هر بشري غوښې روح په هغه لاس کې دی.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "په هغه لاس کې"
+    },
+    {
+      "surface": "نפש",
+      "gloss": "existence"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندي"
+    },
+    {
+      "surface": "وרוח",
+      "gloss": "او روح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشري غوښې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:07.900547861Z",
+  "model": "glm-5.3"
+}

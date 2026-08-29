@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او په یشوع، او په مولاده، او په بیت-پالط کې،",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "او په یشوع"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "او په مولاده"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "او په بیت"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پالط"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:03.437115058Z",
+  "model": "glm-5.3"
+}

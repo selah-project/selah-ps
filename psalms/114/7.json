@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 114,
+  "translation": "له د مخې، ای ځمکه، ولېږږه — د ادونای له مخې، د یعقوب د الوه له مخې!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "له … مخې"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "ولېږږه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ای ځمکه"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له … مخې"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:40.279161913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ستاینمه زه ⟨את⟩ مړي چې لا دمخه مړه شوي دي، د هغو ژوندو په پرتله چې هغه لا تر اوسه ژوندي دي.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "او ستاینمه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مړي"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مړي"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "چې لا دمخه"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مړه شوي دي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "د ... په پرتله"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژوندي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندي دي"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "لا تر اوسه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:52.525138374Z",
+  "model": "glm-5.3"
+}

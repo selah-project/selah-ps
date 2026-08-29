@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ټوټې يې پکې راټولې کړه، هره ښه ټوټه، ران او اوږه، د غوره هډوکو سره يې ډکه کړه.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "راټولې کړه"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "ټوټې"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ټوټه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "او اوږه"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "هډوکي"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "يې ډکه کړه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:18.048933206Z",
+  "model": "glm-5.3"
+}

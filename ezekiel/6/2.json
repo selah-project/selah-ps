@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د آدم زویه، خپل مخ د یسراییل غرونو ته وګرځوه او ⟨ترېو⟩ يې ⟨پرې واوېيه⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "ګرځوه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "او واوېيه"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ترېو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:58:22.730112979Z",
+  "model": "glm-5.3"
+}

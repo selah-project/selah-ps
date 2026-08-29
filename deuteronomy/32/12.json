@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "یاهوه يې په يوازې ځان رهبري کړ، او هېڅ بېگانه ایل د هغه سره نه ⟨و⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "په يوازې ځان"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "رهبري کړ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او هېڅ … نه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "د هغه سره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بېگانه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:02.951394992Z",
+  "model": "glm-5.3"
+}

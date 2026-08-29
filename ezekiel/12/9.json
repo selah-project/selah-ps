@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "زوی د انسان! آیا د یشرایل کور، د بغاوت کور، تا ته ونه ویل: ته څه کوې؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آیا … نه"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "یشرایل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "د بغاوت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:16.460607234Z",
+  "model": "glm-5.3"
+}

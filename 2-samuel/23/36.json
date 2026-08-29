@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "یګعال د ناتان زوی، د صوبه څخه؛ باني ⟨the⟩ ګادي،",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "یګعال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "صوبه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "⟨the⟩ ګادي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:49.548104913Z",
+  "model": "glm-5.3"
+}

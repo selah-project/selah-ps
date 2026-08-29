@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "داسې نه چې اورېدونکی دې شرمول کړي، او ستا بدنومي بېرته ونه ګرځي.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "داسې نه چې"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "دې شرمول کړي"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اورېدونکی"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "او ستا بدنومي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بېرته ګرځي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:32.230565411Z",
+  "model": "glm-5.3"
+}

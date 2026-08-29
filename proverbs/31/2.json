@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "څه ووايم زوی می! څه د زړګي می زوی! څه د نذرونو می زوی!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "زوی می"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "בר",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "زړګی می"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "בר",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "نذرونه می"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:04.239292365Z",
+  "model": "glm-5.3"
+}

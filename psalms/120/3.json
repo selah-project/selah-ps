@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 120,
+  "translation": "څه درکول کېږي ⟨ته⟩، او څه پر تا زیاتېږي، ای د چل ژبې؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "درکول کېږي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ته⟩"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "زیاتېږي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبې"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "د چل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:55.774430829Z",
+  "model": "glm-5.3"
+}

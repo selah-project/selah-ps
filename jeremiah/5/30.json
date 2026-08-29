@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "حیرانوونکې او وحشتناکه ⟨کار⟩ په ځمکه کې شوی دی.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "حیرانوونکې خرابي"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "او وحشتناکه کار"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "شوی دی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:08.624564228Z",
+  "model": "glm-5.3"
+}

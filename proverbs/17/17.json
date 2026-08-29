@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "په ټول وخت کې ملګری مینه کوي، او ورور د سختۍ لپاره زېږېدلې دی.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت کې"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "مینه کوي"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ملګری"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "او ورور"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "د سختۍ لپاره"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "زېږېدلې دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:59.529062035Z",
+  "model": "glm-5.3"
+}

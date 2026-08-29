@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "کاهنان: د یِدَعیه زامن، د یِشوع ⟨له⟩ کوره — نهه سله اویا او درې.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یِدَعیه"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د … کور ته"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سله"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "او درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:31.352735014Z",
+  "model": "glm-5.3"
+}

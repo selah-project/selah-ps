@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د هغې اندازه له ځمکې اوږده ده، او له سمندره ښه پراخه.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "اوږده"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "له ځمکې"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "اندازه"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "او پراخه"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:28.324866258Z",
+  "model": "glm-5.3"
+}

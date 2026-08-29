@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "نو زه د کوزهګر کور ته ښکته شوم، او ګوره چې هغه پر ⟨the⟩ ګردي ډبرو کار کاوه.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "نو زه … ښکته شوم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "د کوزهګر"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "او ګوره چې هغه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار کاوه"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ګردي ډبرو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:35.070570781Z",
+  "model": "glm-5.3"
+}

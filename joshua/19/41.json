@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او د دوی د میراث پوله وه: صَرعَه، اشتعول او د لمر ښار (عیر شمش).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وه"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "د دوی میراث"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "صَرعَه"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "اشتعول"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:32.312665550Z",
+  "model": "glm-5.3"
+}

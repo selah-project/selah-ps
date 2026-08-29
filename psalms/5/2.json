@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زما خبرې واوره، ای یاهوه؛ زما وریوون ⟨پوهه⟩ کړه.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "زما خبرې"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهه کړه"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "زما وریوون"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:20.945247674Z",
+  "model": "glm-5.3"
+}

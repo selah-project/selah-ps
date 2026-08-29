@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او شېم ته هم زامن وزېږېدل — هغه د عېبِر ټولو زامنو پلار، د یافت مشر ورور.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "او شېم ته"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وزېږېدل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عېبِر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ورور"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "مشر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:13.718699336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 2:14",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د چینې دروازې ته او د پاچا حوض ته واوښتم، او د ښکته څاروي لپاره د تېرېدو ځای ونه موندل کېدل.",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "واوښتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "העין",
+      "gloss": "د چینې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او…ته"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "حوض"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نه و"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "د څاروي لپاره"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "د تېرېدو"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "زما تر ښکته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:41:22.231582515Z",
+  "model": "glm-5.3"
+}

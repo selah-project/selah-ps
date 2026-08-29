@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او سپېڅلي [شي] غواوې شپږ سوه وې، او مېږې درې زره.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "او سپېڅلي [شي]"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "غواوې"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "او مېږې"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:08:52.565937278Z",
+  "model": "glm-5.3"
+}

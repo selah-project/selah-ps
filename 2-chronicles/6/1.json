@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "هغه وخت شلومو وویل: یاهوه وویل چې ⟨هغه⟩ به په غلیظه تیاره کې استوګنه وکړي.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "چې استوګنه وکړي"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "په غلیظه تیاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:59:55.793928992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او يې وویل: وګوره، اوس زاړه شوی یم؛ د مرګ ورځې مې نه پېژنم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ويې ویل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "زاړه شوی یم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "پېژنم"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "زما د مرګ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:23.429010121Z",
+  "model": "glm-5.3"
+}

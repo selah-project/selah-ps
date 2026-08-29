@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او دا کار د الوهیم په سترګو کې بد و، نو هغه ⟨את⟩ یسرائیل وواهه.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "بد و"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "وواهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:03.595037185Z",
+  "model": "glm-5.3"
+}

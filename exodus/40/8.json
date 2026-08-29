@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او ⟨את⟩ داخلي انګړ به دې شاوخوا ودراوه، او ⟨את⟩ د انګړ د ورې د پړونی به دې کېښوده.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "او به دې ودراوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انګړ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "انګړ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "شاوخوا"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "او به دې کېښوده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پړونی"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پړونی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "د ورې"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "د انګړ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:32.991705585Z",
+  "model": "glm-5.3"
+}

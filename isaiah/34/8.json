@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "ځکه چې د یاهوه د انتقام ورځ ده، د تلافئ کال د صیون د دعوا لپاره.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "د انتقام"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "کال"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "د تلافئ"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "د دعوا لپاره"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "د صیون"
+    }
+  ],
+  "timestamp": "2026-08-28T23:19:36.046531099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او دوی به هغه او ⟨את⟩ ټول لوښي یې د «تَحَش» د څرمنې په پوښ کې کېږدي او دوی به هغه پر بار وېږدي،",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "او دوی به کېږدي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ هغه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول لوښي یې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "لوښي یې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "پوښ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "د څرمنې"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "د «تَحَش»"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "او دوی به کېږدي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "بار"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:54.725785659Z",
+  "model": "glm-5.3"
+}

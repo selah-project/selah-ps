@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 25:10",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ورکوم ترې د خوښۍ غږ او د خوشحالۍ غږ، د زوم غږ او د ناوې غږ، د اړې (ډبرې) غږ او د څراغ رڼا.",
+  "tokens": [
+    {
+      "surface": "והאבדתי",
+      "gloss": "او ورکوم ترې"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "د خوښۍ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "او غږ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "د خوشحالۍ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "د زوم"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "او غږ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "د ناوې"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "د اړې (ډبرې)"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "او رڼا"
+    },
+    {
+      "surface": "נר",
+      "gloss": "د څراغ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:28.560966318Z",
+  "model": "glm-5.3"
+}

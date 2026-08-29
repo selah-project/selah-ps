@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او تِراخ اویا کاله ژوند وکړ، او ⟨את⟩ ابرام، ⟨את⟩ ناحور او ⟨את⟩ هاران يې وزېږول.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِراخ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هاران"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:56.364403313Z",
+  "model": "glm-5.3"
+}

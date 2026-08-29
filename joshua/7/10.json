@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یاهوه وویل یهوشوعا ته: «پاڅېږه! ولې داسې پر مخ لوېدلې يې؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوعا"
+    },
+    {
+      "surface": "קם",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل ځان لپاره"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "لوېدلې يې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "مخ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:54.028279874Z",
+  "model": "glm-5.3"
+}

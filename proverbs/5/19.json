@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 5:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د مينې غوښه، د زېرме يَعِله — سينې يې دې په هر وخت مې کړي؛ په مينه يې دې تل مې ومستېږه.",
+  "tokens": [
+    {
+      "surface": "אילת",
+      "gloss": "غوښه (ښځینه)"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "د مينې"
+    },
+    {
+      "surface": "ויעלת",
+      "gloss": "او يَعِله"
+    },
+    {
+      "surface": "חן",
+      "gloss": "د زېرمې"
+    },
+    {
+      "surface": "דדיה",
+      "gloss": "سينې يې"
+    },
+    {
+      "surface": "ירוך",
+      "gloss": "مې دې کړي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "באהבתה",
+      "gloss": "په مينه يې"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "مې ومستېږه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:38.854860739Z",
+  "model": "glm-5.3"
+}

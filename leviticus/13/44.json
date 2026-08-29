@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "هغه صرعتي سړی دی، نجس دی هغه؛ کاهن به هغه بېشکه نجس اعلان کړي؛ زخم يې پر سر دی.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "صرعتي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "به يې نجس اعلان کړي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "زخم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:33.682528090Z",
+  "model": "glm-5.3"
+}

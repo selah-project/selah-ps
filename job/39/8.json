@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 39:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "د غرونو سيمه د هغه چمن ده، او هر شين شی پلټي.",
+  "tokens": [
+    {
+      "surface": "יתור",
+      "gloss": "سيمه"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونو"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "د هغه چمن"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "او پس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "ירוק",
+      "gloss": "شين شی"
+    },
+    {
+      "surface": "ידרוש",
+      "gloss": "پلټي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:51.132288019Z",
+  "model": "glm-5.3"
+}

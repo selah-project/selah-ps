@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "یوازې له زده سرکشۍ شخړه راولاړېږي، خو ⟨את⟩ مشوره کوونکو ته حکمت ⟨هست⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "له زده سرکشۍ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "راولاړېږي"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "شخړه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مشوره کوونکو"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "مشوره کوونکو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:16.470059968Z",
+  "model": "glm-5.3"
+}

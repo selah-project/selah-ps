@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ټول دا سره یوځای شول ⟨د⟩ سدیم په دره کې — هغه د مالګې سمندر دی.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "سره یوځای شول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په… کې"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "دره"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "سدیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "د مالګې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:15.683233032Z",
+  "model": "glm-5.3"
+}

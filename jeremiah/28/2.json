@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "داسې وايي یاهوه د لښکرو، الوهیم د اسرائیل: ما مات کړ ⟨את⟩ جغ د پاچا د بابل.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د لښکرو"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "ما مات کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جغ د پاچا د بابل"
+    },
+    {
+      "surface": "על",
+      "gloss": "جغ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:25.349939278Z",
+  "model": "glm-5.3"
+}

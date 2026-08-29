@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هغه وویل: داسې وايي یاهوه: دا دره کیندلې کانې کړئ، کیندلې کانې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او-وویل"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړئ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "دا-دره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "کیندلې-کانې"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "کیندلې-کانې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:02:11.910499780Z",
+  "model": "glm-5.3"
+}

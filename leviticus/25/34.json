@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او د دوی د ښارونو د مګراش ميدان به نه پلورل کېږي، ځکه چې دا د دوی د تل ملکيت ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "او ميدان"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "مګراش"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "د دوی د ښارونو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "پلورل کېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ملکيت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "د تل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨دی⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د دوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:06.340141086Z",
+  "model": "glm-5.3"
+}

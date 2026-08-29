@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "لعنتې دې وي ⟨the⟩ ستا ټوکرۍ او ستا مېلوې.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتې دې وي"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ستا ټوکرۍ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "او ستا مېلوې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:04.730139099Z",
+  "model": "glm-5.3"
+}

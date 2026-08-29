@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "خو حکمت له چېرته پيدا کېږي؟ او د پوهې ځای چېرته دی؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "خو حکمت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "له چېرته"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پيدا کېږي"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "او چېرته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دی"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "د پوهې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:11.377908679Z",
+  "model": "glm-5.3"
+}

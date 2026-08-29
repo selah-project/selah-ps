@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او حصر-شوعال، او بئر-شبعه، او بیزیوتیاه،",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "او حصر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "او بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبعه"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "او بیزیوتیاه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:40.012594451Z",
+  "model": "glm-5.3"
+}

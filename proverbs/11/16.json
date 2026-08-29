@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د مهربانې ښځې درناوی ټینګ وي، خو تڼاکي مېړونه شتون مومي.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "חן",
+      "gloss": "د مهربانې"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "ټینګ وي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "درناوی"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "خو تڼاکي مېړونه"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "مومي"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "شتون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:53.270248177Z",
+  "model": "glm-5.3"
+}

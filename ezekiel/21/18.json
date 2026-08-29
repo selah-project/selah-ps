@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "ځکه چې دا ازموینه ده؛ او که لینگه هم ونه-منل شي، نو دا به نور نه وي، د ادونای یاهوه نبياله ده.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "ازموینه"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "لینگه"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "ونه-منل شي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نبياله ده"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:57:53.826991021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "د مخکښ (لرغلو) لپاره؛ د قوراخ د زامنو لپاره؛ مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د مخکښ (لرغلو) لپاره"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو لپاره"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قوراخ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:37.567403024Z",
+  "model": "glm-5.3"
+}

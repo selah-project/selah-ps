@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "«ته به ښځه نه اخلې، او په دغه ځای کې به دې زامن او لوڼې نه وي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ته به واخلې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپله"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼې"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "په ځای کې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دغه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:16.594240141Z",
+  "model": "glm-5.3"
+}

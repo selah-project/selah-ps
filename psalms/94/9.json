@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "هغه چې غوږ يې کینولی، ايا نه اورېدلی؟ هغه چې سترګه يې جوړه کړې، ايا نه ليدلی؟",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "هغه چې کینولی يې"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ايا نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "اورېدلی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوړه کړې يې"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ايا نه"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ليدلی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:06.832611109Z",
+  "model": "glm-5.3"
+}

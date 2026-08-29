@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه چې د خوبونو په ډېروالي کې — تشکالي او د خبرو ډېروالي؛ خو ⟨את⟩ الوهیم ووېره.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "په ډېروالي کې"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "د خوبونو"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "تشکالي"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "او…خبرې"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "خو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ووېره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:23.848410162Z",
+  "model": "glm-5.3"
+}

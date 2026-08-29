@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "زه په نیکۍ لار کې ګرځم، د انصاف د پلوونو په منځ کې.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "نیکۍ"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "زه ګرځم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "د پلوونو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:33.047823099Z",
+  "model": "glm-5.3"
+}

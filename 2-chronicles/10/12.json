@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "نو یاربعم او ټول خلک درېیمه ورځ رحبعم ته راغلل، لکه څنګه چې پاچا ویلې وو، چې: درېیمه ورځ زماښه راشئ.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یاربعم"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "درېیمه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویلې وو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "راشئ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زماښه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "درېیمه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:21.886611052Z",
+  "model": "glm-5.3"
+}

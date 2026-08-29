@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "او ټوله ورځ له ستونزو وهلم، او خپله ورځپانه هر سهار راته.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "او وم"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "له ستونزو وهل شوی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "او خپله ورځپانه"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "هر سهار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:57.132548670Z",
+  "model": "glm-5.3"
+}

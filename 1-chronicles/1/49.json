@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او شاول ومړ، او پر ځای يې بَعَل حَنان زوی عَکبور پاچا شو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او ... ومړ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "او ... پاچا شو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "پر ځای يې"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حَنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عَکبور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:51.602984179Z",
+  "model": "glm-5.3"
+}

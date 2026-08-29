@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او له بنيامین: د زور اتل الیادع، او له هغه سره د غشي او سپر درنګوونکي دوه سوه زره.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامین"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "اتل"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "د زور"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "الیادع"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "او له هغه سره"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "درنګوونکي"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "غشي"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "او سپر"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:18.942845301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د غریب مشوره تاسو شرمولې ده، خو یاهوه ⟨هغه⟩ پناه يې دی.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "مشوره"
+    },
+    {
+      "surface": "עני",
+      "gloss": "د غریب"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "شرمولې ده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "خو\/ځکه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "پناه يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:05.022433529Z",
+  "model": "glm-5.3"
+}

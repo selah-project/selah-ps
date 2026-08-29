@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "د کرښې پر مخ بهېږې، ځکه زه خبرې کومې، د ادونای یاهوه وينا.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د … مخ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کرښې"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "بهېږې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "خبرې کومې"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:04:59.195820968Z",
+  "model": "glm-5.3"
+}

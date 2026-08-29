@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "د صحن د دیوال په پلنوالي کې، د ختيځ لار په لور، د بېلې سیمې ⟨ا⟩ مخې ته او د ودانیو مخې ته، لښتۍ وې.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "په پلنوالي کې"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "د دیوال"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "د صحن"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ختیځ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "بېلې سیمې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او … ته"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "د ودانیو"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "لښتۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:22.038311221Z",
+  "model": "glm-5.3"
+}

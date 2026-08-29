@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "دروغجن ژبه خپل ماتول شویوان بېوره کوي، او نرم خوله له منځه وړل کوي.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "بېوره کوي"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "خپل ماتول شویوان"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "او خوله"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "له منځه وړل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:12.456854279Z",
+  "model": "glm-5.3"
+}

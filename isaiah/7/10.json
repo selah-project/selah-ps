@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او یاهوه بیا وګړي وویل چې آحاز ته، ویلو:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "بیا وګړي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویل یې\/وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "آحاز"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویلو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:51.900489686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د احمق لپاره د بد نیت کول لکه ټوکې کول دي، خو د پوه سړي لپاره حکمت دی.",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "لکه ټوکې کول"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "د احمق لپاره"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کول"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "د بد نیت"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "خو حکمت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "د سړي لپاره"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "د پوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:43.464085543Z",
+  "model": "glm-5.3"
+}

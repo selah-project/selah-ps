@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د شریر نفس بدۍ هڅوي؛ د هغه په سترګو کې ⟨ده⟩ ورته د خپل ملګري ⟨هېڅ⟩ رحم نه موندل کېږي.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "د شریر"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "هڅوي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "خپل ملګری"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:37.162490480Z",
+  "model": "glm-5.3"
+}

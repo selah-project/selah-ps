@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "په زړه کې (بینه کې) ⟨את⟩ قرعه اچول کېږي، خو د یاهوه ده ټوله پرېکړه يې.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "په زړه کې (بینه کې)"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "اچول کېږي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قرعه"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعه"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "خو د یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "پرېکړه يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:59.598505398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "د سینو پر ځای وروژاړئ، د خوښو ډګرونو لپاره، د مېوې لرونکې انګورو لپاره.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "سینو"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "وروژاړئ"
+    },
+    {
+      "surface": "על",
+      "gloss": "لپاره"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ډګرونو"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "خوښو"
+    },
+    {
+      "surface": "על",
+      "gloss": "لپاره"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "انګورو"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "مېوې لرونکې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:56.555538570Z",
+  "model": "glm-5.3"
+}

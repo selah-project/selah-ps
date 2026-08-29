@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 20:35",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او تاسو به د خلکو په بېدیایي کې راولم، او هلت به درسره محکمه وکړم، مخې په مخې.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "راولم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تاسو",
+      "marks": "تاسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بېدیایي"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "د خلکو"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "محکمه وکړم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ درسره",
+      "marks": "تاسو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:57:00.766498602Z",
+  "model": "glm-5.3"
+}

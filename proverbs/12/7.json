@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "شریران اړول کېږي او هېڅ نه پاتې کېږي، خو د صادقانو کور ولاړ وي.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "اړول کېږي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریران"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "او هېڅ نه پاتې کېږي"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "خو … کور"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د صادقانو"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ولاړ وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:36.367883801Z",
+  "model": "glm-5.3"
+}

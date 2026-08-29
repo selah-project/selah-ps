@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 22:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ایا د شدای ⟨لپاره⟩ خوښي ده چې ته نېست یې؟ او که ګټه ده چې ته خپلې لارې بشپړې کړې؟",
+  "tokens": [
+    {
+      "surface": "החפץ",
+      "gloss": "خوښي ده"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "د شدای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "نېست یې"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "بشپړې کړې"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "خپلې لارې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:14.078069598Z",
+  "model": "glm-5.3"
+}

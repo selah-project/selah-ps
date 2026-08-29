@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "ورکوې يې ← راټولوي يې؛ لاس دې پرانيزې ← د ښه شي څخه ډېر شي",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ورکوې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "راټولوي"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "پرانيزې"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "ډېر\/سير شي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:16.736805478Z",
+  "model": "glm-5.3"
+}

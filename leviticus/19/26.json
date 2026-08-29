@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "له وینې سره به نه خورئ؛ فال به نه کوئ او وړیمبینې به هم نه کوئ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورئ"
+    },
+    {
+      "surface": "על",
+      "gloss": "له … سره"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "فال کوئ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "وړیمبینې کوئ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:12.179217866Z",
+  "model": "glm-5.3"
+}

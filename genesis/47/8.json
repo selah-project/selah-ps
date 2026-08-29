@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "او پارعو وویل یعقوب ته: څومره دي د ستا د ژوند د کلونو ورځې؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پارعو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "שני",
+      "gloss": "د کلونو"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "د ستا ژوند"
+    }
+  ],
+  "timestamp": "2026-08-28T21:13:43.644545301Z",
+  "model": "glm-5.3"
+}

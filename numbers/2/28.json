@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د هغه لښکر او د هغوی شمېرنه یو میلیت\tinline دېرش زره او پنځه سوه وه.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "او د هغه لښکر"
+    },
+    {
+      "surface": "وפקדיהם",
+      "gloss": "او د هغوی شمېرنه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:37.579692007Z",
+  "model": "glm-5.3"
+}

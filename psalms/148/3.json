@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 148,
+  "translation": "ستاینه يې وکړئ لمر او سپوږمۍ؛ ستاینه يې وکړئ ټول د رڼا ستوري.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ستاینه يې وکړئ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "او سپوږمۍ"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ستاینه يې وکړئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ستوري"
+    },
+    {
+      "surface": "אור",
+      "gloss": "د رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:18.652192491Z",
+  "model": "glm-5.3"
+}

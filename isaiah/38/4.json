@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 38:4",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او د ياهوه خبر يشعیهو ته وشو، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر \/ کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:28.883107193Z",
+  "model": "glm-5.3"
+}

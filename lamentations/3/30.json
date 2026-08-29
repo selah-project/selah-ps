@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "دې هغه چا ته چې وهلي يې خپله غوټۍ وړاندې کړي؛ دې له سپکاوي ډک شي.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دې وړاندې کړي"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "هغه چا ته چې وهلي"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "غوټۍ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "دې ډک شي"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "له سپکاوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:56.474666915Z",
+  "model": "glm-5.3"
+}

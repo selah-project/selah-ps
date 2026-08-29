@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "وګورئ، ورځ! وګورئ، راروانه ⟨ده⟩! سهار وتلی، څوک ګل کړی، غرور شاخه کړی.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "راروانه"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "وتلی"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "ګل کړی"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "شاخه کړی"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "غرور"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:31.716473788Z",
+  "model": "glm-5.3"
+}

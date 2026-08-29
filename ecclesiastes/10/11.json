@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "که مار ⟨לחש⟩ له بېله جادو کېږدي، نو د ژبې څښتن ته هېڅ ګټه نشته.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "چېچي"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "له بېله"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "جادو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نو نشته"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ته څښتن"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "د ژبې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:13.202165845Z",
+  "model": "glm-5.3"
+}

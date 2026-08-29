@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او یهوشوع ⟨את⟩ د خلکو افسرانو ته امر وکړ، ويې ویل:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "امر وکړ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د خلکو افسرانو"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "افسرانو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د خلکو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ويې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:23.983819237Z",
+  "model": "glm-5.3"
+}

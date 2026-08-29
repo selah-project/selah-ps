@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د مِشماع زامن: حَمُوایل د هغه زوی، زَکّور د هغه زوی، شِمعی د هغه زوی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن یې"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مِشماع"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "حَمُوایل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زَکّور"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:06.670668763Z",
+  "model": "glm-5.3"
+}

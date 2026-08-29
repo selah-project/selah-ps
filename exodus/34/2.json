@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او سهار لپاره چمتو شه، او سهار د سینای غره ته وخېژه، او زما لپاره هلته د غره پر سر ودرېږه.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او اوسې"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "چمتو"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "سهار لپاره"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "او وخېژه"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "او ودرېږه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "د غره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:26:19.676225427Z",
+  "model": "glm-5.3"
+}

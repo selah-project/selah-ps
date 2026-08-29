@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او د لسو ورځو په پای کې د یاهوه خبر یرمیاه ته راغی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "په پای کې"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "لسو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:04.655333401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ښه ⟨دی⟩ یو بېوسه او پوه ځوان له هغه زاړه او ناپوهه پاچا، چې نور نه پوهېږي پند واخلي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ځوان"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "بېوسه"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "او پوه"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "له پاچا"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "زاړه"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "او ناپوهه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "پند واخلي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:59.911717972Z",
+  "model": "glm-5.3"
+}

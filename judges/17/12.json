@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "میکا ⟨את⟩ د لېوي لاس ډک کړ، او هغه ځوان د هغه لپاره کاهن شو، او هغه د میکا په کور کې و.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ډک کړ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د لېوي لاس"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لېوي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه لپاره"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ځوان"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "د میکا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:28:30.588937717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "له ماشوم څخه انضباط مه نیوه، ځکه چې که هغه ⟨את⟩ د څوکۍ په تاوۍ ووهې، نه دی مړ کېږي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "نیوه"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "له ماشوم"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "انضباط"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې که"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ووهې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (ماشوم)"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "په تاوۍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مړ کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:04.791017852Z",
+  "model": "glm-5.3"
+}

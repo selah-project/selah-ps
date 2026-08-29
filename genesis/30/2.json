@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "یعقوب پر راچېل قهر شو او ويې وويل: ایا زه د الوهیم په ځای يم، چې دې تا ته د رحم مېوه درنه دریښې ده؟",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "قهر شو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غوسه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "پر راچېل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ويې وويل"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "په ځای"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "دریښې ده"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "مېوه"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "د رحم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:32.732311465Z",
+  "model": "glm-5.3"
+}

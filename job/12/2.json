@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "بېشکه چې تاسو يې يوازيني خلک ياست، او حکمت به له تاسو سره مري.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "بېشکه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "له تاسو سره"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مري"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:07:26.237746846Z",
+  "model": "glm-5.3"
+}

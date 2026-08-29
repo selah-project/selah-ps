@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "یوولسم عَزَرْائل ته — هغه، زامن يې او وروڼه يې، دولس کېدل.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "یوولسم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "عَزَرْائل"
+    },
+    {
+      "surface": "בניو",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "ואחיو",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:16.891374094Z",
+  "model": "glm-5.3"
+}

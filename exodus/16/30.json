@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "نو قوم په اوومه ورځ ودرېد.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ودرېد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "اوومه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:57.900090037Z",
+  "model": "glm-5.3"
+}

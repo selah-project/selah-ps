@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 146,
+  "translation": "یاهوه پردېوو ⟨את⟩ ساتي، یتیم او کونډه ولاړوي، خو د شرمنو لار کږولی شي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردېوو"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "پردېوو"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "او کونډه"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "ولاړوي یې"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "او د…لار"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شرمنو"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "کږوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:57.651546790Z",
+  "model": "glm-5.3"
+}

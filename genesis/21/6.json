@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او ساراه وویل: الوهیم ما ته خندا پنځه کړې ده؛ هر چا چې واورېدلي، له ماسې به خندېږي.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساراه"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "خندا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "پنځه کړې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "چا چې واورېدلي"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "خندېږي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "له ماسې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:17.400112032Z",
+  "model": "glm-5.3"
+}

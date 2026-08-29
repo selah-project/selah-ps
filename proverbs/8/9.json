@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ټول يې د پوهېدونکي لپاره روښانه دي، او د پوهې موندونکو لپاره سمه دي.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ټول يې"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "روښانه"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "د پوهېدونکي لپاره"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "او سمه"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "د موندونکو لپاره"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:45.797681647Z",
+  "model": "glm-5.3"
+}

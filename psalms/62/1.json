@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "د رهبر لپاره، د یَدوتون په سبک، د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "על",
+      "gloss": "په سبک"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یَدوتون"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:32.324991737Z",
+  "model": "glm-5.3"
+}

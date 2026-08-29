@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 11:34",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "له هر خوړل کېدونکي خوراک چې پرې داسې اوبه راشي ناپاکېږي؛ او هر څښاک چې په هر داسې لوښي کې څښل کېږي ناپاکېږي.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "له هر"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "خوراک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوړل کېږي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاکېږي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "څښاک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "څښل کېږي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښي کې"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاکېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:48.582991212Z",
+  "model": "glm-5.3"
+}

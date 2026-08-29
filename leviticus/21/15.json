@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او خپل نسل د خپل قوم ترمنځ دې نه ناپاکه کړي؛ ځکه چې زه یم یاهوه چې هغه سپېڅلی کوم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "ناپاکه کړي"
+    },
+    {
+      "surface": "זרעو",
+      "gloss": "خپل نسل"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "د خپل قوم ترمنځ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه یم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "هغه سپېڅلی کوم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:36.732590872Z",
+  "model": "glm-5.3"
+}

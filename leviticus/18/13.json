@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د دې مور خور برنډتیا مه بربنډوې، ځکې چې هغه د تا د مور غوښه ده.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برنډتیا"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "خور"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "د تا د مور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "بربنډوې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکې چې"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "د تا د مور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:56.105142971Z",
+  "model": "glm-5.3"
+}

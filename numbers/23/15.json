@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او هغه بالاق ته وویل: «دلته خپل سوځني قربان ته ودريږه، او زما به ياهوه هلته وليدل شي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ودريږه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "על",
+      "gloss": "سره"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "خپل سوځني قربان"
+    },
+    {
+      "surface": "وאנכי",
+      "gloss": "او زما"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "وليدل شم"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:41.468705491Z",
+  "model": "glm-5.3"
+}

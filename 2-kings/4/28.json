@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "هغې وويل: “آيا زما له څښتن ⟨את⟩ زوی غوښتی و؟ آيا ما نه و ويلي چې ما مه غولوه؟”",
+  "tokens": [
+    {
+      "surface": "وתאמר",
+      "gloss": "هغې وويل"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "غوښتی و"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "له ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "زما څښتن"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آيا... نه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ما ويلي وو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "غولوه"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    }
+  ],
+  "timestamp": "2026-08-28T23:02:38.811458477Z",
+  "model": "glm-5.3"
+}

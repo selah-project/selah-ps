@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د هغې خاورې زر ⟨دی⟩ ښه؛ هلته بډولاخ دی او د شوهام ډبره.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "او زر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د خاورې"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بډولاخ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "او ډبره"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "شوهام"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:55.104056851Z",
+  "model": "glm-5.3"
+}

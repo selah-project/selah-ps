@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "د رهبر لپاره، د قورح د زامنو یو ښوونکی شعر.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ښوونکی شعر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:38.578174602Z",
+  "model": "glm-5.3"
+}

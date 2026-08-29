@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د کوهانیانو له زامنو څخه ځینې د خوشبویيو د خلط جوړونکي وو.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کوهانیانو"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "د خلط جوړونکي"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "خلط"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "د خوشبویيو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:20.977851686Z",
+  "model": "glm-5.3"
+}

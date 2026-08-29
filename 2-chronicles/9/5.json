@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او هغې پاچا ته وویل: ریښتیا دی هغه خبر چې زما په هېواد کې مې واورېد، ستا د خبرو او ستا د حکمت په اړه.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او هغې وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ریښتیا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "واورېدم"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "زما په هېواد کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ستا خبرو د"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او په اړه"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ستا حکمت د"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:57.524928100Z",
+  "model": "glm-5.3"
+}

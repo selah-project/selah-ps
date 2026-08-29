@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "بیا داسې مونږ ورته وویل: څوک دي د هغو نومونه سړیو چې دا ودانۍ جوړوي؟",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "مونږ وویل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "دي"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "د نومونه"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "سړیو"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "ودانۍ"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "جوړوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:37:27.710974128Z",
+  "model": "glm-5.3"
+}

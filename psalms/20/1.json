@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د مهالدار لپاره، د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د مهالدار لپاره"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:10.250123057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او ناحور نهه او شل کاله ژوند وکړ، او ⟨את⟩ تارح يې وزېږوه.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نهه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "يې وزېږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تارح"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تارح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:01.595659756Z",
+  "model": "glm-5.3"
+}

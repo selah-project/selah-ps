@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "په نيکۍ د صالحانو ښار خوشحاله کېږي، او په هلاکت د شريرانو ⟨ده⟩ شادي.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "په نيکۍ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د صالحانو"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "خوشحاله کېږي"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "او په هلاکت"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شريرانو"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "شادي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:57.916741591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د رد-سترګي (بخیل) ډوډۍ ⟨את⟩ مه خوره، او د هغه خوندورو خوړو هیل مه کوه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "خوره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ډوډۍ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "رد"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תתאو",
+      "gloss": "هیل مه کوه"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "د هغه خوندورو خوړو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:06.545118260Z",
+  "model": "glm-5.3"
+}

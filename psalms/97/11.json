@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 97,
+  "translation": "روښنایي د صادق لپاره کرل شوې، او د زړه سمو لپاره خوښي.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "روښنایي"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "کرل شوې"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "د صادق لپاره"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "او د زړه سمو لپاره"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوښي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:23.154642992Z",
+  "model": "glm-5.3"
+}

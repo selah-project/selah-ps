@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "هره لار چې د سړي ⟨لپاره⟩ په خپلو سترګو کې سمه ښکاري، خو یاهوه زړونه تاویږي\/تڅي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هره"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سمه"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په خپلو سترګو کې"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "خو تاویږي"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "زړونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:06.316389974Z",
+  "model": "glm-5.3"
+}

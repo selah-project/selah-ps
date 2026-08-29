@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه یوه لویه کب په داسې توګه چې یوناه ⟨את⟩ وبلځي چمتو کړ، او یوناه د کب په نس کې درې ورځې او درې شپې وو.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "چمتو کړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דג",
+      "gloss": "کب"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لویه"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "چې وبلځي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوناه"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناه"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "په نس کې"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "د کب"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "او درې",
+      "surface_alt": null,
+      "gloss_alt": null
+    },
+    {
+      "surface": "לילות",
+      "gloss": "شپې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:59.771817609Z",
+  "model": "glm-5.3"
+}

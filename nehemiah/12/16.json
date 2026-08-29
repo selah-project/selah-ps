@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د عِدّو لپاره زِکاریا، د ګِنِتون لپاره مِشولام.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "د عِدّو لپاره"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زِکاریا"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "د ګِنِتون لپاره"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشولام"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:35.746998888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ستا زر پاتې شونې (خامه) شو، ستا شراب په اوبو کې ګډ شوي.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "ستا زر"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شو"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "پاتې شونې (خامه)"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "ستا شراب"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "ګډ شوي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:26.139915356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "څوک دا دی چې په بې پوهه خبرو مشوره تیاروي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "تیاروي"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشوره"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "په خبرو"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:02.264395477Z",
+  "model": "glm-5.3"
+}

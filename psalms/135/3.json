@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 135,
+  "translation": "ستاینه کړئ یاه، ځکه چې یاهوه ښه دی، د هغه نوم ته سرود ووایاست، ځکه چې ډېر خوږ دی.",
+  "tokens": [
+    {
+      "surface": "هללו",
+      "gloss": "ستاینه کړئ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "سرود ووایاست"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "د هغه نوم ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "خوږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:57.569395690Z",
+  "model": "glm-5.3"
+}

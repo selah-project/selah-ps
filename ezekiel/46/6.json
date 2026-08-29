@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 46:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "او د نوې مياشتې په ورځ يوه غواګۍ، د مېږو بچی، بې عیبه، او شپږ وږي او يو بوډای — بې عیبه وي.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "او په ورځ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "د نوې مياشتې"
+    },
+    {
+      "surface": "פר",
+      "gloss": "يو غواګی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د مېږو"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بې عیبه"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "כבשם",
+      "gloss": "وږي"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "او يو بوډای"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بې عیبه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:07:45.860001368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 22:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "خو هغه نجلۍ ته دې هيڅ شي ونه کړئ — په نجلۍ کې د مرګ ګناه نشته، ځکه لکه چې کله سړی پر خپل ملګري پاڅي او د هغه نفس ووژني، همداسې ⟨هغه⟩ حال دې ⟨دلته⟩ دې دى.",
+  "tokens": [
+    {
+      "surface": "ולנער",
+      "gloss": "خو هغه نجلۍ ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کوم شي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "هيڅ شي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "په نجلۍ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مرګ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه چې"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "پاڅي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "خپل ملګري"
+    },
+    {
+      "surface": "ורצחו",
+      "gloss": "ووژني"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "حال\/خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:51.850992329Z",
+  "model": "glm-5.3"
+}

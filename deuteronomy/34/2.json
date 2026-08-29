@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او ⟨את⟩ ټول نفتالي، او ⟨את⟩ د افرایم ځمکه او مناشه، او ⟨את⟩ ټوله د یهودا ځمکه، تر وروستي سمندر پورې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول نفتالي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د افرایم ځمکه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "او مناشه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټوله د یهودا ځمکه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر … پورې"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "وروستی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:44.455206371Z",
+  "model": "glm-5.3"
+}

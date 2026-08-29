@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "له دوی مه وارخطا کېږه، ځکه چې یاهوه ستا الوهیم ⟨هغه⟩ ستا په منځ کې دی — لوی ایل او وېروونکی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "وارخطا کېږه"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "له دوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ستا په منځ کې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "او وېروونکی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:09.347393989Z",
+  "model": "glm-5.3"
+}

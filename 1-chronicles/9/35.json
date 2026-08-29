@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او په ګیبعون کې یعیل د ګیبعون پلار اوسېده، د نوم د مېرمنې مېرمنې نوم ماعخه وه.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "او په ګیبعون کې"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "اوسېدل(ه)"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ګیبعون"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "یعیل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "د مېرمنې (د ښځې)"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ماعخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:21.728387956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او يو عشر ⟨د⟩ هر يوه لمر ته، د څوارلسو لمرانو لپاره.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "او يو عشر"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "عشر"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "لمر ته"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "هر يوه"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "د څوارلسو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "لمرانو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:19:51.132702668Z",
+  "model": "glm-5.3"
+}

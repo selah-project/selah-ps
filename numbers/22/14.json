@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او د موآب امیرانو پاوه او بالق ته راغلل او ویې ویل: «بیلعام انکار وکړ چې له موږ سره راشي.»",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "پاوه"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "امیرانو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالق"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکار وکړ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "له موږ سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:17.854638674Z",
+  "model": "glm-5.3"
+}

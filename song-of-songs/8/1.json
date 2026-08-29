@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ای کاش ته زما د شیدو مور ⟨هغه⟩ رېودونکی ورور وې — بهر به درمومم، به به ښکلې کړم، او بیا به مې سپک نه ګڼي.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ای کاش چې څوک"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "دې راکوي چې ته"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "لکه ورور"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "رېودونکی"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شیدو"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "زما د مور"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "بهر به درمومم"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "به به ښکلې کړم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "او بیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "به سپک نه ګڼي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:22.791017184Z",
+  "model": "glm-5.3"
+}

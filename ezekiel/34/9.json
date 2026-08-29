@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "نو ځکه، ای هغه چې پالنه يې کوي، د یاهوه خبر واورئ",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو ځکه"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ای هغه چې پالنه يې کوي"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:02:58.739293969Z",
+  "model": "glm-5.3"
+}

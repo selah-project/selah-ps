@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او شَعلَبن، ایلون او یَتلَه.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "شَعلَبن"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ایلون"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "یَتلَه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:32.312884099Z",
+  "model": "glm-5.3"
+}

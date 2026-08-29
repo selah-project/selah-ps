@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ته صادق يې، ای یاهوه، او راستې دي ستا د پرېکړو وروڼه.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "او راستې"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ستا د پرېکړو وروڼه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:05.191114148Z",
+  "model": "glm-5.3"
+}

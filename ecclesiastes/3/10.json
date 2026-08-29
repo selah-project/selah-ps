@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ما ولید ⟨את⟩ هغه بوختيا چې الوهیم د ادم له زامنو ته ورکړې ده چې په کې بوخت شي.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ما ولید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه بوختيا"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "هغه بوختيا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړې ده"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "له زامنو ته"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "چې بوخت شي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:28.596606036Z",
+  "model": "glm-5.3"
+}

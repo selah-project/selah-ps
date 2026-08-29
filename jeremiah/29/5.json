@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "کورونه جوړ کړئ او پکې مېشت شئ، او باغونه کېنئ او ⟨את⟩ د هغو مېوه وخورئ.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "جوړ کړئ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "کورونه"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "او مېشت شئ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "او کېنئ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغونه"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "او وخورئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغو مېوه"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "مېوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:18.329170470Z",
+  "model": "glm-5.3"
+}

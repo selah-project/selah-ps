@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د ظلم خزانې ګټه نه کوي، خو عدالت له مړینې ژغوري.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ګټه کوي"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "خزانې"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "د ظلم"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "خو عدالت"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ژغوري"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "له مړینې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:10.839684444Z",
+  "model": "glm-5.3"
+}

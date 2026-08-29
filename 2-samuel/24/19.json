@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او داوېد پورته لاړ د ګاد د خبر مطابق، لکه څنګه چې یاهوه امر کړی و.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "او پورته لاړ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "د خبر مطابق"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "کאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "امر کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:50:18.106663994Z",
+  "model": "glm-5.3"
+}

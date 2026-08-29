@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "خپل ورور ته به سود نه ورکوې — د سرو زرو سود، د خوړو سود، د هر هغه شي سود چې په سود ورکول کېږي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "سود ورکوې"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "خپل ورور ته"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "د سرو زرو"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "د خوړو"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "په سود ورکول کېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:11.382004907Z",
+  "model": "glm-5.3"
+}

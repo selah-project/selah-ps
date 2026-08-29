@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "چې برېښوي ړنګوونه ⟨پر⟩ زورور، او ړنګوونه ⟨پر⟩ کلې کلا راځي.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "برېښوي"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ړنګوونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨پر⟩"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زورور"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "او ړنګوونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨پر⟩"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "کلې کلا"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راځي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:37:40.774678055Z",
+  "model": "glm-5.3"
+}

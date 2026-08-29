@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د یسراییل زامنو ⟨את⟩ مَن څلوېښت کالې وخوړ، تر هغه چې دوی مېشتې ځمکې ته ورسېدل؛ ⟨את⟩ مَن يې وخوړ تر هغه چې د کنعان د ځمکې په سرحد يې ورسېدل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "وخوړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَن"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "באם",
+      "gloss": "د رسېدو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "مېشته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَن"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "وخوړ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "באם",
+      "gloss": "د رسېدو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:41.366232107Z",
+  "model": "glm-5.3"
+}

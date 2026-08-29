@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "ماته مخ واړوئ او حېران شئ، او لاس پر خوله کېږدئ.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "مخ واړوئ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "او حېران شئ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "او کېږدئ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "په... خوله",
+      "gloss": "خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:21.182213227Z",
+  "model": "glm-5.3"
+}

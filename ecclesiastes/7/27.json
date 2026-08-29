@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "وګوره، دا مې وموندله، — د کوهالېټ وینا — یوه په بل کې د حساب د موندلو لپاره.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "مې وموندله"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وینا\/ویل يې"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کوهالېټ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "په بل کې"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "د موندلو لپاره"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حساب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:01.692899580Z",
+  "model": "glm-5.3"
+}

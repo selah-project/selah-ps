@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او اهرون د موشې خواته، د لیدنې خیمې د ورېوې ته راستون شو، او وبا بندې شوه.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "او راستون شو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خواته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "د ورېوې"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "د خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "لیدنې"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "او وبا"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "بندې شوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:34.460626863Z",
+  "model": "glm-5.3"
+}

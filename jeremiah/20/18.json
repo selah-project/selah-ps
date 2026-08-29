@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 20:18",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "ولې زه له رحمه ووتم، چې رنځ او غم وینم، او زما ورځې په شرم سره پای ته ورسېدې؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "له رحمه"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ووتم"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "چې وینم"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "رنځ"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "او غم"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "او ... پای ته ورسېدې"
+    },
+    {
+      "surface": "בבשת",
+      "gloss": "په شرم سره"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "زما ورځې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:19.761303042Z",
+  "model": "glm-5.3"
+}

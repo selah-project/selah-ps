@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "چې پر خپل زړه توکلی وي، هغه احمق دی؛ خو چې په حکمت ګرځي، هغه خلاصون مومي.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "چې توکلی وي"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "پر خپل زړه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "خو چې ګرځي"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "په حکمت"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "خلاصون مومي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:29.307122077Z",
+  "model": "glm-5.3"
+}

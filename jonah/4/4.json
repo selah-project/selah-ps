@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه وویل: ایا دا ډېره ښه ده چې ته غوسه شوی يې؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او-وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ایا-ښه-ده"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غوسه-شوی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته-يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:16:19.043939969Z",
+  "model": "glm-5.3"
+}

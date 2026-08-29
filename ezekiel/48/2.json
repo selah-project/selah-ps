@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او د دان په پوله، له ختیځې څنډې څخه تر لوېدیځې څنډې پورې — آشِر یوه برخه.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "דן",
+      "gloss": "د دان"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له څنډې"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ختیځې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "څنډې"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لوېدیځې (سمندر لور ته)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشِر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:31.060552799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او د الوهیم فرښتي په خوب کې راته وويل: یعقوبه! او مې ویل: ما هستم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرښتی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "په خوب کې"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوبه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "مې ویل"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ما هستم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:38.455921603Z",
+  "model": "glm-5.3"
+}

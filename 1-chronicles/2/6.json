@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د زَرَح زامن: زِمري او اَیتان او هَیمان او کَلکول او دَراع — ټول پنځه وو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زِمري"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "او اَیتان"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "او هَیمان"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "او کَلکول"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "او دَراع"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:15.620368545Z",
+  "model": "glm-5.3"
+}

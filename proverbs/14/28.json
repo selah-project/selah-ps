@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د خلکو په ډېروالي کې د پاچا ښکلا ده، خو د ملت په نشتوالي کې د مشر تباهي.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "په ډېروالي کې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "ښکلا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "خو په نشتوالي کې"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "تباهي"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "مشر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:26.593974656Z",
+  "model": "glm-5.3"
+}

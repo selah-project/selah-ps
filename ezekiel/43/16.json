@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او ارييل دولس امې اوږد دی، په دولس امو پلن، څلورګونه، په خپلو څلورو خواوو.",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "او ارييل"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دولس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اوږد"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "په دولس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پلن"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "څلورګونه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "خواوو يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:58.438306284Z",
+  "model": "glm-5.3"
+}

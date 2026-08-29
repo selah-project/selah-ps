@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د زَتّوع زامن، نهه سوه څلوېښت پنځه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زَتّوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:40.346519851Z",
+  "model": "glm-5.3"
+}

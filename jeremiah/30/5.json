@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ځکه چې داسې وايي یاهوه: د لړزېدنې غږ مو اوریدلی دی — وېره ده، او ارامي نشته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "لړزېدنې"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "مو اوریدلی دی"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ارامي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:16.048383267Z",
+  "model": "glm-5.3"
+}

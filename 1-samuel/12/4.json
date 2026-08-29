@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "ویې ویل: “ته مو نه دی ظلم کړی، نه مو ټيټ کړی، او د هیچا له لاسه دې هیڅ نه دي اخستي.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "مو ظلم کړی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "مو ټيټ کړی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "اخستي دي"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاسه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هیچا"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هیڅ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:34:24.427561657Z",
+  "model": "glm-5.3"
+}

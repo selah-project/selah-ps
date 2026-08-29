@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې ځمکه به د یاهوه د جلال په پېژندنې ډکه شي، لکه اوبو چې سمندر پوښي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ډکه شي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "په پېژندنې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه جلال"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "لکه اوبو"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "پوښي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:08.777596490Z",
+  "model": "glm-5.3"
+}

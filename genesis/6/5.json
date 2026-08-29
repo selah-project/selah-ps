@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او یاهوه ویني چې د انسان بدي په ځمکه کې ډېره شوه، او د زړه د فکرونو هر جوړښت هره ورځ یوازې بد ؤ.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ډېره شوه"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوړښت"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "د فکرونو"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "د زړه د"
+    },
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هره"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:25.329254650Z",
+  "model": "glm-5.3"
+}

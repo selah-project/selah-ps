@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ځکه چې پاچاهي د یاهوه ده، او هغه په ملتونو کې واکمن دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "پاچاهي"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "او واکمن دی"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "په ملتونو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:25.650767463Z",
+  "model": "glm-5.3"
+}

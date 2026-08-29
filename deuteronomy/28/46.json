@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او دوی به په تا کې د نښې او د معجزې په توګه وي، او په ستا په نسل کې تر ⟨د ⟩ابده پورې.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا کې"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "د نښې"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "او د معجزې"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "او په ستا په نسل کې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابده"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:23.929800249Z",
+  "model": "glm-5.3"
+}

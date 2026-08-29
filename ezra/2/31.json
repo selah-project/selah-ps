@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د بل عِیلام زامن، زر دوه سوه پنځوس او څلور.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زر"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:07.745618466Z",
+  "model": "glm-5.3"
+}

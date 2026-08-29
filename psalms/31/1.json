@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "د سرود مشر ته، يو مزمور، د داوېد له خوا.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د سرود مشر ته"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "لדוד",
+      "gloss": "د داوېد له خوا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:22.290863903Z",
+  "model": "glm-5.3"
+}

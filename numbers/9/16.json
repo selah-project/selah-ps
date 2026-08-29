@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "داسې به تل وي: ورېځ به هغه پوښي، او د اور ښکارنده به شپه وي.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ورېځ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "به هغه پوښي"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "او ښکارنده"
+    },
+    {
+      "surface": "אש",
+      "gloss": "د اور"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:42.663477715Z",
+  "model": "glm-5.3"
+}

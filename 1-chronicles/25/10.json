@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "درېیم زاکور، د هغه زامن او د هغه وروڼه دولس؛",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "درېیم"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زاکور"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس (دوه)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(لس)"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:15.847167962Z",
+  "model": "glm-5.3"
+}

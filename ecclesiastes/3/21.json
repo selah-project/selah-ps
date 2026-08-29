@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "څوک پوهېږي چې د انسان زامنو روح چې پورته خېژده، ایا هغه پورته ځي، او د څارویو روح چې ښکته خېژده، ایا هغه ښکته ځمکې ته ځي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "چې پورته خېژده"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "پورته"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او روح"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "د څارویو"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "چې ښکته خېژده"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ښکته"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ځمکې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:51.651655218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د بیت-ایل او هاعي خلک: سوه درويشت.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "او هاعي"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "درويشت"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:32.953899402Z",
+  "model": "glm-5.3"
+}

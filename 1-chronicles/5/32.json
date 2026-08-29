@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او عوزي ⟨את⟩ زرحیه وزیږه، او زرحیه ⟨את⟩ مرایوت وزیږه.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "او عوزي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرحیه"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زرحیه"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "او زرحیه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مرایوت"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مرایوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:17.442546151Z",
+  "model": "glm-5.3"
+}

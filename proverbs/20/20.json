@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "چې خپل پلار او مور لعنتوي، د هغه څراغ به په تور تورتم کې مړاوی شي.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "لعنتوي"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "او مور"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "مړاوی شي"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "د هغه څراغ"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "په تور"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تورتم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:31.472126542Z",
+  "model": "glm-5.3"
+}

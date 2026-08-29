@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د ګیبعون زامنو نولس او پنځه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ګیبعون"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نولس"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "او پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:26.058949942Z",
+  "model": "glm-5.3"
+}

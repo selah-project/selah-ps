@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ټول په لیکنه کې د یاهوه له لاسه زما پر سر رالوسته — د بڼې ټول کارونه.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "په لیکنه کې"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاسه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما پر سر"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "رالوسته\/پوه يې کړم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "کارونه"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "د بڼې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:34.063239171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 31:28",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "دا هم د محکمې وړ ګناه وه، ځکه زه به له پورته ایل سره انکار کړی وای.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "פלילי",
+      "gloss": "د محکمې وړ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כחשתי",
+      "gloss": "انکار کړی وای"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "له ایل سره"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "له پورته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:25.816769616Z",
+  "model": "glm-5.3"
+}

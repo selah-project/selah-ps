@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د رِتمه څخه وکوچېدل، او په رِمون پِرِص کې په ډېره کې شول.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وکوچېدل"
+    },
+    {
+      "surface": "مרתמה",
+      "gloss": "د رِتمه څخه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "په ډېره کې شول"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "په رِمون"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پِرِص کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:02.396013999Z",
+  "model": "glm-5.3"
+}

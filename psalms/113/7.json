@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 113,
+  "translation": "هغه چې له خاورې دال دې په پښو دروي، له خاوردانو ⟨نه⟩ اویون لوړوي.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "په پښو دروي"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "له خاورې"
+    },
+    {
+      "surface": "דל",
+      "gloss": "دال"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "له خاوردانو"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "لوړوي"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "اویون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:23.013804096Z",
+  "model": "glm-5.3"
+}

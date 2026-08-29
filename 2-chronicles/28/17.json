@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او بیا ادومیان راغلل او په یهوداه يې وواهلل او ⟨اسيران⟩ يې بوتلل.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "او بیا"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ادومیان"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "وواهلل"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "په یهوداه"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "اسيران يې بوتلل"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "اسيران"
+    }
+  ],
+  "timestamp": "2026-08-29T02:07:39.340733053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 33:13",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ولې ورسره debat کوې، ځکه چې هغه ⟨לא⟩ پر ټولو خپلو خبرو ځواب نه وايي؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "ריבות",
+      "gloss": "debat کوې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "خپلو خبرو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ځواب وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:04.567781859Z",
+  "model": "glm-5.3"
+}

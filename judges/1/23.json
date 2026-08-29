@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د یوسف کور په بیت-ایل کې جاسوسان وليږل؛ او د ښار نوم پخوا لوز ؤ.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "جاسوسان وليږل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پخوا"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:05.825648596Z",
+  "model": "glm-5.3"
+}

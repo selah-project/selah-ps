@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د رامه او ګبعه خلک: شپږ سوه شل او یو.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رامه"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "او ګبعه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:32.953634114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "نو هغه یوحنان زوی قورح او د ټولو سرتېرو مشران چې ⟨את⟩ له هغه سره وو، او ټول قوم — له کوچني تر لویه — وبلل.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "نو وبلل"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "د سرتېرو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ له هغه سره"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "له کوچني"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لویه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:04.655676813Z",
+  "model": "glm-5.3"
+}

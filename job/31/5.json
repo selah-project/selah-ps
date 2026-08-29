@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "که ما له درواغجن سره تلل کړي وي، او زما پښه د فریب پر لور چټکه وي؛",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "تلل کړي وي مې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "درواغجن"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "چټکه وي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر لور"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "د فریب"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "زما پښه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:48.965173021Z",
+  "model": "glm-5.3"
+}

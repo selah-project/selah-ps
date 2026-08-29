@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یو ځل بهر، یو ځل په کوڅو کې، او تر هرې ګوټې لاندې چاتې (کمین کوي).",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "یو ځل"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "یو ځل"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "په کوڅو کې"
+    },
+    {
+      "surface": "وאצל",
+      "gloss": "او تر ... لاندې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هرې"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ګوټې"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "چاتې (کمین کوي)"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:37.154424339Z",
+  "model": "glm-5.3"
+}

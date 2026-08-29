@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 6:27",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ته يې ازموينګر ومېرې په زما قوم کې، کلا؛ او پوهېږې او ازمويلې د ⟨את⟩ دوی لار.",
+  "tokens": [
+    {
+      "surface": "בחון",
+      "gloss": "ازموينګر"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ومېرې"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "په زما قوم کې"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "کلا"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "او پوهېږې"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "او ازمويلې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دوی لار"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "د دوی لار"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:27.298446610Z",
+  "model": "glm-5.3"
+}

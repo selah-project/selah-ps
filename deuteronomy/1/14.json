@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ⟨את⟩ ما ته ځواب مو راوکړ او ویستل مو: هغه خبره چې تا ویلې ده ښه ده چې وشي.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "ځواب مو راوکړ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ما ته"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ویستل مو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تا ویلې ده"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې وشي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:40.291102265Z",
+  "model": "glm-5.3"
+}

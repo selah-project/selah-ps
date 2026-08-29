@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 1:8",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "که نه پېژنې، ای د ښځو ترمنځ ښکلې، نو د پسونو د ګامونو په след ووځه او خپلې کوچنۍ وزې ⟨את⟩ د شبانانو د خیمو خوا ته وڅره.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "ښکلې"
+    },
+    {
+      "surface": "بנשים",
+      "gloss": "د ښځو ترمنځ"
+    },
+    {
+      "surface": "صאי",
+      "gloss": "ووځه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בעקبי",
+      "gloss": "د ګامونو په след"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "پسونو"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "او وڅره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپلې کوچنۍ وزې"
+    },
+    {
+      "surface": "גדיתיך",
+      "gloss": "خپلې کوچنۍ وزې"
+    },
+    {
+      "surface": "על",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "خیمو"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "شبانانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:24.277408904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او په یروشلایم کې د یهودا له زامنو، د بنیامین له زامنو، د افرایم له زامنو او له مناشه اوسېدل.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "او په یروشلایم کې"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "اوسېدل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "او له مناشه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:48.030571271Z",
+  "model": "glm-5.3"
+}

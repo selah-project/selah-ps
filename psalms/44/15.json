@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ته مو په ملتونو کې متل ګرځوې، د قومونو په منځ کې د سر خوځېدنه.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ته مو ګرځوې"
+    },
+    {
+      "surface": "משל",
+      "gloss": "متل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "په ملتونو کې"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "خوځېدنه"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "د سر"
+    },
+    {
+      "surface": "בל",
+      "gloss": "په"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "قومونو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:49.946331260Z",
+  "model": "glm-5.3"
+}

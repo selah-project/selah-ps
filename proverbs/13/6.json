@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "نیکي د بېګناه لار ساتي، خو بدي د ګناهګار لار کږوي.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "نیکي"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بېګناه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "خو بدي"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "کږوي"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ګناهګار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:40.724412358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 65,
+  "translation": "د سمندرونو غوغا، د دوی د څپو غوغا او د قومونو هڅېدنه چوپوي.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "چوپوي"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "غوغا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندرونو"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "غوغا"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "د دوی د څپو"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "او هڅېدنه"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:22.915869468Z",
+  "model": "glm-5.3"
+}

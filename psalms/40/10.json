@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "ما په لویه ټولنه کې ⟨the⟩ عدالت زوکړی دی؛ ا زما شونډې به مه بندوم — یاهوه، ته پوهېږې.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ما زوکړی دی"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په ټولنه کې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "لویه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ا"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما شونډې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "به مه بندوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پوهېږې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:28.563742798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "به د پلرونو نسله ورسره يوځای شي، تر نښتې پورې به رڼا ونه ويني.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "به يوځای شي (وررسي)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "د پلرونو يې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "نښتې (ابد) پورې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "وويني"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:34.636959147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 14:29",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او پاتې شمېر ⟨د⟩ هغه غوړې چې د کاهن په popه کې دي، به یې د پاکېدونکي پر سر کېږي، ترڅو د یاهوه په وړاندې د هغه لپاره کفاره وشي.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "او پاتې شمېر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "د"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "غوړې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "popه"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "د کاهن"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "به یې کېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "د پاکېدونکي"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ترڅو کفاره وشي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "د هغه لپاره"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:44:34.027356167Z",
+  "model": "glm-5.3"
+}

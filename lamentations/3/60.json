@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د دوی ټوله انتقام دې ليدلی، ټول هغه نقشې چې د زخما په Against جوړوي.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "دي ليدلی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "د دوی انتقام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "هغه نقشې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:32.728777404Z",
+  "model": "glm-5.3"
+}

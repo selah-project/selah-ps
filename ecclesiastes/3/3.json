@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وخت د وژلو، او وخت د روغولو؛ وخت د ړنګولو، او وخت جوړولو.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "لהרוג",
+      "gloss": "د وژلو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "د روغولو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "د ړنګولو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "جوړولو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:11.076601069Z",
+  "model": "glm-5.3"
+}

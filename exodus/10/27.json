@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او یاهوه د فرعون زړه ⟨את⟩ کلې کړ، او هغه نه غوښتل چې هغوی ولېږي.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "کلې یې کړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د فرعون زړه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "غوښتل"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "چې هغوی ولېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:46.991674035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 129,
+  "translation": "یاهوه صالح دی، د شریرانو رسۍ يې پرې کړې.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "پرې يې کړې"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "رسۍ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شریرانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:17.113517493Z",
+  "model": "glm-5.3"
+}

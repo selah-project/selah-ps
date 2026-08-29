@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او اوس مهرباني وکړه ځان وساته: شراب او نشه کوونکي څښاک مه څښه، او هيڅ ناپاک شی مه خوره.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "ځان وساته"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مهرباني وکړه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "څښه"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "نشه کوونکي څښاک"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "خوره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هيڅ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک شی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:30.907291736Z",
+  "model": "glm-5.3"
+}

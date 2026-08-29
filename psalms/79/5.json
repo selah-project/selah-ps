@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 79,
+  "translation": "تر کله، ای یاهوه؟ ایا ته به تر ټولې تل لپازه قهرجن وې؟ ایا ستا زغم به لکه اور بلېږي؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "قهرجن وې"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تر ټولې تل لپازه"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "بلېږي"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "لکه"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ستا زغم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:07.908388554Z",
+  "model": "glm-5.3"
+}

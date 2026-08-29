@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او چې زما لپاره لرګي په ډېره اندازه چمتو کړي، ځکه هغه کور چې زه يې جوړوونکی يم لوی او حیرانوونکی دی.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "او چې چمتو کړي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لرګي"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "په ډېره اندازه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "جوړوونکی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "او حیرانوونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:21.295098429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د فرعون زړه کلک شو او هغه يې پرې وانه ورېدل، لکه څنګه چې ياهوه ويلي وو.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "کلک شو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واورېدل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "پرې (د هغوی)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ويلي وو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:16:27.351849511Z",
+  "model": "glm-5.3"
+}

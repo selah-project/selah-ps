@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ويې ویل: برکت وایې یاهوه، د شېم الوهیم؛ او کنعان د هغوی غلام وي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ویل"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکت وایې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "د شېم الوهیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "למו",
+      "gloss": "د هغوی"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:50.733680335Z",
+  "model": "glm-5.3"
+}

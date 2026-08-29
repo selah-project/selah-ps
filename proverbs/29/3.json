@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "سړی چې حکمت خوښوي، خپل پلار خوشحاله کوي؛ خو چې فاحشې پاللي، مال له منځه وړي.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خوښوي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحاله کوي"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "خو چې پاللي"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "فاحشې"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "له منځه وړي"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:20.514995707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 96,
+  "translation": "هيبت او ښکلا د هغه پر مخامخ دي، زور او تللousy په هغه د مقدس ځای ⟨کې⟩ دي.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "هيبت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "او ښکلا"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "د هغه پر مخامخ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "او فخر"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "په هغه په مقدس ځای کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:53.216195647Z",
+  "model": "glm-5.3"
+}

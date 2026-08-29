@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 72,
+  "translation": "دې له تا وېرېږي له لمر سره، او د سپوږمۍ له مخې — نسل پر نسلونو.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "دې له تا وېرېږي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له... سره"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "او د... له مخې"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "سپوږمۍ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "پر نسلونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:50.521933480Z",
+  "model": "glm-5.3"
+}

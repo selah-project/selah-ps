@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "شهادت وتړه، شریعت مهر کړه زما زده کوونکو ته.",
+  "tokens": [
+    {
+      "surface": "صور",
+      "gloss": "وتړه"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "شهادت"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مهر کړه"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "زما زده کوونکو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:12:51.345826873Z",
+  "model": "glm-5.3"
+}

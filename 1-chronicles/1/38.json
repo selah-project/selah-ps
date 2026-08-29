@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د سعیر زامن: لوطان، او شوُبال، او صبعون، او عنه، او دیشون، او عیصر، او دیشان.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطان"
+    },
+    {
+      "surface": "وשובל",
+      "gloss": "او شوُبال"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "او صبعون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "او عنه"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "او دیشون"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "او عیصر"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "او دیشان"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:39.822940619Z",
+  "model": "glm-5.3"
+}

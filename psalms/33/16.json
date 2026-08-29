@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "پاچا د لښکر د لویوالي په واسطه خوندي نه شي،进场 نه خلاصېږي په ډېر ځواک سره.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "خوندي نه شي"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "د لویوالي په واسطه"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زورور سړی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "خلاصېږي"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "په ډېر"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ځواک"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:48.539139019Z",
+  "model": "glm-5.3"
+}

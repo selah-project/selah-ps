@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او شراب به هېڅ کاهن نه څښي کله چې هغوی داخلي انګړ ته راشي.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "او شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "به څښي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "کله چې هغوی راشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "انګړ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "داخلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:07:15.894819138Z",
+  "model": "glm-5.3"
+}

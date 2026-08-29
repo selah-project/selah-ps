@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "څوک چې د شر کولو فکر کوي، هغه به د بدو مکرونو څښتن وبلل شي.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "څوک چې فکر کوي"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "د شر کولو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "څښتن"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "د بدو مکرونو"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "به وبلل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:17.903802714Z",
+  "model": "glm-5.3"
+}

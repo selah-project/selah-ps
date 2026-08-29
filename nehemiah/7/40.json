@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د عِمِر زامن — یو زره پنځوس او دوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "عِمِر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "یو زره"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:31.352870318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 36:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او الیاقیم د حلقیاه زوی چې پر کور ⟨و⟩، او شبنا کاتب، او یوآح د آساف زوی یادوونکی، ده ته ووتل.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "او ووتل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ده ته"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "الیاقیم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "حلقیاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "او شبنا"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "کاتب"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "او یوآح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "یادوونکی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:19:54.240541192Z",
+  "model": "glm-5.3"
+}

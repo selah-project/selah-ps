@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "که چېرې ستا په منځ کې یو سړی وي چې د شپې له یوې پېښې نه پاک وي، نو دې لښکرګاه ته بهر ووځي؛ لښکرګاه ته په منځ کې به نه ننوځي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که چېرې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "له یوې پېښې"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "د شپې"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ووځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "لښکرګاه ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "منځ کې"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "لښکرګاه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:07.206230907Z",
+  "model": "glm-5.3"
+}

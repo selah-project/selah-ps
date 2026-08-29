@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "تر کله، ای یاهوه، بدکاران؟ تر کله بدکاران به وندري؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "رשעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "وندري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:31.243503892Z",
+  "model": "glm-5.3"
+}

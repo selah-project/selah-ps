@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "يو د وزو بوک (شعير عيزيم)، د ګناه قربانۍ (حتات) لپاره.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بوک"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "د وزو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "د حتات لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:08.390964370Z",
+  "model": "glm-5.3"
+}

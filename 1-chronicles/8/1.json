@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او بینامین ⟨את⟩ بلا يې زوې پیدا کړ، ⟨ה⟩ لومړی؛ اشبال ⟨ه⟩ دويم او اخرح ⟨ه⟩ درېيم.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "او بینامین"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بلا"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بلا"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "يې زوې (لومړی)"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "اشبال"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨ه⟩ دويم"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "او اخرح"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨ه⟩ درېيم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:34.748892292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "که زوی ووهي او که لور ووهي، د همدې پرېکړې له مخې به ورسره وکړل شي.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "که"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ووهي"
+    },
+    {
+      "surface": "או",
+      "gloss": "او که"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "ووهي"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "د همدې پرېکړې له مخې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "به وکړل شي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:42.992427114Z",
+  "model": "glm-5.3"
+}

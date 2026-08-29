@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او تامار، هغه لنډیا (کړوسی)، هغه ته ⟨את⟩ پېرېټس او ⟨את⟩ زارح وزېږوله. ټول د یِهودا زامن پنځه وو.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "او تامار"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "هغه لنډیا (کړوسی)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وزېږوله"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پېرېټس"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پېرېټس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زارح"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زارح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِهودا"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:46.080754765Z",
+  "model": "glm-5.3"
+}

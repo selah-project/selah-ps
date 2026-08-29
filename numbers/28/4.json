@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "⟨את⟩ يوه لږه سهار جوړه کړه، او ⟨את⟩ دویمه لږه د ماښام پرمهال جوړه کړه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لږه"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "لږه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوړه کړه"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دویمه لږه"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "لږه"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوړه کړه"
+    },
+    {
+      "surface": "בין",
+      "gloss": "پرمهال د"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ماښامونو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:29.053151135Z",
+  "model": "glm-5.3"
+}

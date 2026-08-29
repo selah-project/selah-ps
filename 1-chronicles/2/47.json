@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د یَهدای زامن: رِګم، او یوتام، او ګیشان، او پِلِت، او عیفه، او شَعف.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "یَهدای"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "رِګم"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "او یوتام"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "او ګیشان"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "او پِلِت"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "او عیفه"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "او شَعف"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:32.250473867Z",
+  "model": "glm-5.3"
+}

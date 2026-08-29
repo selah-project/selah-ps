@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او په کروبو کې د انسان د لاس بڼه ښکاره شوه — د دوی د کوړیو لاندې.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ښکاره شوه"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "په کروبو کې"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "بڼه"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "د دوی کوړۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:56.388658395Z",
+  "model": "glm-5.3"
+}

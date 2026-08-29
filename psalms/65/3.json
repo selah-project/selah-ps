@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 65,
+  "translation": "دوعا اورېدونکی، تر ستا پورې ټول غوښه راځي.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "اورېدونکی"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دوعا"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "تر ستا پورې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "راځي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:56.162398776Z",
+  "model": "glm-5.3"
+}

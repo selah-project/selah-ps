@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 1:6",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د یهودا له زامنو هغوی کې څوک وو: دانیېل، حننیاه، میشایل او عزریاه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "هغوی کې"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "له زامنو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیېل"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حننیاه"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "میشایل"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "او عزریاه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:29:12.934029012Z",
+  "model": "glm-5.3"
+}

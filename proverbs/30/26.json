@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "شفقان یو قوم دی چې ځواک نه لري، خو په غره کې خپل کور جوړوي.",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "شفقان (د غره خرگوش)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "په غره کې"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "خپل کور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:05.135687375Z",
+  "model": "glm-5.3"
+}

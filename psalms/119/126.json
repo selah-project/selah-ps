@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د یاهوه لپاره د عمل وخت دی؛ ځکه ستا شریعت يې بېاثله کړی دی.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "د عمل لپاره"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "بېاثله يې کړی"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ستا شریعت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:09.279947688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 23:19",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او دروازه ساتونکي يې د یاهوه د کور پر دروازو ودرول، چې هر ډول ناپاک شي نه پاتې کېدل چې دننه شي.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ودرول يې"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "دروازه ساتونکي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "د دروازو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "دننه شي"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "هر ډول"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:06:00.115336876Z",
+  "model": "glm-5.3"
+}

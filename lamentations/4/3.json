@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "حتی شغالې ماغزې راوباسي خپلو بچو ته شیدې ورکوي؛ زما د خلکو لور بېرحمه شوې ده، لکه دښتې کې شترمرغ ⟨⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "شغالې"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "راوباسي"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ماغزه"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "شیدې ورکوي"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "خپلو بچو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما د خلکو"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "بېرحمه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "لکه"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "شترمرغ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "دښتې کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:23.450081286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او په لومړي میاشت کې، د میاشتې په څوارلسمه ورځ، پسح د یاهوه لپاره ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "او په میاشت کې"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړي"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "په څوار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسمه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د میاشتې"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:13.434042332Z",
+  "model": "glm-5.3"
+}

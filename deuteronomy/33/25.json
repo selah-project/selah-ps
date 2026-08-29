@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "اوسپنه او مس دې د مڼو ځای وي؛ او لکه ستا ورځې، داسې به ستا ځواک وي.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "او مس"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "ستا مڼې"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "او لکه ستا ورځې"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "ستا ځواک"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:46.736349149Z",
+  "model": "glm-5.3"
+}

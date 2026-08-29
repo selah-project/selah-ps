@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "ستا تخت، ای الوهیم، ⟨د⟩ دور او تل لپاره دی؛ د سموالی عصا د ستا د پاچاهۍ عصا ده.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "ستا تخت"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ای الوهیم"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "دور"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تل"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "د سموالي"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "د ستا د پاچاهۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:37.642096775Z",
+  "model": "glm-5.3"
+}

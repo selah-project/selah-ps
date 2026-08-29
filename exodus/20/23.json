@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "له ما سره ⟨את⟩ د سیم الوهیان مه جوړوئ؛ د زرو الوهیان هم د ځان لپاره مه جوړوئ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "جوړوئ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "له ما سره"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیان"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "د سیم"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "او د… الوهیان"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "جوړوئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "د ځان لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:58.981118726Z",
+  "model": "glm-5.3"
+}

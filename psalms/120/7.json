@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 120,
+  "translation": "زه سوله یم؛ خو کله چې خبرې کوم، هغوی ⟨د⟩ جګړې ته چمتو دي.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سوله یم"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "خو کله چې"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "خبرې کوم"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "د جګړې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:54.497848687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "د نابالانو زامن، بلکې د بې-نومه کسانو زامن، له ځمکې وشړل شول.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "د ... زامن"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلکې\/هم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د ... زامن"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "נכאو",
+      "gloss": "وشړل\/وټکول شول"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:06.548174097Z",
+  "model": "glm-5.3"
+}

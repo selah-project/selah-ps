@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "مړ مچان د عطروالي غوړ پمخې بدبویي کوي؛ د حکمت له مخې ګرانه او د ویاړ له مخې، لږ ناپوهي هم.",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "مړ مچان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړ"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "بدبویي کوي"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "پمخې کوي"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "عطروالي"
+    },
+    {
+      "surface": "یקר",
+      "gloss": "ګران"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "له حکمت"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "له ویاړ"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "ناپوهي"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:43.990473061Z",
+  "model": "glm-5.3"
+}

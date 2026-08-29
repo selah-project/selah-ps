@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "تر هغه چې د الوهیم په خېپګانو کې راغلم، نو زما د دوی په پای کې پوه شوم.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر هغه چې"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "راغلم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "خېپګانو کې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "پوه شوم"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "د دوی په پای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:01.590173377Z",
+  "model": "glm-5.3"
+}

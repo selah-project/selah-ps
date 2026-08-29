@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "شعر، مزمر، د قورح د زامنو لپاره.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "شعر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو لپاره"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:25.604463374Z",
+  "model": "glm-5.3"
+}

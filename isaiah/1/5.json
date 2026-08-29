@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "اُوس په څه له تاسې نور ووهل شې؟ تاسې سرکشي لا زیاتوئ؛ ټول سر ناروغ دی، او ټول زړه وژلی دی.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "ووهل شې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اُوس…نور"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "زیاتوئ"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "سرکشي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "ناروغ دی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "وژلی دی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:07.012973031Z",
+  "model": "glm-5.3"
+}

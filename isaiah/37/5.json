@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "نو د پاچا حزقیاه خدمتګاران یشعیاه ته راغلل.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "نو راغلل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "خدمتګاران"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:08.303956259Z",
+  "model": "glm-5.3"
+}

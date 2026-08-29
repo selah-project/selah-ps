@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "سره زر وي، او د لعلونو ډېرښت، خو د پوهې شونډې ارزښتناک لوښی دی.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "وي"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سره زر"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "او ډېرښت"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "لعلونو"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "خو لوښی"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ارزښتناک"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "د پوهې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:38.794607422Z",
+  "model": "glm-5.3"
+}

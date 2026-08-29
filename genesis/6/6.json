@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او یاهوه حسرت وکړ چې ⟨את⟩ انسان یې په ځمکه کې جوړ کړی ؤ، او د ⟨...⟩ خپل زړه کې يې درد واحس شو.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "حسرت وکړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړی ؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "درد واحس شو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د ... پر"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:25.329603120Z",
+  "model": "glm-5.3"
+}

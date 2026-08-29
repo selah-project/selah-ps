@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "یوازې خپل سپېڅلي شیان چې دې وي او خپل نذرونه به اخلې او به ⟨את⟩ هغه ځای ته راشې چې یاهوه به ټاکي.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "ستا سپېڅلي شیان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "دې وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "او ستا نذرونه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "به اخلې"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "او به راشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "هغه ځای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "به ټاکي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:18.325577670Z",
+  "model": "glm-5.3"
+}

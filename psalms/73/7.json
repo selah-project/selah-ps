@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "له چربۍ د دوی سترګې ووتلې؛ د زړه له تصورونو واوښتل.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ووتلې"
+    },
+    {
+      "surface": "מחלب",
+      "gloss": "له چربۍ"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "د دوی سترګې"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "واوښتل"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "له تصورونو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "د زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:06.085386286Z",
+  "model": "glm-5.3"
+}

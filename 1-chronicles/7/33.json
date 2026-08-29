@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د یَفلَت زامن: پَسَخ، او بِمهال، او عَشوَت — دا د یَفلَت زامن وو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یَفلَت"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "پَسَخ"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "او بِمهال"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "او عَشوَت"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یَفلَت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:02.170788034Z",
+  "model": "glm-5.3"
+}

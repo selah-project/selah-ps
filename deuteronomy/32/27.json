@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 32:27",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "که نه د دښمن د قهر وېره لرم، چې د دوی دښمنان دي ونه وایي، چې زموږ لاس لوړ شو، او یاهوه ټول دا نه دي کړي.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "که نه"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "وېره لرم"
+    },
+    {
+      "surface": "פן",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ינכרו",
+      "gloss": "ونه وایي"
+    },
+    {
+      "surface": "צרימו",
+      "gloss": "د دوی دښمنان"
+    },
+    {
+      "surface": "פן",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ووایي"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "زموږ لاس"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "لوړ شو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کړي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:48.080391764Z",
+  "model": "glm-5.3"
+}

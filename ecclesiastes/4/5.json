@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "احمق خپلې لاسې ⟨את⟩ په غېږه کې نيسي او خپله ⟨את⟩ غوښه خوري.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "په غېږه کې نيسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاسې"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "خپلې لاسې"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "او خوري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غوښه"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "خپله غوښه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:51.089039748Z",
+  "model": "glm-5.3"
+}

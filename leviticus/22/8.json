@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "مړه (په خپله مړې شوې) او درندل به نه خوري، چې په هغې ناپاک شي — زه یاهوه یم.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "مړه"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "او درندل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "د ناپاکېدو لپاره"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په هغې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:31.920138710Z",
+  "model": "glm-5.3"
+}

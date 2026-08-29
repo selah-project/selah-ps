@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د قورح زامن: اسير، او ایلکانه، او ابي اسف؛ دا د قورحي کورنۍ دي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "اسير"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "او ایلکانه"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "او ابي اسف"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "د قورحي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:41.906042194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 76,
+  "translation": "د رهبر لپاره، پر تارو — د آساف مزمور، یو سندره.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "پر تارو"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "د آساف"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "یو سندره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:24.659047225Z",
+  "model": "glm-5.3"
+}

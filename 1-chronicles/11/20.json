@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 11:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او اבشاي، د يواب ورور، هغه د هغو درېو مشر و؛ او هغه خپله نېزه درې سوه ټپیوانو ته وګرځوله، او په درېو کې يې نوم درلود.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "او ابشاي"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "د … ورور"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يواب"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "د هغو درېو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "עורר",
+      "gloss": "وګرځوله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله نېزه"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "نېزه"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ټپیوان"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "په درېو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:09.330081844Z",
+  "model": "glm-5.3"
+}

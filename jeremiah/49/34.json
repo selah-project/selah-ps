@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 49:34",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "دا هغه خبره وه چې د ياهوه له خوا يرميه نبي ته د عيلام په اړه، د يهودا د پاچا صدقيا د پاچاهۍ په پيل کې راغلې، چې وايي:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د ياهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "يرميه"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په اړه"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "בראשית",
+      "gloss": "په پيل"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "د پاچاهۍ"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "صدقيا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:19.611972898Z",
+  "model": "glm-5.3"
+}

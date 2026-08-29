@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "خو شاول په هغه ورځ هېڅ palabra ونه ویل، ځکه يې وويل: «يوه پېښه ده، هغه ⟨is⟩ پاک نه دی — چې هغه پاک نه دی.»",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "يې وويل"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "پېښه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-08-28T22:37:49.339887764Z",
+  "model": "glm-5.3"
+}

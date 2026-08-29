@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او حِزقیاهو یاهوه ته لمن وغوښته، ويې ویل:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "لمن وغوښته"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:23.143081975Z",
+  "model": "glm-5.3"
+}

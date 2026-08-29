@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "په ډاډمن ډول به ⟨את⟩ د خپلې دانې ټول حاصل لسموې — هغه چې د کرهزې راوځي، په کال په کال.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "لسمه"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "به لسموې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د خپلې دانې ټول حاصل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "حاصل"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "د خپلې دانې"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "هغه چې راوځي"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د کرهزې"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "په کال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "په کال"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:59.740042012Z",
+  "model": "glm-5.3"
+}

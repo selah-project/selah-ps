@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او یوآب د تصروییه زوی ⟨هغه و⟩ د پوځ مشر، او یهوشافات د اخیلود زوی ⟨هغه و⟩ یادوونکی.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "او یوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تصروییه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر \/ د … مشر"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "او یهوشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "اخیلود"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "یادوونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:39.871536999Z",
+  "model": "glm-5.3"
+}

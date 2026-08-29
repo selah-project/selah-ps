@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 130,
+  "translation": "ځکه چې ستا سره بښنه ده، ⟨تر څو⟩ چې دې ودرېږي\/ووېرېږو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "بښنه"
+    },
+    {
+      "surface": "למען",
+      "gloss": "⟨تر څو⟩ چې"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "ودرېږي\/ووېرېږو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:28.548112342Z",
+  "model": "glm-5.3"
+}

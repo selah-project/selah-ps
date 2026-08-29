@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "ستايل شوی مې غږوم، یاهوه، او له خپلو دښمنانو نه ژغورل کېږي.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "ستايل شوی"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "مې غږوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له ... نه"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "خپلو دښمنانو"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ژغورل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:08.997388394Z",
+  "model": "glm-5.3"
+}

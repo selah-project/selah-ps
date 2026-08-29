@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 141,
+  "translation": "ځکه زما سترګې تا ته دي، ای یاهوه، ادونای؛ ما تا ته پناه وېوسته — زما نفس مه تويېوه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګې"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناه وېوستم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תער",
+      "gloss": "تويېوه"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:16.256254280Z",
+  "model": "glm-5.3"
+}

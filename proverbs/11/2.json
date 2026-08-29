@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "چې زړورتیا راشي، نو سپکاوی هم راځي؛ خو له ⟨את⟩ زغمنو سره حکمت ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "زړورتیا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "نو راځي"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "سپکاوی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "زغمنو"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "زغمنو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:03.749765010Z",
+  "model": "glm-5.3"
+}

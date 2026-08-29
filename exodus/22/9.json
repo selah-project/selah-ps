@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 22:9",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "که یو سړی خپل ملګري ته خر، یا غوا، یا سه، یا هر څاروی د ساتنې لپاره ورکړي، او ⟨هغه⟩ مړ شي، یا ټپي شي، یا ونیول شي — پرته له کوم لیدونکي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکړي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "خپل ملګري"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שור",
+      "gloss": "غوا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "سه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "یا هر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "څاروی"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "د ساتنې لپاره"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "او مړ شي"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ټپي شي"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ونېول شي"
+    },
+    {
+      "surface": "אין",
+      "gloss": "پرته له"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "لیدونکي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:07.942376559Z",
+  "model": "glm-5.3"
+}

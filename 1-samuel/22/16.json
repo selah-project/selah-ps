@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او پاچا وويل: ته به په مرگ مری، آخیملک، ته او ستا د پلار ټول کور.",
+  "tokens": [
+    {
+      "surface": "ויאمר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "مות",
+      "gloss": "په مرگ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مری"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "آخیملک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ستا د پلار"
+    }
+  ],
+  "timestamp": "2026-08-28T22:38:21.453317128Z",
+  "model": "glm-5.3"
+}

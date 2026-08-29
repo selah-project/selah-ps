@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ځکه چې هغه یې وویل، او ⟨دا⟩ وشول؛ هغه یې حکم وکړ، او ⟨دا⟩ ودرېد.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم وکړ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ودرېد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:59.847528413Z",
+  "model": "glm-5.3"
+}

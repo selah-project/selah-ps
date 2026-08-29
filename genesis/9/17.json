@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او الوهیم وویل نوح ته: دا د تړون نښه ده چې زما او د ټول غوښ ترمنځ يې ولاړه کړې، هغه چې پر ځمکه ده.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نښه"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "د تړون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ولاړه کړې مې ده"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "زما ترمنځ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او… ترمنځ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:59.766323673Z",
+  "model": "glm-5.3"
+}

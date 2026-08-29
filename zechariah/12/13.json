@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 12:13",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د لېوي کور کورنۍ به جلا، او د دوی ښځې به جلا؛ د شِمْعِي کورنۍ به جلا، او د دوی ښځې به جلا.",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېوي"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جلا"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "او د دوی ښځې"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جلا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "د شِمْعِي"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جلا"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "او د دوی ښځې"
+    },
+    {
+      "surface": "لבد",
+      "gloss": "جلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:40.736405194Z",
+  "model": "glm-5.3"
+}

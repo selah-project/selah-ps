@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "زما ژوند مړېدنه غوره کړې، مرګ له زما هډوکو.",
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "غوره کړې"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "مړېدنه (خنډ)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما ژوند"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرګ"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "له زما هډوکو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:42.106489467Z",
+  "model": "glm-5.3"
+}

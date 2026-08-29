@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د یاهوه کرغېړن د زړه دروغجن خلک دي، خو د هغه خوښي د لارې سمسور خلک دي.",
+  "tokens": [],
+  "timestamp": "2026-08-29T00:55:40.104886579Z",
+  "model": "glm-5.3"
+}

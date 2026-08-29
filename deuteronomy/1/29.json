@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او مې تاسو ته وویل: مه وارخطایې کېږئ او له دوی مه وېرېږئ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او مې وویل"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "وارخطایې کېږئ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "وېرېږئ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "له دوی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:49.035121044Z",
+  "model": "glm-5.3"
+}

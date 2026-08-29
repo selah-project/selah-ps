@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "خولې يې پرانېستې زموږ پر ضد زموږ ټولو دښمنانو.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "پرانېستې"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "زموږ پر ضد"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "خولې يې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "دښمنانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:19:43.049912931Z",
+  "model": "glm-5.3"
+}

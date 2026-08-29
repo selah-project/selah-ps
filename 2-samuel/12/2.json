@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "شتمن ډېرې ډېرې مېږې او غواوانې درلودلې.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "شتمن"
+    },
+    {
+      "surface": "היה",
+      "gloss": "درودلې"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مېږې"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "او غواوانې"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:59.909893723Z",
+  "model": "glm-5.3"
+}

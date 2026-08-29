@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د شمّای زوی ماعون و، او ماعون د بیت-صُور پلار و.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "د … زوی"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شمّای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ماعون"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "او ماعون"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:32.250060769Z",
+  "model": "glm-5.3"
+}

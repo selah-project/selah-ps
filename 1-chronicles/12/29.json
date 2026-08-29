@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 12:29",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او صادوق ⟨⟨هغه⟩⟩ ځوان، د زور او زړورتيا سړی؛ او د هغه د پلار کور ⟨له⟩ شلو او دوه مشرانو.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "او صادوق"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ځوان"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زور-سړی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زړورتيا"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او…کور"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د هغه پلار"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:02.603465688Z",
+  "model": "glm-5.3"
+}

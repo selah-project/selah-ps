@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "ایا انسان به ځان ته الوهیم (خدایان) جوړ کړي؟ او هغه بيا خدایان نه دي!",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ایا جوړ کړي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم (خدایان)"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "او هغه بيا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "خدایان"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:25.108018627Z",
+  "model": "glm-5.3"
+}

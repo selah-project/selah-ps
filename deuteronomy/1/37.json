@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "هم په ما په ستاسو دپله غصه شوی و، یاهوه، چې ویې ویل: تا هم هملته نه شې ننوتلی.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "غصه شوی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "په ستاسو دپله"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ویې ویل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "شې ننوتلی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هملته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:21.107539337Z",
+  "model": "glm-5.3"
+}

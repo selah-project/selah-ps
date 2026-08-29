@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "هوښيار ويری کوي او له شر څخه ګرزي، خو نادان غوسه کوي او ډاډمن وي.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "هوښيار"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ويری کوي"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "او ګرزي"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "له شر"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "خو نادان"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "غوسه کوي"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "او ډاډمن وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:56.670821072Z",
+  "model": "glm-5.3"
+}

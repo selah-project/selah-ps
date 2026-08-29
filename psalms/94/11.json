@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "یاهوه د انسان اندونه پېژني، چې هغه ⟨دي⟩ بې‌ارزښته دي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "اندونه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بې‌ارزښته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:06.832998517Z",
+  "model": "glm-5.3"
+}

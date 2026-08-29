@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "ته وليده، اي یاهوه، غږ مه کوه خپلېدا، اي ادونای، له ما لرې مه اوسه.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ته وليده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اي یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "غږ مه کوه خپلېدا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اي ادونای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "لرې مه اوسه"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:31.671053378Z",
+  "model": "glm-5.3"
+}

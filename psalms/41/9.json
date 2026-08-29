@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "«د بلِیعال خبره پرې تویې شوې؛ او هغه چې پرېوت، به نور نه پاڅېږي».",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بلِیعال"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "تویې شوې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "او هغه چې"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "پرېوت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "نور"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "به پاڅېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:14.055942294Z",
+  "model": "glm-5.3"
+}

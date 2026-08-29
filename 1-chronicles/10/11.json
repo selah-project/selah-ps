@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د يابېش ګېلعاد ټولو خلکو واورېدل ⟨את⟩ ټول هغه څه چې فلسطيانو له شاؤل سره کړي وو.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "واورېدل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "يابېش"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګېلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه څه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کړي وو"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطيانو"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "له شاؤل سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:11.048795940Z",
+  "model": "glm-5.3"
+}

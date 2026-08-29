@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه چې زما خوله به رښتینا وايي؛ او ظلم زما د شونډو لپاره کرغېړن دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "رښتینا"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "وايي (زغرده کوي)"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "زما خوله"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "او کرغېړن"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما د شونډو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:23.582633282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "په لومړي ورځ ⟨⟨هغه⟩⟩ د غونډې-بلنه، د مقدس شي، به وي؛ هر ډول خدمتي کار به نه کوئ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړي"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "غونډه-بلنه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمتي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کوئ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:33.213055850Z",
+  "model": "glm-5.3"
+}

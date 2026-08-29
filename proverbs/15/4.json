@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "روغوونکې ژبه د ژوند ونه ده، خو کږوالی په کې د رښتیا ماتول دي.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "روغوونکې"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "خو کږوالی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ماتول"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "د رښتیا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:32.156322272Z",
+  "model": "glm-5.3"
+}

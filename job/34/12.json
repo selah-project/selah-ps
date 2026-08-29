@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 34:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "هو، په رښتیا ایل بد 工作 نه کوي، او شدای پرېنښلي قضا نه کږوي.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "هو"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "په رښتیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "بد کار کوي"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "او شدای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "کږوي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "قضا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:24.533159174Z",
+  "model": "glm-5.3"
+}

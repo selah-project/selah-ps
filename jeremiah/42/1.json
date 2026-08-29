@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 42:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "بیا ټول د پوځونو مشران او یوخنان زوی د قورح او یزنیا زوی د هوشعیا او ټول خلک له کوچني تر لوی رانږدې شول.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "رانږدې شول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "د مشرانو"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "د پوځونو"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "او یوخنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "د قورح"
+    },
+    {
+      "surface": "ויזניה",
+      "gloss": "او یزنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "د هوشعیا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "له کوچني"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:44:29.946675697Z",
+  "model": "glm-5.3"
+}

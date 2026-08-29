@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "پر څه د هغې بنسټونه ډوب شول؟ یا د چا د هغې د کونجې ډبره کېښودله؟",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "د هغې بنسټونه"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ډوب شول"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "د چا"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "کېښودله"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "د هغې د کونجې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:15.965278571Z",
+  "model": "glm-5.3"
+}

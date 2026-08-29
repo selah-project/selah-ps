@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 4:2",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "وویه د یسورایل زامنو ته، چې ووايي: که یوه نَفَس په سهوه ګناه وکړي، د یاهوه له ټولو حکمونو چې نه دي کېدل، او یو له هغوی يې وکړي،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "وویه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسورایل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "ګناه وکړي"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "په سهوه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکمونو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "کېدل"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "او وکړي"
+    },
+    {
+      "surface": "מאחת",
+      "gloss": "یو له"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "هغوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:32:12.931549044Z",
+  "model": "glm-5.3"
+}

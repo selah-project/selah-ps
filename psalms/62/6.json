@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "یوازې د الوهیم لپاره زما نفس خاموشه ده، ځکه زما هیله له هغه ⟨دی⟩",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "د الوهیم لپاره"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "خاموشه ده"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "زما هیله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:42.232761199Z",
+  "model": "glm-5.3"
+}

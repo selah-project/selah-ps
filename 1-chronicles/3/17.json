@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د یِکونْیاه (بندي) زامن: اَسیر، شَألتْیایل زوی يې.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یِکونْیاه"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "اَسیر"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شَألتْیایل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:53.557510287Z",
+  "model": "glm-5.3"
+}

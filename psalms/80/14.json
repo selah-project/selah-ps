@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 80,
+  "translation": "د ځنګل خوګ هغه ورانوي، او د کره وحشي څاروی هغه څري.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "هغه ورانوي"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "خوګ"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "له ځنګله"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "او وحشي څاروی"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "د کره"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "هغه څري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:31.534424881Z",
+  "model": "glm-5.3"
+}

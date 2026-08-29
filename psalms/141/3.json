@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 141,
+  "translation": "یاهوه، زما خولې ته ساتنده کېږده؛ زما د شونډو پر دروازه پابه اوسه.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "کېږده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "ساتنده"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "زما خولې ته"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "پابه اوسه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דל",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما د شونډو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:20.429118878Z",
+  "model": "glm-5.3"
+}

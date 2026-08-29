@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "هغه ⟨دی⟩ یاهوه، زموږ الوهیم؛ ⟨د هغه⟩ پرېکړې په ټوله ⟨ځمکه⟩ کې دي.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "د هغه پرېکړې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:23.431643427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د یسرایلو ټول زاړه راغلل، او کاهنانو ⟨את⟩ صندوق پورته کړ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "زاړه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایلو"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "پورته کړ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    }
+  ],
+  "timestamp": "2026-08-28T22:53:48.396259788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 91,
+  "translation": "پر لاسونو به دې پورته کړي، چې ښايي ستا پښه پر تېږي ووهې نه شي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "لاسونو"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "دې پورته کړي"
+    },
+    {
+      "surface": "פן",
+      "gloss": "چې...نه"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ووهې"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "پر تېږي"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ستا پښه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:26.002690081Z",
+  "model": "glm-5.3"
+}

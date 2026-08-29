@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "او صهیون وویل: یاهوه مې پرېښود او ادونای مې هېر کړم.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیون"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "مې پرېښود"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "او ادونای"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "مې هېر کړ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:19.499004684Z",
+  "model": "glm-5.3"
+}

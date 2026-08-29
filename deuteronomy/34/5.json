@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او موشې، د ياهوه بنده، هلته ومړ، د مُواب په ځمکه کې، د ياهوه په خوله.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او ومړ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بنده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُواب"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:41.036581533Z",
+  "model": "glm-5.3"
+}

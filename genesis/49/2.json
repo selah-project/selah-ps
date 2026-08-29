@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "ټول شئ او واورئ د یعقوب زامنو، او اورۍ ⟨له⟩ اسراییل ستاسو پلار څخه.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "ټول شئ"
+    },
+    {
+      "surface": "وשמעו",
+      "gloss": "او واورئ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "د یعقوب"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "او اورۍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ستاسو پلار څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:14.382183691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د موشي زامن: محلي او عيدر او يريموت — درې.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "محلي"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "او عيدر"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "او يريموت"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:04.269685572Z",
+  "model": "glm-5.3"
+}

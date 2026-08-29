@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 5:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ستا چېنه مبارکه وي، او د خپل د ځوانۍ له ښځې سره دې وخوښېږې.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "מקורך",
+      "gloss": "ستا چېنه"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "او خوښ اوسه"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "له ښځې"
+    },
+    {
+      "surface": "נעורך",
+      "gloss": "د ځوانۍ دې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:38.854701207Z",
+  "model": "glm-5.3"
+}

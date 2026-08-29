@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "نه وژنې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "وژنې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:31.372906933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 14:33",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "په پوه ⟨سړي⟩ زړه کې حکمت ارام وي، خو په نادانو کې ⟨خپل ځان⟩ ښکاره کوي.",
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "ارام وي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ובקרב",
+      "gloss": "خو په منځ کې"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانان"
+    },
+    {
+      "surface": "תודע",
+      "gloss": "ښکاره کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:16.563012912Z",
+  "model": "glm-5.3"
+}

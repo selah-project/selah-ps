@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 8:11",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او لویان ټول خلک ارامول چې ووايي: غلی اوسئ، ځکه نن ⟨هغه⟩ سپېڅلی دی؛ او خفه مه اوسئ.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "او لویان"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "ارامول"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "הסו",
+      "gloss": "غلی اوسئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "سپېڅلی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "خفه اوسئ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:13.566521004Z",
+  "model": "glm-5.3"
+}

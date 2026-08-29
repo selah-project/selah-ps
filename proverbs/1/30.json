@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "زما مشوره يې ونه منله، ټولې زما نېغونې يې سپکې کړې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "منله"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "زما مشوره"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "سپکې يې کړې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "زما نېغونې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:03.369256708Z",
+  "model": "glm-5.3"
+}

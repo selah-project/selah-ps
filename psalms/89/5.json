@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "تر پای‌پورې به ستا نسل ټینګ کړم، او نسل په نسل به ستا تخت جوړ کړم. سېلا.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر ... پورې"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پای"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "به ټینګ کړم"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ستا نسل"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "او به جوړ کړم"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل په"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ستا تخت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:53.866549492Z",
+  "model": "glm-5.3"
+}

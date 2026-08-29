@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ستا غوړيو بوی ښه دی؛ ستا نوم د توی شوي غوړي په څېر دی؛ همدا لپاره پېغلې ستا مینه کوي.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "بوی"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "ستا غوړيو"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ښه دی"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "غوړي"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "د توی شوي"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدا لپاره"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "پېغلې"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "ستا مینه کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:15.629313259Z",
+  "model": "glm-5.3"
+}

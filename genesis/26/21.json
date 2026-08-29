@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او یې بله کاهه (څاه) وکېندله، بیا پر هغې هم شخګه وشوه، نو یې نوم یې «شِتنه» کېښود.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "وکېندله"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کاهه"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "بله"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "شخګه وشوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پر هغې"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "نوم یې کېښود"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "شِتنه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:51.640359422Z",
+  "model": "glm-5.3"
+}

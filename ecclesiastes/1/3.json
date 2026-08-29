@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "څه ګټه ده ⟨لل⟩ انسان ټولو زحمتونو کې چې زحمت کوي لاندې لمر؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "للانسان"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "زحمتونو کې"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "چې زحمت کوي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:57.158931178Z",
+  "model": "glm-5.3"
+}

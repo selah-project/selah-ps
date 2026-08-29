@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "خو د عمون د بچو پاچا پر هغو خبرو چې یفته ورته استولې وې، غوږ ونه نیول.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "غوږ ونیول"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د بچو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "د عمون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرو"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "استولې وې"
+    },
+    {
+      "surface": "אליو",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:30.235463076Z",
+  "model": "glm-5.3"
+}

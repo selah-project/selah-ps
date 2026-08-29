@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او دا هغه تورات ده چې موشې د یسرایل د زامنو مخې ته کېښوده.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "کېښوده"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:43.995247585Z",
+  "model": "glm-5.3"
+}

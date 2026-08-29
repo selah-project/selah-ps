@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او پر ⟨the⟩ تیږو به ⟨את⟩ د دې ټول لارښوونې ټولې خبرې په ډېر روښانه توګه ولیکې.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "او به ولیکې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "تیږو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دې ټول لارښوونې ټولې خبرې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "د لارښوونې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "באר",
+      "gloss": "په روښانه توګه"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "په ډېر ښه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:37.407672236Z",
+  "model": "glm-5.3"
+}

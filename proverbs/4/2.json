@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "چې ښه تعلیم درکړم؛ زما شریعت مه پرېږدئ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "تعليم"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "درکړم"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "زما شريعت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "پرېږدئ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:46.867930667Z",
+  "model": "glm-5.3"
+}

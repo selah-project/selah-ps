@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ⟨את⟩ عووال او ⟨את⟩ ابیمائیل او ⟨את⟩ شوا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عووال"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "عووال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ابیمائیل"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ابیمائیل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شوا"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شوا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:04.798166170Z",
+  "model": "glm-5.3"
+}

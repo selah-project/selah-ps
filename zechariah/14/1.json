@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "دا وګوره، د یاهوه لپاره ورځ راځي، او ستا غنیمت به ستا په منځ کې وېشل شي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دا وګوره"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    },
+    {
+      "surface": "وחלק",
+      "gloss": "او وېشل شي"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "ستا غنیمت"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ستا په منځ کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:47.516081944Z",
+  "model": "glm-5.3"
+}

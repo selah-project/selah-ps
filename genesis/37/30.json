@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هغه بېرته خپلو وروڼو ته راغی او ويې ويل: «ماشوم نشته؛ او زه — چېرته زه لاړ شم؟»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "بېرته راغی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "خپلو وروڼو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ويل"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ماشوم"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "آנה",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "لاړ شم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:10:03.511677305Z",
+  "model": "glm-5.3"
+}

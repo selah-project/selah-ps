@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او موشې وکړل د هر هغه څه سره سم چې یاهوه هغه ته فرمودلی و؛ همداسې يې وکړل.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "د هر څه سره سم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمودلی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ هغه",
+      "marks": "موشې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:10.706309202Z",
+  "model": "glm-5.3"
+}

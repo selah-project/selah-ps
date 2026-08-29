@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 48:40",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "ځکه چې داسې وايي یاهوه: وګورئ، لکه باز به والوزي او خپلې وزې به پر موآب پراخې کړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "لکه باز"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "به والوزي"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "او … پراخې کړي"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "خپلې وزې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:02.885051370Z",
+  "model": "glm-5.3"
+}

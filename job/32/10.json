@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "نو ما وویل: زما غوږ ونیسه، زه به هم خپل پوهان درته ښکاره کړم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "غوږ ونیسه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "ښکاره کړم"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "پوهان"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:25.737297538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 24:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "څاره، زه د اوبو پر چشمه درېدلی يم، او د ښار د خلکو لوڼې د اوبو د راکشولو لپاره راوځي،",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "څاره"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "درېدلی يم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمه"
+    },
+    {
+      "surface": "המים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼې"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "د خلکو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "راوځي"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "د راکشولو لپاره"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:16.279246447Z",
+  "model": "glm-5.3"
+}

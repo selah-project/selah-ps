@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د شِمرون-مِرون پاچا، یو؛ د اَخشاف پاچا، یو؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شِمرون"
+    },
+    {
+      "surface": "مראון",
+      "gloss": "مِرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "اَخشاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:16.450453079Z",
+  "model": "glm-5.3"
+}

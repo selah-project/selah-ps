@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د صالح لار ⟨د⟩ سموالي ده؛ ⟨ته چې سم يې⟩ د صالح لار برابروې.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "لار"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "د صالح"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سموالي"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سم يې"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "لار"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "برابروې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:03.906634505Z",
+  "model": "glm-5.3"
+}

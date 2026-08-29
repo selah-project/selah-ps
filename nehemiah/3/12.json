@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 3:12",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د هغه په لاس ټینګ کړ شالوم د هالوحش زوی، د یروشلایم د نیمې سیمې مشر — هغه خپله او د هغه لوڼې.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او د … سره"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ټینګ کړ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הלוחש",
+      "gloss": "هالوحش"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمې"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "سیمې"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه خپله"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "او د هغه لوڼې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:31.490931399Z",
+  "model": "glm-5.3"
+}

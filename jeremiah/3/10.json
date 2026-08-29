@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او په دې ټولو کې يې بې وفا خور یهودا د خپل ټول زړه سره را ونه ګرځېده ماته، خو په دروغو يې وکړل، د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په دې ټولو کې"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "را ونه ګرځېده"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "بې وفا"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "د هغې خور"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "په دروغو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:15.528705665Z",
+  "model": "glm-5.3"
+}

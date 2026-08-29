@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او هغې ورته وزېږول ⟨את⟩ زمران او ⟨את⟩ یقشان او ⟨את⟩ مدان او ⟨את⟩ مدیان او ⟨את⟩ یشباق او ⟨את⟩ شوع.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمران"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "زمران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یقشان"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "یقشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مدان"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "مدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مدیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یشباق"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "یشباق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شوع"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "شوع"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:36.829034691Z",
+  "model": "glm-5.3"
+}

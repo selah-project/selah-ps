@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او موشې د یسرائیل زامنو ته وویل: د هر هغه څه په پابندي چې یاهوه ⟨את⟩ موشې ته حکم کړی و.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "د هر څه په پابندي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:55.336455288Z",
+  "model": "glm-5.3"
+}

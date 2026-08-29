@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ځکه چې ځمکه درزې کړې وه، ځکه په ځمکه کې باران نه و؛ کرانګر شرمندې شول، خپل سر يې پټ کړ.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "درزې کړې\/ماته شوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "شرمندې شول"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "کرانګر"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "پټ کړ"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "خپل سر"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:19.678888840Z",
+  "model": "glm-5.3"
+}

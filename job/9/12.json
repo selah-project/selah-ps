@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "های، که هغه ونیسي، څوک يې بېرته ګرځولی شي؟ څوک ورته ووايي: څه کوې؟",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "های"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "ونیسي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "بېرته ګرځولی شي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ووايي"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کوې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:48.695300910Z",
+  "model": "glm-5.3"
+}

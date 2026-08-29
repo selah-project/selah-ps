@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "له دوی څخه د یاهوه د کور د کار مشري ته شل او څلور زره، او افسران او قاضي شپږ زره وو.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "له دوی څخه"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "مشري ته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "او افسران"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "او قاضي"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:53.248442207Z",
+  "model": "glm-5.3"
+}

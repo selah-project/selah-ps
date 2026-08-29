@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "څوک داسې سړی دی لکه ایوب، چې لکه اوبه لږونې څښي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "لکه ایوب"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "څښي"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "لږونې"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "لکه اوبه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:24.558448774Z",
+  "model": "glm-5.3"
+}

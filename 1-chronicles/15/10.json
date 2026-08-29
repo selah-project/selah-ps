@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د عُزییل د زامنو څخه: عَمِّیناداب ⟨یعني⟩ مش او د هغه وروڼه سل دولس.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو څخه"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزییل"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمِّیناداب"
+    },
+    {
+      "surface": "השר",
+      "gloss": "مش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:13.608010485Z",
+  "model": "glm-5.3"
+}

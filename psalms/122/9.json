@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 122,
+  "translation": "د یاهوه زموږ د الوهیم د کور په خاطر، زه به ستا لپاره ښېګڼه ولټوم.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "په خاطر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "زه به ولټوم"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښېګڼه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:06.582797547Z",
+  "model": "glm-5.3"
+}

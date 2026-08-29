@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "خپل کړه وړه یاهوه ته وروړه، نو ستا نیتونه به وټاکي شي.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "وروړه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "خپل کړه وړه"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "نو به وټاکي شي"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ستا نیتونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:37.909046048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "مه په سبا ګانې وهه، ځکه ته نه پوهېږې چې ورځ څه زيږوي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ګانې وهه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سبا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "پوهېږې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زيږوي"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:16.662186467Z",
+  "model": "glm-5.3"
+}

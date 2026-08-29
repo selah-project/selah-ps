@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "کاشي چې زما لارې ټینګې شوي وای، چې زه ستا فرائض وساتم!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "کاشي چې"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ټینګې شوي وای"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "زما لارې"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "چې وساتم"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا فرائض"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:23.672374898Z",
+  "model": "glm-5.3"
+}

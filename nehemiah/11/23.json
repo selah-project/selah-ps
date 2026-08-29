@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ځکه چې د پاچا فرمان پر دوى ⟨وو⟩، او د سندرغاړو لپاره مقرر رزق ⟨وو⟩، د ورځې چار په خپله ورځ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر دوى"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "او مقرر رزق"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "سندرغاړو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چار"
+    },
+    {
+      "surface": "יום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "په خپله ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:17.125479692Z",
+  "model": "glm-5.3"
+}

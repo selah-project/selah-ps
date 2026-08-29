@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 39:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "ستا کمان به د تا له کیڼ لاس او ستا تېرونه به د تا له ښي لاس ووېزم — راغورځوم.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ووېزم"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "ستا کمان"
+    },
+    {
+      "surface": "مיד",
+      "gloss": "له لاس"
+    },
+    {
+      "surface": "שמאולך",
+      "gloss": "ستا کیڼ"
+    },
+    {
+      "surface": "וחציך",
+      "gloss": "ستا تېرونه"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاس"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ستا ښي"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "راغورځوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:06.052927151Z",
+  "model": "glm-5.3"
+}

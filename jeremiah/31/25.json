@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ځکې زما د سترګو خبرې: «زما خوب ماته خوږ و.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې\/ځکه"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "زما سیری کړه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نېفېش"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ستړې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نېفېش"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ځورېدلې\/مینه-نابه"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "زما ډکه کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:04.433834503Z",
+  "model": "glm-5.3"
+}

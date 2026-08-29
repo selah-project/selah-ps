@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 122,
+  "translation": "ځکه چې هلته چوکۍ د عدالت لپاره کېنېدلې دي، د داوېد د کور چوکۍ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "کېنېدلې دي"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "چوکۍ"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "د عدالت لپاره"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "چوکۍ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:16.836472083Z",
+  "model": "glm-5.3"
+}

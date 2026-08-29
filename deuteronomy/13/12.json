@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او ټول ییسراېل به يې واوري او ووېرېږي، او دا داسې ناوړه کار به ستا په منځ کې بیا ونه کړي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراېل"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "به واوري"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "او ووېرېږي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کړي"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "داسې ... کار"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ناوړه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ستا په منځ کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:03.445578136Z",
+  "model": "glm-5.3"
+}

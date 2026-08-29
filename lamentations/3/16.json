@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هغه زما غاښونه په ریګ ومېښل، ما يې په ایر کې وچاپېوه.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "او ومېښل"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "په ریګ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "زما غاښونه"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "ما يې وچاپېوه"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "په ایر کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:37.761175670Z",
+  "model": "glm-5.3"
+}

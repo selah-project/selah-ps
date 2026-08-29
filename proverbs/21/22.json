@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "یو حکیم د زورورو ښار ته پورته شو او د هغه د اطمینان زور يې راښکته کړ.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "د زورورو"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پورته شو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "او راښکته يې کړ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "د هغه اطمینان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:24.832577297Z",
+  "model": "glm-5.3"
+}

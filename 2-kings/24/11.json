@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او د بابل پاچا نبوکدنصر ښار ته راغى، خو خدمتګارو يې پرې محاصره نیولې وه.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "او راغى"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "نبوکدنصر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر \/ against"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "او خدمتګارو يې"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "محاصره نیولې وه"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:10:13.052834272Z",
+  "model": "glm-5.3"
+}

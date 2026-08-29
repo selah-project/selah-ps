@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "چا چې له غلا سره شریک وي، هغه خپل ځان کرښي؛ قسم اوري خو خبر نه ورکوي.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "شریک"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "له غلا"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "کرښي"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "خپل ځان (نفس)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "خبر ورکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:48.022195179Z",
+  "model": "glm-5.3"
+}

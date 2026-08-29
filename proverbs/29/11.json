@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "کاهل خپله ټوله ساه بهر باسي، خو حکیم ⟨هغه⟩ تر وروسته پورې نیولې ساتي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "خپله ساه"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "بهر باسي"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کاهل"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "خو حکیم"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "تر وروسته پورې"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "نیولې ساتي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:16.992665031Z",
+  "model": "glm-5.3"
+}

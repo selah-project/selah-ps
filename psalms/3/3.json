@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ډېر وايي زما نفش ته: «په الوهیم کې د هغه لپاره نجات نشته.» سېلاه.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "لנפשי",
+      "gloss": "زما نفش ته"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه لپاره"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "په الوهیم کې"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:13.107589140Z",
+  "model": "glm-5.3"
+}

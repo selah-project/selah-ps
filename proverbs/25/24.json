@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "غوره ده د بام په کونج کېناستل، له شخړه کوونکې ښځې او د شرکت له کوره.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "کېناستل"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "کونج"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بام"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "له ښځې"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "شخړه کوونکې"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او کور"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "شرکت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:31.368069986Z",
+  "model": "glm-5.3"
+}

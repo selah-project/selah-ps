@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "دروازې خلاص کړئ، او ننوځي یوه هېواد نېک، ساتونکی ⟨هغه⟩ ديانت.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "خلاص کړئ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او ننوځي"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "هېواد"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نېک"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساتونکی"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "ديانت"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:57.191088575Z",
+  "model": "glm-5.3"
+}

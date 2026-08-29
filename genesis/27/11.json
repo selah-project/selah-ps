@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او یعقوب وویل ربکا مور ته: خبر یې، عیسو زما ورور ⟨├┤⟩ د وړیو سړی دی، او زه د نرم پوستکي سړی یم.",
+  "tokens": [
+    {
+      "surface": "ויאمר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربکا"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مور"
+    },
+    {
+      "surface": "הן",
+      "gloss": "خبر یې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "زما ورور"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "שער",
+      "gloss": "د وړیو"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "د نرم پوستکي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:00.105374736Z",
+  "model": "glm-5.3"
+}

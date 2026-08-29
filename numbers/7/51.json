@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یو ګاو، د غواوو بچی، یو پسه، یوه ورشه، د خپل کال بچی، د سوځولو قربانۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ګاو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د غواوو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "پسه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ورشه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "د خپل کال"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځولو قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:49.095337115Z",
+  "model": "glm-5.3"
+}

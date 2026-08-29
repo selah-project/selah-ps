@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او هغه راته وویل، ویې ویل: ايا نه پېژنې چې دا څه دي؟ او ما وویل: نه، زما ادونای.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ايا نه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او ما وویل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:05.611106154Z",
+  "model": "glm-5.3"
+}

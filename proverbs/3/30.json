@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "له یوه ادم (سړي) سره بې له سببه مه جنجال کوه، که هغه تا ته شر نه دی کړی.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "جنجال مه کوه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادم (سړی)"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بې له سببه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "تا ته ... کړی وي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:48.786809535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 5:9",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "څنګه دی ستا دود له بل دوده، د ښځو ښکلې؟ څنګه دی ستا دود له بل دوده، چې داسې یې مونږ قسم کړي یو؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "ستا دود"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "له بل دوده"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "ښکلې"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "د ښځو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "דודך",
+      "gloss": "ستا دود"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "له بل دوده"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "چې داسې"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "مونږ یې قسم کړي یو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:46.980615412Z",
+  "model": "glm-5.3"
+}

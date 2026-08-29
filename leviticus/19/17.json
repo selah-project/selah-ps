@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "له خپل ورور سره په زړه کې نفرت مه ساته؛ خپل ملګری په ډاګه توبېمه، او پر هغه ګناه مه اچوه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "نفرت ساته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل ورور"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "خپل ورور"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "په ډاګه"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "توبېمه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل ملګری"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "خپل ملګری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "اچوه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ګناه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:41.376374417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او یاهوه له موشې سره ووینل، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ووینل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له … سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:16.896492300Z",
+  "model": "glm-5.3"
+}

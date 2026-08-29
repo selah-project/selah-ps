@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "شتمني ډېر ملګري زياتوي، خو غریب له خپل ملګري بېلېږي.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "زياتوي"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ملګري"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "خو غریب"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "له خپل ملګري"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "بېلېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:35.872298358Z",
+  "model": "glm-5.3"
+}

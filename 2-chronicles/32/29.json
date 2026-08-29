@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 32:29",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او ښارونه يې ورته جوړ کړل، او د ورې او غواوو مال يې په ډېروالي درلود، ځکه الوهيم ورته ډېر زيات رکود (شخصي مال) ورکړی وو.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ يې کړل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "مال"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "د ورې"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "او غواوو"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "په ډېروالي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهيم"
+    },
+    {
+      "surface": "רכוש",
+      "gloss": "رکود"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زيات"
+    }
+  ],
+  "timestamp": "2026-08-29T02:10:43.234576529Z",
+  "model": "glm-5.3"
+}

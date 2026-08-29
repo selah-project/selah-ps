@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "وګوره، ما په نوم وبلې بېتصایل، د اوري زوی، د حور لمسی، د یهودا د قبیلې له ډلې،",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ما وبلې"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "بېتصایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې له ډلې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:24:35.254628391Z",
+  "model": "glm-5.3"
+}

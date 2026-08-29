@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "هم ⟨دا⟩ چې نفس بې له پوهې وي، ښه نه دي؛ او څوک چې په پښو منډېږي، ګناه کوي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهې"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "او منډېږي"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "په پښو"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "ګناه کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:35.872065773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما زړه دې ستا حکمونو کې بشپړ وي، څنګه چې شرمېدلی نه شم.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ستا حکمونو کې"
+    },
+    {
+      "surface": "למען",
+      "gloss": "څنګه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شرمېدلی شم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:27.654987561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ټول ټولګي په يو伐ې — څلوېښت زره درې زره درې سې شپېتم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ټولګي"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "په يو"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "لک\/zر"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سې"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شپېتم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:54.917493024Z",
+  "model": "glm-5.3"
+}

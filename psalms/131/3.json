@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 131,
+  "translation": "ای اسراییله، تمه وکړه په یاهوه، له دې وخت څخه تر ابده پورې.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "تمه وکړه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "له دې وخت څخه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:40.568155254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او ټولې ټولنې ⟨את⟩ خپل غږ louډ کړ، او هغه شپه خلکو وژړل.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "او لوړ کړ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ټولنې"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "او ورواچول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل غږ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "خپل غږ"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "او وژړل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلکو"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "هغه شپه"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:44.241321491Z",
+  "model": "glm-5.3"
+}

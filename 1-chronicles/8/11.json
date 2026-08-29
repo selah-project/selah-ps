@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او له حوشیم څخه يې ⟨את⟩ ابیتوب او ⟨את⟩ الفعال وزېږېدل.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "او له حوشیم څخه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږېدل يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابیتوب"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "ابیتوب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "الفعال"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "الفعال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:35.179841604Z",
+  "model": "glm-5.3"
+}

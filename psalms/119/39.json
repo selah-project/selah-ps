@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما شرمونه، چې ترې وېرېږم، راټول کړه، ځکه ستا پرېکړې ښې دي.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "راټول کړه"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "زما شرمونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ترې وېرېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ستا پرېکړې"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ښې دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:35.153607944Z",
+  "model": "glm-5.3"
+}

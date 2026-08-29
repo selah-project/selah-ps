@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "واورئ ⟨את⟩ هغه خبر چې یاهوه پر تاسو وايي، اې د یسریل کوره.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه خبر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "پر تاسو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کوره"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسریل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:39.305861033Z",
+  "model": "glm-5.3"
+}

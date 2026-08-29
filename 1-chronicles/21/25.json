@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "نو داوېد په هغه ځای کې ارنان ته د زرو شپږ سلو شېکلونو وزن په زرو سکو ورکړ.",
+  "tokens": [],
+  "timestamp": "2026-08-29T01:53:31.123522660Z",
+  "model": "glm-5.3"
+}

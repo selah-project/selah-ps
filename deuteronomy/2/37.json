@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 2:37",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "یوازې د בني عمرام د ځمکې ⟨אל⟩ ته نه وې نږدې شوې — د یبوق د نښتاړ هر اړخ، د غره ښارونه، او هر څه چې ياهوه زموږ الوهيم موږ ته يې نه و امر کړی.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨אל⟩ ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קרבת",
+      "gloss": "وې نږدې شوې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "اړخ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "د نښتاړ"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "یبوق"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "او د ښارونه"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "د غره"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "امر کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:01.941767548Z",
+  "model": "glm-5.3"
+}

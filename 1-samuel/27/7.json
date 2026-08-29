@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 27:7",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او د ورځو شمېر چې داوېد د پلشتیم په سیمه کې اوسېده، ورځې او څلور میاشتې وې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "اوسېده"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په سیمه کې"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "د پلشتیم"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "میاشتې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:25:49.282010197Z",
+  "model": "glm-5.3"
+}

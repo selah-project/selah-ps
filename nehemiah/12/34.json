@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "یِهودا او بِنیامِن، او شِمعیا او یِرمیا.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "یِهودا"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "او بِنیامِن"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "او شِمعیا"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "او یِرمیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:35.671681250Z",
+  "model": "glm-5.3"
+}

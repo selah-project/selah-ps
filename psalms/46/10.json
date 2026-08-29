@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "هغه جګړې درودوي تر د ځمکې بريده، کمان ماتوي او نېزه پرې کوي، ګاډۍ په اور کې سوځوي.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "درودوي"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جګړې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "بريده"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ماتوي"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "او پرې کوي"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "نېزه"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "ګاډۍ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سوځوي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:53.540740574Z",
+  "model": "glm-5.3"
+}

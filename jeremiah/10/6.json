@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "هېڅوک ستا په څېر نشته، یاهوه! ته لوی یې، او ستا نوم په زور سره لوی دی.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "هېڅوک نشته"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ستا په څېر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "او لوی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "په زور سره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:33:33.475452006Z",
+  "model": "glm-5.3"
+}

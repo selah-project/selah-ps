@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "همدې ته په «د یاهوه د جګړو کتاب» کې ویل شوي دي: «وَهېب په سوپه کې، او ⟨את⟩ د اَرنُون درې —»",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "همدې ته"
+    },
+    {
+      "surface": "כן",
+      "gloss": "په همدې basis"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ویل شوي دي"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "په کتاب کې"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "د جګړو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وَهېب"
+    },
+    {
+      "surface": "והב",
+      "gloss": "وَهېب"
+    },
+    {
+      "surface": "بסופה",
+      "gloss": "په سوپه کې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د اَرنُون درې"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "اَرنُون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:36.498070033Z",
+  "model": "glm-5.3"
+}

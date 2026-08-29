@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "دوی زموږ لپاره دېوال وو، هم شپه هم ورځ، ټولې هغه ورځې چې موږ ددوی سره وو، پسونه په څړ بوخت وو.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "دېوال"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "زموږ لپاره"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "چې موږ وو"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ددوی سره"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "په څړ بوخت"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "پسونه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:39:31.195390191Z",
+  "model": "glm-5.3"
+}

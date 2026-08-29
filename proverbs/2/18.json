@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې کور يې د مړينې پر لور ټيټ ځي او د هغې لارې ⟨the⟩ د رفایم پر لور،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ټيټ ځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر لور د"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړينې"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "کور يې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر لور د"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "د هغې لارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:17.180157540Z",
+  "model": "glm-5.3"
+}

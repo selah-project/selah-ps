@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 35:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او د زېلپا زامن — د لېا خدمتګارې — ګاد او آشېر. دا د یعقوب زامن دي چې په پَدّان-ارم کې ⟨هغه⟩ ته زېږېدلي وو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زېلپا"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "خدمتګارې"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لېا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "او آشېر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زېږېدلي وو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨هغه⟩ ته"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "په پَدّان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:04.950486650Z",
+  "model": "glm-5.3"
+}

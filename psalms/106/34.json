@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "هغوی ⟨את⟩ ملتونه له منځه نه یووستل، هغه چې یاهوه ورته وویل وو،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "השמידو",
+      "gloss": "له منځه یووستل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ملتونه"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:08.529130377Z",
+  "model": "glm-5.3"
+}

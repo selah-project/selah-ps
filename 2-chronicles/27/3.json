@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "هغه ⟨את⟩ د یاهوه د کور لوړ دروازه جوړه کړه، او په عوفِل دیوال کې یې ډېر جوړ کړ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوړه کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه د کور لوړه دروازه"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "او په دیوال کې"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "عوفِل"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوړ کړ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-29T02:06:54.921631337Z",
+  "model": "glm-5.3"
+}

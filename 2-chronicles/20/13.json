@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 20:13",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ټول یهودا د یاهوه په وړاندې ولاړ وو، هم د دوی ماشومان، د دوی ښځې او د دوی زامن.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ولاړ وو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "د دوی ماشومان"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "د دوی ښځې"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "او د دوی زامن"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:37.496949479Z",
+  "model": "glm-5.3"
+}

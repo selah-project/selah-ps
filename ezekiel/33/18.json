@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "کله چې یو صالح له خپلې نیکۍ وګرځي او زیاتي وکړي، نو په همدې به مړ شي.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "کله چې وګرځي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "یو صالح"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "له خپلې نیکۍ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "او وکړي"
+    },
+    {
+      "surface": "עול",
+      "gloss": "زیاتي"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "نو مړ شي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په همدې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:02:32.307193904Z",
+  "model": "glm-5.3"
+}

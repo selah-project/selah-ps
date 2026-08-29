@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "نو ووايه: زه يې ورته زما د شالوم تړون درکوم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ووايه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "زه (اوسنی یم)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما تړون"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "زما تړون"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:01.229045179Z",
+  "model": "glm-5.3"
+}

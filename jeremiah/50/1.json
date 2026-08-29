@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "هغه خبره چې یاهوه د بابل او د کاسدیانو د هېواد په اړه ووایله، د نبي یرمیاهو په لاس.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ووایوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په اړه د"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "او په اړه د"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "هېواد"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کاسدیانو"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:50.262587448Z",
+  "model": "glm-5.3"
+}

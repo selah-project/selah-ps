@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او هیڅ سړی به له تا سره نه خېژي، او همداشې هیڅ سړی دې په ټول غره کې نه ښکاري؛ همداشې رېښې او غواگانې دې د هغه غره مخې ته نه څرېږي.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او هیڅ سړی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "خېژي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او همداشې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هیڅ سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ښکاري"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غره کې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همداشې"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "رېښې"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "او غواگانې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "څرېږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מול",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "د غره"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:26:19.676434025Z",
+  "model": "glm-5.3"
+}

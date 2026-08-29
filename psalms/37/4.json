@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او په یاهوه خوشحاله اوسه، نو هغه به دې د زړه غوښتنې درکړي.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "او … خوشحاله اوسه"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "نو هغه به … درکړي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "غوښتنې"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "د دې زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:49.903748325Z",
+  "model": "glm-5.3"
+}

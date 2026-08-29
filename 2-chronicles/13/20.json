@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او یروبعام په دewidthایاه په ورځو کې بیا زور ونه نیو؛ او یاهوه پر هغه وار وواهه او هغه مړ شو.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او ... نه"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "ونه نیو"
+    },
+    {
+      "surface": "כח",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یروبعام"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "په ... ورځو کې"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "ابیاه"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "او پر هغه وار وواهه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:43.312781414Z",
+  "model": "glm-5.3"
+}

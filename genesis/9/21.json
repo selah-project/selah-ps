@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او نوح له میو څخه وڅښل او مست شو، او په خپله خیمه کې برهنګ شو.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "او وڅښل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "היין",
+      "gloss": "میو"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "او مست شو"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "او برهنګ شو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "د هغه خیمه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:06.359160092Z",
+  "model": "glm-5.3"
+}

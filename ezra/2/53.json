@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د بارقوس زامن، د سیسرا زامن، د تماح زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "بارقوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سیسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تماح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:33.390898083Z",
+  "model": "glm-5.3"
+}

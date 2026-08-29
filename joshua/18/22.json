@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او بېت-هعمربه، او صمرایم، او بېت-ایل.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "او بېت"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "هعمربه"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "او صمرایم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او بېت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:03.354821925Z",
+  "model": "glm-5.3"
+}

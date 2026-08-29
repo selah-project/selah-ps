@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د اوراهام زامن: ییتسحاک او ییشمعېل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاک"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ییشمعېل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:05.290710376Z",
+  "model": "glm-5.3"
+}

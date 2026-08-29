@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 21:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "ستره يې د هغه د ړنګېدو ویني دی، او د شدای له قهره يې څښي.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ستره يې"
+    },
+    {
+      "surface": "כידו",
+      "gloss": "د هغه ړنګېدل"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "او د قهره"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "یשתה",
+      "gloss": "څښي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:49.919509480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د سناح زامن، درې زره او شپږ سوه او دېرش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سناح"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "او دېرش"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:02.519678739Z",
+  "model": "glm-5.3"
+}

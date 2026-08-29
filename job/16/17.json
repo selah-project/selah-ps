@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 16:17",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "نه — زور نه و په زما لاسونو کې، او زما لمانځهن پاک دی.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "نه —"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زور"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "په زما لاسونو کې"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "او زما لمانځهن"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "پاک دی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:16.366450305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او عَزَریاه وزیږه ⟨את⟩ سِرایاه، او سِرایاه وزیږه ⟨את⟩ یِهُوصاداق",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "او عَزَریاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سِرایاه"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سِرایاه"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "او سِرایاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِهُوصاداق"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "یِهُوصاداق"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:11.235014943Z",
+  "model": "glm-5.3"
+}

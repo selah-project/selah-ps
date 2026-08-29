@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "داسې وايي یاهوه: دا ښار به یقیناً د بابل د پاچا د لښکر په لاس ورکړل شي، او هغه به يې ونیسي.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ورکړل"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ورکړل شي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "او به يې ونیسي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:44:04.772787543Z",
+  "model": "glm-5.3"
+}

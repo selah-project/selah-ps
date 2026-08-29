@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 91,
+  "translation": "ځکه چې هغه به خپلو فرښتو ته ستا د ساتنې حکم وکړي، په ټولو ستا لارو کې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "خپلو فرښتو"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "حکم وکړي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "د دې ساتنې"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ستا لارو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:26.002541710Z",
+  "model": "glm-5.3"
+}

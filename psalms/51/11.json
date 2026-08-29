@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "خپل مخ له زما ګناهونو پټ کړه، او زما ټولې نارواوې ړنګې کړه.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "پټ کړه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "له زما ګناهونو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او زما ټولې"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "نارواوې"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ړنګې کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:08.822198919Z",
+  "model": "glm-5.3"
+}

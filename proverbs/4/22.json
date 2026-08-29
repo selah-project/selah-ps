@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ځکه چې دا ژوند ⟨هو⟩ د هغو لپاره چې يې مومي، او د دوی د ټولې غوښې لپاره روغتیا.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هو"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "د هغو لپاره چې يې مومي"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "او د ټولې"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "د دوی غوښې"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "روغتیا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:30.848391206Z",
+  "model": "glm-5.3"
+}

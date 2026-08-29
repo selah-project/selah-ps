@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "خپله توانايي ښځو ته مه ورکوه، نه خپلې لارې چې پاچاهان ړنګوي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ورکوه"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ښځو ته"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "توانايي دې"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "او لارې دې"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "چې ړنګوي"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "پاچاهان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:04.239445857Z",
+  "model": "glm-5.3"
+}

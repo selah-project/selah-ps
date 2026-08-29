@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "هېڅوک نشته چې ستا قضيه وکړي د ټپ د تړلو لپاره؛ درمل، تړونۍ نشته دې.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "דן",
+      "gloss": "قضاوت وکړي"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "ستا قضيه"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "د تړلو لپاره"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "درمل"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "تړونۍ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:10.208112195Z",
+  "model": "glm-5.3"
+}

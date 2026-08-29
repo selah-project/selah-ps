@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "حکمت ⟨את⟩ د پوه سړي پر مخ ښکاري، خو د احمق سترګې د ځمکې په وروستیو کې دي.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د پوه سړي مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "خو سترګې"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "په وروستیو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:00.946476098Z",
+  "model": "glm-5.3"
+}

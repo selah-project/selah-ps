@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "دوی د righteous د نفس پر ضد سره راټولېږي، او پاکه وینه تورنوي.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "راټولېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر ضد"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د righteous"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "او وینه"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "پاکه"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "تورنوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:56.950743155Z",
+  "model": "glm-5.3"
+}

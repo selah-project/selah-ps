@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ⟨את⟩ کِشِد، او ⟨את⟩ حَزو، او ⟨את⟩ پِلدَش، او ⟨את⟩ یِدلَف، او ⟨את⟩ بَتویل.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "کِشِد"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "کِشِد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حَزو"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "حَزو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "پِلدَش"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "پِلدَش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "یِدلَف"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "یِدلَف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "بَتویل"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بَتویل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:21.340286767Z",
+  "model": "glm-5.3"
+}

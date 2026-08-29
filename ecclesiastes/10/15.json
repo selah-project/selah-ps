@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د احمقانو زحمت هغوی ستړي کوي، هغوی چې نه پوهېږي ښار ته لاړ شي.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "زحمت"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "د احمقانو"
+    },
+    {
+      "surface": "תיגענو",
+      "gloss": "ستړي کوي هغوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "لاړ شي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:49.225980619Z",
+  "model": "glm-5.3"
+}

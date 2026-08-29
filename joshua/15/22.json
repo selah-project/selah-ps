@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او قِینه، او دِیمونه، او عَدعَده.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "او قِینه"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "او دِیمونه"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "او عَدعَده"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:42.020145729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ودرېد او ⟨את⟩ ټول د یسراییل ټولګي ته یې په لوړ غږ برکت ورکړ، دا ویل:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "او ودرېد"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "او برکت یې ورکړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ټولګي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسراییل"
+    },
+    {
+      "surface": "קול",
+      "gloss": "په غږ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دا ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:15.893424130Z",
+  "model": "glm-5.3"
+}

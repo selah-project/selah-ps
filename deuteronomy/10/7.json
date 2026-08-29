@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "له هغه ځایه دوی ګدګده ته ولاړل، او له ګدګده څخه یوطبه ته — د اوبو د ویالو ځمکه.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ولاړل"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ګدګده"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له... څخه"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "ګدګده"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "یوطبه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "د ویالو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:26.843666437Z",
+  "model": "glm-5.3"
+}

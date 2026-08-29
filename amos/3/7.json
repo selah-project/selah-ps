@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه ادونای یاهوه هيڅ کار نه کوي، مګر چې خپل سود ⟨پټه مشوره⟩ خپلو غلامانو، نبیانو ته ښکاره کړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مګر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چې"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ښکاره کړي"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "خپل سود"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "خپلو غلامانو"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "نبیانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:14:00.412582893Z",
+  "model": "glm-5.3"
+}

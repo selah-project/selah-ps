@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او حکمت له کومه ځایه راځي، او د پوهې ځای چېرته دی؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "او حکمت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "له کومه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "او چېرته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "د"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:28.663683232Z",
+  "model": "glm-5.3"
+}

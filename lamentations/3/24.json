@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "برخه مې یاهوه ده، وايي زما نفس؛ له همدې امله پر هغه هيله لرم.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "برخه مې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "על",
+      "gloss": "له"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې امله"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "هيله لرم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:01.341245131Z",
+  "model": "glm-5.3"
+}

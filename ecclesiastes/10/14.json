@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او احمق خبرې ډېروي — انسان نه پوهېږي چې څه به شي، او هغه چې تر ده وروسته به شي، څوک يې ⟨هغه⟩ ته وايي؟",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "او احمق"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ډېروي"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چې څه"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "به شي"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "او هغه چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به شي"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "تر ده وروسته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:49.225828852Z",
+  "model": "glm-5.3"
+}

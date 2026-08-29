@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او ⟨داوېد⟩ پاڅېد او لاړ، او ییهوناتان ښار ته لاړ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "پاڅېد"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "لاړ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "او ییهوناتان"
+    },
+    {
+      "surface": "בא",
+      "gloss": "لاړ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    }
+  ],
+  "timestamp": "2026-08-28T22:38:10.949077268Z",
+  "model": "glm-5.3"
+}

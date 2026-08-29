@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 4:12",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او جوړوونکي — هر يو خپله توره پر خپلوren تړلې وه — جوړوي يې، او په شپرن غږوونکی زما خوا ته دی.",
+  "tokens": [
+    {
+      "surface": "והבונים",
+      "gloss": "او جوړوونکي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر يو"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "خپله توره"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "تړلې وه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "خپلوren"
+    },
+    {
+      "surface": "ובונים",
+      "gloss": "جوړوي يې"
+    },
+    {
+      "surface": "והתוקע",
+      "gloss": "او غږوونکی"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "په شپرن"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "زما خوا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:41:24.512555284Z",
+  "model": "glm-5.3"
+}

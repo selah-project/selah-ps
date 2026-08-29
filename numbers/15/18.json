@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 15:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د یشراېل زامنو ته ووایه او ورته ووايه: کله چې ⟨هغه⟩ ځمکې ته ننوځئ چې زه یې بېول تاسو ←هلته",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یشراېل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "او ورته ووايه"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "کله چې ننوځئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "بېول"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تاسو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "←هلته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:56.900976422Z",
+  "model": "glm-5.3"
+}

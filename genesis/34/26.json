@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او ⟨את⟩ حامور او ⟨את⟩ شکم زوی یې د تورې په \/**<\/> تېره ووژل، او ⟨את⟩ دیناه یې د شکم له کوره واخیسته او ووتل.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حامور"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حامور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شکم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ووژل"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تورې"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "او واخیسته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دیناه"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "دیناه"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "له کوره"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "او ووتل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:02.647777828Z",
+  "model": "glm-5.3"
+}

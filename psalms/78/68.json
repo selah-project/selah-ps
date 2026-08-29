@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او ⟨את⟩ د یهودا قبيله يې وټاکله، ⟨את⟩ د صهیون غره چې يې مینه ورسره درلوده.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "او وټاکله يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یهودا قبيله"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبيله"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د صهیون غره"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "مینه درلوده يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:26.822526758Z",
+  "model": "glm-5.3"
+}

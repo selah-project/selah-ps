@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "په ریښتیا دا د بدکار کورونه دي، او دا ⟨هغه⟩ ځای دی د هغه چا چې ایل نه پېژني.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "په ریښتیا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "کورونه"
+    },
+    {
+      "surface": "עול",
+      "gloss": "د بدکار"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:21.748694473Z",
+  "model": "glm-5.3"
+}

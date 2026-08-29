@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ځکه چې صالح اووه ځله ښکېزي او راپاڅېږي، خو بدکاران په بدۍ کې ټوټېږي",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووه ځله"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ښکېزی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "او راپاڅېږي"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "خو بدکاران"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ټوټېږي"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "په بدۍ کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:15.787935466Z",
+  "model": "glm-5.3"
+}

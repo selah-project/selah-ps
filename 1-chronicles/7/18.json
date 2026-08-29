@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او خور يې هامولېخېت زېږې کړه ⟨את⟩ایشهود او ⟨את⟩ابیعزر او ⟨את⟩مخله.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "او خور يې"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "هامولېخېت"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زېږې کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایشهود"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "ایشهود"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ابیعزر"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ابیعزر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "مخله"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "مخله"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:09.752372028Z",
+  "model": "glm-5.3"
+}

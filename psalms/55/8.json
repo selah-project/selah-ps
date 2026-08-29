@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "وګوره، به لرې وتښتم، به په بیابان کې شپه وکړم. سېلاه.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "به لرې"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "وتښتم"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "به شپه وکړم"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بیابان کې"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:30.450087923Z",
+  "model": "glm-5.3"
+}

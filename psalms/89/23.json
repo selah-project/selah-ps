@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "دښمن به پرې زیاتې نه کوي، او د ظلم زوی به یې نه ځوروي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "زیاتې کوي"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "او زوی"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "د ظلم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "یې ځوروي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:20.250051216Z",
+  "model": "glm-5.3"
+}

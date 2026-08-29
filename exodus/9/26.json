@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "یوازې په ځمکه کې د ګوشن، چې هلته د یسریل زامن وو، ږلې نه وه.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ګوشن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسریل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ږلې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:17:07.582637137Z",
+  "model": "glm-5.3"
+}

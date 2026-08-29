@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 36:7",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "نو داسې وايي ادونای یاهوه: زما لاس ⟨את⟩ مې پورته کړ — هغه ملتونه چې ستاسو شا او خوا کې دي، هغوی به خپل شرم وګالي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "پورته مې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما لاس"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "زما لاس"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "شا او خوا کې"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "כלמתם",
+      "gloss": "خپل شرم"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "وګالي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:04:13.658069253Z",
+  "model": "glm-5.3"
+}

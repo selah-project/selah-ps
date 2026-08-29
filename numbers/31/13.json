@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 31:13",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "موشې او اِلعازر کاهن او د ټولنې ټول مشران د دوی د مخې ته تللو لپاره ووتل — د کمپ بهر ته.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "د ټولنې"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "د دوی د مخې ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "د کمپ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:24.535262178Z",
+  "model": "glm-5.3"
+}

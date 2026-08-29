@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او زما هم د یش heavenlyرا د زامنو غږ اورېدلی، چې مِتسرایم يې غلامي ته اچولي، او زما خپل تړون ياد کړی.",
+  "tokens": [],
+  "timestamp": "2026-08-29T02:13:52.537147718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او اوراهام ⟨את⟩ د خپل زوی نوم چې ورته زېږېدلی و، هغه چې ساره ورته زېږولی و، یېتسحاک کېښود.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "او نوم يې کېښود"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د خپل زوی"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "زېږېدلی و"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زېږولی و"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ساره"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یېتسحاک"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:50.155173563Z",
+  "model": "glm-5.3"
+}

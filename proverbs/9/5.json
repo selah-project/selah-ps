@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "«راشئ، زما ⟨the⟩ ډوډۍ وخورئ او هغه شراب وچښئ چې ما ګډ کړيدي».",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "راشئ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "وخورئ"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "زما ډوډۍ"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "او وچښئ"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "چې ما ګډ کړيدي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:02.254804752Z",
+  "model": "glm-5.3"
+}

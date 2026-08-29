@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د مړې څاروي غوړ او د ښکار شوې غوړ د هر کار لپاره کارېدلی شي، خو د خوړلو لپاره یې مه خورئ.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "او غوړ"
+    },
+    {
+      "surface": "נבلה",
+      "gloss": "مړې"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "او غوړ"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "ښکار شوې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کارېدلی شي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "خو د خوړلو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "یې خورئ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:34:44.592254960Z",
+  "model": "glm-5.3"
+}

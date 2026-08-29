@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او یاکیم، او زِخرِي، او زبدِي.",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "او یاکیم"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "او زِخرِي"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "او زبدِي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:31.038594568Z",
+  "model": "glm-5.3"
+}

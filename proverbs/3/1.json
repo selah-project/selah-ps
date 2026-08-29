@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زویه مې! زما شریعت مه هېروې، او زما فرمانونه دې ستا زړه وساتي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زویه مې"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "زما شریعت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "هېروې"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "او زما فرمانونه"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "وساتي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ستا زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:31.359515196Z",
+  "model": "glm-5.3"
+}

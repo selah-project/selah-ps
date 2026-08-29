@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "مِرایوت ⟨את⟩ امریاه وړې کړ، او امریاه ⟨את⟩ اخیټوب یې وړې کړ.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وړې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امریاه"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امریاه"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "او امریاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وړې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخیټوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیټوب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:18.281766494Z",
+  "model": "glm-5.3"
+}

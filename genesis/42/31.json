@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او هغه ته مو وویل: موږ رېښتیني یو، موږ جاسوسان نه یو.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "مو وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "رېښتیني"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوسان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:18.780668493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د دویم سیند نوم ګیحون دی — هغه دی چې ⟨את⟩ ټوله د کوش ځمکه چاپېروي.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "او د نوم"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "سیند"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "ګیحون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه دی"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "چاپېروونکی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټوله د کوش ځمکه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:23.949748041Z",
+  "model": "glm-5.3"
+}

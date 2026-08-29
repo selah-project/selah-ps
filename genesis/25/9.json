@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 25:9",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او یِتسحاک او یِشماعېل زامن يې د مکپېلا غار ته د هِتيۍ زوی صوحر د اپرون په ډګر کې هغه چې د مامرې مخې ته دی، خېښ کړه",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "خېښ کړه"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتسحاک"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "او یِشماعېل"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "غار"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "مکپېلا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ډګر"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "اپرون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "صوحر"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "هِتيۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "مامرې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:57.268781397Z",
+  "model": "glm-5.3"
+}

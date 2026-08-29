@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "ځکه چې ټول ځنګلي څاروي زما دي، او څاروي د زرو غرونو په شمول.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما دي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ځنګل"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "په غرونو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:45.709386901Z",
+  "model": "glm-5.3"
+}

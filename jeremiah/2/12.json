@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "حیران شئ، ای اسمانونه، پر دې، او ووېرېئ، ډېر وچ شئ، د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "حیران شئ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ای اسمانونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "او ووېرېئ"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "وچ شئ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د … خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:04.012904630Z",
+  "model": "glm-5.3"
+}

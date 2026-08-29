@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ما ⟨את⟩ ټول ژوندي لیدل چې تر لمر لاندې ګرزي، له دویم ځوان سره چې پر ځای به يې ودريږي.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ما ولیدل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول ژوندي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژوندي"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "چې ګرزي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له سره"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ځوان"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ودريږي"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "پر ځای يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:59.912129619Z",
+  "model": "glm-5.3"
+}

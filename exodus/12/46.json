@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "په یوه کور کې ⟨دی⟩ خوړل کېږي؛ له کوره بهر غوښه مه یووځې، او هډوکی يې مه ماتوئ.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "په کور"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوړل کېږي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "یووځې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کوره"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "او هډوکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ماتوئ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:18:29.226083313Z",
+  "model": "glm-5.3"
+}

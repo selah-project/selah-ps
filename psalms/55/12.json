@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "خرابي په مینځ کې يې ده، او له کوڅو يې ظلم او درغلي نه وځي.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "خرابي"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "په مینځ کې يې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "له کوڅو يې"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "او درغلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:26.758671461Z",
+  "model": "glm-5.3"
+}

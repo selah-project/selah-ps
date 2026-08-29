@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او په دویمه ورځ چې ⟨את⟩ ګدلیاهو يې وواژه — او هيڅ سړي نه پوهېده —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وڅرېدل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "د وژلو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګدلیاهو"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "ګدلیاهو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "او هيڅ سړی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېده"
+    }
+  ],
+  "timestamp": "2026-08-28T23:44:40.210480451Z",
+  "model": "glm-5.3"
+}

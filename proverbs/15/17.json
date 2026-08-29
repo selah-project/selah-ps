@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د شینو سبزیو خواړه او هلته مینه، د غوړ شوي غویي په شان دي خو پکې کرکه.",
+  "tokens": [],
+  "timestamp": "2026-08-29T00:57:34.474967110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او کله چې د ميانۍ ښځو ⟨את⟩ الوهيم ووېرېدلې، نو ⟨هغه⟩ ورته کورونه جوړ کړل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יראو",
+      "gloss": "ووېرېدلې"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "د ميانۍ ښځو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوهیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "کورونه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:30.054757690Z",
+  "model": "glm-5.3"
+}

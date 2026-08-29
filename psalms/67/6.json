@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 67,
+  "translation": "خلک دې ستا شکر وايي، اې الوهیم! خلک دې ستا شکر وايي — ټول يې.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ستا شکر وايي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ستا شکر وايي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:25.794397204Z",
+  "model": "glm-5.3"
+}

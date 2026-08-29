@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "د رهبر لپاره؛ د قورح د زامنو لپاره؛ يو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو لپاره"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "يو مزمور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:08.383854472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د ګېرشونيانو ← لعدان او شِمعي.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "د ګېرشونيانو"
+    },
+    {
+      "surface": "لעדן",
+      "gloss": "لعدان"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "او شِمعي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:46.868132625Z",
+  "model": "glm-5.3"
+}

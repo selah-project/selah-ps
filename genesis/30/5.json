@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او بلهاه امېندواره شوه او یعقوب ته يې ⟨يوه⟩ زوی وزېږېد.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "او امېندواره شوه"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلهاه"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "او وزېږېد"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوب ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:39.081950589Z",
+  "model": "glm-5.3"
+}

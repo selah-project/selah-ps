@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "زویِ آدمه! ونبوغه او ووایه: داسې وايي ادونای یاهوه: ژاړئ، وای — ویايَ دې ورځې!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "ونبوغه"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "او ووایه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ژاړئ"
+    },
+    {
+      "surface": "הה",
+      "gloss": "وای"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دې ورځې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:01:41.024992367Z",
+  "model": "glm-5.3"
+}

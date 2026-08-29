@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د یهودا د قبیلې له خوا: کالېب د یپونې زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې له خوا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالېب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یپونې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:20.261010187Z",
+  "model": "glm-5.3"
+}

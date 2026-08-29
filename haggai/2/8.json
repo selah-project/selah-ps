@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زما دی سپین‌زر، او زما ده زر — د یاهوه-صبایوت وینا.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "زما دی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "سپین‌زر"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "او زما ده"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د … وینا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صبایوت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:46.966564261Z",
+  "model": "glm-5.3"
+}

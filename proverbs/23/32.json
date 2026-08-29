@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "وروستوالې يې د مار غوندې چېچي، او د افعي غوندې زهر بهوي.",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "وروستوالې يې"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "د مار غوندې"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "چېچي"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "د افعي غوندې"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "زهر بهوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:10.266840958Z",
+  "model": "glm-5.3"
+}

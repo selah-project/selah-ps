@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "«څوک ناسم دی؟ دې خوا راوگرځي؛ د زړه کمه لرونکي ته وايي:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ناسم"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "راوگرځي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دې خوا"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کمه لرونکي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:11.935054698Z",
+  "model": "glm-5.3"
+}

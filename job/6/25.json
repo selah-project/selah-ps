@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 6:25",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "څومره ټینګې دي د نیکۍ خبرې! خو ستاسو ملامتيا څه ملامتوي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "נמרצו",
+      "gloss": "ټینګې دي"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "د نیکۍ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "خو څه"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ملامتوي"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ملامتيا"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ستاسو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:42.149140049Z",
+  "model": "glm-5.3"
+}

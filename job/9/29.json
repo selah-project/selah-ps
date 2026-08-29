@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "زه به مجرم وګرځم؛ ولې دا؟ په هېڅي به ستونېږم.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "مجرم وګرځم"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "په هېڅي"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "ستونېږم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:55.884548683Z",
+  "model": "glm-5.3"
+}

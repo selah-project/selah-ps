@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ښي ته او کیڼ ته مه وړېږه؛ خپله پښه له بدۍ لرې کړه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תט",
+      "gloss": "وړېږه"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ښي ته"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "او کیڼ ته"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "خپله پښه"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "له بدۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:24.681945181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یوایل، او یِهو د یوشَبیا زوی، د سِرایا زوی، د عَسیایل زوی.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "او یوایل"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "او یِهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "یوشَبیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سِرایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "عَسیایل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:06.885100311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "نو ما د خپل زړه د ⟨את⟩ زړه ناهیلي ته ورسېدم، د ټول هغه زحمت له امله چې مې تر لمر لاندې کړی و.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "نو ما وګرځېدم\/ورسېدم مې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ناهیلي ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زړه"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "د ... له امله"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "هغه زحمت"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "چې مې کړی و"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:57.783550651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه چې ته ⟨هغه⟩ ال یې نه یې چې د بدکارۍ خوښوي، بدې سره دې نه شي اوسېدلی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوښوي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکاري"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته یې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "له تا سره اوسېدل شي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:39.295217249Z",
+  "model": "glm-5.3"
+}

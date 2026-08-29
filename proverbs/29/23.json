@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د سړي تکبر هغه ټیټوي، خو ویاړ ټیټ-روحه سړي ته ملاتړ کوي.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "تکبر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "هغه ټیټوي"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "خو ټیټ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ملاتړ کوي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ویاړ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:48.022019315Z",
+  "model": "glm-5.3"
+}

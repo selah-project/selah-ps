@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د هر هغه څاروي بڼه چې په ځمکه کې ⟨ه›، د هر وزلې لرونکي مرغئ بڼه چې په اسمانونو کې الوزي،",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "بڼه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "بڼه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "مرغئ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "وزلې لرونکی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "وزي"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "په اسمانونو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:35.422183661Z",
+  "model": "glm-5.3"
+}

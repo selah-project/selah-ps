@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د الوهیم ⟨את⟩ کار وګوره، ځکه څوک توانیږي هغه سم کړي چې ⟨את⟩ هغه يې کږ کړی دی؟",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کار"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "توانیږي"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "سم کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه چې کږ کړی دی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "کږ کړی دی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:41.500457272Z",
+  "model": "glm-5.3"
+}

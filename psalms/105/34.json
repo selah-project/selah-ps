@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "هغه وويل، نو ژبې راغلې او هګۍ اچوونکي ژبې، بې شمېره.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راغلې"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ژبې"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "هګۍ اچوونکي ژبې"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "بې"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:02.728599413Z",
+  "model": "glm-5.3"
+}

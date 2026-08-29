@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "نو دوی ټول یوځای راټول شول، چې د یِهوشُعې او د ییسرائل سره وجنګېږي — یوه خوله.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "راټول شول"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "چې وجنګېږي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشُعې"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "او سره"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائل"
+    },
+    {
+      "surface": "פה",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:53.178163244Z",
+  "model": "glm-5.3"
+}

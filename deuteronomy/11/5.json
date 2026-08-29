@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هغه څه چې ستاسو لپاره يې په بېديا کې وکړل، تر هغه چې تاسو رارسېدلاست د دې ځای ته،",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "او هغه څه چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يې وکړل"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بېديا کې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "چې تاسو رارسېدلاست"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "د ځای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:18.392424318Z",
+  "model": "glm-5.3"
+}

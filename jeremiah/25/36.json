@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 25:36",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د روغونو د چیغو غږ او د ډېرویو مشرانو ژړا، ځکه یاهوه ⟨את⟩ د دوی څړځای ویجاړوي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "د چیغو"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "روغونو"
+    },
+    {
+      "surface": "ויללת",
+      "gloss": "او ژړا"
+    },
+    {
+      "surface": "אדירי",
+      "gloss": "د ډېرویو مشرانو"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "د ډېرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ویجاړوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دوی څړځای"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "د دوی څړځای"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:08.253216284Z",
+  "model": "glm-5.3"
+}

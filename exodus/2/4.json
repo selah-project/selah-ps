@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او خور يې له لرې ودرېده، ⟨ترڅو⟩ پوه شي چې ورسره څه کېږي.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ودرېده"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خور يې"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "له لرې"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "پوه شي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کېږي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:46.493000284Z",
+  "model": "glm-5.3"
+}

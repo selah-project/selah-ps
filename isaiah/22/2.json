@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "شورونو ډکه، ښار ⟨دې⟩ غږیږي، خوښ ښار: دې وژل شوي د تورې نه وژل شوي او نه د جګړې مړه دي.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "شورونو"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکه"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "غږیږي"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ښار (کریه)"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "خوښ"
+    },
+    {
+      "surface": "חלالיך",
+      "gloss": "دې وژل شوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "وژل شوي"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تورې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "مړه"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جګړې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:08.441317975Z",
+  "model": "glm-5.3"
+}

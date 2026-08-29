@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ښه ده د سړي لپاره چې غاړګۍ په خپله ځوانۍ کې په غاړه واخلي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "د سړي لپاره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "په غاړه واخلي"
+    },
+    {
+      "surface": "על",
+      "gloss": "غاړګۍ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "په خپله ځوانۍ کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.572535456Z",
+  "model": "glm-5.3"
+}

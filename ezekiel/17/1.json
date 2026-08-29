@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 17:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او د یاهوه خبر راته راغی ⟨چې وايي⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وړاندې شو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:35:45.928608723Z",
+  "model": "glm-5.3"
+}

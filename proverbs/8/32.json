@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او اوس، زامنو، ما واورئ، او هغلکه چې زما لارې ساتي خوشحاله دي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "او خوشحاله"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "زما لارې"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ساتي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:34.079678762Z",
+  "model": "glm-5.3"
+}

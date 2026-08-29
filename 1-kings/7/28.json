@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او دا وو د چوکۍ جوړښت: دوی ته حاشیې وې، او حاشیې د تختو ترمنځ وې.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "جوړښت"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "د چوکۍ"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "حاشیې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دوی ته"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "او حاشیې"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ترمنځ"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "د تختو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:53:40.732221256Z",
+  "model": "glm-5.3"
+}

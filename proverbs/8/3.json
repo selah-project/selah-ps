@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "د دروازو په څنډه کې، د ښار په خوله کې، د دروازو د ننوتو ځای ته غږ کوي",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "په څنډه کې"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "په خوله کې"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "د ننوتو ځای"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "غږ کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:25.313462119Z",
+  "model": "glm-5.3"
+}

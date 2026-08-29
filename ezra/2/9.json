@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د زَکّای زامن — اوه سوه او شپېته.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "زَکّای"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:59.058316326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "خپلې پېغلې یې ولېږلې، غږ کوي — د ښار د لوړو څوکو پر سر.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "ولېږلې"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "خپلې پېغلې"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "غږ کوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "د سر"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "لوړو څوکو"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ښار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:11.934952318Z",
+  "model": "glm-5.3"
+}

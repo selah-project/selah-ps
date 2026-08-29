@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "آيا د ډېرو خبرو بدرګه نه ده ځوابېدونکې؟ او که چا د شونډو خاوند وي، ايا هغه به Righteous وګڼل شي؟",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "ډېرو"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "خبرو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ځوابېدونکې"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "איש",
+      "gloss": "چا"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "د شونډو خاوند"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "Righteous وګڼل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:52.505694483Z",
+  "model": "glm-5.3"
+}

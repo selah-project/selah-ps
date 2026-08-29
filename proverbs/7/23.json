@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "تر دې چې یوه تېره يې ځګ پرې کا؛ لکه مرغه چې په چټکۍ ځغلي ورځنۍ ته، او نه پوهېږي چې دا د هغه د ژوند پر وړاندې ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر دې چې"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "پرې کا"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "تېره"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "يې ځګ"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "لکه… په چټکۍ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "مرغه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ته"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ورځنۍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "د هغه د ژوند پر وړاندې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:17.718104169Z",
+  "model": "glm-5.3"
+}

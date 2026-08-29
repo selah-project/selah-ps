@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ډېر ملتونه به پر دې ښار تېر شي، او هرڅوک به خپل ملګري ته ووايي: «یاهوه داسې ولې وکړل دې لوی ښار سره؟»",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "به تېر شي"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "او به ووايي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هرڅوک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "خپل ملګري"
+    },
+    {
+      "surface": "על",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ښار سره"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:36:31.212140044Z",
+  "model": "glm-5.3"
+}

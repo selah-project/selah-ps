@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "هېڅ کرږه خواړه مه خورئ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خورئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "کرږه شی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:36.920506618Z",
+  "model": "glm-5.3"
+}

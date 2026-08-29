@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "دوی پر یاهوه دروغ تړلي او ویې ویل: هغه نه دی، او زموږ پر سر به بدۍ نه راځي، توره او لوږه به ونه ګورو.",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "دروغ یې تړلي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "پر یاهوه"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه دی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "زموږ پر سر"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "لوږه"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ګورو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:11.806245166Z",
+  "model": "glm-5.3"
+}

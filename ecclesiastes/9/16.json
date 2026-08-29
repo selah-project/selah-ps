@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ما وویل: حکمت له زوره غوره دی؛ خو د غریب حکمت سپک شوی، او د هغه خبرې اورېدل نه کېږي.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "او ما وویل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "له زوره"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "خو حکمت"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "د غریب"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "سپک شوی"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "او د هغه خبرې"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "نه دي"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "اورېدل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:03.730853543Z",
+  "model": "glm-5.3"
+}

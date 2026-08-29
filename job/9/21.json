@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "بې-ګناه زه یم؛ خپله ښه-خپل نفس نه پېژنم، خپل ژوند سپکوم.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "بې-ګناه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه یم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "پېژنم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "خپل نفس"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "سپکوم"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "خپل ژوند"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:08.062457581Z",
+  "model": "glm-5.3"
+}

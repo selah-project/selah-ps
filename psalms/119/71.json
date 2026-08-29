@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما لپاره ښه وه چې زه وځورېدم، تر څو ستا حکمونه زده کړم.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "وځورېدم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تر څو"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "زده کړم"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا حکمونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:13.541741333Z",
+  "model": "glm-5.3"
+}

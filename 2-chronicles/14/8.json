@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او پر دوی زراق کوشي د زره زره سرتېرو پوځ او درې سوه د اس عربانو سره ووت او تر ماریشا يې رارسېدل.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ووت يې"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "پر دوی"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زراق"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "کوشي (حبشي)"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "په پوځ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "او د اس عربانې"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او رارسېدل يې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ماریشا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:41.861728191Z",
+  "model": "glm-5.3"
+}

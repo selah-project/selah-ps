@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "همدا هغه خبره ده چې ما فرعون ته ووایه: هغه څه چې الوهیم کوي، ⟨את⟩ فرعون ته يې ښکاره کړي دي.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ما ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ښکاره کړي دي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:03.988572911Z",
+  "model": "glm-5.3"
+}

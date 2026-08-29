@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه چې زه یاهوه یم، بدلون نه مومم، او تاسې د یعقوب زامن یاست، نه یاست ختم شوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "بدلون نه مومم"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "او تاسې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "ختم شوي یاست"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:33.283547945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "jeremiah 50:46",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "د بابل د نیولو له غږه ځمکه وترول شوه، او چیغه په ملتونو کې واورېدل شوه.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "له غږ"
+    },
+    {
+      "surface": "נתפשה",
+      "gloss": "نیول شوې"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "נרעשה",
+      "gloss": "وترول شوه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "וזעקה",
+      "gloss": "او چیغه"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "په ملتونو کې"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "واورېدل شوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:36.302154200Z",
+  "model": "glm-5.3"
+}

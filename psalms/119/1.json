@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "څومره خوښ دي د لارې بشپړان، چې په یاهوه ⟨د⟩ تورات کې ګرځي.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "څومره خوښ دي"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "بشپړان"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "د لارې"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "چې ګرځي"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "په ⟨د⟩ تورات کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:42.796333389Z",
+  "model": "glm-5.3"
+}

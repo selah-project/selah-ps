@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 98,
+  "translation": "په شوپرونو او د شوفار په غږ، شور ووهئ د پاچا ياهوه مخې ته.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "په شوپرونو"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "او د…غږ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "شور ووهئ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:25.128622160Z",
+  "model": "glm-5.3"
+}

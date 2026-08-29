@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "پلرونه به د زامنو پر سر نه وژل کېږي، او زامن به د پلرونو پر سر نه وژل کېږي؛ هرڅوک به په خپله ګناه وژل کېږي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "وژل کېږي"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پلرونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "وژل کېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پلرونو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هرڅوک"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "په خپله ګناه"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "وژل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:44.144147114Z",
+  "model": "glm-5.3"
+}

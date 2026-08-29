@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او له اشور د پاچا له لاس څخه به دې خلاص کړم، او ⟨את⟩ دا ښار، او پر دا ښار به سپر شم.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "او له لاس څخه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "به دې خلاص کړم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دا ښار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "دا ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "او به سپر شم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:26.661570721Z",
+  "model": "glm-5.3"
+}

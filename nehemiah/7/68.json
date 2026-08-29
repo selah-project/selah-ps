@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "اوښان څلور سوه دیرش پنځه، خره شپږ زره اوه سوه شل ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "اوښان"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دیرش"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "خره"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:01.332091024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه چې ډېرې خبرې شته چې هېبېل ډېروي؛ ادم ته څه ګټه ده؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ډېروي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېبېل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ادم ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:29.193477115Z",
+  "model": "glm-5.3"
+}

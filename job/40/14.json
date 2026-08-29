@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 40:14",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "بيا زه به هم ستا اعتراف وکړم، چې ستا ښی لاس ځانته ژغورلی شي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "بيا هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ستا اعتراف وکړم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "ژغورلی شي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ښی لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:06.627956350Z",
+  "model": "glm-5.3"
+}

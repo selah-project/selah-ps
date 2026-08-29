@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "زما زویه، که ګناهګار دې وهڅوي، مه يې منې.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زما زویه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "دې وهڅوي"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ګناهګار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "يې منې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:53.347950644Z",
+  "model": "glm-5.3"
+}

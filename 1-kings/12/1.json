@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "نو رحبعم شکیم ته ولاړ، ځکه شکیم ته ټول یسرایل راغلی وو چې ⟨את⟩ هغه پاچا کړي.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعم"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکیم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "پاچا کړي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:48.255300192Z",
+  "model": "glm-5.3"
+}

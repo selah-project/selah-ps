@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "داسې وايي ادونای یاهوه: هغسې چې ټوله ځمکه خوښي کوي، ويجاړي به پرې وکړم د تا د ويجاړۍ د پاره.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "هغسې چې خوښي کوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ويجاړي"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "به وکړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "د تا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:43.834920339Z",
+  "model": "glm-5.3"
+}

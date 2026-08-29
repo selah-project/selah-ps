@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "ته پېژندې زما ناسته او زما پاڅېدل؛ ته فهموې زما فکر له لرې څخه.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پېژندې"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "زما ناسته"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "او زما پاڅېدل"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "فهموې"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "زما فکر"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "له لرې څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:07.741718912Z",
+  "model": "glm-5.3"
+}

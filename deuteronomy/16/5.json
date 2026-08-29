@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "نه شې کولی چې ⟨את⟩ پسح ذبح کړې په یوه کې د خپلو دروازو، هغه چې یاهوه ستا الوهیم دې ته درکوي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "شې کولی"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "چې ذبح کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پسح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "په یوه کې"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "د خپلو دروازو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:53.895303759Z",
+  "model": "glm-5.3"
+}

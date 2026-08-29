@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "زما زړه یو ښه خبر راوځوي، زما کړنې د پاچا لپاره وایم؛ زما ژبه د چټک لیکونکي قلم دی.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "راوځوي (مورېږي)"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "یو خبر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وایم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "زما کړنې"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "د پاچا لپاره"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "زما ژبه"
+    },
+    {
+      "surface": "עט",
+      "gloss": "قلم"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "لیکونکي"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "چټک"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:07.315332158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "یاهوه د هغوی ځواک دی، او د خلاصونونو کلا د هغه د ماشیاخ ده — هغه دی.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "למו",
+      "gloss": "د هغوی"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "او کلا"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "خلاصونونو د"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "د هغه ماشیاخ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:03.460043276Z",
+  "model": "glm-5.3"
+}

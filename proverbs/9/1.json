@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "حکمت خپل کور جوړ کړ، خپلې ستنې یې اوې کړې — اووه.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "جوړ کړ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "خپل کور"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "اوې کړې"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "خپلې ستنې"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اووه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:11.934629096Z",
+  "model": "glm-5.3"
+}

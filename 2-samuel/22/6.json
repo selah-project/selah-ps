@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د شیول رسۍ راچاپېرې کړې؛ د مړینې ډالدې مخامخ مې راغلې.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "رسۍ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "د شیول"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "راچاپېرې کړې"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "مخامخ مې راغلې"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "ډالدې"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مړینې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:13.598813806Z",
+  "model": "glm-5.3"
+}

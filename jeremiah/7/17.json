@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ای ته نه وینې چې دا څه کوي — په یهودا په ښارونو او د یروشلایم په کوڅو کې؟",
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "ای... نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وینې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "په ښارونو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "او په کوڅو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:33.296268142Z",
+  "model": "glm-5.3"
+}

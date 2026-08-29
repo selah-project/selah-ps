@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ونا! زه د تا په شان د ایل مخامخ یم؛ له خټې بڼه راکړ شوې، زه هم.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ونا!"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "د تا په شان"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "د ایل مخامخ"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "له خټې"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "بڼه راکړ شوې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:13.681097783Z",
+  "model": "glm-5.3"
+}

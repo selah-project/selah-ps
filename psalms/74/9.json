@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 74,
+  "translation": "زموږ نښانې نه وینو؛ نور نبي نشته، او ⟨את⟩ موږ سره هېڅوک نه دی چې پوه شي تر کله.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "زموږ نښانې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "وینو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "موږ سره"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوه شي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:25.823385128Z",
+  "model": "glm-5.3"
+}

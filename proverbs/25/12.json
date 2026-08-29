@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د سرو زرو غوږۍ او د خالصو زرو زیور — حکیم نقد کوونکی د اورېدونکي غوږ لپاره.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "غوږۍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "د سرو زرو"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "او زیور"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "خالص زر"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "نقد کوونکی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "د…لپاره"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "اورېدونکي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:32.230858384Z",
+  "model": "glm-5.3"
+}

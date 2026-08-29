@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "یوه بدي شېوه مې لیدلې ده ⟨د⟩ لمر لاندې، د ⟨هغه⟩ غلطۍ په څېر چې د واکمن له مخې وزېږېدلې.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "لیدلې مې ده"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "د غلطۍ په څېر"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "چې وزېږېدلې"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "واکمن"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:00.388900991Z",
+  "model": "glm-5.3"
+}

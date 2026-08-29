@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "له هغه ځایه يې سفر وکړ او د زارد په دره کې يې خيمې ودرولې.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "سفر يې وکړ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خيمې يې ودرولې"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "په دره کې"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زارد"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:08.512849047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او موشې وویل: سم خبر دې وکړ؛ نور به ⟨את⟩ ستا مخ وانه ګورم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "سم"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "دې وکړ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "نور زیاتوم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "د ګورلو"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:16:29.031393979Z",
+  "model": "glm-5.3"
+}

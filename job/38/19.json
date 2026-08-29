@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "چېرته دا لار ده چې رڼا پکې اوسيږي؟ او تیارتیا — چېرته دی د هغه ځای؟",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "اوسيږي"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "او تیارتیا"
+    },
+    {
+      "surface": "אי",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دی"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "د هغه ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:48.807687423Z",
+  "model": "glm-5.3"
+}

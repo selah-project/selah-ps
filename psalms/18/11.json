@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "هغه پر کروب سپر شو او الوتلو يې، پر د باد پر وزو يې الوتنه وکړه.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "سپر شو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "وיעף",
+      "gloss": "الوتلو"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "الوتنه وکړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "د وزو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:36.928460009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 18:14",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "ځکه دغه ملتونه چې ته ⟨את⟩ دوی ځای نیسې، د ورپېژندونکو او طالع‌بینو خبرې اوري؛ خو ته ته یاهوه، ستا الوهیم، داسې نه دي درکړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دغه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ځای نیسې"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "מעננים",
+      "gloss": "ورپېژندونکو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او له"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "طالع‌بینو"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "خو ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکړي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:28.747283348Z",
+  "model": "glm-5.3"
+}

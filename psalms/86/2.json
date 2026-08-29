@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 86,
+  "translation": "زما سا وساته، ځکه چې زه خېسېد یم — ستا بنده وتړه چې پر تا ډاډمن دی، ته زما الوهیم يې.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "وساته"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما سا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "وتړه"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا بنده"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "ډاډمن"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "پر تا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:38.995661967Z",
+  "model": "glm-5.3"
+}

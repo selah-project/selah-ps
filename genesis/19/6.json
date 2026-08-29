@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او لوت د دروازې خولې ته ورته ووت او دروازه یې تر ځان وروسته وتړله.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوت"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "د دروازې خولې ته"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "او دروازه"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "وتړله"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "تر ځان وروسته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:13.895667330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 2:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او شېشان خپله لور ⟨את⟩ خپل غلام یَرْحاع ته په ښځه ورکړه، او هغې ورته ⟨את⟩ عَتای وزېږوه.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ورکړه"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "شېشان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله لور"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "خپله لور"
+    },
+    {
+      "surface": "לירחע",
+      "gloss": "یَرْحاع ته"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خپل غلام"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "په ښځه"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وزېږوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَتای"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "عَتای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:18.973539177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د هغوی مېشتون د مِشا څخه و، د سفر په لور تللې، د ختيځ غرونو ته.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وو"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "مېشتون"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "له مِشا څخه"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "په لور تللې"
+    },
+    {
+      "surface": "سפרה",
+      "gloss": "سفر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ختيز"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:05.244262442Z",
+  "model": "glm-5.3"
+}

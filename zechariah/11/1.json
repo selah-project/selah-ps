@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "لوبنان! خپلې دروازې پرانیزه، او اور دې په اردکو کې وخورېږي.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "پرانیزه"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لوبنان"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "خپلې دروازې"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "او وخورېږي"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "په اردکو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:02.255410977Z",
+  "model": "glm-5.3"
+}

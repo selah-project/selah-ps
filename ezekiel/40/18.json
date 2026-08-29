@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 40:18",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او فرش د دروازو اوږو ته و، د دروازو د اوږدوالي مقابله — هماغه ښکتنۍ فرش.",
+  "tokens": [
+    {
+      "surface": "והרצפה",
+      "gloss": "او فرش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "اوږه"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "د دروازو"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "مقابله"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "د اوږدوالي"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "د دروازو"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "فرش"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ښکتنۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:17.544606429Z",
+  "model": "glm-5.3"
+}

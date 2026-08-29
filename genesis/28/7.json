@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او چې یعقوب خپل پلار ته او خپلې مور ته غوږ ونیوه او پَدَن-ارام ته ولاړ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "غوږ ونیوه (واورېدل)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته (پلار)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ته (مور)"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "خپلې مور"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پَدَن"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:44.625432007Z",
+  "model": "glm-5.3"
+}

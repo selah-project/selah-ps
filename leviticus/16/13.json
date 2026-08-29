@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او به ⟨את⟩ بوی خوشو پر اور کېږدي، د یاهوه په مخ کې؛ او به د بوی خوشو ورېځ ⟨את⟩ کفوره پوښلې چې ⟨د⟩ شهادت پرې ده، او نه به مري.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "کېږدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوی خوشو"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "بوی خوشو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په مخ کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "پوښلې"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ورېځ"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "د بوی خوشو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفوره"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفوره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "شهادت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:39.674389523Z",
+  "model": "glm-5.3"
+}

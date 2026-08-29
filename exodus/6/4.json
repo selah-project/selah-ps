@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او زما تړون ⟨את⟩ مې هم له ⟨them⟩ سره ټینګ کړی، چې ⟨them⟩ ته به ⟨את⟩ د کنعان ځمکه ورکړم، ⟨את⟩ د دوی د مېشتو ځمکه چې ⟨they⟩ پکې پردیان وو.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ټینگ کوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما تړون"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "زما تړون"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ سره"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "چې ورکړم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د کنعان ځمکه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دوی د مېشتو ځمکه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "د دوی د مېشتو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "پردیان وو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پکې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:16:27.816674041Z",
+  "model": "glm-5.3"
+}

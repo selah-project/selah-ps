@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "نو هغه پر دوی خپله لاس پورته کړ، چې دوی په بادیا کې راغورځوي،",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "پورته کړ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپله لاس"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پر دوی"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "چې راغورځوي"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بادیا کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:34.958543922Z",
+  "model": "glm-5.3"
+}

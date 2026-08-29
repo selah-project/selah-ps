@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 11:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "هغه چې له سهه څخه ښه لټوي، رضا ترلاسه کوي؛ خو هغه چې بد لټوي، دا به پرې راځي.",
+  "tokens": [
+    {
+      "surface": "שחר",
+      "gloss": "له سهه څخه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "لټوي"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "خو هغه چې لټوي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "به پرې راځي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:21.087449745Z",
+  "model": "glm-5.3"
+}

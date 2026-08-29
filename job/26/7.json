@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "شمال ⟨پر⟩ توها (تشوالي) پراخوي او ځمکه ⟨پر⟩ هېڅ څه نه ځړوي (معلق ساتي)",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "پراخوي"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "توها (تشوالي)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "ځړوي\/معلق ساتي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "هېڅ څه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:09.535149414Z",
+  "model": "glm-5.3"
+}

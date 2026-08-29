@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 77,
+  "translation": "ته د زما د سترګو ساتنې نيولې وې؛ زه ولړزېدم او نه شم خبرې کولی.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "نيولې وې"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ساتنې"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "د زما د سترګو"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "لړزېدم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "خبرې کولی شم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:28.047652943Z",
+  "model": "glm-5.3"
+}

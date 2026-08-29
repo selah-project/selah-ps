@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "یِدِیعایل د شِمري زوی، او یوها يې ورور، تِزیټی،",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "یِدِیعایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمري"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "او یوها"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "يې ورور"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "تِزیټی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:59.832035265Z",
+  "model": "glm-5.3"
+}

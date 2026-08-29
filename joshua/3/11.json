@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "کتابه! د تړون صندوق — د ټولې ځمکې ادون — ستاسو د مخه په اردن کې تېرېږي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "کتابه"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "د تړون"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېرېږي"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ستاسو د مخه"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "په اردن کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:31.478629227Z",
+  "model": "glm-5.3"
+}

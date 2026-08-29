@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 129,
+  "translation": "دې وي لکه د بامونو وچه، چې له دې چې لیک受力 وځي، ورچه شي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "دې وي"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "لکه وچه"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "د بامونو"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "چې له دې چې"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "لیک受力 وځي"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ورچه شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:23.430328731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "یا تورتیا ده چې ته يې نه وینې، او د اوبو ډېرښت دې پوښلی.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تورتیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "وینې"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "او ډېرښت"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "پوښلی دې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:36.033584373Z",
+  "model": "glm-5.3"
+}

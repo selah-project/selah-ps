@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او د عربا په وړاندې، شمال لور ته، غاړې ته تېر شو، او عربا ته راکوز شو.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "او تېر شو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "غاړې"
+    },
+    {
+      "surface": "מול",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عربا"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمال لور ته"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "او راکوز شو"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "عربا ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:12.785293305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,145 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 29:32",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "«نو دا داسې وايي یاهوه: زه به شمعیا نحلامي او د هغه نسل ته سزا ورکړم؛ هغه به د دې قوم په منځ کې کېدونکی یو تن نه ولري، او هغه به هغه ښېګڼه ونه ويني چې زه يې زما قوم ته کوم — د یاهوه خبره — ځکه چې هغه د یاهوه پر against بغاوت وویل.»",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "زه (اً)"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "سزا ورکړم"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعیا"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "نحلامي"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او … ته"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "د هغه نسل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "איש",
+      "gloss": "تن"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسېدونکی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יראه",
+      "gloss": "به وويني"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ښېګڼه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "زما قوم ته"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر against"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:23.060247130Z",
+  "model": "glm-5.3"
+}

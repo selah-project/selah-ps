@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 61,
+  "translation": "د پاچا پر ورځو دې ورځې زیاتې کړې؛ د ده کلونه د نسل پر نسل وي.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "عל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "زیاتې کړې"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "د ده کلونه"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "د"
+    },
+    {
+      "surface": "דר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "پر نسل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:46.339507012Z",
+  "model": "glm-5.3"
+}

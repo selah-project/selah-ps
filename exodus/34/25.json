@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "له خمیر سره د زما قربانۍ وینه مه ذبحوې، او د پسح د اختر قرباني تر سهاره مه پاتېږي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "مه ذبحوې"
+    },
+    {
+      "surface": "על",
+      "gloss": "سره (له...سره)"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "زما قرباني"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "مه پاتېږي"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "تر سهاره"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "חג",
+      "gloss": "د اختر"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:54.686816009Z",
+  "model": "glm-5.3"
+}

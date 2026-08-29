@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "زهکت کوونکی، پړسیدلی — د هغه نوم لټځی دی، هغه چې د زهکۍ په قهر کار کوي.",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "زهکت کوونکی"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "پړسیدلی"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "لټځی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "کار کوي"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "په قهر"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "د زهکۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:24.832843277Z",
+  "model": "glm-5.3"
+}

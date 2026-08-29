@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او اوس راشه، زه او ته يو تړون پرېکوو، او هغه به زموږ دواړو ترمنځ گواه وي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "راشه"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "پرېکوو"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "او هغه به وي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "گواه"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "زما"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "او ستا ترمنځ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:02.261341147Z",
+  "model": "glm-5.3"
+}

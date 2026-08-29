@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ته به دروغ وړونکي هلاک کړې؛ د وینو او درغلي سړی یاهوه کرې.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "ته به هلاک کړې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "وړونکي"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "د وینو"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "او درغلي"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "کرې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:39.295567374Z",
+  "model": "glm-5.3"
+}

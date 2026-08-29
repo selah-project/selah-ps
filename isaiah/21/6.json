@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "ځکه چې هغاسې ادونای ⟨⟩ راته وویل: ځه، کتونکی ودرويه، څه چې ویني يې ووایي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כה",
+      "gloss": "هغاسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ځه"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ودرويه"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "کتونکی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "څه چې"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ووایي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:01.235953212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "نو هغه وویل: دا د غوړو دوه زامن دي، چې د ټولې ځمکې د ادون <⟨are-the⟩> درېدلي ⟨دیان⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "نو هغه وویل"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "غوړو (د غوړو) ⟨the⟩"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "درېدلي"
+    },
+    {
+      "surface": "על",
+      "gloss": "د … په څنګ کې \/ د"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادون"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې ⟨the⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:05.611452772Z",
+  "model": "glm-5.3"
+}

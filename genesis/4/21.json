@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د هغه د ورور نوم یوبال و؛ هغه د ټولو هغو چا پلار شو چې کنور او عوګاب نیسي.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د هغه د ورور"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوبال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و \/ شو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "نیونکي"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کنور"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "او عوګاب"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:51.409454123Z",
+  "model": "glm-5.3"
+}

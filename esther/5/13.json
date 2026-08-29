@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "خو ټول دا ⟨دا⟩ ماته هیڅ ګټه نه لري، په هر هغه وخت چې زه ⟨את⟩ مُردخای یهودي د پاچا په دروازه کې ناست وینم.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "خو ټول"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه (دی)"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "ګټه لري"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وینم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُردخای"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردخای"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "یهودي"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ناست"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "په دروازه کې"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:27:14.633201546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او پاچا راته وویل: نو ته د دې لپاره څه غواړې؟ نو ما د اسمانونو د الوهیم پر وړاندې دعا وکړه،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "د ... لپاره"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "مבקש",
+      "gloss": "غواړې"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "او دعا مې وکړه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "د اسمانونو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:32.747636582Z",
+  "model": "glm-5.3"
+}

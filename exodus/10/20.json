@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 10:20",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "خو یاهوه (رب) د فرعون ⟨את⟩ زړه کلک کړ، او هغه د اسرائیلو زامن ⟨את⟩ نه شول لېږدولې.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "کلک کړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زړه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "لېږدولې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د اسرائیلو زامن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:17:25.509058722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د بګوای زامن — دوه زره پنځوس او شپږ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بګوای"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوه زره"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "او شپږ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:15.616042444Z",
+  "model": "glm-5.3"
+}

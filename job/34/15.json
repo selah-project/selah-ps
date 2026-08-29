@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "ټوله غوښه به یوځای مړه شي، او انسان به خاورو ته راستون شي.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "مړه شي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "او انسان"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاورو"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "راستون شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:54.654860995Z",
+  "model": "glm-5.3"
+}

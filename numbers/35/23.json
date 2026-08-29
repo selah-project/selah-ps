@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 35:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "يا په هره داسې تېږه چې له هغې ښايي مړ شي، بې له ليدو يې پرې وغورځوي او هغه ومړ، خو هغه دې دښمن نه و او نه يې د هغه بدنه لټوله —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هره"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "تېږه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مړ کېدای شي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "له هغې"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ليدو"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "او وغورځوله يې"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او ومړ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "خو هغه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "دې ورته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "لټونکی"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "د هغه بدنه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:50.580462992Z",
+  "model": "glm-5.3"
+}

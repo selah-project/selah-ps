@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "مشوره ← زما ده او بې-ننګه پوهه ←؛ زه ← پوهه یم؛ زوروالی ← زما دی.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشوره"
+    },
+    {
+      "surface": "וותושיה",
+      "gloss": "او بې-ننګه پوهه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "زوروالی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:07.850652416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "آتِر، حِزقیا، عزّور،",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "آتِر"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "حِزقیا"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "عزّور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:45.300000395Z",
+  "model": "glm-5.3"
+}

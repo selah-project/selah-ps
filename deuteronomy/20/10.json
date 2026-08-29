@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "کله چې يو ښار ته ورنږدې شې چې پرې وجنګېږې، نو هغه ته به د سولې بلنه وکړې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ورنږدې شې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "يو ښار"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "چې وجنګېږې"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "نو به بلنه وکړې"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "د سولې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:32.601434889Z",
+  "model": "glm-5.3"
+}

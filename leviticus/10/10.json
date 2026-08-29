@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او چې بېل کړئ تر منځ ⟨the⟩ مقدس او تر منځ عادي، او تر منځ نجس او تر منځ پاک.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "او چې بېل کړئ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "تر منځ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او تر منځ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "عادي"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او تر منځ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او تر منځ"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-08-28T21:39:05.320852126Z",
+  "model": "glm-5.3"
+}

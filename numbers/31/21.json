@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 31:21",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او اِلعازار کاهن وویل د هغه پوځ سړیو ته چې جګړې ته راتلل: دا د شریعت حکم دی چې یاهوه ⟨את⟩ موشې ته یې فرمان کړی دی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړیو"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "د پوځ"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "راتلل"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جګړې ته"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "د شریعت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:15.296760250Z",
+  "model": "glm-5.3"
+}

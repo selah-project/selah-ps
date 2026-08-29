@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "بېداره پاتې شوم او لکه یوازې مرغه د چت پر سر شوم.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "بېداره پاتې شوم"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "او شوم"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "لکه مرغه"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גג",
+      "gloss": "چت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:25.073391832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د شتمن کېدو لپاره مه ستړې کېږه — له دې پوهې دې ودرېږه",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "ستړې کېږه"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "د شتمن کېدو لپاره"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "له دې پوهې دې"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ودرېږه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:59.102178036Z",
+  "model": "glm-5.3"
+}

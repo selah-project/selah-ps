@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 108,
+  "translation": "ای الوهیم، په اسمانونو لوړ شې، او ستا جلال پر ټوله ځمکه وي.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "لوړ شې"
+    },
+    {
+      "surface": "על",
+      "gloss": "په … لوړ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ستا جلال"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:56.993851080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 33:23",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "که پر هغه يو استازی وي، يو ژباړن، له زره يو، چې سړي ته د هغه سموالي ووايي،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יש",
+      "gloss": "وي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "استازی"
+    },
+    {
+      "surface": "מליץ",
+      "gloss": "ژباړن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "سړي ته"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "سموالی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:33.852572283Z",
+  "model": "glm-5.3"
+}

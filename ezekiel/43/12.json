@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "دا د کور شريعت دې: پر د غره سر ټوله پوله يې چاپېر چاپېر د مقدسانو مقدس ده؛ پام کوه، دا د کور شريعت دې.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شريعت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "د غره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "پوله يې"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "د مقدسانو مقدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "د مقدسانو مقدس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "پام کوه"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شريعت"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:58.996302753Z",
+  "model": "glm-5.3"
+}

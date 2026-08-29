@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "هغه بار چې حَبَقّوق ⟨ه⟩ نبي لیدلی دی.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "لیدلی دی"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "حَبَقّوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:58.861554684Z",
+  "model": "glm-5.3"
+}

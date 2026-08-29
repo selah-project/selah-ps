@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د یوسف کور هم دوی پورته وخوځېدل بیت-ایل ته، او یاهوه د هغوی سره ؤ.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "پورته وخوځېدل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "د هغوی سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:05.825530755Z",
+  "model": "glm-5.3"
+}

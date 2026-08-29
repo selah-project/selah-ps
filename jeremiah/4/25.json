@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "مې کتله او ویې، انسان نشته و، او د اسمانونو ټول الوتکو الوزېدل.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "مې کتله"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ویې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "الوتک"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "د اسمانونو"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "وزېدل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:41.246906749Z",
+  "model": "glm-5.3"
+}

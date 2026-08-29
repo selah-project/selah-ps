@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "موشې ⟨את⟩ لویان — چې د یاهوه د تړون صندوق وړونکي دي — حکم وکړ، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم وکړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "وړونکي"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:54.345898250Z",
+  "model": "glm-5.3"
+}

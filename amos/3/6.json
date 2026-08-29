@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "که شاپر په ښار کې اوښۍ شي، اي خلک وېرېږي؟ که په ښار کې بدي وي، اي یاهوه نه وي يې کړې؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "اوښۍ شي"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شاپر"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "او خلک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחרدו",
+      "gloss": "وېرېږي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "رעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "او یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:14:00.412390056Z",
+  "model": "glm-5.3"
+}

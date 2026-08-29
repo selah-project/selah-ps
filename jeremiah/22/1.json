@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "دا ډول ویل یاهوه: ښکته شه د یهودا د پاچا کور ته، او هلته ووايه ⟨את⟩ دا خبره،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "دا ډول"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ښکته شه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور ته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "او ووايه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا خبره"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:36:47.547973042Z",
+  "model": "glm-5.3"
+}

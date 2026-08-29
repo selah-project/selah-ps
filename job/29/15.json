@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د ړوندو سترګې وم، او د لنگېدونکو پښې — زه يم.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وم"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "د ړوندو"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "او پښې"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "د لنگېدونکو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه يم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:41.981177764Z",
+  "model": "glm-5.3"
+}

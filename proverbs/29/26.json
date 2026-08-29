@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "ډېر د واکمن مخ لټوي، خو د هر سړي پرېکړه ⟨له⟩ یاهوه وه.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "لټوي"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "واکمن"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "خو له یاهوه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پرېکړه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د هر سړي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:28.289761232Z",
+  "model": "glm-5.3"
+}

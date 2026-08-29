@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "همالته به ستا لاس ما رهبري کوي، او ستا ښي لاس به ما نیولی وي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "همالته"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ما رهبري کوي"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "او ما نیسي"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ستا ښي لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:49.631442165Z",
+  "model": "glm-5.3"
+}

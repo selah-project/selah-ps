@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما غرور ما واخيسته، ځکه زما دښمنانو ستا خبرې هېرې کړې.",
+  "tokens": [
+    {
+      "surface": "צמתתנي",
+      "gloss": "ما واخيسته"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "زما غرور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "هېرې کړې"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ستا خبرې"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "زما دښمنانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:05.191408514Z",
+  "model": "glm-5.3"
+}

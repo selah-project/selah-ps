@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 50:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "څنګه پرې شوې او ماتې شوې، چېښته د ټولې ځمکې! څنګه بابل په ملتونو کې په وېرانه بدل شو!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "נגדע",
+      "gloss": "پرې شوې"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "او ماتې شوې"
+    },
+    {
+      "surface": "پטיש",
+      "gloss": "چېښته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بدله شوه"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "په وېرانه"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "په ملتونو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:40.286389888Z",
+  "model": "glm-5.3"
+}

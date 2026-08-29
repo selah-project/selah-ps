@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د شلو او پنځو کلونو زوی وو چې هغه واکمن شو، او شپاړس کاله يې په یروشلایم کې واکمني وکړه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شلو"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کلونو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "واکمن شو"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپاړس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "شپاړس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "واکمني وکړه"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "په یروشلایم کې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:07:06.260803843Z",
+  "model": "glm-5.3"
+}

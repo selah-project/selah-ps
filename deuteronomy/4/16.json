@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "چې ککړ نه شئ او د ځان لپاره جوړ نه کړئ مجسمه — د هرې انځورې بڼه، د نارينې يا ښځينې په څېر.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "چې ... نه"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "ککړ نه شئ"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "او جوړ نه کړئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "د ځان لپاره"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "مجسمه"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "بڼه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د هرې"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "انځورې"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "په څېر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نارينې"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ښځينې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:20.510038300Z",
+  "model": "glm-5.3"
+}

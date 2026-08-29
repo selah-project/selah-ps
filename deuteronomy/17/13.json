@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او ټول قوم به واوري او وارخطا شي، او بیا به زړه-زورې ونکړي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "واوري"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "وارخطا شي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "زړه-زورې وکړي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:33.670049256Z",
+  "model": "glm-5.3"
+}

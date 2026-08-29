@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "کاهنان يې په توره ولوېدل، او کونډې يې ژړا نه کوله.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "کاهنان يې"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "په توره"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ولوېدل"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "او کونډې يې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "ژړا کوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:29.482209983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ته دې دا وښودل شوي، چې پوه شې چې یاهوه هغه الوهیم دی، له هغه پرته بل نشته.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "دې وښودل شوي"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "چې پوه شې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بل"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "له هغه پرته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:16.791464988Z",
+  "model": "glm-5.3"
+}

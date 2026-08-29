@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او ستا اسمانونه چې پر سر دې دي ⟨به⟩ مس وي، او هغه ځمکه چې تر تا لاندې ده ⟨به⟩ اوسپنه وي.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ستا اسمانونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ستا سر"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "او ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "تر تا لاندې"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:13.861273775Z",
+  "model": "glm-5.3"
+}

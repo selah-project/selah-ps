@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 57,
+  "translation": "خو تاسو راودېږئ دلو، د جادوګرې زامنو، د زناکار تخم او فاحشه!",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "خو تاسو"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "راودېږئ دلو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دلو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو د"
+    },
+    {
+      "surface": "עננه",
+      "gloss": "جادوګرې"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم د"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "زناکار"
+    },
+    {
+      "surface": "ותזנه",
+      "gloss": "فاحشه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:25:09.283731163Z",
+  "model": "glm-5.3"
+}

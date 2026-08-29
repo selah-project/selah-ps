@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه چې څوک د ټول غوښې څخه ⟨هغه⟩ چې د ژوندیو الوهیم غږ اورېدلی د اور له منځ څخه خبرې کوونکی، لکه موږ — او ژوندی پاتې شو؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اورېدلی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندیو"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "خبرې کوونکی"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "له منځ څخه"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "لکه موږ"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "او ژوندی پاتې شو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:45.807459839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 39:20",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او زما پر مېز به د اسونو او سپرو، زوروارو او د جګړې د هر سړي له خوا تېر شئ — د ادونای یاهوه وينا.",
+  "tokens": [
+    {
+      "surface": "ושבעתם",
+      "gloss": "او به تېر شئ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "زما مېز"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "اسونه"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "او سپره"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زوروار"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:20.084226786Z",
+  "model": "glm-5.3"
+}

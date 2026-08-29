@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "پاچا ځواب ورکړ او ویې ویل: زه په ټینګه پوهېږم چې تاسو وخت ګټئ، ځکه چې تاسو وینئ چې خبره له ما څخه پکې ده.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ځواب ورکړ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "په"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "ټینګه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېږم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "زه"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "זבنین",
+      "gloss": "ګټئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "وینئ"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "پکې ده"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له ما څخه"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "خبره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:29:23.181759456Z",
+  "model": "glm-5.3"
+}

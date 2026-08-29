@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 63,
+  "translation": "هغوی به د تور پر مټ ورکړل شي، د شغالانو برخه به وي.",
+  "tokens": [
+    {
+      "surface": "יגירهו",
+      "gloss": "به ورکړل شي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "مټ"
+    },
+    {
+      "surface": "חרب",
+      "gloss": "تور"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "شغالان"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:56.112300136Z",
+  "model": "glm-5.3"
+}

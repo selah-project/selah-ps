@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 28:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د سيندونو سرچينې يې بنده کړې، او پټ thing يې رڼا ته راوسته.",
+  "tokens": [
+    {
+      "surface": "מבכי",
+      "gloss": "د سرچينو\/ژړېدونکو"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "د سيندونو"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "بنده کړې"
+    },
+    {
+      "surface": "ותעלמה",
+      "gloss": "او پټ thing"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "راوسته"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:11.377746341Z",
+  "model": "glm-5.3"
+}

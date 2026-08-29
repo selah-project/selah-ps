@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "«له کښتۍ ووځه — ته او ښځه دې او زامن دې او د زامنو ښځې ⟨את⟩ درسره.»",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "ووځه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کښتۍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "وאשתך",
+      "gloss": "او ښځه دې"
+    },
+    {
+      "surface": "ובניק",
+      "gloss": "او زامن دې"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "او ښځې"
+    },
+    {
+      "surface": "בניק",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ درسره"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:12.513885922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "اِلیایل، او عووِید، او یَعَسیایل مِزوبایټی.",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "اِلیایل"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "او عووِید"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "او یَعَسیایل"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "مِزوبایټی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:59.832338217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د یاهوه له مخې اور ووت، ⟨את⟩ دوی یې وڅښل، او دوی د یاهوه پر وړاندې مړه شول.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "وڅښل"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "مړه شول"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:29.077127360Z",
+  "model": "glm-5.3"
+}

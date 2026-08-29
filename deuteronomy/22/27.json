@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ځکه په ميدان کې يې وموده؛ هغه ماندينه نجلۍ چیغې ووهلې، خو ورسره مرستندوی ⟨نه و⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په ميدان کې"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "يې وموده"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "چیغې ووهلې"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "هغه نجلۍ"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "ماندينه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نشته"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "مرستندوی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:51.851126943Z",
+  "model": "glm-5.3"
+}

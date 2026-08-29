@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او يصحاق يې پلار ورته وویل: «راونېږده اوس، زویکې، ما ته بوسه راکړه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل يې"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "يصحاق"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "يې پلار"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "راونېږده"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "او بوسه راکړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زویکې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:05.845564398Z",
+  "model": "glm-5.3"
+}

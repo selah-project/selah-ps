@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او مانوخ وويل: “اوس دې خبرې راشي؛ د هغه ځوان دنده به څه وي او کار به يې څه وي؟”",
+  "tokens": [
+    {
+      "surface": "ויאومר ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مانوخ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "دې خبرې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دنده"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "د هغه ځوان"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "او کار به يې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:06.633028249Z",
+  "model": "glm-5.3"
+}

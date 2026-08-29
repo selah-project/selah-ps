@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او یاهوه پر قوم ⟨את⟩ اور-ماران ولېږل، او هغو ⟨את⟩ قوم وچاښه، او د ییسارایل ډېر قوم مړ شو.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "پر قوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اور-ماران"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "اور-ماران"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "سوځوونکي"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "وچاښه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "د ییسارایل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:32.390223147Z",
+  "model": "glm-5.3"
+}

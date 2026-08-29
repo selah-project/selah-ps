@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "احمقان د ګناه په ملنډې کوي، خو د سموي کسانو ترمنځ ⟨هغه\/دی⟩ خوښي ده.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "احمقان"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "په ملنډې کوي"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "خو … ترمنځ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سموي کسانو"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوښي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:14.371275079Z",
+  "model": "glm-5.3"
+}

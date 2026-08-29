@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ټوله ورځ زما شرم زما مخامخ دی، او د زما د مخ شرم ځایني پوښلی یم.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "زما شرم"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "زما مخامخ"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "او شرم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د مخ"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ځایني پوښلی یم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:49.946463289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د حارم زامن، درې سوه او شل.",
+  "tokens": [
+    {
+      "surface": "بני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:29.179576940Z",
+  "model": "glm-5.3"
+}

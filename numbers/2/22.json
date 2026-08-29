@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 2:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د بنیامین قبیله؛ او د بنیامین زامنو مشر ابیدان د ګیدعوني زوی دی.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "او ... قبیله"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "او مشر"
+    },
+    {
+      "surface": "لבני",
+      "gloss": "د ... زامنو"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ابیدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ګیدعوني"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:36.266244924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او هدد مړ شو، او د هغه پر ځای سمله د مسرقه څخه پاچهي وکړه.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هدد"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "پاچهي وکړه"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "د هغه پر ځای"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سمله"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "د مسرقه څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:14.151088953Z",
+  "model": "glm-5.3"
+}

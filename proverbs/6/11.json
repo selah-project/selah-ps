@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ستا فقرت به لکه مزلګر راشي، او ستا تنگسې به لکه زغره-هغه سړی.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "او … راشي"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "لکه مزلګر"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ستا فقرت"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "او ستا تنگسې"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "لکه سړی"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "زغره-هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:28.189171891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "پای راغلی، پای راغلی؛ دا پای دې لپاره ويښ شوی — وګوره، راروانه ده.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "پای"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "پای"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "ويښ شوی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې لپاره"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "באה",
+      "gloss": "راروانه ده"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:25.513482042Z",
+  "model": "glm-5.3"
+}

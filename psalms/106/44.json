@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "بيا يې هم د دوی پر تکليف وکتل، کله چې د دوی ژړا يې واورېده ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وکتل يې"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "پر تکليف"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د دوی"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "کله چې واورېدله يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دوی ژړا"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "د دوی ژړا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:15.436592150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د یهودا لپاره — نحشون زوی د امینادب.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "د یهودا لپاره"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نحشون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "د امینادب"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:50.225300713Z",
+  "model": "glm-5.3"
+}

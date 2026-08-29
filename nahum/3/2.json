@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د چاټکي غږ، د څرخ د ټکور غږ، او ګډېدونکې آس، او نڅاکوونکې ګاډۍ.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "د چاټکي"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "او غږ"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "ټکور"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "څرخ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "او آس"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "ګډېدونکې"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "او ګاډۍ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "نڅاکوونکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:22.976039268Z",
+  "model": "glm-5.3"
+}

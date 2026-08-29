@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "دا څوک دی چې لکه ⟨د مصر⟩ سیند راپورته کېږي، لکه سيندونه يې اوبه ګډوي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "لکه سیند"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "راپورته کېږي"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "لکه سيندونه"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "ګډوي"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "د اوبو يې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:44.013207020Z",
+  "model": "glm-5.3"
+}

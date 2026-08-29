@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 10:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د یاهوه جلال له کروبه پورته شو، د کور پر عتبه و؛ او کور ⟨את⟩ ورېځې ډک کړ، او صحن د یاهوه د جلال د روڼایي څخه ډکه شوه.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "او پورته شو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "عتبه"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "او ډک کړ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ورېځ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ورېځ"
+    },
+    {
+      "surface": "והחצר",
+      "gloss": "او صحن"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکه شوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روڼایي"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "روڼایي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:29.900193069Z",
+  "model": "glm-5.3"
+}

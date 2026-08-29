@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "لکه واوره په دوبي او لکه باران په رېبلن، همداسې عزت د احمق لپاره نه شایسته دی.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "لکه واوره"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "په دوبي"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "او لکه باران"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "په رېبلن"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "شایسته دی"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "د احمق لپاره"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:01.867788421Z",
+  "model": "glm-5.3"
+}

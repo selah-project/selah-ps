@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او څو ورځې ورسره اوسه، تر هغه چې ستا د ورور غوسه ماته شي.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "او اوسه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "څو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر هغه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ماته شي"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غوسه"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ستا د ورور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:47.990664167Z",
+  "model": "glm-5.3"
+}

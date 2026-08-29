@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "خو هغه سپین زر چې پر لاسونه ورکول شوی دوی سره حساب نه کېږي، ځکه دوی په امانت کار کوي.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "حساب کېږي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هغه سپین زر"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "هغه سپین زر"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ورکول شوی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "لاسونه دوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "په امانت"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کار کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:28:22.599876579Z",
+  "model": "glm-5.3"
+}

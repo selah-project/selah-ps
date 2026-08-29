@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "ځکه چې هغه د مسو دروازې ماتې کړې، او د اوسپنې مېخونه یې پرې کړي دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ماتې کړې"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "د مسو"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "او مېخونه"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "د اوسپنې"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "پرې کړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:37.374603759Z",
+  "model": "glm-5.3"
+}

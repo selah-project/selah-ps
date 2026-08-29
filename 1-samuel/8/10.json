@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او شموېل د یاهوه ټولې خبرې ⟨את⟩ هغه قوم ته وويلې چې له هغه ⟨את⟩ پاچا يې غوښته.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموېل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې خبرې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "غوښتونکي"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "له هغه ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:32:27.388906189Z",
+  "model": "glm-5.3"
+}

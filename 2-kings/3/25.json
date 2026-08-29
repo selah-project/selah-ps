@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 3:25",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ښارونه يې ويجاړ کړل، او پر هره ښه مېوه‌لرونکې ډ downstream —",
+  "tokens": [],
+  "timestamp": "2026-08-28T23:01:47.861279291Z",
+  "model": "glm-5.3"
+}

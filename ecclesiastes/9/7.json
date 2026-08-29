@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځه، خپله ډوډۍ په خوښۍ وخوره، او خپله شراب په ښه زړه وڅښه، ځکه چې الوهیم دمخه ⟨את⟩ ستا کارونه خوښ کړي دي.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ځه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "وخوره"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "په خوښۍ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "خپله ډوډۍ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "او وڅښه"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "په زړه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "خپله شراب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "دمخه"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "خوښ کړي دي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا کارونه"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ستا کارونه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:13.245563567Z",
+  "model": "glm-5.3"
+}

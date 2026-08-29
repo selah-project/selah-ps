@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ایا د الوه ژورایو ته رسېدلی شې؟ ایا د شدای تر بشپړه پایه رسېدلی شې؟",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "د ژورایو"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "رسېدلی شې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "תכלیت",
+      "gloss": "بشپړه پایه"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "رسېدلی شې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:08.277469408Z",
+  "model": "glm-5.3"
+}

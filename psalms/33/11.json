@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "د یاهوه مشوره به د تل لپاره ودرېږي؛ د زړه د ده فکرونه د پokun په توګه — د نسل پر نسل.",
+  "tokens": [],
+  "timestamp": "2026-08-29T02:39:04.154025090Z",
+  "model": "glm-5.3"
+}

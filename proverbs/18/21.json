@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "مرګ او ژوند د ژبې په لاس کې دي، او چا چې يې مینه کوي، د هغې مېوه به خوري.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "مرګ"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "او ژوند"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "د ژبې"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "او چا چې يې مینه کوي"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "د هغې مېوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:35.289300274Z",
+  "model": "glm-5.3"
+}

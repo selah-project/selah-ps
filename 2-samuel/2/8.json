@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او اَبنېر د نېر زوی، د شاؤل د پوځ مشر، ⟨את⟩ ایش-بوشت د شاؤل زوی واخیست او مَحَناییم ته یې تېر کړ.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "او اَبنېر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נר",
+      "gloss": "د نېر"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "د پوځ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې د"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "واخیست"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایش-بوشت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایش-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "بوشت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "د شاؤل"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "او تېر یې کړ"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "مَحَناییم ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:41:59.214698313Z",
+  "model": "glm-5.3"
+}

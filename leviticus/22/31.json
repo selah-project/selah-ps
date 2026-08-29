@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او زما حکمونه وساتئ او ⟨את⟩ هغه ترسره کړئ — زه یاهم یاهوه يم.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "او ... وساتئ"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "زما حکمونه"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "او ... ترسره کړئ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (حکمونه)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:51.933300485Z",
+  "model": "glm-5.3"
+}

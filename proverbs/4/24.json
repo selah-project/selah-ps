@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "له ځانه لرې کړه د خولې کجاوې، او د شونډو چلېوالي ډېر لرې کړه له ځانه.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له ځانه"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "کجاوې"
+    },
+    {
+      "surface": "پה",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "او چلېوالي"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "د شونډو"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "ډېر لرې کړه"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له ځانه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:30.848669090Z",
+  "model": "glm-5.3"
+}

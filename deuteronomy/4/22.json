@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ځکه چې زه په دې ځمکه کې مړ کېږم؛ زه ⟨את⟩ اردن نه تېرېږم، خو تاسو به تېرېږئ او به یې میراث کړئ ⟨את⟩ دغه ښه ځمکه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مړ کېږم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېرېږم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "خو تاسو"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "تېرېږئ"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "او به یې میراث کړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دغه ښه ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:42.800824841Z",
+  "model": "glm-5.3"
+}

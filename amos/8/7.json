@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "یاهوه په د یعقوب په غرور سوګند وکړ: زه به د هغوی د ټولو کړنو هېڅکله هېر نه کړم.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "سوګند وکړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "په غرور"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "د یعقوب"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "هېر کړم"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "هېڅکله"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "کړنو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:22.253354910Z",
+  "model": "glm-5.3"
+}

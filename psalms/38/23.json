@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ژر زما مرستې ته راشه، ادونای زما خلاصون.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "ژر راشه"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "زما مرستې ته"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "زما خلاصون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:31.699649922Z",
+  "model": "glm-5.3"
+}

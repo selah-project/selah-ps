@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "ولې په بدۍ کې ځان لويېوی، اي زورور؟ د ايل خېسېد ټوله ورځ ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ځان لويېوی"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "په بدۍ کې"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "زورور"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ايل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:23.978122963Z",
+  "model": "glm-5.3"
+}

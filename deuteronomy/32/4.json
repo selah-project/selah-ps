@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "هغه ډبره ده، کار يې بشپړ دی، ځکه ټول لارې يې انصاف دي، ایل د امانتواله دی او هيڅ ظلم نشته، صالح او سمه لار هغه دی.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کار يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "لارې يې"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "امانتواله"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او هيڅ نشته"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "سمه لار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:55.156274448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 4:6",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "دې چې دا ستاسو ترمنځ نښه وي، ځکه چې ستاسو زامنو به سبا پوښتي، چې «دا ډبرې درته څه دي؟»",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "دې چې"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نښه"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ستاسو ترمنځ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ישאלון",
+      "gloss": "پوښتي"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ستاسو زامنو"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "سبا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ډبرې"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "درته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:16:24.319125175Z",
+  "model": "glm-5.3"
+}

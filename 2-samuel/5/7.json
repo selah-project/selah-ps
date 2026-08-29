@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او داوېد ⟨את⟩ د تسیون سنګر ونیوله — همدا ⟨هغه⟩ د داوېد ښار دی.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "او ونیوله"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سنګر"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "سنګر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تسیون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:25:11.800402154Z",
+  "model": "glm-5.3"
+}

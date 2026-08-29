@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "بيا ټولو ونو له ټېل (هاؐتاد) سره وویل: ته لاړ شه، زموږ د پاچاهي وکړه.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ونو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له … سره"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "ټېل (هاؐتاد)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لاړ شه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچاهي وکړه"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "زموږ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:26:25.915807050Z",
+  "model": "glm-5.3"
+}

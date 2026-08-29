@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 7:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د افرایم زامن: شوتلح، او بېرِد يې زوی، او تاحت يې زوی، او العضده يې زوی، او تاحت يې زوی.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شوتلح"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "او بېرِد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "يې زوی"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "او تاحت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "يې زوی"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "او العضده"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "يې زوی"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "او تاحت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "يې زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:01.871083205Z",
+  "model": "glm-5.3"
+}

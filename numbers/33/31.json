@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او دوی د موسیروت له مېشته ووتل او په بني-یعقان کې يې خېمې ټېبلې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "د موسیروت له"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خېمې يې ټېبلې"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "په بني-"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یعقان کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:12.938302681Z",
+  "model": "glm-5.3"
+}

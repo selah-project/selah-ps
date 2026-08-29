@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او اوس ورشه، او زه به ستا د خولې سره اوسم او هغه څه به درته وروزم چې وايې يې.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ورشه"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "اوسم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ستا خولې"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "او درته وروزم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "وايې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:45.135131884Z",
+  "model": "glm-5.3"
+}

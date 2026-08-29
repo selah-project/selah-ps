@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "د یاهوه په خبره اسمانونه جوړ شول، او د ده د خولې په روح د هغوی ټول لښکر.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "په خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "جوړ شول"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "او په روح"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "د هغه خوله"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "د هغوی لښکر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.660560143Z",
+  "model": "glm-5.3"
+}

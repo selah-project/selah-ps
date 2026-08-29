@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د پشهور زامن — زر دوه سوه څلوېښت او اووه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "پشهور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زر"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "او اووه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:09.160104121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "خولې پرانېستې يې پر ما کړې؛ لکه شېر د ښکاري او غږ کوونکي.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "پرانېستې"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "خولې"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شېر"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ښکاري"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "او غږ کوونکي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:29.834077990Z",
+  "model": "glm-5.3"
+}

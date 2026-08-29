@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "څوک هغه سړی دی چې غواړي ژوند، مینه وال د ورځو دی، چې ښه وویني؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "چې غواړي"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "مینه وال دی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "چې وویني"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:31.747889821Z",
+  "model": "glm-5.3"
+}

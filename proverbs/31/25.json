@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ځواک او هېبت يې د لباس په څېر ⟨دی⟩، او د وروستي ورځې په راتګ کې ⟨به⟩ خاندي.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "او هېبت"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "يې د لباس په څېر دی"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "او خاندي"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "وروستي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:28.064554616Z",
+  "model": "glm-5.3"
+}

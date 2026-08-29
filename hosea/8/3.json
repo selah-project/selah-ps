@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ییسرaille نيکي پرېښوده؛ دښمن به تعقیب کړي.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "پرېښوده"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرائل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نيکي"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "به تعقیب کړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:10:49.215885053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او ما ورته وویل: «د یاهوه ⟨⟩ خبر راته راغلی و، چې وایي:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او ما وویل"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "راته راغلی و"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وایي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:19.940340742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 6:22",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ⟨את⟩ ټول کور يې په زرو وپوښه، تر دې چې ټول کور بشپړ شو؛ او ټوله قربانګاه چې د دبیر وه، هغه يې په زرو وپوښه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول کور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "وپوښه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "په زرو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر دې چې"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بشپړ شو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټوله"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربانګاه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "د دبیر"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "وپوښه"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "په زرو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:26:38.649419830Z",
+  "model": "glm-5.3"
+}

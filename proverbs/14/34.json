@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "عدالت یو ملت لوړوي، خو د ټولنو خېسېد ګناه ده.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "لوړوي"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "خو خېسېد"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "د ټولنو"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ګناه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:16.563227371Z",
+  "model": "glm-5.3"
+}

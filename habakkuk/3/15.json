@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "تو په سمندر کې ستا اسونه وڅښل، د ډېرو اوبو د ګډوډ لړۍ.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "وڅښل"
+    },
+    {
+      "surface": "בים",
+      "gloss": "په سمندر"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "ستا اسونه"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "د ګډوډ لړۍ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:50.879557342Z",
+  "model": "glm-5.3"
+}

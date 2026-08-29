@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 66,
+  "translation": "د mocným od dirigenta. A Song, a Psalm. Shout to the God, all the earth.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د موسیقي مشر ته (سرليک)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندره"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "غږ پورته کړئ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوهیم ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:21.761776053Z",
+  "model": "glm-5.3"
+}

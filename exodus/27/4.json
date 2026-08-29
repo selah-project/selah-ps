@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 27:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او جوړوې ورته يوه ژېړه د مېخۍ کار، د مسو؛ او جوړوې پر مېخۍ څلور ګولۍ د مسو پر څلورو سرونو يې.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "جوړوې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "ژېړه"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "مېخۍ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "د مسو"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "او جوړوې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "مېخۍ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "ګولۍ"
+    },
+    {
+      "surface": "نחשת",
+      "gloss": "د مسو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "سرونو يې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:23:15.339550340Z",
+  "model": "glm-5.3"
+}

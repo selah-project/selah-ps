@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ځکه چې ته ته، یا یاهوه، تم شوم؛ ته به ځواب راکوې، ادونای زما الوهیمه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "تم شوم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ځواب به راکوې"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیمه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:56.313199552Z",
+  "model": "glm-5.3"
+}

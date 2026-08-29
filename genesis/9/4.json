@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "خو غوښه چې د هغه نفس پکې وي — د هغه وینه — يې مه خورئ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو\/یوازې"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "د هغه نفس پکې"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "د هغه وینه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورئ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:36.489949642Z",
+  "model": "glm-5.3"
+}

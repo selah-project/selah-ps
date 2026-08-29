@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د یوره زامن سوه او دولس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "یوره"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:03.646373234Z",
+  "model": "glm-5.3"
+}

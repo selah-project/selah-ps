@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما نفس د تل لپاره ستا د قضیو لېوالتیا لپاره مېږي.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "مېږي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "د لېوالتیا لپاره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ستا قضیو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:18.008521134Z",
+  "model": "glm-5.3"
+}

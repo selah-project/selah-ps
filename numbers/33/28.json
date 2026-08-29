@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او دوی د تَرَح څخه روان شول او په مِتقَه کې پناه وکړه.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روان شول"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "د تَرَح څخه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پناه وکړه"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "په مِتقَه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:58.751370237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د انسان ساه د یاهوه څراغ ده، چې د نس ټولې کوټې پلټوي.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "څراغ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ساه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "پلټوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "کوټې"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "د نس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:43.053797812Z",
+  "model": "glm-5.3"
+}

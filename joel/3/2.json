@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هم پر غلامانو او پر غلامو ښځو په هغو ورځو کې زما روح به تويوم.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "غلامو ښځو"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "په ورځو"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "هغو"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "به تويوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما روح"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "زما روح"
+    }
+  ],
+  "timestamp": "2026-08-29T00:13:26.705145418Z",
+  "model": "glm-5.3"
+}

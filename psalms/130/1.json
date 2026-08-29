@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 130,
+  "translation": "د پورتهختو بسملې — له ژورو څخه مې تا وغوښت، ای یاهوه.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "بسملې"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "د پورتهختو"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "له ژورو څخه"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "تا وغوښت مې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:28.547559500Z",
+  "model": "glm-5.3"
+}

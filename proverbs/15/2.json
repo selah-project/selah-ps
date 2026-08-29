@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د حکیمانو ژبه پوهه ښه کوي، خو د نادانانو خوله بېوقفي تويوي.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "د حکیمانو"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "ښه کوي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "خو خوله"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "د نادانانو"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "تويوي"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بېوقفي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:32.156098284Z",
+  "model": "glm-5.3"
+}

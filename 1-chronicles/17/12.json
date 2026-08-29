@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "هغه به زما لپاره کور جوړ کړي، او زه به د هغه ⟨את⟩ تخت تر ⟨تل⟩ لپاره ټينګ کړم.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "به جوړ کړي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "او زه به ټينګ کړم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه تخت"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "د هغه تخت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:28.036557159Z",
+  "model": "glm-5.3"
+}

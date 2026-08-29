@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او د شاوخوا لسو ورځو په تېرېدو یاهوه ⟨את⟩ نابال وواهه، نو هغه ومړ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او واوښتل"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "د شاوخوا لسو"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "وواهه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابال"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "نو هغه ومړ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:39:55.245297378Z",
+  "model": "glm-5.3"
+}

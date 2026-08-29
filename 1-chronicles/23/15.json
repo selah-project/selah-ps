@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د موشې زامن: ګرېشوم او اېلیعزر.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ګرېشوم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "او اېلیعزر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:47.762760926Z",
+  "model": "glm-5.3"
+}

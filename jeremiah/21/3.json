@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او یِرمیاهو ورته وويل: داسې به وايئ ⟨to⟩ صِدقیاهو ته:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "به وايئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاهو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:36:52.779164209Z",
+  "model": "glm-5.3"
+}

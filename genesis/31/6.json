@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او تاسو پوهېږئ چې زما د ټول زور سره مې ستاسو پلار ته خدمت وکړ.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "او تاسو (ښځې)"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "پوهېږئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زما زور"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "خدمت مې وکړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستاسو پلار"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ستاسو پلار"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:04.514380484Z",
+  "model": "glm-5.3"
+}

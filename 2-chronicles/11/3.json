@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ووایه د رحبعام، د شلومو زوی، د یهودا د پاچا ته، او ټولو یسرویل ته چې په یهودا او بنیامین کې دي، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او…ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرویل"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "په یهودا کې"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "او بنیامین"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:49.338038196Z",
+  "model": "glm-5.3"
+}

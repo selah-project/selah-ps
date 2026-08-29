@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 50:10",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "او کاسدیم به غنیمت شي؛ ټول چې غنیمت يې کوي، مړه به شي — د یاهوه وينا.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "او به شي"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کاسدیم"
+    },
+    {
+      "surface": "لשלל",
+      "gloss": "غنیمت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "شלליה",
+      "gloss": "چې غنمنتوي يې"
+    },
+    {
+      "surface": "يשבעו",
+      "gloss": "به مړه شي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د وينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:07.586469670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 31:31",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "که د زما خېمې نارینو نه وي ويلي: څوک راکوي چې له د هغه غوښته مو سړی نشو؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "وي ويلي"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "نارینو"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "زما خېمې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "راکوي"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "له د هغه غوښته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "سړی نشو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:54.286492342Z",
+  "model": "glm-5.3"
+}

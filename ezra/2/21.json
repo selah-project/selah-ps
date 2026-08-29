@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د بیت لحم زامن، یو سل او درې ويشت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یو سل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويشت"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "او درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:10.157989779Z",
+  "model": "glm-5.3"
+}

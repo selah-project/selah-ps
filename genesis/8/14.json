@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او په دویمه میاشت کې، د میاشتې په اومه او شلمه ورځ، ځمکه وچه شوه.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "او په میاشت"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "په اومه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شلمه"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د میاشتې"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "وچه شوه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:12.513528114Z",
+  "model": "glm-5.3"
+}

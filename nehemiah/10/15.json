@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د قوم مشران: پارعوش، پَحات-مُوآب، عِیلام، زَتّو، باني.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د قوم"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پارعوش"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَحات"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "-مُوآب"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زَتّو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "باني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:53.809479449Z",
+  "model": "glm-5.3"
+}

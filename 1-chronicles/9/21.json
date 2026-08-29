@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "زکاریه د مِشلَمیا زوی د لیدنې خیمې د خوالی په دروازه کبان و.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "زکاریه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "مِشلَمیا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "کبان"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د لیدنې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:45.934663747Z",
+  "model": "glm-5.3"
+}

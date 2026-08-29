@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "چا چې خپل ملګری سپک وګڼي، د زړه کموالی لري؛ خو د پوهې سړی چوپ ⟨پاتې⟩ کېږي.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "سپک وګڼي"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "خپل ملګری"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کموالي لري"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "خو سړی"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "د پوهې"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "چوپ کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:57.916986049Z",
+  "model": "glm-5.3"
+}

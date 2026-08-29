@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "وګوره، د یسرایل مشران هر یو خپل ځواک ته په تا وو د وینې توولو لپاره.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یو"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "خپل ځواک ته"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "د … لپاره"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "توولو"
+    },
+    {
+      "surface": "דם",
+      "gloss": "د وینې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:02.157418043Z",
+  "model": "glm-5.3"
+}

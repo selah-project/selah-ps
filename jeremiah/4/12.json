@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "تر دې بشپړ باد به زما لپاره راشي؛ اوس زه به هم پر ⟨את⟩ هغوی د قضاوتونو پراخوونې وکړم.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "تر دې"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "وګم"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "قضاوتونه"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هغوی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:37.043567639Z",
+  "model": "glm-5.3"
+}

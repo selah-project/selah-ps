@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه سړي ته چې لار يې پټه شوې او چا الوه ورشا کړې ده",
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "هغه سړي ته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "د هغه لار"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "پټه شوه"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "ورشا کړې ده"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "د هغه شا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:17.016209416Z",
+  "model": "glm-5.3"
+}

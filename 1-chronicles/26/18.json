@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "پر پاربار، پر لویدیځ، څلور؛ پر سړک دوه؛ پر پاربار (بهرنی څنډه).",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "پر پاربار"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "پر لویدیځ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "پر سړک"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "پر پاربار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:07.576687709Z",
+  "model": "glm-5.3"
+}

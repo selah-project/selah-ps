@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ځکه چې د ساده کسانو بغاوت به ويې وژني او د نادانونو آرامي به ويې ړنګوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ساده کسانو"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ويې وژني"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "او آرامي"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانونو"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "ويې ړنګوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:03.369559831Z",
+  "model": "glm-5.3"
+}

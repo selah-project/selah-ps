@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "بدکار صدیق ته څارنه کوي او د ده د وژلو په لټه کې ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "څارنه کوي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "صدیق ته"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "او په لټه کې دی"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "د ده د وژلو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:34.782106144Z",
+  "model": "glm-5.3"
+}

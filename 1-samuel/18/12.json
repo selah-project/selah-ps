@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او شاؤل له داوېد وېرېده، ځکه چې یاهوه ⟨هغه⟩ سره و، او له شاؤل يې مخ اړولی و.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وېرېده"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له مخه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "سره يې"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "او له"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "סר",
+      "gloss": "مخ اړولی و"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:51.700316094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او وروسته يې هغه ورور ووت چې سور تار يې پر لاس و، او د هغه نوم یې زاراح کېښود.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "او وروسته"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ورور یې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "השני",
+      "gloss": "سور تار"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "او نوم یې کېښود"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زاراح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:54.508507054Z",
+  "model": "glm-5.3"
+}

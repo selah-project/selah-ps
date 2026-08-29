@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "دا په یعقوب کور کې اعلان کړئ او په یهودا کې يې واورېدل کړئ، ویل:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "اعلان کړئ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "واورېدل يې کړئ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "په یهودا کې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:00.346327252Z",
+  "model": "glm-5.3"
+}

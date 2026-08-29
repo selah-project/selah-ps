@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 74,
+  "translation": "ته د ځمکې ټولې پولې ټینګې کړې دي؛ اوړی او ژمی ته جوړ کړی دی.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "ټینګې کړې دي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "پولې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "اوړی"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "او ژمی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "جوړ کړی دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:43.303086440Z",
+  "model": "glm-5.3"
+}

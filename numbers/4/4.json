@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "دا د قهات زامنو خدمت دی په ملاقات خیمه کې — د مقدساتو مقدس.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "په خیمه کې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "مقدساتو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:05.528995312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ځان مو سپېڅلی کړئ او سپېڅلي به اوسئ، ځکه چې زه یاهوه ستاسو الوهیم يم.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "او ځان مو سپېڅلی کړئ"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "او به اوسئ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "سپېڅلي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:29.187065641Z",
+  "model": "glm-5.3"
+}

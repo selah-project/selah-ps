@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د خندا په اړه مې وویل: دېواني ده؛ او د خوښۍ په اړه: دا څه کوي؟",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "د خندا په اړه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مې وویل"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "دېواني ده"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "او د خوښۍ په اړه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:42.243271925Z",
+  "model": "glm-5.3"
+}

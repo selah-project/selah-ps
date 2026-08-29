@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 73,
+  "translation": "وګورئ، دا همدا بدکاران دي، چې تل ارام لروونکي دي — شتمني يې زياته کړې.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "ו⁠שלוי",
+      "gloss": "او ارام لروونکي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "تل"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "زياته کړې يې"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "شتمني"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:07.753198007Z",
+  "model": "glm-5.3"
+}

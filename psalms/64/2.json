@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "زموږ غږ واوره، ای الوهیم، زما شکایت کې؛ له دښمن له وېرې زما ژوند ساته.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "زما شکایت کې"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "له وېرې"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ساته"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زما ژوند"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:49.107877906Z",
+  "model": "glm-5.3"
+}

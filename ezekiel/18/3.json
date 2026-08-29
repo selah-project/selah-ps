@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "زه ژوندی یم — د ادونای یاهوه وينا — چې تاسو به بيا دا متل پر اسرائیل نه وایئ.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا (د)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بيا"
+    },
+    {
+      "surface": "משל",
+      "gloss": "متل"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "د متل"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "پر اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:55:52.094482731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "سترګو ته دې خوب مه ورکوه، نه د پلېتو ته دې ویده کېدل.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ورکوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "لעיניך",
+      "gloss": "سترګو ته دې"
+    },
+    {
+      "surface": "ותנوמה",
+      "gloss": "نه ویده کېدل"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "د پلېتو ته دې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:00.052474425Z",
+  "model": "glm-5.3"
+}

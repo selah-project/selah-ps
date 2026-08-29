@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "بيا ونو انجیر ونې ته وویل: راشه ⟨את⟩ واکمنه اوسه پر موږ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ونو"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "انجیر ونې ته"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "راشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "واکمنه اوسه"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "واکمنه اوسه"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "پر موږ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:25:45.572010123Z",
+  "model": "glm-5.3"
+}

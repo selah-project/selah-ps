@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "وګورئ، د هغوی اتلان بهر چغا کوي؛ د سولې استازي ترخه ژاوي.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "د هغوی اتلان"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "چغا کوي"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "استازي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "د سولې"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ترخه"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "ژاوي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:53.416281668Z",
+  "model": "glm-5.3"
+}

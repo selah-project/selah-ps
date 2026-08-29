@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "هغه ډېبېږي او ټیټېږي، او بېوسي د هغه د زور له مخې لوېږي.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ډېبېږي"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "او ټیټېږي"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "او لوېږي"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "د هغه د زور له مخې"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "بېوسي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:41.547191473Z",
+  "model": "glm-5.3"
+}

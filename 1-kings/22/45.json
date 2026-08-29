@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او یاهوشافات له د اسرائیل له پاچا سره سوله وکړه.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "سوله يې وکړه"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یاهوشافات"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له...سره"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:01:12.191503915Z",
+  "model": "glm-5.3"
+}

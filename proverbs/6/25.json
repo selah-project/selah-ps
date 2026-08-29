@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د هغې د ښکلا هوس په خپل زړه کې مه کوه، او مه پرېږده چې هغه دې د خپلو زرو ونیسي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "هوس مه کوه"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "د هغې د ښکلا"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "په خپل زړه کې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "ډې ونیسي"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "د خپلو زرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:54.180654322Z",
+  "model": "glm-5.3"
+}

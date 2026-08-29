@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او پر هرې لوړې برجې، او پر هرې کلکې دیوال،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هرې"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برجې"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "لوړې"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هرې"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوال"
+    },
+    {
+      "surface": "בצורه",
+      "gloss": "کلکې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:03.561220721Z",
+  "model": "glm-5.3"
+}

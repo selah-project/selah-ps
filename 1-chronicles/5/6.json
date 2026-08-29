@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 5:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "بِئِراه د هغه زوی، چې تِلګَت پِلْنِئسَر، د اَشّور پاچا، ⟨هغه⟩ جلا کړ؛ هغه د رئوبینيانو مشر ؤ.",
+  "tokens": [
+    {
+      "surface": "בארה",
+      "gloss": "بِئِراه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "جلا کړ"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "تِلګَت"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "پِلْنِئسَر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "د رئوبینيانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:29.801506498Z",
+  "model": "glm-5.3"
+}

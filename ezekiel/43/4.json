@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او د یاهوه جلال ⟨د⟩ کور ته راننوت، د هغې دروازې له لارې چې مخ یې د ختیځ لور ته و.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "او … جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راننوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨د⟩ … ته"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "له لارې"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "مخ یې"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لور ته"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "د ختیځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:46.874718130Z",
+  "model": "glm-5.3"
+}

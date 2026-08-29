@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او خپل دښمنان يې شا ته ووهل؛ د تل لپاره يې پرې رسوايي کېښوده.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "او ووهل يې"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "خپل دښمنان"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "شا ته"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "رسوايي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "کېښوده يې"
+    },
+    {
+      "surface": "למו",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:26.822163728Z",
+  "model": "glm-5.3"
+}

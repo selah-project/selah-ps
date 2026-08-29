@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 17:17",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او یِهوشوع د یوسف کور ته — افرایم او منشه ته — وویل: ته یې لوی قوم او ستا زور ډېر دی؛ به دې یوازې یو برخلیک نه وي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِهوشوع"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "افرایم ته"
+    },
+    {
+      "surface": "ולמנשה",
+      "gloss": "او منشه ته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "רב",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته یې"
+    },
+    {
+      "surface": "וכח",
+      "gloss": "او زور"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "لך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "برخلیک"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوازې یو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:59.977743874Z",
+  "model": "glm-5.3"
+}

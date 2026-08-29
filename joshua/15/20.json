@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 15:20",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "دا د یهودا د زامنو د قبیلې میراث دی، د دوی د کورنیو له مخې.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "د قبیلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "د دوی د کورنیو له مخې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:50.275249010Z",
+  "model": "glm-5.3"
+}

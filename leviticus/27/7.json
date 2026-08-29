@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او که ⟨له⟩ شپېتو کالو او پورته وي؛ که نارینه وي، نو ارزښت به دې پنځه لس شکه وي، او د ښځینه لس شکلې.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "د … زوی څخه"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شپېته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "او پورته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نارینه"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "نو وي"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ارزښت دې"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شکه"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "او د ښځینه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "شکلې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:13.900927983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "له شا او مخامخ مې راکړۍ کړم، او خپله لاسچه مې پرې کېښودله.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "له شا"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "او مخامخ"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "مې راکړۍ کړم"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "کېښودله مې"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "خپله لاسچه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:06.852693682Z",
+  "model": "glm-5.3"
+}

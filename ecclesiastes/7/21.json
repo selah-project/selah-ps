@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "هم پر ټولو هغو خبرو چې ویلی کېږي د زړه پام مه اچوه، هسې نه چې واورې چې ستا غلام ⟨את⟩ دې په لعنت یادوي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "پر ټولو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ویلی کېږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "پام مه اچوه"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "زړه دې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هسې نه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "واورې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا غلام"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا غلام"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "دې په لعنت یادوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:02.087387963Z",
+  "model": "glm-5.3"
+}

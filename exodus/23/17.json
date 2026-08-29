@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "درې ځله په کال کې به ټول نارینه دې د ادونای یاهوه پر مخ راڅرګند شي.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "درې ځله"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ځله"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "په کال کې"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "راڅرګند شي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "نارینه دې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:19.224881403Z",
+  "model": "glm-5.3"
+}

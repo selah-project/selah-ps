@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "همداسې هغه چې د خپل ملګري مېرمنې ته ورځي — هر چا چې پرې لاس لږوي، نه به بې-سزا پاتې شي.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "هغه چې راځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "مېرمن"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "د خپل ملګري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بې-سزا پاتې کېږي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر چا چې"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "لاس لږوي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:31.489961239Z",
+  "model": "glm-5.3"
+}

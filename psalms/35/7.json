@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "ځکه چې بې-سبب يې ماته کڼد پټ کړ — د دوی ژاله؛ بې-سبب يې زما د ګلې لپاره کڼد کېندلی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بې-سبب"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "پټ کړ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "کڼد"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "د دوی ژاله"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بې-سبب"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "کېندلی"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "زما د ګلې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:34.047350895Z",
+  "model": "glm-5.3"
+}

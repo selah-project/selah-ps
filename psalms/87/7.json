@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 87,
+  "translation": "او سندرغاړي لکه نڅاګران: «ټولې زما چینې په تا کې دي».",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "او سندرغاړي"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "لکه نڅاګران"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "زما چینې"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:12.360657582Z",
+  "model": "glm-5.3"
+}

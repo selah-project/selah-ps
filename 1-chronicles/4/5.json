@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او اشحور، د تکوع پلار، دوه ښځې درلودې — حلآ او نعره.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "او اشحور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "د تکوع"
+    },
+    {
+      "surface": "היו",
+      "gloss": "درلودې"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "حلآ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "او نعره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:03.299259339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او د اېلیفاز زامن ⟨وو⟩: تېمان، عمر، صېفو، ګعتم او قناز.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اېلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تېمان"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "عمر"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "صېفو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "او ګعتم"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "او قناز"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:00.257611947Z",
+  "model": "glm-5.3"
+}

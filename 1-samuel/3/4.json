@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او یاهوه شمویل ته وغوښت، او هغه وویل: “هالته یم.”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "او وغوښت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمویل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "הננی",
+      "gloss": "هالته یم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:31:45.061576779Z",
+  "model": "glm-5.3"
+}

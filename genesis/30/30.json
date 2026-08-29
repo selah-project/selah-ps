@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 30:30",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ځکه چې لږ درته و، زما له مخکې، او ډېر زيات شو، او ياهوه ⟨את⟩ تا په زما ګوتو برکت ورکړ؛ او اوس کله هم زه زما د کور لپاره کوم؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "زما له مخکې"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "زيات شو"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "برکت ورکړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تا"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "په زما ګوتو"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לביתי",
+      "gloss": "زما د کور لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:24.849332820Z",
+  "model": "glm-5.3"
+}

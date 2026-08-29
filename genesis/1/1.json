@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "په پیل کې الوهیم ⟨את⟩ اسمانونه او ⟨את⟩ ځمکه پیدا کړل.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "په پیل کې"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "پیدا کړل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسمانونه"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:56:59.276566226Z",
+  "model": "glm-5.3"
+}

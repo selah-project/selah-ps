@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او یعقوب ورته وویل: زما وروڼو، تاسو له چېره ⟨یاست⟩؟ او دوی وویل: موږ له حران ⟨یو⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "زما وروڼو"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "له چېره"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "دوی وویل"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "له حران"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:14.577175690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او په تابېره، په مسّه او په قیبروت-هاتّاوه کې تاسو ⟨את⟩ یاهوه غوسه مې کړی و.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "او په تابېره کې"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "په مسّه کې"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "او په قیبروت کې"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "-هاتّاوه"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "غوسه مې کړی"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "وئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:38.678355241Z",
+  "model": "glm-5.3"
+}

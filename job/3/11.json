@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ولې له زېږي نه م مړه شوم؟ له نس نه م راووت او ومړم؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "له زېږي"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مړه شوم"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "له نس"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "راووت"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "او ومړم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:31.196383608Z",
+  "model": "glm-5.3"
+}

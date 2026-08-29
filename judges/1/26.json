@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 1:26",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "هغه سړی د حثیانو ځمکې ته ولاړ، هلته يې يو ښار جوړ کړ او نوم يې لوز کېښود — هماغه نوم دی تر همدې ورځې.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "د حثیانو"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "جوړ يې کړ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "نوم يې کېښود"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نوم يې"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هماغه"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نوم يې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همدې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:23:03.408593346Z",
+  "model": "glm-5.3"
+}

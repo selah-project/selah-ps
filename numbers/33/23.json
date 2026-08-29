@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د کِهِلاته څخه روان شول او د شافِر په غره کې پړاو وکړ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روان شول"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "د کِهِلاته څخه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پړاو وکړ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافِر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:57.667406879Z",
+  "model": "glm-5.3"
+}

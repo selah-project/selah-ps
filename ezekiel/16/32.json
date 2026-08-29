@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "هغه ښځه چې د مېړه پر ضد زنا کوي — د خپل مېړه پر ځای ⟨את⟩ پردیان اخلې!",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "هغه ښځه"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "چې زنا کوي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "د خپل مېړه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "اخلې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردیان"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "پردیان"
+    }
+  ],
+  "timestamp": "2026-08-28T23:54:36.704734097Z",
+  "model": "glm-5.3"
+}

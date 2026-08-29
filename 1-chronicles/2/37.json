@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او زاباد د اپلال پلار وو، او اپلال د عوبید پلار وو.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "او زاباد"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "د … پلار وو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپلال"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "اپلال"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "او اپلال"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "د … پلار وو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبید"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:21.833789947Z",
+  "model": "glm-5.3"
+}

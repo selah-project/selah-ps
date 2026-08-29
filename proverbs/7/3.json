@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "هغه د خپلو ګوتو وتړه، هغه د خپل زړه پر تخته وليکه.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "وتړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "خپلو ګوتو"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "وليکه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "خپل زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:52.096411954Z",
+  "model": "glm-5.3"
+}

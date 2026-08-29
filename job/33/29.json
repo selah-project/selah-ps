@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "وګوره! ټول دا کارونه ایل کوي — دوه ځله، درې ځله، له انسان سره.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دوه ځله"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "درې ځله"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:26.567396372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 81,
+  "translation": "ځکه چې دا د یسړایل لپاره مقررات دی، د یعقوب د الوهیم پرېکړه ده.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חק",
+      "gloss": "مقررات"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "د یسړایل لپاره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پرېکړه"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "د … الوهیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:18.676891533Z",
+  "model": "glm-5.3"
+}

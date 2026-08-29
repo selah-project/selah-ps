@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ښه ⟨دی⟩ یاهوه د هغو لپاره چې تمه ترې کوي، د هغه نفس لپاره چې لټوي يې.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "د تمه کوونکو لپاره"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "د نفس لپاره"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "لټوي يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.572166403Z",
+  "model": "glm-5.3"
+}

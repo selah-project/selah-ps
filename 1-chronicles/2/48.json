@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د کالِب پیلګش مَعَخه ⟨את⟩ شِبِر او ⟨את⟩ تِرحَنه وزېږول.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "پیلګش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعَخه"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شِبِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تِرحَنه"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "تِرحَنه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:32.250602047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "د دوی بتانې سپين زر او زرين دي — د انسانانو د لاسونو کار.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "د دوی بتانې"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپين زر"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "او زرين"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "د لاسونو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسانانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:48.030972888Z",
+  "model": "glm-5.3"
+}

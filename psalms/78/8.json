@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او د خپلو پلرونو په څېر نه وي — یو سرکښ او بغاوي نسل، نسل چې زړه يې نه و تیار کړی او روح يې له ⟨את⟩ ایل سره امین نه و.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "وي"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "د خپلو پلرونو په څېر"
+    },
+    {
+      "surface": "دור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "سرکښ"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "او بغاوي"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "تیار کړی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه يې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "امین"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "روح يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:15.946279586Z",
+  "model": "glm-5.3"
+}

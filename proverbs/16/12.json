@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د پاچایانو کرځه ⟨is⟩ بدکاري کول، ځکه په عدالت کې تخت ټینګېږي.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "کرځه"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "د پاچایانو"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کول"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکاري"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "په عدالت کې"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ټینګېږي"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:47.983737485Z",
+  "model": "glm-5.3"
+}

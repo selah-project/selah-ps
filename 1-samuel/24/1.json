@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او داوېد له هغه ځایه پورته شو او په د عین-ګدي کلاګانو کې مېشت شو.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "پورته شو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "مېشت شو"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "په کلاګانو کې"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "-ګدي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:38:32.259230358Z",
+  "model": "glm-5.3"
+}

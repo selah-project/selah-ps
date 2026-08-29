@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او یاهوه له منسي او د هغه له قوم سره وغرځېد، خو ⟨هغوی⟩ غوږ ونه نیول.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وغرځېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منسي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او له"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قوم سره"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "غوږ ونیول"
+    }
+  ],
+  "timestamp": "2026-08-29T02:08:52.393283296Z",
+  "model": "glm-5.3"
+}

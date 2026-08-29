@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او لابان وویل: «ها، ای کاش چې ستا د خبرې مطابق وي!»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او... وویل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ها"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ای کاش"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ستا د خبرې مطابق"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:18.001971841Z",
+  "model": "glm-5.3"
+}

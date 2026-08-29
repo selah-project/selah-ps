@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ځکه ستاسو سترګو ⟨את⟩ ټول لوی کار د یاهوه ليدلي دی، هغه چې يې کړی دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ستاسو سترګو"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "ليدلی دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول لوی کار د یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "يې کړی دی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:18.392929617Z",
+  "model": "glm-5.3"
+}

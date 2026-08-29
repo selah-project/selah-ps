@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "لمر او سپوږمۍ تورې شوې، او ستوري خپله رڼا راټوله کړه.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "او سپوږمۍ"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "تورې شوې"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "او ستوري"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "راټوله کړه"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "خپله رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:12:41.594179444Z",
+  "model": "glm-5.3"
+}

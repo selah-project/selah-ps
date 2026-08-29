@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 47:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "بیا يې زر ⟨اندازه⟩ کړه — نهر و چې زه يې نه شوای تېرېدلی، ځکه چې اوبه لوړې شوې وې؛ د لامبو اوبې وې — نهر چې نه تېرېږي.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "بیا يې اندازه کړه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زر"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "شوای"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "تېر شم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גאו",
+      "gloss": "لوړې شوې"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "اوبې"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "د لامبو"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "تېرېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:19.963533813Z",
+  "model": "glm-5.3"
+}

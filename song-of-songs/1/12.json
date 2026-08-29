@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "تر دې چې پاچا په خپل ګډایي (حلقه‌ي) کې وو، زما نارديل خپله بويه ورکړه.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر دې چې"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "په خپل ګډایي (حلقه‌ي) کې"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "زما نارديل"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړه"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "خپله بويه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:38.478125781Z",
+  "model": "glm-5.3"
+}

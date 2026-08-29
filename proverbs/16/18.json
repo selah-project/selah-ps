@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د ماتې مخې ته غرور دی، او د لوېدو مخې ته لوړ روح.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "د ... مخې ته"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "د ماتې"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "غرور"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "او د ... مخې ته"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "د لوېدو"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:53.670172705Z",
+  "model": "glm-5.3"
+}

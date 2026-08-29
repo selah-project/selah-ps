@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ستا گواهۍ تل رښتیا دي؛ پوهه راكړه چې ژوند وکړم.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "رښتیا"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ستا گواهۍ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تل"
+    },
+    {
+      "surface": "הביננي",
+      "gloss": "پوهه راكړه"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "چې ژوند وکړم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:36.338629143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دا زما پلار داوېد ته د زړه له آراره وه چې د اسرائیلو د الوهیم یاهوه د نوم لپاره بیت جوړ کړي.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "لבב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "زما پلار"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "چې جوړ کړي"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "د نوم لپاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:47.787343522Z",
+  "model": "glm-5.3"
+}

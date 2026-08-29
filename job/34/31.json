@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "که څوک ایل ته ووایي: «ما وزغمه، نور به خرابي نه کوم» —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "ووایي"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ما وزغمه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "خرابي کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:19.302070759Z",
+  "model": "glm-5.3"
+}

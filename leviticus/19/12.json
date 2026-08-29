@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او زما په نوم به په دروغو قسم نه خورئ او د خپل الوهیم ⟨את⟩ نوم به نجسوئ — زه یاهوه یم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "قسم خورئ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "زما په نوم"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "په دروغو"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "او به نجسوئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "د خپل الوهیم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:01.071016612Z",
+  "model": "glm-5.3"
+}

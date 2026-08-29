@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او شلاح دېرش کاله ژوندۍ واوڼې او ⟨את>> عېبېر وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "او شلاح"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندۍ واوښته"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عېبېر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عېبېر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:02.136680226Z",
+  "model": "glm-5.3"
+}

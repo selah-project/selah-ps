@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او اېنوش د ⟨את⟩ قینان د زېږولو وروسته اته سوه او پنځه لس کالې ژوند وکړ، او يې زامن او لوڼې زېږولې.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "اېنوش"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "د زېږولو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قینان"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قینان"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالې"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "او اته"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالې"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "زېږول يې"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:20.760460157Z",
+  "model": "glm-5.3"
+}

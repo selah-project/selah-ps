@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او که وموندل شي، اوه-چنده به تاديوونه کړي؛ ⟨את⟩ ټول د خپل کور مال به يې وروکړي.",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "او که وموندل شي"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "تاديوونه کوي"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "اوه-چنده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول مال"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "د هغه د کور"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "وروکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:31.490292588Z",
+  "model": "glm-5.3"
+}

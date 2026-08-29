@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 5:25",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او اوس ولې مرو، ځکه چې دا لوی اور ⟨את⟩ موږ نه خوري؟ که موږ دا لا زیاتوونکي یو چې د یاهوه زموږ د الوهیم غږ بیا واورو، نو مړو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "مرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "خوري موږ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "دا اور"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יספים",
+      "gloss": "زیاتوونکي یو"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "چې واورو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غږ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "نو مړو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:45.807223707Z",
+  "model": "glm-5.3"
+}

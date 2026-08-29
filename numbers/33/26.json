@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او دوی د مَکهیلوت څخه روان شول او په تَحات کې پناه وکړه.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روان شول"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "د مَکهیلوت څخه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پناه وکړه"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "په تَحات کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:58.751119637Z",
+  "model": "glm-5.3"
+}

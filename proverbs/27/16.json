@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "څوک چې هغه پټوي، باد ⟨دی⟩ پټوي، او د هغه د ښي لاس غوړۍ ⟨ځان⟩ اعلانوي.",
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "د هغه پټونکی"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "پټوي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "او غوړۍ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "د ښي لاس"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "اعلانوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:31.066033195Z",
+  "model": "glm-5.3"
+}

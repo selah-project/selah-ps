@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او به په هغه ورځ کې وي چې یو سړی به یوه د غواوو ناروغه او دوه مېږې ژوندې ساتي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ژوندې ساتي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "ناروغه"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د غواوو"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مېږې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:12:28.448870266Z",
+  "model": "glm-5.3"
+}

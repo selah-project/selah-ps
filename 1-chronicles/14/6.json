@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او نوګاه، او نِفېګ، او یافِیاع.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "او نوګاه"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "او نِفېګ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "او یافِیاع"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:44.805603809Z",
+  "model": "glm-5.3"
+}

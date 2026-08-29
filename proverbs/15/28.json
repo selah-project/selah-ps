@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 15:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د نیک زړه د ځواب لپاره فکر کوي، خو د شرمنده خلکو خوله بدۍ تېرې باسي.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د نیک"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "فکر کوي"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "د ځواب لپاره"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "خو خوله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شرمنده خلکو"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "تېرې باسي"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بدۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:53.191072656Z",
+  "model": "glm-5.3"
+}

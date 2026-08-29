@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "چا چې یو انسان نيوکه کړي، وروسته یې بخت\/mېنه مومي — له هغه چې د ژبې په تodatۍ نازوي.",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "نیوکه کوي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "یو انسان"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "חן",
+      "gloss": "مېنه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "مومي"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "تodatۍ کوي\/نازوي"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "د ژبې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:34.248372177Z",
+  "model": "glm-5.3"
+}

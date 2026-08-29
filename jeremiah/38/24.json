@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او صیدقیاهو یرمیاهو ته وویل: هېڅ سړی دې په دې خبرو نه پوهېږي، او ته به نه مړې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صیدقیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هېڅ سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "په خبرو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مړې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:44:20.126837405Z",
+  "model": "glm-5.3"
+}

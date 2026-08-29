@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "د دوی مینه هم، کرغېړن هم، حسد هم دمخه له منځه تللې، او د دوی برخш همېشه په هغه څه کې چې تر لمر لاندې کېږي نور نشته.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "د دوی مینه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "حسد"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "دمخه"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "له منځه تللې"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "او برخش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د دوی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "همېشه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هغه څه کې چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کېږي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر لاندې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:13.245414545Z",
+  "model": "glm-5.3"
+}

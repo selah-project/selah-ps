@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او د ورو پر ځای کې سپين پړسوالی يا سپين او سره‌ړنګ داغ راڅرګند شي، نو هغه به کاهن ته وګلول شي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "پر ځای کې"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "د ورو"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "پړسوالی"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "سپين"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "سپين"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "سره‌ړنګ"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "وګلول شي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:51.388749754Z",
+  "model": "glm-5.3"
+}

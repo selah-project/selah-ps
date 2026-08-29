@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او د یسرایل زامن روان شول او په اوبوت کې يې خيمې ودرولې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روان شول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "ויחנو",
+      "gloss": "خيمې يې ودرولې"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "په اوبوت کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:08.512543329Z",
+  "model": "glm-5.3"
+}

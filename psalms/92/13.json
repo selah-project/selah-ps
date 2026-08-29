@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 92:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 92,
+  "translation": "صدیق لکه د تمار ونې شنه کېږي، لکه ارز په لبنان کې لوړېږي.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "כתמר",
+      "gloss": "لکه د تمار"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "شنه کېږي"
+    },
+    {
+      "surface": "כארז",
+      "gloss": "لکه ارز"
+    },
+    {
+      "surface": "בלבנון",
+      "gloss": "په لبنان کې"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "لوړېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:03.799649203Z",
+  "model": "glm-5.3"
+}

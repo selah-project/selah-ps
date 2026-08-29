@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "غندونکي سړي ښار لمبولي، خو هوښیار غوسه بېرته ګرځوي.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "غندونکي"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "لمبولي"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "خو هوښیار"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "بېرته ګرځوي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غوسه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:23.254660358Z",
+  "model": "glm-5.3"
+}

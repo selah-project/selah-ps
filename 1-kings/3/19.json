@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د دې ښځې زوی د شپې ومړ، ځکه چې هغه پرې ویده شوه.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او ومړ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "د شپې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "هغه ویده شوه"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:25:34.375905493Z",
+  "model": "glm-5.3"
+}

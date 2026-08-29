@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او قوم یهوشوعا ته وویل: نه، بلکې ⟨את⟩ یاهوه به بندهزي کوو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او … وویل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوعا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "به بندهزي کوو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:20.761918777Z",
+  "model": "glm-5.3"
+}

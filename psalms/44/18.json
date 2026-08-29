@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ټول دا پر موږ راغلي ⟨دي⟩، خو تا مو نه دي هېر کړی او په تړون کې مو دروغ نه دي کړي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "پر موږ راغلي"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "دروغ کړي"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "په تړون کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:54.731775632Z",
+  "model": "glm-5.3"
+}

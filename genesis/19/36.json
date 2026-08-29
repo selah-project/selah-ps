@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او د لوط دواړه لوڼې له خپل پلار څخه امېندواره شوې.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "امېندواره شوې"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دواړه"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لوڼې"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "له پلار يې څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:43.131537667Z",
+  "model": "glm-5.3"
+}

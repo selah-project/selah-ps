@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د کیفوس زامن، د سفعها زامن، د فادون زامن،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "کیفوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "سفعها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "فادون"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:36.377314087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او د شمعون د پولې پر غاړه، د ختیځ له خوا څخه تر لوېدیځې خوا پورې، یسساخر ⟨یو⟩ برخه.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "د پولې"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "د شمعون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له خوا څخه"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "خیځ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لوېدیځې"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یسساخر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:36:43.175385918Z",
+  "model": "glm-5.3"
+}

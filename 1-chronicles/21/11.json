@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "نو ګاد داوېد ته راغی او ورته ويې ويل: «داسې وايي یاهوه: خپله [خوښه] ونيوه —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ويل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ونيوه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:12.236038708Z",
+  "model": "glm-5.3"
+}

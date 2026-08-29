@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او اوراهام وويل: زه به قسم وکړم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "به قسم وکړم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:54.717555200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "نو د اسرائیلو زامنو ⟨את⟩ عګلون، د موآب پاچا، اتلس کاله خدمت کړ.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "خدمت يې وکړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسرائیلو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عګلون"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "عګلون"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "د موآب"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اتلس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-28T22:23:48.345127718Z",
+  "model": "glm-5.3"
+}

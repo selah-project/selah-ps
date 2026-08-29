@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "ځکه چې یاهوه، ⟨د⟩ لوړ، وېروونکی دی، لوی پاچا پر ټولې ځمکې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "وېروونکی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:08.384143036Z",
+  "model": "glm-5.3"
+}

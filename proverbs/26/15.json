@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "کاهل خپله لاس په блюд کې پټ کړ؛ همدا چې يې بېرته خولې ته وسلويږي، ستړی شي.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "پټ کړ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاهل"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپله لاس"
+    },
+    {
+      "surface": "بצלחת",
+      "gloss": "په блюд کې"
+    },
+    {
+      "surface": "نלאה",
+      "gloss": "ستړی شي"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "يې بېرته وسلويږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ته"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:48.794835952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "د شل او دوه کلن زوی و چې اومون ⟨is⟩ په پاچهۍ کې، او دوه کاله يې په یروشلایم کې پاچهي وکړه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کلن"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "اومون"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "په پاچهۍ کې"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچهي وکړه"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "په یروشلایم کې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:10:24.455197329Z",
+  "model": "glm-5.3"
+}

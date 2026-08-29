@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او نوح د پنځه سوه کلن و، او نوح ⟨את⟩ شېم، ⟨את⟩ حام او ⟨את⟩ یافت پیداکړل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "و"
+    },
+    {
+      "surface": "نח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کلن"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پیدایې کړل"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شېم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یافت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یافت"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:44.428634540Z",
+  "model": "glm-5.3"
+}

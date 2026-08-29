@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 140,
+  "translation": "یاهوه، ادونای! زما ژغورنې زور ته، ته په جګړې ورځ کې زما سر پټ کړی یې.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "زما ژغورنې"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "پټ کړی یې"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "زما سر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "جګړې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:54.036735838Z",
+  "model": "glm-5.3"
+}

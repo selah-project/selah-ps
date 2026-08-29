@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "amos 5:23",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "راڅخه لرې کړه د ستا د سندرو شور، او د ستا د نبلهو موزیک به نه اورم.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "راڅخه"
+    },
+    {
+      "surface": "המון",
+      "gloss": "شور"
+    },
+    {
+      "surface": "שריך",
+      "gloss": "د ستا سندرې"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "او موزیک"
+    },
+    {
+      "surface": "נבליך",
+      "gloss": "د ستا نبله"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "اورم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:14:36.031035734Z",
+  "model": "glm-5.3"
+}

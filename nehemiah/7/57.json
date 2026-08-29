@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د شِلوموه د خدمتګارو زامن: د سوتای زامن، د سوپیرت زامن، د پِرودا زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "د خدمتګارو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "سوتای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "سوپیرت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "پِرودا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:38.394607500Z",
+  "model": "glm-5.3"
+}

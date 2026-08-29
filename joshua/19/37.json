@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او کِدِش او ادرعي او عین-حاصور.",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "کِدِش"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ادرعي"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "حاصور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:44.097089153Z",
+  "model": "glm-5.3"
+}

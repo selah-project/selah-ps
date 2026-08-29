@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او د انګړ پلنوالی د بحر (لوېدیځ) خوا ته به پنځوس ا_mtime پردې وي، د هغوی ستنې لس او د هغوی پلټې لس.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "او پلنوالی"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "د انګړ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "د خوا ته"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر (لوېدیځ)"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "پردې"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ا_mtime"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "د هغوی ستنې"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "او د هغوی پلټې"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    }
+  ],
+  "timestamp": "2026-08-28T21:23:04.785363234Z",
+  "model": "glm-5.3"
+}

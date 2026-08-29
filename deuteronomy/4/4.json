@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او تاسو چې له یاهوه ستاسو الوهیم سره نښلي ياست، ټول ژوندي ياست نن ورځ.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "او تاسو"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "نښلي ياست"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "له یاهوه سره"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندي ياست"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن ورځ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:53.376853477Z",
+  "model": "glm-5.3"
+}

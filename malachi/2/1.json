@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او اوس دا فرمان ستاسو لپاره دی، ای کاهنانو!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "دا فرمان"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ای کاهنانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:23.605668830Z",
+  "model": "glm-5.3"
+}

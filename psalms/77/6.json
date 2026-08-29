@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 77,
+  "translation": "ما د پخوانیو ورځو او د پېړیو پېړيو کلونو پلښنه وکړه.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "پلښنه مې وکړه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "د پخوانیو"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "کلونو"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "د پېړیو پېړيو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:28.047872382Z",
+  "model": "glm-5.3"
+}

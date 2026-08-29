@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "تر کله پورې، ای یاهوه، زه چیغه کوم او ته اورېدلی نه يې؟ زه درته چغېدم «زیاتي!» او ته خلاصولی نه يې.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کله پورې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "چیغه کوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "اورېدلی يې"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "چغېدم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "زیاتي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "خلاصولی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:58.861796417Z",
+  "model": "glm-5.3"
+}

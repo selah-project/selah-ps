@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ا‎و ⟨את⟩ د هابعل کور له بوت-تڼو وباسي او ويې سوځوي.",
+  "tokens": [
+    {
+      "surface": "ויצאو",
+      "gloss": "او ويې وباسل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوت-تڼې"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "بوت-تڼې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "هابعل"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "او ويې سوځولې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:04:50.872782933Z",
+  "model": "glm-5.3"
+}

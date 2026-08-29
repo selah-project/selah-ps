@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د ايمر زامن — زر پنځوس او دوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ايمر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زر"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:09.159881747Z",
+  "model": "glm-5.3"
+}

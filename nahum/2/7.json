@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د سيندونو دروازې پرانیستل شوې، او ماڼۍ وېلې شوه.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "د سيندونو"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "پرانیستل شوې"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "او ماڼۍ"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "وېلې شوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:40.116806180Z",
+  "model": "glm-5.3"
+}

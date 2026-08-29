@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 29:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "چې ستا د یاهوه الوهیم په تړون او په هغه قسم کې شامل شې، چې یاهوه ستا الوهیم نن له تا سره پرېکوي.",
+  "tokens": [
+    {
+      "surface": "לעברך",
+      "gloss": "چې شامل شې"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "په تړون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "ובאלתו",
+      "gloss": "او په هغه قسم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "پرېکوي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:29.912485185Z",
+  "model": "glm-5.3"
+}

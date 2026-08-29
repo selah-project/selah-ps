@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "نیسه ډال او سپر، او زما مرستې ته راپاڅېږه.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "نیسه"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ډال"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "او سپر"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "او راپاڅېږه"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "زما مرستې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:47.814634521Z",
+  "model": "glm-5.3"
+}

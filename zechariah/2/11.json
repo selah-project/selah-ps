@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "هو! صهیونه، ورواښه، اې هغه چې د بابل د لور اوسېدونکې يې!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "هو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیونه"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ورواښه"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "اوسېدونکې"
+    },
+    {
+      "surface": "בת",
+      "gloss": "د لور"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:32.948032629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "ځان (نفس) چې زحمت کوي، د خپل پاره زحمت کوي، ځکه چې خوله يې پرې ټینګار کوي.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ځان (نفس)"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "چې زحمت کوي"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "زحمت کوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د خپل پاره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "ټینګار کوي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "خوله يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:13.965250482Z",
+  "model": "glm-5.3"
+}

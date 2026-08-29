@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 17:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "هم نابغه چې چوپ وي، هوښیار ګڼل کېږي؛ هغه چې خپلې شونډې بندوي، پوه ګڼل کېږي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نابغه"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "چوپ وي"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ګڼل کېږي"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "بندوي"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "خپلې شونډې"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "پوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:06.555705729Z",
+  "model": "glm-5.3"
+}

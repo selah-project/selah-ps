@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "بهېدلی به بهېږې — ته هم او دا قوم چې ستا سره دی — ځکه دا کار ستا له برېته درنډ دی؛ ته به يې په يوازې ځان نشې کولی.",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "بهېدل (تاکید)"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "بهېږې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "دا قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "درنډ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ستا له برېته"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا کار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "نشې کولی"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "يې کول"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "په يوازې ځان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:35.099204071Z",
+  "model": "glm-5.3"
+}

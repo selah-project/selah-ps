@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د زرو وزن چې په یوه کال کې شلمې ته راغی، شپږ سوه او شپېته او شپږ وزنه (کلونه) زر وو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "د زرو وزن"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلمې ته"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "په یوه کال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "کې"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "وزنه (کلونه)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:20.275690746Z",
+  "model": "glm-5.3"
+}

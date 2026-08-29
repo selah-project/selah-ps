@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "یوازې وینه مه يې خورئ؛ پر ځمکه يې د اوبو په څېر تویوئ.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورئ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "يې تویوئ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "د اوبو په څېر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:11.819214607Z",
+  "model": "glm-5.3"
+}

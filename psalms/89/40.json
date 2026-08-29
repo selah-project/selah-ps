@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "ته د خپل بنده تړون رد کړی، د هغه تاج دې تر ځمکې ناپاک کړی.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "رده کړې"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "د خپل بنده"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "ناپاک کړی"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "تر ځمکې"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "د هغه تاج"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:32.395555146Z",
+  "model": "glm-5.3"
+}

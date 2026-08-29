@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "او وګوره چې که په ما کې د درد لار وي، او ما په تلپاتې لار کې ولېږدوه.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "د درد"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما کې"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "او ما ولېږدوه"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "تلپاتې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:17.412915836Z",
+  "model": "glm-5.3"
+}

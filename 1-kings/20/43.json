@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او د یسرایل پاچا خپل کور ته لاړ، خفه او قهرجن، او شمرون ته راغی.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "لاړ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسرایل"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خپل کور"
+    },
+    {
+      "surface": "סר",
+      "gloss": "خفه"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "قهرجن"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "شمرون ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:00:08.020517114Z",
+  "model": "glm-5.3"
+}

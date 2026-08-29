@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او منځنۍ تېرکه به په تختو کې له یوې سره څخه تر بلې سرې پورې تېره وي.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "او تېرکه"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "منځنۍ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په ... کې"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختو"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "تېره وي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "سره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "سرې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:54.393673356Z",
+  "model": "glm-5.3"
+}

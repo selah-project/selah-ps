@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او لوت ته هم، هغه چې ⟨את⟩ ابرام سره تللی و، مېږې، غواوان او خیمې وې.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "لوت ته"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "هغه چې تللی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وې\/و"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "مېږې"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "او غواوان"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "او خیمې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:19.845514918Z",
+  "model": "glm-5.3"
+}

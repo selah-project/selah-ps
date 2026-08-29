@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د افرايم د زامنو د قبیلې لپاره ⟨⟨هغه⟩⟩ شهزاده کموئيل د شېپټان زوی.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "او د قبیلې لپاره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامنو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرايم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "شهزاده"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کموئيل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "شېپټان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:19.489827421Z",
+  "model": "glm-5.3"
+}

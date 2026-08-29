@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 63,
+  "translation": "زما نفس دې ته ټينګه نښلېدلې ده، ستا ښي لاس ⟨مې⟩ ملاتړ کوي.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ټينګه نښلېدلې ده"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "دې پسې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په مې"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "ملاتړ کوي"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ستا ښي لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:56.111774678Z",
+  "model": "glm-5.3"
+}

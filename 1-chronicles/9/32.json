@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 9:32",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د قهاتي د زامنو له خپلو وروڼو څخه ځینې پر د مارچۍ ډوډۍ ګذار وو، چې دا يې شبات په شبات چمتو کوله.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "قهاتي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "خپلو وروڼو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "د مارچۍ"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "چمتو کول"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبات"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "په شبات"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:20.978192953Z",
+  "model": "glm-5.3"
+}

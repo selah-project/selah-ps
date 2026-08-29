@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "زه پوهېږم چې ته پر هر څه توانای یې، او هيڅ پلان له دې پټېدلای نه شي.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "زه پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ته توانای یې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "پټېدلای شي"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له دې"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "پلان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:13.053939732Z",
+  "model": "glm-5.3"
+}

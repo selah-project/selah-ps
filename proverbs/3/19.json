@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "یاهوه په حکمت ⟨سره⟩ ځمکه بنسټ کېښوده، اسمانونه يې په پوهه ټینګ کړل.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "په حکمت"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "بنسټ کېښوده"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "ټینګ کړل"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "په پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:38.509574074Z",
+  "model": "glm-5.3"
+}

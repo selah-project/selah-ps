@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هغه ⟨את⟩ مېزونه په کړیو کې د تابوت دړو ته راوستل، چې تابوت وړل شي، ⟨את⟩ تابوت.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راوستل يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مېزونه"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "مېزونه"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "په کړیو کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "دړو ته"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "د تابوت"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "چې وړل شي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "تابوت"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:29.545292723Z",
+  "model": "glm-5.3"
+}

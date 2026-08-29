@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 79,
+  "translation": "خپل قهر هغو ملتونو ته وټوه چې ⟨هغوی⟩ تا نه پېژني، او پر هغو پاچاهیو چې ستا په نامه نه غږېږي.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "وټوه"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "خپل قهر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "تا پېژني"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "پاچاهیو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ستا په نامه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "غږېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:07.908637302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه چې په مړینه کې ستا یادونه نشته؛ په شیول کې څوک دی چې ته ته ثنا ووایي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "במות",
+      "gloss": "په مړینه"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ستا یادونه"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "په شیول"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ثنا ووایي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:56.271421038Z",
+  "model": "glm-5.3"
+}

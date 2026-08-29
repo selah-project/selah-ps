@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د یعلا زامن، د درقون زامن، د ګیدل زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "یعلا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "درقون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ګیدل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:33.391370995Z",
+  "model": "glm-5.3"
+}

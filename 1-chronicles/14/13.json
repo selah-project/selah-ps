@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او پلېشتیانو بیا زیاتوونه وکړه او په دره کې يې برید وکړ.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "زیاتوونه وکړه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "پلېشتیانو",
+      "gloss": "پلېشتیانو"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "برید وکړ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "په دره کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:02.938343343Z",
+  "model": "glm-5.3"
+}

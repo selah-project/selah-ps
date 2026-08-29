@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د انصاف کوونکو سپکاوی ⟨دی⟩ د ظلم سړی، او د بدکار سپکاوی ⟨دی⟩ هغه چې په لار کې ساده ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "سپکاوی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د انصاف کوونکو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "او سپکاوی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ساده"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:28.289913870Z",
+  "model": "glm-5.3"
+}

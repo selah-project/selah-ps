@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ځکه زموږ ډب او خاورې ته ډوب شوی، زموږ بطن ځمکې ته څرېږدېدلی دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "ډوب شوی"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "خاورې ته"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "زموږ ډب"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "څرېږدېدلی دی"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ځمکې ته"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "زموږ بطن"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:35.110142585Z",
+  "model": "glm-5.3"
+}

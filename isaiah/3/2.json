@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زورور او د جګړې سړی، قاضي او نبي، فال-لیدونکی او زوړ سړی —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "زورور"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "او ... سړی"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "او نبي"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "او فال-لیدونکی"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "او زوړ سړی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:23.352255347Z",
+  "model": "glm-5.3"
+}

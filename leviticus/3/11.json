@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او کاهن به هغه پر مذبح سوځوي: ⟨دا⟩ د اور قربانۍ خواړه دي، د یاهوه لپاره.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "او به سوځوي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "پر مذبح"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د اور قربانۍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:51.296457815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "دولس کاله یې ⟨את⟩ کدرلاعمر ته خدمت وکړ، او دیارلسم کاله یې بغاوت وکړ.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دوې"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لسه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت يې وکړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کدرلاعمر"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "کدرلاعمر"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "او درې"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لسه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "بغاوت يې وکړ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:15.683409587Z",
+  "model": "glm-5.3"
+}

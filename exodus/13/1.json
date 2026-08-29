@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او یاهوه وویل موشې ته، ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:18:39.723413860Z",
+  "model": "glm-5.3"
+}

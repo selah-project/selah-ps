@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "د ځان لپاره يې ګالۍ جوړې کړې؛ د هغې جامې سپين کتان او ارغوان دي.",
+  "tokens": [
+    {
+      "surface": "مרבדים",
+      "gloss": "ګالۍ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "לה",
+      "gloss": "د ځان لپاره يې"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سپين کتان"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "او ارغوان"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "د هغې جامې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:54.785875364Z",
+  "model": "glm-5.3"
+}

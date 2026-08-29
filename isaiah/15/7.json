@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 15:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "نو ځکه خپله ترلاسه کړې پاتې شتمني او زیرې د هغوی پر د عربو سیلاب ⟨یې≫ وړي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "نو ځکه"
+    },
+    {
+      "surface": "יתרה",
+      "gloss": "پاتې شتمني"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ترلاسه کړې"
+    },
+    {
+      "surface": "ופקדתם",
+      "gloss": "او د هغوی زیرې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נחل",
+      "gloss": "سیلاب"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "د عربو (وېلو)"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "يې وړي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:15:13.545478129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د بنیامین د زامنو څخه: سلو د مشلم زوی، د هودویاه زوی، د هسنهوا زوی.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له ... څخه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سلو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مشلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "هودویاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "هسنهوا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:45.121596036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او کاهن به ټوکرۍ ستا له لاسه واخلي او د یاهوه ستا الوهیم د مذبحې مخې ته به يې کېږدي.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "او واخلي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "ټوکرۍ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ستا له لاسه"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "او کېږدي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "مזבח",
+      "gloss": "د مذبحې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:27.959415134Z",
+  "model": "glm-5.3"
+}

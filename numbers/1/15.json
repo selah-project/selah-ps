@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د نفتالي لپاره — اَحیرع، د عِینان زوی.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "د نفتالي لپاره"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اَحیرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عِینان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:55.784518058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او آسا هغه څه وکړل چې نیک او سمه وه په سترګو کې د یاهوه د هغه د الوهیم.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "او سمه"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "د هغه د الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:23.874958313Z",
+  "model": "glm-5.3"
+}

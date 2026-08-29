@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "نو <wl>ستا<\/wl> لپاره به هېڅ اچوونکی نه وي چې د یاهوه په ټولګه کې رسه پر ډول وغورځوي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "اچوونکی"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "رسه"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "پر ډول"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په ټولګه کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:16:58.004657979Z",
+  "model": "glm-5.3"
+}

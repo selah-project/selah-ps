@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "له مِراري ← د مَحلي کورنۍ او د موشي کورنۍ؛ دا دې د مِراري کورنۍ دي.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "له مِراري"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "د مَحلي کورنۍ"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "مَحلي"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "او د موشي کورنۍ"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "موشي"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دې"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراري"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:16.073246782Z",
+  "model": "glm-5.3"
+}

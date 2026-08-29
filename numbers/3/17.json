@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او دا د لويي زامن وو په خپلو نومونو: ګرشون، قهات او مراري.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لويي"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "په خپلو نومونو"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ګرشون"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "او قهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "او مراري"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:50.346904340Z",
+  "model": "glm-5.3"
+}

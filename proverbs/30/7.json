@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "دوه شیونه مې له ⟨את⟩ تا غوښتي دي؛ تر دې چې نه مري، مه ما نه بندوي.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "دوه شیونه"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "مې غوښتي دي"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "له ⟨את⟩ تا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "بندوي"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ما"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "تر دې چې"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "نه مري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:37.544659391Z",
+  "model": "glm-5.3"
+}

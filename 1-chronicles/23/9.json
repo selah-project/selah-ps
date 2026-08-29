@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 23:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د شمعي زامن: شلوموت او حزی‌ایل او هاران — درې. دا د لعدان د پلارونو\/کورنیو مشران وو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شمعي"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شلوموت"
+    },
+    {
+      "surface": "וחזיאל",
+      "gloss": "او حزی‌ایل"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "او هاران"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "د پلارونو\/کورنیو"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "د لعدان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:26.807774990Z",
+  "model": "glm-5.3"
+}

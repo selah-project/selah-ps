@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د کاهن هره مېنخا په بشپړه توګه سوځول کېدونکې ⟨وي⟩؛ خوړل به نه شي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "د مېنخا"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "په بشپړه توګه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خوړل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:37.601602941Z",
+  "model": "glm-5.3"
+}

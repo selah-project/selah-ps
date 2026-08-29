@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "⟨هغه⟩ اسمانونو ته له پورته او ځمکې ته غږ کوي، چې خپل قوم پرېکړه کړي.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "غږ کوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له پورته"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "چې پرېکړه وکړي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:53.347263739Z",
+  "model": "glm-5.3"
+}

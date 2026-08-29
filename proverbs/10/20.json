@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د نیک زړه لکه ټاکل شوې سپین‌زر ده، خو د بدکارانو زړه لږ ارزښت لري.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "سپین‌زر"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ټاکل شوې"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د نیک"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "لږ ارزښت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:38.929091577Z",
+  "model": "glm-5.3"
+}

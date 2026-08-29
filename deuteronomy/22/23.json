@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 22:23",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "که یوه نجلۍ پېغله د یو سړي په نامه ژمنه شوې وي، او یو سړی په ښار کې ومومي او له هغې سره اړیکه وکړي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نجلۍ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "پېغله"
+    },
+    {
+      "surface": "מארשה",
+      "gloss": "ژمنه شوې"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "د یو سړي په نامه"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "او ومومي يې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "او اړیکه وکړي"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "له هغې سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:18.568031196Z",
+  "model": "glm-5.3"
+}

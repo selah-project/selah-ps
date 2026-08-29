@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "ځکه دوی يو ملت دی چې له مشورې بې بریته دی، او په دوی کې هېڅ پوهه نشته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "بې بریته دی"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "له مشورې"
+    },
+    {
+      "surface": "המה",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په دوی کې"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:48.080552270Z",
+  "model": "glm-5.3"
+}

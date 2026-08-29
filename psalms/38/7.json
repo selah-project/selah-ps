@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "زه کږ شوی یم، ډېر غوږ شوی یم؛ ټوله ورځ په سوګ ګرځم.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "زه کږ شوی یم"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "غوږ شوی یم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره حده"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "קדر",
+      "gloss": "په سوګ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ګرځم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:41.905530985Z",
+  "model": "glm-5.3"
+}

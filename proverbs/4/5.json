@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "حکمت ترلاسه کړه، پوهه ترلاسه کړه؛ مه هېروې او د زما د خولې له وینو مه تاوېږه.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ترلاسه کړه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ترلاسه کړه"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "هېروې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תט",
+      "gloss": "تاوېږه"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "له وینو"
+    },
+    {
+      "surface": "פי",
+      "gloss": "د زما د خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:41.185474047Z",
+  "model": "glm-5.3"
+}

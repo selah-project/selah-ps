@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او ایوب ځواب وواژه او ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ځواب يې وواژه"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:07:26.237494621Z",
+  "model": "glm-5.3"
+}

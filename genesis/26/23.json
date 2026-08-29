@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او هغه له هغه ځایه پورته «بېر-شِوُع» ته ولاړ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "پورته ولاړ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بېر-شِوُع ته"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "بېر-شِوُع"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:51.640846674Z",
+  "model": "glm-5.3"
+}

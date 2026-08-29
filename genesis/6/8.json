@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "خو نوح د یاهوه په سترګو کې رحمت وموند.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "خو نوح"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "وموند"
+    },
+    {
+      "surface": "חן",
+      "gloss": "رحمت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:25.330067055Z",
+  "model": "glm-5.3"
+}

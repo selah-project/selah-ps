@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د زما د قربانۍ وینه به له خمیر شوي东西 سره نه قربانوې، او د زما د اختر غوړ به تر سهار پاتې نه شي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "قربانوې"
+    },
+    {
+      "surface": "על",
+      "gloss": "له... سره"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیر شوي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "زما د قربانۍ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "پاتې شي"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "زما د اختر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سهار"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:19.225117094Z",
+  "model": "glm-5.3"
+}

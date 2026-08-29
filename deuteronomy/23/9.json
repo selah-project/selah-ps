@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "بنۍ چې ورته زېږېدلي وي، درېیم نسل یې د یاهوه په ټولنه کې راننوځي.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "بنۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "زېږېدلي وي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "درېیم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "راننوځي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "یې"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په ټولنه کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:07.205882065Z",
+  "model": "glm-5.3"
+}

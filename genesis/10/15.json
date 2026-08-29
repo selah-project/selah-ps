@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او کنعان ⟨את⟩ صیدون د خپل لومړي زوی او ⟨את⟩ حت پیدا کړ.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "او کنعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدا کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صیدون"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "د خپل لومړي زوی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حت"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:03.096651828Z",
+  "model": "glm-5.3"
+}

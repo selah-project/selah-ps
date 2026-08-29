@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "ساتونکی دی یاهوه د بې‌تجربه‌و؛ زه ټیټ شوم، او هغه مې وژغوره.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ساتونکی"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "بې‌تجربه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "زه ټیټ شوم"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "او ماته"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "وژغوره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:08.825007638Z",
+  "model": "glm-5.3"
+}

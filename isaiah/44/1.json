@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او اوس واورېږه، ای یعقوب زما بنده، او ای اسرایل چې ما غوره کړی يې.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واورېږه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "زما بنده"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "او اسرایل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ما غوره کړی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:13.132480368Z",
+  "model": "glm-5.3"
+}

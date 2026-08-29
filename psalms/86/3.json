@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 86,
+  "translation": "ادونای، ما ته مهر bait راکړه، ځکه چې زه ټوله ورځ ستا نوم بولم.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ماته مهر وکړه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بولم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:38.995824986Z",
+  "model": "glm-5.3"
+}

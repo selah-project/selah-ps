@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "چېرې چې غواوان نه وي، هلته والی خالي وي؛ خو په زوره د غوا ډېر حاصل راځي.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "چېرې چې … نه وي"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "غواوان"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "والی"
+    },
+    {
+      "surface": "בר",
+      "gloss": "خالي \/ پاک"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "خو ډېر"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "حاصل"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "په زوره"
+    },
+    {
+      "surface": "שור",
+      "gloss": "د غوا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:34.580044407Z",
+  "model": "glm-5.3"
+}

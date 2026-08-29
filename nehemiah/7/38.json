@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د سِنَعه زامن — درې زره نهه سله او دېرش.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سِنَعه"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سله"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "او دېرش"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:31.352568649Z",
+  "model": "glm-5.3"
+}

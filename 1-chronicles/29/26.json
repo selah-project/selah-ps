@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او داوېد د یِشای زوی پر ټول اسرائیل پاچاهي وکړه",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "او داوېد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچاهي وکړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:39.643409685Z",
+  "model": "glm-5.3"
+}

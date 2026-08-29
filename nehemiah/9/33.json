@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ته په هغه ټول کې چې پر موږ راغلی یې عادل يې، ځکه چې ته رښتینې وکړه او موږ بدکارو وکړه.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "هغه چې راغلی"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "پر موږ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "رښتینې"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "وکړه"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "او موږ"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "بدکارو وکړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:36.122815720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زړه چې بد نظرونه جوړوي، پښې چې په بدۍ ته په منډو ژرې دي،",
+  "tokens": [
+    {
+      "surface": "لב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "چې جوړوي"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "نظرونه"
+    },
+    {
+      "surface": "און",
+      "gloss": "بد"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پښې"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "چې ژرې دي"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "په منډو"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "بدۍ ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:22.159857876Z",
+  "model": "glm-5.3"
+}

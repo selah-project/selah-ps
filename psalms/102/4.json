@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "ځکه زما ورځې د لوګي په څېر پای ته ورسېدې، او زما هډوکي لکه اور لږل شوي دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "پای ته ورسېدې"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "په لوګي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "زما ورځې"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "او زما هډوکي"
+    },
+    {
+      "surface": "כמو",
+      "gloss": "لکه"
+    },
+    {
+      "surface": "קד",
+      "gloss": "اور"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "لږل شوي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:58.483387807Z",
+  "model": "glm-5.3"
+}

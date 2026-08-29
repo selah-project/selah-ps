@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "د هغه روښنایي دې درولې، او د هغه تخت دې ځمکې ته وغورځوله.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "درولې"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "د هغه روښنایي"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "او د هغه تخت"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ځمکې ته"
+    },
+    {
+      "surface": "مגרתה",
+      "gloss": "وغورځوله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:43.900899467Z",
+  "model": "glm-5.3"
+}

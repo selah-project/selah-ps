@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 14:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او یو بل ته یې وویل: راسه جوړ کړو او بېرته مِتسرایم ته ستون شو.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "او وویل یې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אחיو",
+      "gloss": "بل"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "جوړ کړو"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "راسه"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "او ستون شو"
+    },
+    {
+      "surface": "مצרימה",
+      "gloss": "مِتسرایم ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:44.241923659Z",
+  "model": "glm-5.3"
+}

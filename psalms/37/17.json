@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "چې د بدکارانو بازوونه ماتېږي، خو یاهوه رښتیاني ملاتړ کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "بازوونه"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ماتېږي"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ملاتړ کوي"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "رښتیاني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:46.247365322Z",
+  "model": "glm-5.3"
+}

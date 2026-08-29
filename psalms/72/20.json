@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 72,
+  "translation": "پای ته ورسېدې د داوېد زوی یشای لمونځونه.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "پای ته ورسېدل"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "لمونځونه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یشای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:51.793883496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 80,
+  "translation": "یاهوه، الوهیمِ ډلیو، تر کله به د خپل قوم د لمانځه پر وړاندې دخان کړې؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ډلیو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "دخان کړې"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "د لمانځه پر وړاندې"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "د خپل قوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:46.898483536Z",
+  "model": "glm-5.3"
+}

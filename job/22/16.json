@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 22:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "چې له خپل وخت مخکې ونړول شول — سېلاب پر د هغوی بنسټ اېول شو.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "קמטו",
+      "gloss": "ونړول شول"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "נהر",
+      "gloss": "سېلاب"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "اېول شو"
+    },
+    {
+      "surface": "יסודם",
+      "gloss": "د هغوی بنسټ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:05.595664851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 5:2",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه چې یهودا د خپلو وروڼو غالب ؤ، او له هغه څخه مشر راڅرګند شو، خو لومړيزه د یوسف وه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "غالب ؤ"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "د خپلو وروڼو"
+    },
+    {
+      "surface": "ולנגיד",
+      "gloss": "او مشر"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه څخه"
+    },
+    {
+      "surface": "והבכרה",
+      "gloss": "خو لومړيزه"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "د یوسف وه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:58.088309110Z",
+  "model": "glm-5.3"
+}

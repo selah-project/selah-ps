@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او صِقلَګ، او بېت-هَمَرکَبوت، او حَصَر-سوسَه.",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "او صِقلَګ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او بېت-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "هَمَرکَبوت"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "او حَصَر-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "سوسَه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:30.279033752Z",
+  "model": "glm-5.3"
+}

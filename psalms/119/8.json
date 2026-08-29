@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "⟨את⟩ ستا فرائض به زه ساتم؛ مه مې پرېږده تر ډېره!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا فرائض"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا فرائض"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ساتم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעזבנي",
+      "gloss": "مې پرېږده"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېرا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:23.672807555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ستا خبره زما د پښو څراغ ⟨ده⟩ او زما د لارې رڼا.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "څراغ"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "زما د پښو"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ستا خبره"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "او رڼا"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "زما د لارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:09.248172235Z",
+  "model": "glm-5.3"
+}

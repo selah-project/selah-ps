@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "د هغه په سپېڅلي نوم وویاړئ، د یاهوه د پلټونکو زړه خوشحاله شي.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "وویاړئ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "د هغه سپېڅلي"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحاله شي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "د پلټونکو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:47.414917622Z",
+  "model": "glm-5.3"
+}

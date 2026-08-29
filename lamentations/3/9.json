@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زما لارې يې د كرلو تېږو سره ديواله كړې، زما پلونه يې كج كړي.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "ديواله كړې"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "زما لارې"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "د كرلو تېږو سره"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "زما پلونه"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "كج كړي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:40.710906170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 108,
+  "translation": "ویښ شه، ای نابل او کنور؛ زه به سپارګی ویږوم.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ویښ شه"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ای نابل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "او کنور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "زه به ویږوم"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سپارګی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:59.396789902Z",
+  "model": "glm-5.3"
+}

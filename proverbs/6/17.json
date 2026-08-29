@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "لوړې سترګې، درواغجن ژبه، او لاسونه چې بې-ګناه وینې تويوي،",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "لوړې"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درواغجن"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "او لاسونه"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "چې تويوي"
+    },
+    {
+      "surface": "דם",
+      "gloss": "وینې"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بې-ګناه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:22.159625732Z",
+  "model": "glm-5.3"
+}

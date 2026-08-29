@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "مې د خپلې خولې په ښکلونو ښکلې کړه، ځکه چې ستا مينې له شرابو غوره دي.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "مې ښکلې کړه"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "په ښکلونو"
+    },
+    {
+      "surface": "پיהו",
+      "gloss": "د خپلې خولې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "غوره دي"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ستا مينې"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "له شرابو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:15.629187612Z",
+  "model": "glm-5.3"
+}

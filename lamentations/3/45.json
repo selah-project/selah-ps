@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "کثافات او خښته مو جوړ کړې د خلکو په منځ کې.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "کثافات"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "او خښته"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "مو جوړ کړې"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "د خلکو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:19:43.049518749Z",
+  "model": "glm-5.3"
+}

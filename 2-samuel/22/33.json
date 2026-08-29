@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ایل ⟨دی⟩ زما سنګر، زما ځواک، او هغه زما لار بشپړه کړه.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "زما سنګر"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زما ځواک"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "او يې بشپړه کړه"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "زما لار"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:48.523606178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 113,
+  "translation": "هغه چې ټیټېږي ⟨تر⟩ څو په اسمانونو او په ځمکه کې وګوري؟",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ټیټېږي"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "چې وګوري"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "په اسمانونو کې"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "او په ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:23.013626418Z",
+  "model": "glm-5.3"
+}

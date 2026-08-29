@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 4:18",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او شلومو دا ټول لوښي په ډېرې ښه-څومره والي جوړ کړل، ځکه د مسينې وزن ونه څېړل شو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او جوړ يې کړل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "لوښي"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "په ډېروالي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נחקר",
+      "gloss": "څېړل شو"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "د مسينې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:31.962651443Z",
+  "model": "glm-5.3"
+}

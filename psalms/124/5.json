@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 124,
+  "translation": "آنه زموږ نفس به پرې تېر شوی وای د سرکاښو اوبو.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "آنه"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېر شوی وای"
+    },
+    {
+      "surface": "על",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "زموږ نفس"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "د سرکاښو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:44.064525151Z",
+  "model": "glm-5.3"
+}

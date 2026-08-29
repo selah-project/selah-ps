@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "نو یاهوه په اسراییل کې وبا وګمارلو له اسراییله اویا زره سړي لوېدل.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "وګمارلو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په اسراییل کې"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "او لوېدل"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "له اسراییله"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:31.372221977Z",
+  "model": "glm-5.3"
+}

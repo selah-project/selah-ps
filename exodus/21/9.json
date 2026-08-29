@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او که ⟨هغه⟩ د خپل زوي لپاره وټاکي، د لوڼو د حق په څېر يې ورسره وکړي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "د خپل زوي لپاره"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "وټاکي"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "د حق په څېر"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "د لوڼو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "وکړي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورسره يې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:08.688294793Z",
+  "model": "glm-5.3"
+}

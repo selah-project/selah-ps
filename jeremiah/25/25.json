@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ⟨את⟩ ټول پاچایان د زیمري، او ⟨את⟩ ټول پاچایان د عیلام، او ⟨את⟩ ټول پاچایان د مادای",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچایان د"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زیمري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچایان د"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عیلام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچایان د"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "مادای"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:10.582441182Z",
+  "model": "glm-5.3"
+}

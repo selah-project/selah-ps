@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "شمرون له خپله پاچا سره به منقطع شي، لکه د اوبو پر مخ کف.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "منقطع شي"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شمرون"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "لکه کف"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:11:52.960663514Z",
+  "model": "glm-5.3"
+}

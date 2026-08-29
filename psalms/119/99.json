@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "له ټولو زما ښوونکو څخه زه پوهه ترلاسه کړې ده، ځکه ستا ګواهي مې فکر دی.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ښوونکو"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "پوهه ترلاسه کړې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ستا ګواهي"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "فکر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:39.294939713Z",
+  "model": "glm-5.3"
+}

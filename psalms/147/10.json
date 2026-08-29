@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 147,
+  "translation": "نه په د آس زور کې خوښېږي ⟨هغه⟩، نه په د سړي پښو کې خوشحالی کوي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "په زور کې"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "د آس"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "خوښېږي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "په پښو کې"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "خوشحالی کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:12.470750692Z",
+  "model": "glm-5.3"
+}

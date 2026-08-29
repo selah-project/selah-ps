@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "که وسپنه کږه شوې وي او هغه مخې نه تېره کړي، نو ډېر زور به ولګوي؛ خو د چلاڼتيا ګټه دادله چې بريالي کړي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "قהה",
+      "gloss": "کږه شوې وي"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "وسپنه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "پنیم",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "تېره کړي"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "ډېر زور"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "لګوي"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "بريالي کړي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "چلاڼتيا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:11.007961690Z",
+  "model": "glm-5.3"
+}

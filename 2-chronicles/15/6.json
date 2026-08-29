@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او ملت په ملت مات شو، او ښار په ښار، ځکه چې الوهیم دوی په هره بېړه ګډوډ کړل.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "او مات شو"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "په ملت"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "او ښار"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "دوی ګډوډ کړل"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هره"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "بېړه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:07.968785109Z",
+  "model": "glm-5.3"
+}

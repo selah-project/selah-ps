@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او له پونون وخوځېدل، او په اوبوت کې خېمې وکړې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وخوځېدل"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "له پونون"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خېمې وکړې"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "په اوبوت کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:18.150962851Z",
+  "model": "glm-5.3"
+}

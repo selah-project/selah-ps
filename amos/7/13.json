@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 7:13",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او په بیت-ایل دې بیا ننواتی نه کوي، ځکه دا د پاچا مزار دی او د پاچاهۍ کور دی.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "او په بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "دې بیا کوي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ننواتی"
+    },
+    {
+      "surface": "להנבא",
+      "gloss": "ننواتی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مزار"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا ... دی"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او ... کور"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "د پاچاهۍ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا ... دی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:58:25.415118373Z",
+  "model": "glm-5.3"
+}

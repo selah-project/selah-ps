@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او د خونو مخې ته برید يوه اَمه، او يوه اَمه برید د دې خوا؛ او خونه شپږ اَمه د هغې خوا، او شپږ اَمه د هغې خوا.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "او بريد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "د خونو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "يوه اَمه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "يو"
+    },
+    {
+      "surface": "وאמה",
+      "gloss": "او يوه اَمه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "يو"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "بريد"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "د دې خوا"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "او خونه"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمه"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "د هغې خوا"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمه"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "د هغې خوا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:36.091895796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او خنوخ له ⟨את⟩ الوهيم سره روان و، او دا و نه شو، ځکه الوهيم ⟨את⟩ هغه واخېست.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "روان و"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خنوخ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوهيم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهيم"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "دا و نه شو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "واخېست"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهيم"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:39.829064070Z",
+  "model": "glm-5.3"
+}

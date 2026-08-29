@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زمری غوښتلی — څوک دې نه وېرېږي؟ ادونای یاهوه ويلي — څوک دې نبوت نه کوي؟",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "زمری"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "غوښتلی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "وېرېږي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ويلي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "نبوت کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:14:00.412728728Z",
+  "model": "glm-5.3"
+}

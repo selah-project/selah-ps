@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د فَرعُش زامن: دوه زره يوه سوه اویا دوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "فَرعُش"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوه زره"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "يوه سوه"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:19.946778414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 24:7",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ځکه چې د هغې وینه ⟨the⟩ په منځ کې يې ولاړه وه؛ پر روښانه غوټه يې اېښې ده، پر ځمکه يې نه ده توې کړې، چې په خاوره يې پټ کړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "د هغې وینه"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ولاړه وه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צחיח",
+      "gloss": "روښانه"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "غوټه"
+    },
+    {
+      "surface": "שמתהו",
+      "gloss": "اېښې ده"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שפכתהו",
+      "gloss": "توې کړې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "پټ کړي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "په خاوره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:35.270438048Z",
+  "model": "glm-5.3"
+}

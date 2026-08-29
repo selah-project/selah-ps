@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 147,
+  "translation": "خپله کلمه لېږي او ويلې يې کوي؛ خپل باد چلوي — اوبه بهېږي.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "لېږي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "خپله کلمه"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "او ويلې يې کوي"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "چلوي"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "خپل باد"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "بهېږي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:32.097210819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ستا خېسېد، ای یاهوه، زموږ پر سر وي، لکه څنګه چې موږ ته دې تمه کړې ده.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ستا خېسېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "زموږ پر سر"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "تمه مو کړې ده"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته دې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:58.133038585Z",
+  "model": "glm-5.3"
+}

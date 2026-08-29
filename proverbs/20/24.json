@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د یاهوه له خوا د سړي ګامه دي؛ نو انسان څنګه خپله لار پوهېدلی شي؟",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "د یاهوه له خوا"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "ګامه"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "نو انسان"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "پوهېدلی شي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "خپله لار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:51.116143222Z",
+  "model": "glm-5.3"
+}

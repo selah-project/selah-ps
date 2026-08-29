@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 31:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ځکه اور دی، تر ابادون پورې سوځوي، او زما ټول حاصل له ریښو لیري کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אבדون",
+      "gloss": "ابادون"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "سوځوي"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "תבואתי",
+      "gloss": "زما حاصل"
+    },
+    {
+      "surface": "תשרש",
+      "gloss": "له ریښو لیري کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:24.631440477Z",
+  "model": "glm-5.3"
+}

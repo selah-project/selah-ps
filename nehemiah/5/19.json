@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زما الوهيمه، ماته د خېر لپاره ياد کړه ټول هغه څه چې مې پر دې قوم وکړل.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "ياد کړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهيمه"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "د خېر لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه څه چې"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "مې وکړل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:41:24.988970212Z",
+  "model": "glm-5.3"
+}

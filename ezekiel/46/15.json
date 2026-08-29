@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "او ⟨את⟩ سالار، ⟨את⟩ انډول او ⟨את⟩ تېل به د سهار په سهار جوړوي — تلپاتې سوځتوکی.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "او به جوړوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سالار"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "سالار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "انډول"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "انډول"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تېل"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تېل"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "په سهار"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "په سهار"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "سوځتوکی"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تلپاتې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:01.622426316Z",
+  "model": "glm-5.3"
+}

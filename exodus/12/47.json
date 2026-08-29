@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د اسراییل ټوله ټولنه ⟨אתו⟩ به ترسره کوي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ټولنه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "به ترسره کوي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "پسح (د هغه ترسره کول)"
+    }
+  ],
+  "timestamp": "2026-08-28T21:18:29.226251783Z",
+  "model": "glm-5.3"
+}

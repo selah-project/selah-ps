@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او یوشع او ټول اسراییل د هغه سره ګلګل ته په پوځي پناهګاه کې ستون شول.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ستون شول"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یوشع"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "د هغه سره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "په پوځي پناهګاه کې"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "ګلګل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:55.818024241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "دا دې هم د حکیمانو لپاره وي: په قضا کې د مخونو پېژندنه ښه نه-ده.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا [خبرې]"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "د حکیمانو لپاره"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "پېژندنه"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "د مخونو"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "په قضا کې"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:42.593138463Z",
+  "model": "glm-5.3"
+}

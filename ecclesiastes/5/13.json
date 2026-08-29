@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او هغه مال په یوه بد کړکېچ کې له منځه ځي، او ⟨هغه⟩ زوی زیږوي، او په لاس کې يې هېڅ نه وي.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "او له منځه ځي"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "هغه مال"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "په کړکېچ کې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "او زیږوي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "په لاس کې يې"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "هېڅ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:14.411492708Z",
+  "model": "glm-5.3"
+}

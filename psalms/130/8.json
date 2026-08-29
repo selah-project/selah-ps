@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 130,
+  "translation": "او هغه به ⟨את⟩ اسراییل د هغه له ټولو ګناهونو خلاص کړ.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "خلاص به کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسراییل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "مכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "ګناهونو يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:38.999666939Z",
+  "model": "glm-5.3"
+}

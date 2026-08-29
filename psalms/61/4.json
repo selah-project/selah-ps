@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 61,
+  "translation": "ځکه چې ته زما پنا وې، د ځواک برج د دښمن له مخې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وې"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پنا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "עז",
+      "gloss": "د ځواک"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دښمن"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:38.591195760Z",
+  "model": "glm-5.3"
+}

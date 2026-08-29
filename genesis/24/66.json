@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او خادم يې له اېسحاق سره ټول هغه کارونه بيان کړل چې هغه يې کړي وو.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "بيان يې کړل"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "خادم"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "له اېسحاق سره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه کارونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "کارونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړي وو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:13.932353213Z",
+  "model": "glm-5.3"
+}

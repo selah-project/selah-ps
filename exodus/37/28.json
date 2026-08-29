@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هغه ⟨את⟩ ډبې د شټیم له لرګیو جوړ کړې او هغه ⟨אתם⟩ په زرو پوښلې.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او هغه جوړ کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ډبې"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ډبې"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "له لرګیو"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "د شټیم"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "او هغه پوښلې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "هغه (ډبې)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "په زرو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:29:57.528984111Z",
+  "model": "glm-5.3"
+}

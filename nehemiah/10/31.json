@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 10:31",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او چې زموږ لوڼې د ځمکې د خلکو ته نه ورکوو، او ⟨את⟩ د دوی لوڼې زموږ زامنو ته نه اخلو.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "او چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکوو"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "زموږ لوڼې"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "د خلکو ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د دوی لوڼې"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "د دوی لوڼې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "اخلو"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "زموږ زامنو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:25.308663445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 4:9",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ⟨את⟩ دواړه ګردې او ⟨את⟩ هغه غوړ چې پرې ده، هغه چې پر تکونو دی، او ⟨את⟩ د ځيګر پر برخه، چې له ګردو سره يې لرې کوي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دواړه ګردې"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دواړه"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ګردې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "غوړ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "تکونو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د ځيګر برخه"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "د ځيګر پر برخه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ځيګر"
+    },
+    {
+      "surface": "על",
+      "gloss": "له"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ګردو"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "لرې کوي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:34:13.124078112Z",
+  "model": "glm-5.3"
+}

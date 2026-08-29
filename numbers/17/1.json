@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او یاهوه له موشې سره وویل، چې:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او...وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له...سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې:"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:46.472369918Z",
+  "model": "glm-5.3"
+}

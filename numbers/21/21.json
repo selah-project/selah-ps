@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او یې اسرائیلو سېحون ته، د اموريانو پاچا ته، استازي واستولې، وايي چې:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "واستولې"
+    },
+    {
+      "surface": "ישرאל",
+      "gloss": "اسرائیلو"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "استازي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سېحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموريانو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:56.941464989Z",
+  "model": "glm-5.3"
+}

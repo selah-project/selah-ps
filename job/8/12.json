@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "چې لا د شاو په حال کې دی، نه پرې کېږي، مخکې له هر شن بوټي وچېږي.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "لا"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "د شاو په حال کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "پرې کېږي"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "او مخکې له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "شن بوټي"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "وچېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:19.310047376Z",
+  "model": "glm-5.3"
+}

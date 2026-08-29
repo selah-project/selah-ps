@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 145,
+  "translation": "د ستا د سترې نیکۍ یادونه به ⟨they⟩ رابهاسي، او ستا عدالت به ⟨they⟩ په زمزمه ستایي.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یادونه"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ستره"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ستا ... نیکۍ"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "به رابهاسي"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "او ستا عدالت"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "به په زمزمه ستایي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:00.803123162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 2:7",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او ما پاچا ته وویل: که په پاچا ښه وي، لیکونه راکړل شي چې د سیند هاخوا د واليانو لپاره دي، چې ما تېر کړي تر هغه چې زه یهودا ته ورسېږم.",
+  "tokens": [
+    {
+      "surface": "ואומר",
+      "gloss": "او ما وویل"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "پاچا ته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه وي"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "لیکونه"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "راکړل شي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "د واليانو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "هاخوا"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "د سیند"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעבירוני",
+      "gloss": "ما تېر کړي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "زه ورسېږم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:41:09.773792437Z",
+  "model": "glm-5.3"
+}

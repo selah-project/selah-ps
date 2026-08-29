@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او يفتاح، اشنه، او نېتسیب.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "او يفتاح"
+    },
+    {
+      "surface": "وאשנה",
+      "gloss": "اشنه"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "او نېتسيب"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:49.615218161Z",
+  "model": "glm-5.3"
+}

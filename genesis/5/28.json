@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او لِمِک ژوند وکړ دوه او اتیا کاله او سل کاله، او هغه زوی زیږ کړ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "لמך",
+      "gloss": "لِمِک"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "او اتیا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "او سل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "زیږ یې کړ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:43.703556947Z",
+  "model": "glm-5.3"
+}

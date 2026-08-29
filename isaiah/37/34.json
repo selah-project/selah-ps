@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "په هغه لار چې راغلی ⟨هغه⟩ بېرته ګرځي، او دې ښار ته به نه راځي، د یاهوه په خبره.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پرې\/په هغه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بېرته ګرځي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "په خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:06.039497302Z",
+  "model": "glm-5.3"
+}

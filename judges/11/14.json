@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او یفتاح بیا زیاته وکړه او د بنی-عامون پاچا ته يې استازي ولېږل",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "زیاته يې وکړه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یفتاح"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږل"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "استازي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عامون"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:27.888858170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "مسکین په لالارۍ غږ کوي، خو شتمن په سختۍ ځواب ورکوي.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "په لالارۍ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "غږ کوي"
+    },
+    {
+      "surface": "רש",
+      "gloss": "مسکین"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "خو شتمن"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ځواب ورکوي"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "په سختۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:35.289687732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او دانیال تر د کوروش ⟨ה⟩ پاچا لومړي کال پورې ⟨و⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ⟨و⟩"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیال"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر … پورې"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "کال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "لومړي"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "د کوروش"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨ه⟩ پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:28:02.850469139Z",
+  "model": "glm-5.3"
+}

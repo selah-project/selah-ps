@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 5:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او کروبیم وزېې پر صندوق ځای خپرې کړې وې؛ کروبیمو له پاسه صندوق او د هغه لرګي پوښلي وو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروبیم"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "خپرې کړې وې"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "وزېې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "پوښلي وو"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروبیمو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "د هغه لرګي"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "له پاسه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:34.055738399Z",
+  "model": "glm-5.3"
+}

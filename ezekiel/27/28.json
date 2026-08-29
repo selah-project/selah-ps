@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د ستا د چلوونکو د چیغو په غږ به میدانونه ورړزېږي.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "په غږ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "د چیغو"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "ستا چلوونکو"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "به ورړزېږي"
+    },
+    {
+      "surface": "مגרשות",
+      "gloss": "میدانونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:01:27.078699543Z",
+  "model": "glm-5.3"
+}

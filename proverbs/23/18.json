@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ځکه چې ⟨شته⟩ پایله، او ستا هیلې به نه پرې کړل شي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨شته⟩"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پایله"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "او ستا هیلې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "به پرې کړل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:44.475739286Z",
+  "model": "glm-5.3"
+}

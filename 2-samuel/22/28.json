@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ⟨את⟩ د غریب قوم ته ژغورې، او ستا سترګې پر لوړو دي چې پر ځمکه يې ږدې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د غریب قوم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ته ژغورې"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "او ستا سترګې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "لوړو"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ته ځمکه ږدې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:27.890821734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ياهوه، ته غوره وکړل ⟨עם⟩ د خپل بنده سره، ستا د خبرې له مخې.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ته وکړل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨עם⟩ د…سره"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خپل بنده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ستا د خبرې له مخې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:51.691914239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "نیک سړی د یاهوه له لوري خوښي ترلاسه کوي، خو د بدمنصوبو سړی یاهوه ناوړه ګڼي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ترلاسه کوي"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "د یاهوه له لوري"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "خو سړی"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "بدمنصوبو"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "ناوړه ګڼي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:53.291627234Z",
+  "model": "glm-5.3"
+}

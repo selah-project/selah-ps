@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه و به په خونديتوب سره خپله لار ووهې، او ستا پښه به ونه ټکېږي.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "هغه و"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "لار ووهې"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "په خونديتوب سره"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "خپله لار"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "او ستا پښه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ونه ټکېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:20.010385466Z",
+  "model": "glm-5.3"
+}

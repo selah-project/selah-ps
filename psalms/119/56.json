@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "دا زما برخه وه، ځکه چې ستا فرمانونه مې ساتلي دي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ستا فرمانونه"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ساتلي مې دي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:41.741218179Z",
+  "model": "glm-5.3"
+}

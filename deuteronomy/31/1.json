@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "موشې ولاړ او دا ټولې خبرې یې ټول اسرائیل ته وویلې.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "وویلې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبرې"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישرאל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:31.988632019Z",
+  "model": "glm-5.3"
+}

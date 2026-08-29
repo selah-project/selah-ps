@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "«دا لوی څاروي چې څلور دي، څلور پاچاهان دي چې له ځمکې راپاڅېږي.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "راپاڅېږي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:33:02.469633110Z",
+  "model": "glm-5.3"
+}

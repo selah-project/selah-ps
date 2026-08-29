@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او یَهصه، او قِدِموت، او مِفعات،",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "او یَهصه"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "او قِدِموت"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "او مِفعات"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:11.412521760Z",
+  "model": "glm-5.3"
+}

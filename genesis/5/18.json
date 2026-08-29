@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او یارد ژوند وکړ دوې او شپېته کالونه او سوه کال، او هغه ⟨את⟩ حنوخ پیدا کړ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یارد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوې"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالونه"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "او سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پیدا کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حنوخ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حنوخ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:39.639533494Z",
+  "model": "glm-5.3"
+}

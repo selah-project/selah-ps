@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "زما لپاره څومره ګران دي ستا فکرونه، ای ایل! څومره زیات دی د دوی ټول!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "ګران دي"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ستا فکرونه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "زیات دی"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "د دوی ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:24.565744619Z",
+  "model": "glm-5.3"
+}

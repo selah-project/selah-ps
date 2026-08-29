@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او اهرون داسې وکړل؛ د مېنوراه مخې ته يې ⟨את⟩ د هغې څراغونه پورته کړل، لکه څنګه چې یاهوه موشې ته حکم کړی و.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מול",
+      "gloss": "مخامخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "مېنورah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "پورته کړل"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "د هغې څراغونه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:52.740693485Z",
+  "model": "glm-5.3"
+}

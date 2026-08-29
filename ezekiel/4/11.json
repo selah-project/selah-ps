@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او اوبه دې په اندازه وڅښې — د هين شپږمه برخه؛ له وخت څخه تر وخت پورې به يې وڅښې.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "او اوبه"
+    },
+    {
+      "surface": "بמשורה",
+      "gloss": "په اندازه"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "وڅښې"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "شپږمه برخه"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "د هين"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "له وخت څخه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت پورې"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "به يې وڅښې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:50:59.102545265Z",
+  "model": "glm-5.3"
+}

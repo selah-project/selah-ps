@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "ويې ويل: «تا ته درکوم ⟨את⟩ د کنعان ځمکه، د میراث ستاسو د پلې برخه.»",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "درکوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د کنعان ځمکه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "كנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "د پلې برخه"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ستاسو میراث"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:48.847126796Z",
+  "model": "glm-5.3"
+}

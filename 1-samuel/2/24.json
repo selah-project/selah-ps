@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 2:24",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "نه، زامنو! ځکه چې ⟨ה⟩ خبره چې زه یې اورم ښه نه ده — چې د یاهوه قوم پر تېروېتنه اچوئ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "השמעה",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اورم"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "تېرويځوئ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:24:19.760132914Z",
+  "model": "glm-5.3"
+}

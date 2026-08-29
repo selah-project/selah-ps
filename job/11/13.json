@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "که ته خپل زړه تیار کړې او خپلې لاسونه هغه ته وغړوې،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "تیار کړې"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "خپل زړه"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "او وغړوې"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "خپلې لاسونه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:29.724443761Z",
+  "model": "glm-5.3"
+}

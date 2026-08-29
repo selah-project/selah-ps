@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یهوشوع ⟨את⟩ قوم واستاوه، او د یسرایل زامن هر يو خپل ميراث ته ولاړل، چې ⟨את⟩ ځمکه ونيسي.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "واستاوه"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ولاړل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر يو"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "خپل ميراث ته"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "چې ونيسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:23:02.167028177Z",
+  "model": "glm-5.3"
+}

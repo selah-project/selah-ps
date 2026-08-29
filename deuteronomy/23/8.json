@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ادومی مه کرغهږوه، ځکه چې هغه ستا ورور دی؛ مِتسرایی مه کرغهږوه، ځکه چې ته په ده هیواد کې پردې وې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "کرغهږوه"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "ادومی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ستا ورور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "کرغهږوه"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "مِتسرایی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پردې"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وې"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "په ده هیواد کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:46.316426214Z",
+  "model": "glm-5.3"
+}

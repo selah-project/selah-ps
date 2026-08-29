@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "له ټولو زما ګناهونو څخه مې خلاص کړه؛ د نابال شرمونه مې مه ګرځوه.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو څخه"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "زما ګناهونو"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "مې خلاص کړه"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "شرمونه"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "د نابال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "مې ګرځوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:53.055264218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ابراهام بیا واخیستله یوه ښځه، او نوم يې قتوره وو.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "بیا (زیاتونه یې وکړه)"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "واخیستله"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یوه ښځه"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "او نوم يې"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قتوره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:36.828710090Z",
+  "model": "glm-5.3"
+}

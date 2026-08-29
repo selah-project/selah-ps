@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 97,
+  "translation": "←ده ←برېښنې ←نړۍ ←روښانه ←کړه؛ ځمکه ←وprocsېده ← او ←وشنډېده",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "روښانه ←کړه"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "←ده ←برېښنې"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "نړۍ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "وprocsېده"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "او ←وشنډېده"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:13.162283285Z",
+  "model": "glm-5.3"
+}

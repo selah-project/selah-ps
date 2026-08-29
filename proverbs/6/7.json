@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "چې هېڅ سردار نه لري، نه چارواکی او نه واکمن —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هېڅ … نه لري"
+    },
+    {
+      "surface": "לה",
+      "gloss": "هغې"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "چارواکی"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "او واکمن"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:05.802204114Z",
+  "model": "glm-5.3"
+}

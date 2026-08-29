@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 84,
+  "translation": "دوی له زور څخه زور ته ځي؛ د الوهیم مخې به په تسیون کې ښکاري.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ځي"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "له زور څخه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "به ښکاري"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د مخې ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "په تسیون کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:04.820761813Z",
+  "model": "glm-5.3"
+}

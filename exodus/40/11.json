@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او د لاس-مینځلو حوض او د هغه بنسټ به غوړوې، او هغه به پاکوې.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "او غوړوې به"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حوض"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "د لاس-مینځلو حوض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بنسټ"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "د هغه بنسټ"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "او پاکوې به یې"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "حوض"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:47.596237940Z",
+  "model": "glm-5.3"
+}

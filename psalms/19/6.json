@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او هغه دlike د domicile... وتلی",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "دlike domicile-like"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "وتلی"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "له خپلې خپواخونې"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "خوشحاله دی"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "لکه غټ زوروری"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "چې وګرزي"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "لار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:46.701432874Z",
+  "model": "glm-5.3"
+}

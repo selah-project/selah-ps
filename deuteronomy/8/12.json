@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "چې هېڅکله داسې نه شي: کله چې وخورې او مړه شې، او ښه کورونه جوړ کړې او په کې مېشت شې.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "چې هېڅکله داسې نه شي"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "وخورې"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "او مړه شې"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "او کورونه"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "جوړ کړې"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "او مېشت شې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:16.300626170Z",
+  "model": "glm-5.3"
+}

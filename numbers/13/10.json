@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د زَبولون د قبیلې لپاره: گَدِّیایِل د سودی زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زَبولون"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "گَدِّیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "سودی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:02.473655380Z",
+  "model": "glm-5.3"
+}

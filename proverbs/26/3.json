@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "چابک د آس لپاره، زغام د لښتۍ لپاره، او ډنډ د احمقانو د شا لپاره.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "چابک"
+    },
+    {
+      "surface": "لסוס",
+      "gloss": "د آس لپاره"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "زغام"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "د لښتۍ لپاره"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "او ډنډ"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "د شا لپاره"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "د احمقانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:01.868158786Z",
+  "model": "glm-5.3"
+}

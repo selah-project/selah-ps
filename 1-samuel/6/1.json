@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د یاهوه صندوق د پلشتیم په سیمه کې اوه میاشتې وو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په سیمه کې"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "د پلشتیم"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "میاشتې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:32:37.142325984Z",
+  "model": "glm-5.3"
+}

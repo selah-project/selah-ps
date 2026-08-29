@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "زه زما د محبوب يم، او د هغه لېوالتيا پر ما ده.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "زما د محبوب"
+    },
+    {
+      "surface": "وעלי",
+      "gloss": "او پر ما"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "د هغه لېوالتيا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:12.020204114Z",
+  "model": "glm-5.3"
+}

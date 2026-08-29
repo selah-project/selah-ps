@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "مه بنده کوه ښه له هغه چې د هغه حق دی، کله چې ستا لاس ته واک وي چې يې وکړي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "بنده کوه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "מבעליو",
+      "gloss": "له هغه چې د هغه حق دی"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "کله چې وي"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "واک"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې وکړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:55.031884333Z",
+  "model": "glm-5.3"
+}

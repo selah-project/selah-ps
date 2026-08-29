@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "زه له بې کاره خلقو سره کښېناستم نه، او له پټ-زړو چلوټو سره به نه ځم.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "کښېناستم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "مתי",
+      "gloss": "خلقو (سړیو)"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بې کاره\/شو"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "او له ... سره"
+    },
+    {
+      "surface": "נעلמים",
+      "gloss": "پټ-زړو چلوټو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ځم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:47.099376950Z",
+  "model": "glm-5.3"
+}

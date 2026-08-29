@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ما په هغه وخت کې له یاهوه څخه رحم وغوښت، ویل:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "رحم مې وغوښت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:21.843364274Z",
+  "model": "glm-5.3"
+}

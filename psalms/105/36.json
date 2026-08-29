@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "او يې د دوی په ځمکه کې ټول لومړني زامن ووهل، د دوی د ټول ځواک لومړني مېوه.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ووهل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "لومړني زامن"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "لومړني مېوه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ځواک"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:02.728863550Z",
+  "model": "glm-5.3"
+}

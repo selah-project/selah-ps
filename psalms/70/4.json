@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 70,
+  "translation": "بېرته وګرزي د خپل شرم له امله هغه چې وايي: «هاها! هاها!»",
+  "tokens": [
+    {
+      "surface": "یשובו",
+      "gloss": "بېرته وګرزي"
+    },
+    {
+      "surface": "על",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "په پایله"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "د خپل شرم"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "هغه چې وايي"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هاها!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هاها!"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:05.193427666Z",
+  "model": "glm-5.3"
+}

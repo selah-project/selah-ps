@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او زه یروشلایم ته ورسېدم او درې ورځې ⟨همالته⟩ وم.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "او ورسېدم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "او وم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨همالته⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:53.227394633Z",
+  "model": "glm-5.3"
+}

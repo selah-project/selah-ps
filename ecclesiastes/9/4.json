@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځکه چې هغه څوک چې له ټولو ژوندیو سره نښتی وي، هیلہ\/باور شته؛ ځکه چې ژوندی سپی د مړ لېوه له ښه دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "نښتی وي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ژوندیو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "باور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "سپي"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "لېوه"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مړ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:40.168835137Z",
+  "model": "glm-5.3"
+}

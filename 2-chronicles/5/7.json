@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او کاهنانو ⟨את⟩ د یاهوه د تړون صندوق خپل ځای ته يوووړ — د کور دېبیر ته، قدش قدشیم ته، د کروبیم د وزلو لاندې.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "يوووړل"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه د تړون صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "د تړون"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "خپل ځای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دېبیر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدش"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "قدشیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "د وزلو"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروبیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:34.055583806Z",
+  "model": "glm-5.3"
+}

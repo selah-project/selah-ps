@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "تاسو هم، ای کوشیانو، زما د تورې وژل شوي یاست — هغوی دي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "کوشیان"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "وژل شوي"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "زما توره"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:35.075714187Z",
+  "model": "glm-5.3"
+}

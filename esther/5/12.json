@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 5:12",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "هامان دا هم وویل: اِستر ملکې له پاچا سره هېڅوک د هغې مېلمستیا ته چې جوړه يې کړې وه نه وربللی، مګر ⟨את⟩ زه؛ او سبا هم زه له پاچا سره ورغبلل شوی يم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "אף",
+      "gloss": "دا هم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "وربللی"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "مېلمستیا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "جوړه کړې وه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مګر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ زه",
+      "marks": "زه"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "سبا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "קרוא",
+      "gloss": "غبلل شوی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:46.842714Z",
+  "model": "glm-5.3"
+}

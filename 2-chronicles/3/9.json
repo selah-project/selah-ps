@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 3:9",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د میخونو وزن پنځوس شېکلونه سمسری و؛ او پورتنۍ خونې يې په سمسرو پټولې.",
+  "tokens": [
+    {
+      "surface": "ומשקל",
+      "gloss": "او د وزن"
+    },
+    {
+      "surface": "למסמרות",
+      "gloss": "د میخونو"
+    },
+    {
+      "surface": "לשקלים",
+      "gloss": "شېکلونه"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سمسری"
+    },
+    {
+      "surface": "והעליות",
+      "gloss": "او پورتنۍ خونې"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "پټولې يې"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "په سمسرو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:25.607010248Z",
+  "model": "glm-5.3"
+}

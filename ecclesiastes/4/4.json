@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ولیدم زه ⟨את⟩ ټول زیانمېنه کار او ⟨את⟩ ټول بری د کار، چې دا د سړي د خپل همزولي حسد دی — دا هم هېبل دی او د روح ویجاړي.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "او ولیدم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول زیانمېنه کار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زیانمېنه کار"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ټول بری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "بری"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "د کار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "حسد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "د خپل همزولي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېبل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "او ویجاړي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "د روح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:52.525427240Z",
+  "model": "glm-5.3"
+}

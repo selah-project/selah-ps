@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او هغه يې په نظربندۍ کې کېښود چې د ياهوه په خوله ورته څرګند شي.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "او يې کېښود"
+    },
+    {
+      "surface": "במשמر",
+      "gloss": "په نظربندۍ"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "چې څرګند شي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:06.390976225Z",
+  "model": "glm-5.3"
+}

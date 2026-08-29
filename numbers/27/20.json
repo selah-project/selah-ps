@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 27:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او له خپل هود نه پرې څه ورکوې، تر څو د اسراییلو زامنو ټوله ټولنه هغه واوري.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "او ورکوې"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "له خپل هود نه"
+    },
+    {
+      "surface": "عליو",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تر څو"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "واوري"
+    },
+    {
+      "surface": "کل",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ټولنه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییلو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:29.705572834Z",
+  "model": "glm-5.3"
+}

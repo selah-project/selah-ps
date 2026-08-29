@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "ما باور وکړ، ځکه چې زه خبرې کوم؛ زه ډېر زیاتې ستونزې ګاللې دي.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ما باور وکړ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "زه خبرې کوم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "زه ګاللې یم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر زیات"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:54.523151706Z",
+  "model": "glm-5.3"
+}

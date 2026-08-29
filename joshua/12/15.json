@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د لِبنه پاچا یو؛ د عَدُلام پاچا یو؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لِبنه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عَدُلام"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:15.294882819Z",
+  "model": "glm-5.3"
+}

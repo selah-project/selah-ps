@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "habakkuk 3:18",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "خو زه به په یاهوه کې وښېږم، په الوهیم، د زما خلاصون، به وخوښېږم.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "خو زه"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه"
+    },
+    {
+      "surface": "אעלוזה",
+      "gloss": "به وښېږم"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "به وخوښېږم"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "په الوهیم"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "د زما خلاصون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:28.505804499Z",
+  "model": "glm-5.3"
+}

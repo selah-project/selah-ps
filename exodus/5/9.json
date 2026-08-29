@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "کار دې پر سړيو درنې\/سختېږي او ⟨دا⟩ دې وکړي، او د دروغو خبرو ته دې مه ګوري.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "درنې شي"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "سړيو"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "او دې وکړي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨دا⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ګوري"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "د خبرو ته"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:16:12.098679820Z",
+  "model": "glm-5.3"
+}

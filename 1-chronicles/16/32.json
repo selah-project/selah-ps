@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "بحر دې غږ وکړي او ټول څه چې پکې دي؛ دښته دې وشړېږي او هر څه چې پکې دي.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "غږ وکړي"
+    },
+    {
+      "surface": "הים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "او ټول څه چې پکې دي"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "وشړېږي"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "دښته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پکې دي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:00.560359993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 23:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "زویکه! که ستا زړه هوښیار وي، زما زړه به خوشحاله شي، زموږ هم.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زویکه!"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار وي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ستا زړه"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحاله شي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زموږ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:04.791354501Z",
+  "model": "glm-5.3"
+}

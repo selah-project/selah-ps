@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او بئروتیان ګیتایم ته وتښتېدل او تر همدې ورځې پورې هلته مېشت پاتې شول.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "وتښتېدل"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "بئروتیان"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "ګیتایم ته"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "او شول"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "مېشت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همدې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:01.237429887Z",
+  "model": "glm-5.3"
+}

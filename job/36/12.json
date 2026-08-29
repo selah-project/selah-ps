@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او که وانه وري، نو په نېزه به تېر شي او بې له پوهې به ساه ورکوي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "وانه وري"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "په نېزه"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "تېر شي"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "او ساه ورکوي"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:03.089654067Z",
+  "model": "glm-5.3"
+}

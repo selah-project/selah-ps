@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او یبنیه د یروخام زوی، او ایله د عزي زوی، د مکري زوی، او مشلم د شفتیه زوی، د رعوایل زوی، د یبنیه زوی.",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "او یبنیه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروخام"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "او ایله"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عزي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "مکري"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "او مشلم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتیه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "یبنیه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:45.121801167Z",
+  "model": "glm-5.3"
+}

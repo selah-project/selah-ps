@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "تر هغو چې یاهوه وګوري او له اسمانونو څخه وويني.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر هغو چې"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "وګوري"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "او وويني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "له اسمانونو څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:08.936579309Z",
+  "model": "glm-5.3"
+}

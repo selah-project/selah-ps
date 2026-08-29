@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هغې ورته وویل: هر څه چې ته وایې، هغه به وکړم.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او هغې وویل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ته وایې"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "به وکړم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:19:13.402883014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د حکیم زړه ⟨یې⟩ د ښي لوري ته دی، خو د نادان زړه ⟨یې⟩ د کیڼ لوري ته دی.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "د ښي لوري ته یې"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "خو زړه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "د کیڼ لوري ته یې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:43.990688212Z",
+  "model": "glm-5.3"
+}

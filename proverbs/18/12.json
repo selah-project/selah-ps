@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د ماتې مخکې د سړي زړه لوړې کوي، او د ویاړ مخکې عاجزي وي.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "مخکې"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "د ماتې"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "لوړې کوي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "او مخکې"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "د ویاړ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "عاجزي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:16.622034646Z",
+  "model": "glm-5.3"
+}

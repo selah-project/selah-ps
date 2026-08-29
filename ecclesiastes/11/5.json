@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "لکه څنګه چې ته نه پېژنې چې د روح لار څنګه ده، او نه د هډوکو جوړښت په د ډکې په بطن کې، همداسې ته ⟨את⟩ د الوهيم کار نه پېژنې، هغه چې ⟨את⟩ هر څه کوي.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نه يې"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "چې څه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "د روح"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "لکه د هډوکو"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "په بطن"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "د ډکې"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کار"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهيم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر څه"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هر څه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:45.165255675Z",
+  "model": "glm-5.3"
+}

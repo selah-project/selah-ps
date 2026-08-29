@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "داسې وايي ادونای یاهوه دا هډوکو ته: ننښه، زه به ستاسو دننه روح راولم او تاسو به ژوندي شئ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "هډوکو ته"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ننښه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "راولم"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ستاسو دننه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ויחייתם",
+      "gloss": "او تاسو به ژوندي شئ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:04:17.904523668Z",
+  "model": "glm-5.3"
+}

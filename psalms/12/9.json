@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "چاپېر بدکاران چلېږي، کله چې پستي د ⟨انسانانو⟩ زامنو له لوري لوړېږي.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاران"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "چلېږي"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "پستي"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د … زامنو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:58.190192150Z",
+  "model": "glm-5.3"
+}

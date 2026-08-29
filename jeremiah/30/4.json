@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "اوداوا هغه خبرونه دي چې یاهوه د اسراییل او د یهودا په اړه وویل.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اوداوا"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "هغه خبرونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د ... په اړه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او د ... په اړه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:49.678247011Z",
+  "model": "glm-5.3"
+}

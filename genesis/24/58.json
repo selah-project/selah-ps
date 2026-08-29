@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "genesis 24:58",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او ربکا یې وغوښته او ویې ویل: \"ایا ته له دې سړي سره ځې؟\" هغې وویل: \"ځم.\"",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "او یې وغوښته"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "ربکا"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "התלכי",
+      "gloss": "ایا ځې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له... سره"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "دې سړي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "هغې وویل"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ځم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:14.129003464Z",
+  "model": "glm-5.3"
+}

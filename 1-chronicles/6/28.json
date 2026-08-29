@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د یَحَت زوی، د ګِرشُم زوی، د لِوی زوی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَحَت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ګِرشُم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:23.226734930Z",
+  "model": "glm-5.3"
+}

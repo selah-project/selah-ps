@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "شِمعا زوی يې، حَگیا زوی يې، عَسایا زوی يې.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "شِمعا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "حَگیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "عَسایا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:17.075526212Z",
+  "model": "glm-5.3"
+}

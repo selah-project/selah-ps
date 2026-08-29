@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "هر ژوندی، هر خزنده او هر الوتونکی — هر هغه چې پر ځمکه خزي — د خپلو کورنیو له مخې له کښتۍ څخه ووتل.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الوتونکی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "خزېدونکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "د خپلو کورنیو له مخې"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کښتۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:33.426245753Z",
+  "model": "glm-5.3"
+}

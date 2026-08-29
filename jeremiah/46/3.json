@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "کښېږدئ زغرې او سپرونه، او جګړې ته ورنږدې شئ.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "کښېږدئ"
+    },
+    {
+      "surface": "مגן",
+      "gloss": "زغرې"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "او سپرونه"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "ورنږدې شئ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جګړې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:04.349219980Z",
+  "model": "glm-5.3"
+}

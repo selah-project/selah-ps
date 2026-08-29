@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او هغه ما د شمال دروازې ته بوتلمه، او د دې مېچونو په څېر يې ومېچه.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "او هغه ما بوتلمه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "د شمال"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "او يې ومېچه"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "د مېچونو په څېر"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:41.512587481Z",
+  "model": "glm-5.3"
+}

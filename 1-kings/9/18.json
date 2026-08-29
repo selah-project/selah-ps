@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨את⟩ بعلات او ⟨את⟩ تامار په بیابان کې، په هغه ځمکه کې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "بعلات"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "بعلات"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "تامار"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بیابان کې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:54:26.753820627Z",
+  "model": "glm-5.3"
+}

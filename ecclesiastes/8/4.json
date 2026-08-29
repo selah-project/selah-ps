@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "چېرته چې د پاچا خبره ده، هلته واک دی، او څوک ورته وايي: څه کوې؟",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "چېرته چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "واک"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کوې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:42.398248495Z",
+  "model": "glm-5.3"
+}

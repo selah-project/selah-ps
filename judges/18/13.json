@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او له هغه ځایه د اپرایم غر او واوړه تر میکا کوره راغلل.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "واوړه"
+    },
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپرایم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کوره"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "میکا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:29:03.388877404Z",
+  "model": "glm-5.3"
+}

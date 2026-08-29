@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "که ستاسو په منځ کې یو نبي راپاڅېږي یا یو خوب لیدونکی، او تاسو ته یوه نښه یا یوه معجزه درکړي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "راپاڅېږي"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ستاسو په منځ کې"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "خوب لیدونکی"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "او ... درکړي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نښه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "معجزه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:55.301408587Z",
+  "model": "glm-5.3"
+}

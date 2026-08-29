@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د هغوی شمېرل شوي د بېنیمین د قبیلې لپاره پنځه دېرش زره او څلور سوه وو.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "د هغوی شمېرل شوي"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بېنیمین"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:51.294302961Z",
+  "model": "glm-5.3"
+}

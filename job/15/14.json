@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 15:14",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "انسان څه شی دی چې پاک وي، او د ښځې زېږېدلی چې برابر وي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه شی"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "پاک وي"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "او چې"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "برابر وي"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "زېږېدلی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د ښځې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:07:55.822507574Z",
+  "model": "glm-5.3"
+}

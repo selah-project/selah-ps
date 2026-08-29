@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "کله چې ته د خپلو دښمنانو پر وړاندې له پوځ سره ووځې، نو له هر بد شی څخه دې ځان وساتلی وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ووځې"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "له پوځ سره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "د دښمنانو"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "ځان وساتلی وي"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:07.206083338Z",
+  "model": "glm-5.3"
+}

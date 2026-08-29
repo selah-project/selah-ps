@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 31:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "ځکه دا خو یوه فحاشي ده، او دا د قاضیانو تر پلټنې لاندې ګناه ده.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "فحاشي"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "د قاضیانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:24.631290162Z",
+  "model": "glm-5.3"
+}

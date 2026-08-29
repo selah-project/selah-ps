@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 28:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "په ډبرو کې يې چينې رېبلې، او د هغه سترګو هره ارزښتناکه thing وليدله.",
+  "tokens": [
+    {
+      "surface": "בצורות",
+      "gloss": "په ډبرو کې"
+    },
+    {
+      "surface": "יארים",
+      "gloss": "چينې"
+    },
+    {
+      "surface": "בקע",
+      "gloss": "رېبلې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هره"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ارزښتناکه"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "وليدله"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "د هغه سترګو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:11.377595505Z",
+  "model": "glm-5.3"
+}

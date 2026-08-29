@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "انسان خپل کار ته او خپلې مزدورۍ ته تر ماښامه وتې شي.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "وتې شي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "خپل کار ته"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "او خپلې مزدورۍ ته"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ماښامه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:10.675510263Z",
+  "model": "glm-5.3"
+}

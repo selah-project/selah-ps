@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 47:4",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "زموږ ګټونکی — یاهوه-صباؤت نوم لري، د یسرایل مقدس دی.",
+  "tokens": [
+    {
+      "surface": "גאלנו",
+      "gloss": "زموږ ګټونکی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "-صباؤت"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نوم لري"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:23.755733293Z",
+  "model": "glm-5.3"
+}

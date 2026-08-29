@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "خو اوس خپل لاس واستوه، او د هغه هډوکي او د هغه غوښه ووهه — که نه، نو ستا مخ ته به تا برکت درکوي.”",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "واستوه"
+    },
+    {
+      "surface": "نא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "او ووهه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "د هغه هډوکي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او په"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "د هغه غوښه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "تا برکت درکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:44.369433108Z",
+  "model": "glm-5.3"
+}

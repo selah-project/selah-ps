@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "یاهوه د صالح نفس لوږه نه پرېښودلای شي، خو د شرمیانو هيله لرې شړي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "لوږه پرېښودلای شي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صالح"
+    },
+    {
+      "surface": "והות",
+      "gloss": "خو هيله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شرمیانو"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "لرې شړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:10.839829498Z",
+  "model": "glm-5.3"
+}

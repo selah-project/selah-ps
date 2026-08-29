@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د زړه هوښیار ⟨به⟩ پوه بلل کیږي، او د شونډو خوږوالی لارښوون زیاتوي.",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "هوښیار ته"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "بلل کیږي"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "او خوږوالی"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "شونډو"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "زیاتوي"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "لارښوون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:42.438378686Z",
+  "model": "glm-5.3"
+}

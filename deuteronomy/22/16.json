@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او د نجلۍ پلار مشرانو ته ووايي: خپله لور ⟨את⟩ ما دې دې سړي ته په ښځه ورکړه، خو هغه له هغې بېزاره شو،",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او ووايي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "د نجلۍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "مشرانو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله لور"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "خپله لور"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ورکړه مې"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "سړي ته"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "په ښځه"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "خو بېزاره شو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:31.173780643Z",
+  "model": "glm-5.3"
+}

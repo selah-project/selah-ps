@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او اووه ورځې وروسته د طوفان اوبه پر ځمکه راغلې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او پېښ شول"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "د اووه"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او اوبه"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "د طوفان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:29.607994519Z",
+  "model": "glm-5.3"
+}

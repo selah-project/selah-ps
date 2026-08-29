@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د دور پاچا، د دور په نافات کې، یو؛ د ګویم پاچا، په ګلګل کې، یو.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "لנפת",
+      "gloss": "په نافات کې"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ګویم"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "په ګلګل کې"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:22:31.331743104Z",
+  "model": "glm-5.3"
+}

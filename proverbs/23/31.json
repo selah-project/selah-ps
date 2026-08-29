@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "شراب مه ګوره چې کله سره کېږي، چې کله په پیاله کې خپل رنګ ورکوي، چې نرمه ښکته کېږي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "سره کېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "په پیاله کې"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "خپل رنګ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "ښکته کېږي"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "نرمه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:10.266672549Z",
+  "model": "glm-5.3"
+}

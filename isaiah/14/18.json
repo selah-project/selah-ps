@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د ملتونو ټول پاچاهان، ټول يې په شان کې واځي، هر یو په خپل ⟨کور⟩ کې.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "د ملتونو"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول يې"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "واځي"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "په شان کې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یو"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "په خپل کور کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:14:36.269906687Z",
+  "model": "glm-5.3"
+}

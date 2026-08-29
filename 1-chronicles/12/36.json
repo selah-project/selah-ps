@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او له دانیانو، د جګړې صفونه پر ګلونکي، اته ویشت زره او شپږ سوه.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "دانیانو"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "صفونه پر ګلونکي"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "او اته"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:31.127344802Z",
+  "model": "glm-5.3"
+}

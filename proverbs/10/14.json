@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "حکمتوال پوهانه پنه ساتي، خو د نادان خوله ورانۍ ته نږدې ده.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "حکمتوال"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "پنه ساتي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهانه"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "خو ... خوله"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "د نادان"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ورانۍ"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "نږدې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:43.956232143Z",
+  "model": "glm-5.3"
+}

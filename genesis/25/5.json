@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ابراهام ⟨את⟩ هر څه چې يې درلودل يېصفحاق ته ورکړل.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ورکړل"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر څه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې درلودل"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "يېصفحاق ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:50.013012347Z",
+  "model": "glm-5.3"
+}

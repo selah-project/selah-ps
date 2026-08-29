@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "کله چې ومې ویل: «زما پښه ښویېږي»، ستا خېسېد، ای یاهوه، ما ملاتړ کړ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وومې ویل"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ښویېږي"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "زما پښه"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ستا خېسېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יסעدני",
+      "gloss": "ما ملاتړ کړ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:51.281672580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د اَسنَه زامن، د مَعونِیانو زامن، د نَفیسِیم زامن،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "اَسنَه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "مَعونِیان"
+    },
+    {
+      "surface": "بני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "نَفیسِیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:33.119564477Z",
+  "model": "glm-5.3"
+}

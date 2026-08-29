@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 65,
+  "translation": "د بيابان څراوې څېڅي، او غونډۍ په خوښۍ کمربند ټينګوي.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "څېڅي"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "څراوې"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بيابان"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "او په خوښۍ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "غونډۍ"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "کمربند ټينګوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:49.136595942Z",
+  "model": "glm-5.3"
+}

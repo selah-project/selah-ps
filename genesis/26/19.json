@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د ییتسحاق خدمتګارانو په دره کې وکندل او هلته يې د ژوندیو اوبو یوه څاه ومونده.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "وکندل"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "خدمتګارانو"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "په دره کې"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ومونده"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "באר",
+      "gloss": "څاه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:16.863231341Z",
+  "model": "glm-5.3"
+}

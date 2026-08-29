@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "له جګړو او له غنیمتونو يې ونزارول، چې د یاهوه کور ټينګ کړي.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "جګړو"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "غنیمتونو"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "ونزارول"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "ټينګ کړي"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:55.652683406Z",
+  "model": "glm-5.3"
+}

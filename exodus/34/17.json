@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "وېلې-شوي ایلونه د خپل ځان لپاره مه جوړوې.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ایلونه"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "وېلې-شوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوړوې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "د خپل ځان لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:48.859508288Z",
+  "model": "glm-5.3"
+}

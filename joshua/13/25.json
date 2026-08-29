@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 13:25",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او د دوی پوله یاعزر شوه، د ګلعاد ټول ښارونه او د عوم زامنو د ځمکې نیمه، تر عروعر چې د ربه مخې ته دی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "شوه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د دوی"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "یاعزر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "د ګلعاد"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "او نیمه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عوم"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "عروعر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ربه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:44.734266309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "د یاهوه ونې مړې دي — د لوبنان سرونه چې هغه کېنولي دي.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "مړې دي"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ونې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "سرونه"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "د لوبنان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "کېنولي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:27.435109567Z",
+  "model": "glm-5.3"
+}

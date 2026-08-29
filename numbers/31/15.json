@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "موشې ورته وویل: «ایا تاسو ټولې ښځې ژوندې پاتې کړې؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "مשה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "ژوندې پاتې کړې"
+    },
+    {
+      "surface": "کל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ښځې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:24.535639506Z",
+  "model": "glm-5.3"
+}

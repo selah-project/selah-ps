@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "دا سمندر دی، لوی او پراخه لوري، هلته خزنده ځناور دي بې شمېره، ژوندي موجودات کوچني سره لویو",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "او پراخ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "لوري"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خزنده ځناور"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او بې"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ژوندي موجودات"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "کوچني"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "لویو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:16.736338074Z",
+  "model": "glm-5.3"
+}

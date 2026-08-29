@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "سترګه پر ځای سترګه، غاښ پر ځای غاښ، لاس پر ځای لاس، لڼدی پر ځای لڼدی.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "שן",
+      "gloss": "غاښ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "שן",
+      "gloss": "غاښ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "لڼدی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "لڼدی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:07.013576518Z",
+  "model": "glm-5.3"
+}

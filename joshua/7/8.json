@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ادونای! له ما سره، زه څه ووایم، هغه وروسته چې یسرایل خپله шا د خپلو دښمنانو مخې ته اړولې؟",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "له ما سره"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ووایم"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "اړولې"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "شا\/نس"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "د دښمنانو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:17:11.649897766Z",
+  "model": "glm-5.3"
+}

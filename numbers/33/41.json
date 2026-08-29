@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د هور غره ⟨له⟩ غره وخوځېدل، او په تسمونه کې خېمې وکړې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وخوځېدل"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "له غره"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هور غر"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خېمې وکړې"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "په تسمونه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:18.150600262Z",
+  "model": "glm-5.3"
+}

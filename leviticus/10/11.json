@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او چې ښوونه کوئ ⟨את⟩ د یسرایل زامنو ⟨את⟩ ټول هغه حکمونه چې یاهوه وویل هغوی ته د موشې په لاس.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "او چې ښوونه کوئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یسرایل زامن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول حکمونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "حکمونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "هغوی ته"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:39:05.320993232Z",
+  "model": "glm-5.3"
+}

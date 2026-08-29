@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د بیت-ایل خلکو شر-عېصر او رېګم-مېلک او ⟨هغه⟩ خپل سړي واستول چې د یاهوه ⟨את⟩ مخ لېواته کړي.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "واستول"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د بیت-ایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-(ایل)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "شر-"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "عېصر"
+    },
+    {
+      "surface": "ורגם",
+      "gloss": "او رېګم-"
+    },
+    {
+      "surface": "مלך",
+      "gloss": "مېلک"
+    },
+    {
+      "surface": "ואנשיو",
+      "gloss": "او خپل سړي"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "چې لېواته کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:09.170270280Z",
+  "model": "glm-5.3"
+}

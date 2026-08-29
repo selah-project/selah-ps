@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "چې یو انسان يې په خپله دعوا کې بې لارې کړي — ادونای دا نه ویني؟",
+  "tokens": [
+    {
+      "surface": "لעות",
+      "gloss": "چې بې لارې کړي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "یو انسان"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "په خپله دعوا کې"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:30.428646317Z",
+  "model": "glm-5.3"
+}

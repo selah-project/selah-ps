@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "چې زما ژوندون لا يې لټوه خو ما ونه موندله: یو سړی په زره کې مې وموند، خو ⟨the⟩ ښځه په دې ټولو کې مې ونه مونده.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "لټوله"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما ژوندون"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "مې وموندله"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "په زره کې"
+    },
+    {
+      "surface": "مצאתי",
+      "gloss": "مې وموند"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "خو ښځه"
+    },
+    {
+      "surface": "بכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "مצאתי",
+      "gloss": "مې مونده"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:01.693063191Z",
+  "model": "glm-5.3"
+}

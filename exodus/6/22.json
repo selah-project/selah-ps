@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د عزی ایل زامن: میشا ایل، او ایلصپن، او ستري.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عزی ایل"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "میشا ایل"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "او ایلصپن"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "او ستري"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:41.905654574Z",
+  "model": "glm-5.3"
+}

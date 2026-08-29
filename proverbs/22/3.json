@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "هوښيار بدۍ وويني او ځان پناه کړي؛ خو ناپوهان تېر شي او جزا شي.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "هوښيار"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ويني"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "او ځان پناه کړي"
+    },
+    {
+      "surface": "وפתיים",
+      "gloss": "خو ناپوهان"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "تېر شي"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "او جزا شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:34.788536596Z",
+  "model": "glm-5.3"
+}

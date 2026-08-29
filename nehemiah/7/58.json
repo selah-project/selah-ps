@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د یَعلَه زامن، د دارقون زامن، د ګیدیل زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "یَعلَه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "دارقون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ګیدیل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:38.394874168Z",
+  "model": "glm-5.3"
+}

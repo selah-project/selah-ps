@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "یوه کوچنۍ ښارګوټی او پکې لږ خلک؛ او یو لوی پاچا ورته راغی، هغه یې وچرخوله او پرې یې لوی محاصره-برجونه جوړ کړل.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "کوچنۍ"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "او خلک"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "او چرخوله یې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (ښار)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "او جوړ یې کړل"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "محاصره-برجونه"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:03.730480422Z",
+  "model": "glm-5.3"
+}

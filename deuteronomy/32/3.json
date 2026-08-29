@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "ځکه چې د یاهوه نوم بولم، عظمت ورکړئ زموږ الوهیم ته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "بولم"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ورکړئ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "عظمت"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "زموږ الوهیم ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:55.156128049Z",
+  "model": "glm-5.3"
+}

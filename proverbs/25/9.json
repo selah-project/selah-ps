@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "خپله دعوه ⟨את⟩ ستا ملګري سره منځه یوسه، او د بل پټ راز مه افشا کوه.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "خپله دعوه"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "منځه یوسه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا ملګری"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ستا ملګری"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "او د پټ راز"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "افشا کوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:32.230365049Z",
+  "model": "glm-5.3"
+}

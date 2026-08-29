@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او مُردخای ته يې ⟨את⟩ د اېستر خبرې وويلې.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "وويلې"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "مُردخای ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د اېستر خبرې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اېستر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:26:29.032542414Z",
+  "model": "glm-5.3"
+}

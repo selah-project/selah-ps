@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "مګر د هغه د خپل نږدې خپل-سړي لپاره — د هغه مور، پلار، زوی، لور او ورور —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "مګر\/یوازې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "د هغه د خپل-سړي لپاره"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "אליو",
+      "gloss": "ورسره (نږدې)"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "د هغه مور"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "او پلار"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "او زوی"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "او لور"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "او ورور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:01.941170431Z",
+  "model": "glm-5.3"
+}

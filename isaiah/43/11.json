@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "زه، زه يم یاهوه، او زما پرته بل خ救وونکی نشته.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אנכی",
+      "gloss": "زه يم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "زما پرته بل"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "خSaveوونکی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:21:54.263421644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د خپلې ښځې حودېش څخه يې ⟨את⟩ یوبب او ⟨את⟩ صیبیا او ⟨את⟩ مېشا او ⟨את⟩ مالکام وزېږېدل.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "وزېږېدل يې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "حودېش (د ښځې نوم)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "د هغه ښځه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوبب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوبب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "صیبیا"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "صیبیا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "مېشا"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "مېشا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "مالکام"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "مالکام"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:35.179496199Z",
+  "model": "glm-5.3"
+}

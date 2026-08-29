@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ځکه چې زه د ټکر لپاره تیار یم، او زما درد ⟨هغه⟩ تل زما مخې ته دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "د ټکر لپاره"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "تیار یم"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "او زما درد"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "زما مخې ته"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:23.463487068Z",
+  "model": "glm-5.3"
+}

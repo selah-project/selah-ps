@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د سرو زرو مڼې په سپینو زرو ډولونو کې — هغه خبره چې په خپل وخت ویل شوې.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "مڼې"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "د سرو زرو"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "په ډولونو کې"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپین زر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویل شوې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "خپل وخت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:32.230705805Z",
+  "model": "glm-5.3"
+}

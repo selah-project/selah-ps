@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "چې پوه شي پر متل او ←تشریح←، د حکیمانو خبرې او ←پټ‌کلامه← يې.",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "چې پوه شي"
+    },
+    {
+      "surface": "משל",
+      "gloss": "متل"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "او تشریح"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "د حکیمانو"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "او پټ‌کلامه يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:49.586719188Z",
+  "model": "glm-5.3"
+}

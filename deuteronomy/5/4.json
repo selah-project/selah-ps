@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "مخ په مخ یاهوه ستاسو سره په غره کې د اور له منځنه خبرې وکړې.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "په مخ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې وکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ستاسو سره"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره کې"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "له منځنه"
+    },
+    {
+      "surface": "האש",
+      "gloss": "د اور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:48.065593857Z",
+  "model": "glm-5.3"
+}

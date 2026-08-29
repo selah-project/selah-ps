@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او موشې وويل: اوس به لرې شم او دا لوی منظر وګورم ⟨את⟩ — ولې بوټی نه سوځي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "به لرې شم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ואראه",
+      "gloss": "او به وګورم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوی منظر"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "منظر"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "سوځي"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "بوټی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:16.758618419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د یاهوه برکت هغه شتمنوي، او هغه ⟨هیڅ⟩ ورسره رنځ نه ورزیاتوي.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "شتمنوي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ورزیاتوي"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "رنځ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:43.463958634Z",
+  "model": "glm-5.3"
+}

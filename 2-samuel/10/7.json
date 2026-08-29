@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "داوېد واورېدل او يوآب يېواستاوه ⟨د⟩ ټول لښکر د اتلانو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "واورېدل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "واستاوه يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول لښکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "د اتلانو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:33.421470264Z",
+  "model": "glm-5.3"
+}

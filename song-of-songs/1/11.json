@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د سرو زرو تورونه به درته جوړ کړو، د سپينو زرو ګاونډېدونکو سره.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "تورونه"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "سرو زرو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "جوړ کړو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ګاونډېدونکو"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "سپينو زرو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:38.478001527Z",
+  "model": "glm-5.3"
+}

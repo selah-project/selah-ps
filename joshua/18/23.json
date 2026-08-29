@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او هعاوی، او هاپره، او عفره.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "او هعاوی"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "او هاپره"
+    },
+    {
+      "surface": "وעפרה",
+      "gloss": "او عفره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:03.354964766Z",
+  "model": "glm-5.3"
+}

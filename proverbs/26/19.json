@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "همداسې هغه سړی چې خپل ملګری ⟨את⟩ غولوي او وايي: «آ زه یوازې ټوکې نه کوم؟»",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "غولوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل ملګری"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "خپل ملګری"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او وايي"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "آ… نه"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ټوکې کوم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:05.975184307Z",
+  "model": "glm-5.3"
+}

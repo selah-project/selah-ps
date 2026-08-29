@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 13:26",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او له حشبونه تر رامت همتصپه او بتونیم، او له محنایمه تر د لذبیر پولې.",
+  "tokens": [
+    {
+      "surface": "ומחשבון",
+      "gloss": "او له حشبونه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "رامت"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "همتصپه"
+    },
+    {
+      "surface": "ובטנים",
+      "gloss": "او بتونیم"
+    },
+    {
+      "surface": "וממחנים",
+      "gloss": "او له محنایمه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پولې"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "د لذبیر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:44.734499398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 65,
+  "translation": "هغه چې په خپل ځواک غرونه ټینګوي، په زبردستۍ سره مټې تړلي لري.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "ټینګوي"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "په خپل ځواک"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "تړلي"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "په زبردستۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:22.915675729Z",
+  "model": "glm-5.3"
+}

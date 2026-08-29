@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "لود، او اونو، د ډولهانو دره (ګېي-هَراشیم)؛",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "او اونو"
+    },
+    {
+      "surface": "גי",
+      "gloss": "دره"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "د ډولهانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:12.751536408Z",
+  "model": "glm-5.3"
+}

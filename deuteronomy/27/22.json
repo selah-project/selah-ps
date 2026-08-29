@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "لعنت شوی دی هغه چې له خپلې خور سره پرېوزي، د خپل پلار لور که د خپلې مور لور، او ټول ولس به ووايي: امین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت شوی"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "هغه چې پرېوزي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له...سره"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "خپلې خور"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "או",
+      "gloss": "که"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "د خپلې مور"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او به ووايي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ولس"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "امین"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:53.608168163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "لنډۍ دې په جامو کې، او د تېسو بیه د ډکور.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "لنډۍ"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "دې په جامو کې"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "او ... بیه"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "د ډکور"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "د تېسو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:23.654316050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "زه سست او تر مرزې مات شوی یم؛ د زما د زړه له نالې شوم زغره وکړه.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "سست شوی یم"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "او مات شوی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "مرزې"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "زغره وکړه"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "له نالې"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "د زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:59.227958720Z",
+  "model": "glm-5.3"
+}

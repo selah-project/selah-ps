@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او انسان ټیټ شو، او سړی خوږ شو؛ نو د دوی لپاره مه يې پورته کړه.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "او ټیټ شو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "او خوږ شو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "نو مه"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "پورته کړه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د دوی لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:10:55.600238832Z",
+  "model": "glm-5.3"
+}

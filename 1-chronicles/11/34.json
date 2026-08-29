@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د هاشم ⟨ه⟩گیزونی زامن، یوناتان د شاګې زوی، ⟨ه⟩حراری،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "השם",
+      "gloss": "هاشم"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "گیزونی"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "شاګې"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "حراری"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:20.543404898Z",
+  "model": "glm-5.3"
+}

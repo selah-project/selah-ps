@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "هم د آدم زامن، هم د سړو زامن، یو شان شتمن او بیوزله.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړو"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یو شان"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "شتمن"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "او بیوزله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:37.567771355Z",
+  "model": "glm-5.3"
+}

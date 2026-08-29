@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "د دېر ټولې چاپېرسې پرده ګانې د ټوټل شوي بېس دي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "پرده ګانې"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "د دېر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېرسې"
+    },
+    {
+      "surface": "שש",
+      "gloss": "بېس"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ټوټل شوي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:33.047854286Z",
+  "model": "glm-5.3"
+}

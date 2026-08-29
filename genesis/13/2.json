@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او ابرام په مالونو کې، په سپينو زرو او په سرو زرو ډېر درنځېدلی و.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "او ابرام"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "درنځېدلی و"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "په مالونو کې"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "په سپينو زرو"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "او په سرو زرو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:09.453270857Z",
+  "model": "glm-5.3"
+}

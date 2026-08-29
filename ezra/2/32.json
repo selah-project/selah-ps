@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د حارِم زامن، درې سوه او شل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:07.745769360Z",
+  "model": "glm-5.3"
+}

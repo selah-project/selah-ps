@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-chronicles 18:34",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او جګړه په هغه ورځ وڅړېده او د یسراییل پاچاه ⟨دا⟩ په چرiot کې د ا ram مخې ته تر ماښامه ولاړ و، او د لمر دلوېدو پر مهال ومړ.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "او وڅړېده"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جګړه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "او د پاچاه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "מעמיד",
+      "gloss": "ولاړ\/ټینګ شوی"
+    },
+    {
+      "surface": "במרכבה",
+      "gloss": "په چرiot کې"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "د ارام"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ماښامه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او ومړ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "پر مهال"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "دلوېدو"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "د لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:08.439423570Z",
+  "model": "glm-5.3"
+}

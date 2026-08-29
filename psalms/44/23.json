@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "بلکې ستا لپاره ټول ورځ وژل کېږو، د ذبحي ورچې په شان شمېرل کېږو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ستا لپاره"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "وژل کېږو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "شمېرل کېږو"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "د ورچې په شان"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "د ذبحي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:38.325192443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د شپې په نیمه کې راپاڅېږم چې ستا شکر ووایم، ستا د عدالت پر احکامو.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "نیمه"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "د شپې"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "راپاڅېږم"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "چې شکر ووایم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "احکامو د"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ستا عدل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:01.512651938Z",
+  "model": "glm-5.3"
+}

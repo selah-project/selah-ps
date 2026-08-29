@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "دا ټول ما په حکمت ازمویلي؛ ما وویل: «حکیم به شم» — خو هغه له ما ډېره لرې ده.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "ازمویلي مې دي"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "په حکمت"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "حکیم به شم"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "خو هغه"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "لرې"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:02.087799550Z",
+  "model": "glm-5.3"
+}

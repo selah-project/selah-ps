@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 112,
+  "translation": "ځکه چې ⟨هغه⟩ به هېڅکله ونه ښویېږي؛ صدیق به د تل لپاره په یاد کې وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "هېڅکله\/د تل لپاره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ښویېږي"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "په یاد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:41.393999633Z",
+  "model": "glm-5.3"
+}

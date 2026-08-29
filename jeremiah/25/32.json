@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 25:32",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "داسې وايي ياهوه-صباؤت: پام وکړئ، بدې له يوه ملت بل ملت ته وځي، او له ځمکې له سره څخه يو ستر تاوفان پاڅېږي.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "پام وکړئ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "له يوه ملت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "او تاوفان"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "پاڅېږي"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "له سره څخه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:35.310255890Z",
+  "model": "glm-5.3"
+}

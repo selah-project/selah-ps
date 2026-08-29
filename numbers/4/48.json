@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د دوی شمېرل شوي اته زره او پنځه سوه او اتیا وو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "د دوی شمېرل شوي"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "اته"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "او اتیا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:41.312200379Z",
+  "model": "glm-5.3"
+}

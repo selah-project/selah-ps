@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "خو د ښه او بد د پوهې له ونې مه يې خورې؛ ځکه چې په هغه ورځ چې ته ترې وخورې، مرګ به يې مړ کړې — په يقين به مړ شې.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "خو له ونې"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "د پوهې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "او بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خورې"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "چې ته وخورې"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرګ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مړ شې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:09.238214845Z",
+  "model": "glm-5.3"
+}

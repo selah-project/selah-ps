@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "ځکه چې په مړينه يې بهېڅ نه اخلي، نه به وروسته د هغه شان ورپسې ورشي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "په مړينه يې"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "اخلي"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "بهېڅ \/ ټول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ورپسې ورشي (ښکته کېږي)"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "وروسته د هغه"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "شان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:34.636649541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او د یاهوه خبرانه راته راغله، په دې ویلو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرانه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "په دې ویلو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:00.578575741Z",
+  "model": "glm-5.3"
+}

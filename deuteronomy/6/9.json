@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او هغه به يې د خپل کور د دروازو پر ستنو او پر دېروازو دې وليکې.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "او هغه به يې وليکې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "د دروازو پر ستنو"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "د خپل کور"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "او پر دېروازو دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:06.976690152Z",
+  "model": "glm-5.3"
+}

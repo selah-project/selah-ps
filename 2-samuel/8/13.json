@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او داوېد نوم پیدا کړ کله چې ⟨هغه⟩ بېرته راغى له ټکولو ⟨את⟩ ارام په مالګې دره کې — اتلس زره.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "پیدا کړ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "کله چې بېرته راغى"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "له ټکولو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ارام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "په دره کې"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "مالګې"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اتلس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:30.228222731Z",
+  "model": "glm-5.3"
+}

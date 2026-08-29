@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د صُوپَخ زامن: سُوَخ، او حَرنِفېر، او شُوعال، او بِري، او یِمرَه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "صُوپَخ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "سُوَخ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "او حَرنِفېر"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "او شُوعال"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "او بِري"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "او یِمرَه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:02.171328470Z",
+  "model": "glm-5.3"
+}

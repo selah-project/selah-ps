@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زه د هر بد لار څخه خپلې پښې بندولې دي، دا چې ستا وینده وساتم.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "له هر"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "لار"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "بندولې یې دي"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "زما پښې"
+    },
+    {
+      "surface": "למען",
+      "gloss": "دا چې"
+    },
+    {
+      "surface": "אשמور",
+      "gloss": "وساتم"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ستا وینه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:04.181246645Z",
+  "model": "glm-5.3"
+}

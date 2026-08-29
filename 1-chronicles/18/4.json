@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 18:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او داوېد ترې یو زره رټۍ او اووه زره سپاره او شل زره پیاده ونیول، او داوېد ⟨את⟩ ټولې رټۍړنګې کړې، خو سوه رټۍ يې ترې پرېښودې.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ونېولې"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "یو زره"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رټۍ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "سپاره"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "איש",
+      "gloss": "پیاده"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "سپرو"
+    },
+    {
+      "surface": "ויעקר",
+      "gloss": "ړنګې کړې"
+    },
+    {
+      "surface": "دויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې رټۍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "رټۍ"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "پرېښودې"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رټۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:24.907065333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "د هغه د ځمکې پر نړۍ کې لوبېدونکې\/motionشکېدونکې، او زما خوښۍ د ⟨את⟩ د آدم زامنو سره دي.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "لوبېدونکې\/motionشکېدونکې"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "پر نړۍ کې"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "د هغه د ځمکې"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "او زما خوښۍ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د آدم زامنو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:34.079549589Z",
+  "model": "glm-5.3"
+}

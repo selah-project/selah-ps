@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د پردۍ او یتیم پرېکړه مه کړه، او د کونډې جامه مه نیسه په ګرو.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "کړه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پرېکړه"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پردۍ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "مه نیسه په ګرو"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جامه"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "کونډې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:32.704342661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او قابیل د یاهوه له مخې ووت، او د نود په ځمکه کې مېشت شو، د عدن په ختیځ کې.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "او ووت"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قابیل"
+    },
+    {
+      "surface": "مלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "او مېشت شو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "د نود"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "په ختیځ"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "د عدن"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:19.310659806Z",
+  "model": "glm-5.3"
+}

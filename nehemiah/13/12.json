@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او ټول یهودا د غلو او شرابو او تیلو لسمه برخه خزانو ته راوسته.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "راوسته"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "لسمه برخه"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "د غلو"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "او شرابو"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "او تیلو"
+    },
+    {
+      "surface": "לאוצרوت",
+      "gloss": "خزانو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:21.497913957Z",
+  "model": "glm-5.3"
+}

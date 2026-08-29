@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "یوایل ⟨د⟩ مشر، او شافام دویم، او یعنای او شافاط په باشان کې.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوایل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "او شافام"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "او یعنای"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "او شافاط"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "په باشان کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:36.736514735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او د یاهوه خبره راته وشوه، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:01:23.983131913Z",
+  "model": "glm-5.3"
+}

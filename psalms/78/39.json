@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او هغه په ياد وروسته چې دوی غوښه ده، يوه باد چې تېرېږي او بېرته نه ګرځي.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "او په ياد يې وروسته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "המה",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "تېرېدونکی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بېرته ګرځي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:35.353262263Z",
+  "model": "glm-5.3"
+}

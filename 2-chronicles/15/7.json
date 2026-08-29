@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او تاسو ټینګ اوسئ او موږ ستاسو لاسونه مه پرېږدئ، ځکه چې ستاسو د کار لپاره بدله شته.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "او تاسو"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ټینګ اوسئ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "پرېږدئ"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ستاسو لاسونه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "بدله"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "ستاسو د کار لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:07.968929883Z",
+  "model": "glm-5.3"
+}

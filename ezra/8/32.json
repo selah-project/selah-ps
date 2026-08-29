@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او یروشلایم ته ورسېدو، او هلته درې ورځې و اوسېدو.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "او ورسېدو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم ته"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "او و اوسېدو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:39:50.637255288Z",
+  "model": "glm-5.3"
+}

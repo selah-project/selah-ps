@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 36:29",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "بلکه که چا د ورېځې خپرونې پوهېدلی شي، د ده د خیمې غوښېنې؟",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "پوهېدلی شي"
+    },
+    {
+      "surface": "מפרשי",
+      "gloss": "خپرونې"
+    },
+    {
+      "surface": "עב",
+      "gloss": "د ورېځې"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "غوښېنې"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "د ده د خیمې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:24.819306657Z",
+  "model": "glm-5.3"
+}

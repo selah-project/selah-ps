@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "هغه د سوداګرو د بېړيو په څېر وه، له لرې څخه يې خپل خوراک راوړل.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "د بېړيو په څېر"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "د سوداګرو"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "له لرې څخه"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "راوړل"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "خپل خوراک"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:57.318739114Z",
+  "model": "glm-5.3"
+}

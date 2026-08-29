@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "زامنو، د پلار روزنې واورئ، او د دې لپاره غوږ ونيسئ چې پوهه ∈لاس ته∈ راوړئ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "روزنه"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "او غوږ ونيسئ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "د دې لپاره چې پوه شئ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:46.867620320Z",
+  "model": "glm-5.3"
+}

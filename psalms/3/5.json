@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زما غږ یاهوه ته غوڅم، او هغه مې له خپله سپېڅلي غره ځواب کړم. سېله.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "غوڅم"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "او هغه مې ځواب کړ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "له غره"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "خپل سپېڅلي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:52.385294975Z",
+  "model": "glm-5.3"
+}

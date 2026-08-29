@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او حکمت مې نه دی زده کړی، خو د قدوسانو پوهه زه پېژنم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "زده کړی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "د قدوسانو"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "پېژنم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:18.147069240Z",
+  "model": "glm-5.3"
+}

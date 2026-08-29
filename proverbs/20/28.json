@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "خېسېد او رښتينولي پاچا ساتي، او د خېسېد په مټ يې تخت ملاتړ کېږي.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "او رښتينولي"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "וסעد",
+      "gloss": "او ملاتړ کېږي"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "د خېسېد په مټ"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "تخت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:43.053946072Z",
+  "model": "glm-5.3"
+}

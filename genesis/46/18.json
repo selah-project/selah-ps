@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 46:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "دا د زلفې زامن دي چې لابان خپلې لور لیاه ته يې ورکړل وو، او هغې دا شپاړس تنه ⟨את⟩ دا د یعقوب لپاره وزېږول.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زلفه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړل"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "لیاه ته"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "خپلې لور"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "او وزېږول يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "د یعقوب لپاره"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "تنه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:13:07.821871146Z",
+  "model": "glm-5.3"
+}

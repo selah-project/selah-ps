@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او هغې ورته وویل: زه د بیتوایل لور یم، هغه چې د مَلکه زوی دی، هغه چې مَلکه ناحور ته زیږولی و.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او هغې وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "بیتوایل"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه یم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "مَلکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زیږولی و"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ناحور ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:11.377006605Z",
+  "model": "glm-5.3"
+}

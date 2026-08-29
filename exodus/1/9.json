@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او هغه خپل قوم ته وویل: کتئ وکړئ، د یسرائیل د زامنو قوم ډېر او له موږ څخه زورور دی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "کتئ وکړئ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "او زورور"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له موږ څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:50.968711904Z",
+  "model": "glm-5.3"
+}

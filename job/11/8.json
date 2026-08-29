@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "له اسمانونو لوړ دی — ته څه کولی شې؟ له شیول څخه ژور دی — ته څه پوهېدلی شې؟",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "کولی شې"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ژور"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "پوهېدلی شې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:45.080122271Z",
+  "model": "glm-5.3"
+}

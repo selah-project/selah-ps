@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "دا هم مې ولیدله: حکمت لاندې ⟨لاندې⟩ لمر، او دا زما لپاره لویه وه.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ولیدله مې"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "او لویه وه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:03.730245452Z",
+  "model": "glm-5.3"
+}

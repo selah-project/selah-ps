@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د زړه شا-ګرځېدونکی به له خپلو لارو ډېر شي، او نېک سړی ⟨له ځانه⟩.",
+  "tokens": [
+    {
+      "surface": "מדרכיו",
+      "gloss": "له خپلو لارو"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ډېر شي"
+    },
+    {
+      "surface": "סוג",
+      "gloss": "شا-ګرځېدونکی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "ומעליו",
+      "gloss": "او له ځانه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نېک"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:56.670562096Z",
+  "model": "glm-5.3"
+}

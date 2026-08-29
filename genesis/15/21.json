@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او ⟨את⟩ اموريان، او ⟨את⟩ کنعانیان، او ⟨את⟩ ګرګیشیان، او ⟨את⟩ یبوسيان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اموريان"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموريان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کنعانیان"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "کنعانیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ګرګیشیان"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ګرګیشیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ybwsy"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ybwsyan"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:42.787308185Z",
+  "model": "glm-5.3"
+}

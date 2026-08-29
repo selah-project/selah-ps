@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 97,
+  "translation": "اسمانونو د هغه عدالت اعلان کړ، او ټولو خلکونو د هغه جلال ولید.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "اعلان کړ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "د هغه عدالت"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "او ولید"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "خلکونو"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "د هغه جلال"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:07.663701933Z",
+  "model": "glm-5.3"
+}

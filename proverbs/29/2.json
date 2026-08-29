@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "کله چې نیکان ډېر شي، خلک خوښې کوي؛ خو کله چې بدکار واکمني کوي، خلک ژرې وهي.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "کله چې ډېر شي"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکان"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوښې کوي"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "خو کله چې واکمني کوي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "ژرې وهي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلک"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:20.514853148Z",
+  "model": "glm-5.3"
+}

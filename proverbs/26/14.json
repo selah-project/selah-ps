@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "دروازه پر خپلې ملا (لول) ګرځي، او کاهل پر خپله بستره.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "عל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "خپلې ملا (لول)"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "او کاهل"
+    },
+    {
+      "surface": "عל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "مטתו",
+      "gloss": "خپله بستره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:48.794663114Z",
+  "model": "glm-5.3"
+}

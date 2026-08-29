@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او د فرښتۍ هغه اووه کالې چې د مِتسرایم په ځمکه کې وو، پای ته ورسېدل.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "پای ته ورسېدل"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "שני",
+      "gloss": "کالې"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "د فرښتۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:42.026945615Z",
+  "model": "glm-5.3"
+}

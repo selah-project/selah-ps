@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 124,
+  "translation": "د زړونو د پورته ختللو <!-- blank -->",
+  "tokens": [],
+  "timestamp": "2026-08-29T00:49:50.067533294Z",
+  "model": "glm-5.3"
+}

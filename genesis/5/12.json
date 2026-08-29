@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او قینان اویا کالې ژوند وکړ، او يې ⟨את⟩ مَهَلَلایل زېږېده.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قینان"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالې"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "زېږېده يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَهَلَلایل"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مَهَلَلایل"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:20.761068473Z",
+  "model": "glm-5.3"
+}

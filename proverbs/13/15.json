@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "ښه پوهه چنس ورکوي، خو د خیانت کوونکو لار سخته پاتې کېږي.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "חן",
+      "gloss": "چنس"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "خو لار"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "خیانت کوونکو"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "سخته پاتې کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:18.156354479Z",
+  "model": "glm-5.3"
+}

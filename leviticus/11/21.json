@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "یوازې دا ⟨את⟩ له هر هغه الوتونکي خزنده څخه خوړل شئ چې پر څلورو روان وي، چې د هغه د پښو له پاسه زنګونه لري، چې پر ځمکه ورسره ټوپ وکړي.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خوړل شئ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له هر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الوتونکي"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "روان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "له"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "زنګونه"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "له پاسه"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "د هغه د پښو"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "چې ټوپ وکړي"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:24.402052787Z",
+  "model": "glm-5.3"
+}

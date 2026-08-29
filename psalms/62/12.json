@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "یو ځل الوهیم خبرې وکړې — دوه ځله دا مې واورېدل، چې ځواک الوهیم ته دی.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "یو ځل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې وکړې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه ځله"
+    },
+    {
+      "surface": "זו",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "مې واورېدل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوهیم ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:02.994352723Z",
+  "model": "glm-5.3"
+}

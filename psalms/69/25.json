@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "ستا زعم پر هغوی راوشلکه، او ستا د مخې تودوخې دې هغوی ونیسي.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "راوشلکه"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ستا زعم"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "او د … تودوخې"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ستا د مخې"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "هغوی ونیسي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:48.071993117Z",
+  "model": "glm-5.3"
+}

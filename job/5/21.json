@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 5:21",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د ژبې له تازيانې به پټ شې، او هله چې تباهي راشي، نه به ترې وېرېږې.",
+  "tokens": [
+    {
+      "surface": "בשוט",
+      "gloss": "له تازيانې"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "د ژبې"
+    },
+    {
+      "surface": "תחבא",
+      "gloss": "به پټ شې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "به وېرېږې"
+    },
+    {
+      "surface": "משד",
+      "gloss": "له تباهۍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "هله چې"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راشي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:42.206730611Z",
+  "model": "glm-5.3"
+}

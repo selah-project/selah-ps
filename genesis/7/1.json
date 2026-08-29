@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یاهوه وویل نوح ته: «ته او ټول دې کور کښې ته؛ ځکه ما تا په دې نسل کې زما مخ ته صالح لیدلی يې.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "نوح ته"
+    },
+    {
+      "surface": "בא",
+      "gloss": "کښې ته (راځه)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "دې کور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته (لوري)"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کښې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تا"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ما لیدلی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "زما مخ ته"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "په نسل کې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:13.720028469Z",
+  "model": "glm-5.3"
+}

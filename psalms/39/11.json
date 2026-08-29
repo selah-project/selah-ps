@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "خپله وارځه له ما څخه لرې کړه؛ ستا د لاس له منګولو زه پایلم.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "له ما څخه"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ستا وارځه"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "له منګولو"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا د لاس"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "پایلم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:53.055623140Z",
+  "model": "glm-5.3"
+}

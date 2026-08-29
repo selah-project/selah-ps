@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او هغه ته یې وویل: راځه ⟨את⟩ ما سره کور ته، او ډوډی وخوره.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه یې وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "לך",
+      "gloss": "راځه"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ما سره"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "کور ته"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "او وخوره"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:56:46.027073061Z",
+  "model": "glm-5.3"
+}

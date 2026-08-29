@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او داوېد جاسوسان ولېږل او پوه شو چې شاؤل په رښتیا راغلی دی.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوسان"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "پوه شو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "په رښتیا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:40:11.897939070Z",
+  "model": "glm-5.3"
+}

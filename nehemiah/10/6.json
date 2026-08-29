@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "حارم، میرموت، عوبادیا،",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "میرموت"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عوبادیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:19.528480096Z",
+  "model": "glm-5.3"
+}

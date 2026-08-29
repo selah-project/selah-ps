@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او نجلۍ منډه وکړه او د دې پلارneé خونه ته لاړه…",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "او منډه وکړه"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نجلۍ"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "او خبر يې کړ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "کور ته"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "د دې مور"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "د دې خبرو په څېر"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:46.484691384Z",
+  "model": "glm-5.3"
+}

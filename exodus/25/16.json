@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او په صندوق کې به ⟨את⟩ ګواهي ږدې چې زه به تا ته درکوم.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "او به ږدې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګواهي"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ګواهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "زه به درکوم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:28.130900638Z",
+  "model": "glm-5.3"
+}

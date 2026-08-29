@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "ته د سمندر پر غرور واکمن يې؛ کله چې څپې يې پورته کېږي، ته ⟨هغه⟩ اراموې.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "واکمن يې"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "پر غرور"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "کله چې ... پورته کېږي"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "څپې يې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "اراموې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:43.292902847Z",
+  "model": "glm-5.3"
+}

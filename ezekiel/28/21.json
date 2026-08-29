@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د انسان زویه! خپل مخ د صیدون پر لور کېږه او پرې وړاندوینه وکړه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کېږه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر لور"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "او وړاندوینه وکړه"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:00:55.662380751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "خو الوهیم راته وویل: ته به زما نوم ته کور نه جوړوې، ځکه ته د جګړو سړی يې او وینه يې توې کړې ده.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "خو الوهیم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ته به جوړ کړې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "زما نوم ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "د جګړو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "او وینه"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "يې توې کړې ده"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:22.661267994Z",
+  "model": "glm-5.3"
+}

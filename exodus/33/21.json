@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او یاهوه وویل: “ها، زما سره یو ځای ⟨دی⟩، او ته به پر هغه غوټۍ کې ودرېږې.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او-وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ما-سره"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "او-ته-به-ودرېږې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "غوټۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:26:23.703718863Z",
+  "model": "glm-5.3"
+}

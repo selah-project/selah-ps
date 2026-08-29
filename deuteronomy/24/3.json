@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 24:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او که دویم سړی يې وکره او ليه يې طلاق لیک وليکه، په لاس يې ورکړ او له خپل کوره يې ولېږله، یا هغه دویم سړی مړ شي چې هغه يې ښځه وه؛",
+  "tokens": [
+    {
+      "surface": "ושנאה",
+      "gloss": "او وکره يې"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "وليکه"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لره"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "لیک"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "طلاق"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ورکړ"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "ولېږله يې"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "له کوره يې"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مړ شي"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "اخیستې يې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لره"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ښځه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:22:09.402450268Z",
+  "model": "glm-5.3"
+}

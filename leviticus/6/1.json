@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او یاهوه له موشې سره وویل، ویونکې یې:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او ... وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویونکې یې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:05.600016146Z",
+  "model": "glm-5.3"
+}

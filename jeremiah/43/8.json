@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او د یاهوه خبره په تَحپنحِس کې یرمیاهو ته راغله، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او…شوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "په تَحپنحِس کې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:04.918006041Z",
+  "model": "glm-5.3"
+}

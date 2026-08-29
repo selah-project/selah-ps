@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "⟨את⟩ ټول دا خبر چې زه يې ⟨את⟩ تاسو ته حکم کوم، هغه به وساتئ چې ترسره يې کړئ؛ پر دې به هېڅ نه زیاتوئ او له دې څخه به هېڅ نه کموئ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول دا خبر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم کوم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تاسو ته"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "תשمרו",
+      "gloss": "به يې وساتئ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې ترسره يې کړئ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "به زیاتوئ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر دې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "به کموئ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له دې څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:55.300947906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او ⟨את⟩ هر زاغ لد خپل ډول.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هر زاغ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "زاغ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "لد خپل ډول"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:52.948867727Z",
+  "model": "glm-5.3"
+}

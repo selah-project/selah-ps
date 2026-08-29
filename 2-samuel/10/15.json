@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ارم چې وليدل چې د اسراییل له مخې ماتې يې خوړلې، نو سره راټول شول.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وليدل"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ماتې يې خوړلې"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "راټول شول"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:34.709977017Z",
+  "model": "glm-5.3"
+}

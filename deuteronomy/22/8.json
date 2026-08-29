@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "کله چې نوی کور جوړ کړې، نو د خپل بامه سره به ساتنه وال جوړ کړې، تر څو خپل کور ته وینه ونه اچوې، که چېرې څوک ترې رالوېږي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "جوړ کړې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوی"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "او جوړ کړې"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "ساتنه وال"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "د خپل بام"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "اچوې"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "خپل کور ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که چېرې"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "رالوېږي"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "لوېدونکی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:34.776655094Z",
+  "model": "glm-5.3"
+}

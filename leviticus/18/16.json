@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د دې ورور د ښځې برنډتیا مه بربنډوې؛ دا د تا د ورور برنډتیا ده.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برنډتیا"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "د تا د ورور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "بربنډوې"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برنډتیا"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "د تا د ورور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:56.105631437Z",
+  "model": "glm-5.3"
+}

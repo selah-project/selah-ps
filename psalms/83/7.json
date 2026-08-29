@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "د ادوم خیمې او د ییشمعیلیانو، مواب او هګریان —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "د … خیمې"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "او د ییشمعیلیانو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مواب"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "او هګریان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:10.923504582Z",
+  "model": "glm-5.3"
+}

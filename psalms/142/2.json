@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 142,
+  "translation": "زما غږ یاهوه ته ورسېد، زه چیغه وهم؛ زما غږ یاهوه ته ورسېد، زه بخشنه غواړم.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "چیغه وهم"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "بخشنه غواړم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:47.164313668Z",
+  "model": "glm-5.3"
+}

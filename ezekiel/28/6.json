@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "نو داسې وايي ادونای یاهوه: ځکه چې تا ⟨את⟩ خپل زړه د الوهیم د زړه په څېر ګرځولی،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "ګرځولی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل زړه"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "خپل زړه"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "د زړه په څېر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:00:37.399662606Z",
+  "model": "glm-5.3"
+}

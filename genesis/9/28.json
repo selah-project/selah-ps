@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او نوح د طوفان وروسته درې سوه او پنځوس کاله ژوند وکړ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "او ژوند وکړ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "د طوفان"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "او پنځوس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:50.734090625Z",
+  "model": "glm-5.3"
+}

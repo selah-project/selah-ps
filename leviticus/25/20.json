@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او که تاسو ووايئ: «په اوومه كال كې به څه وخورو؟ هن، نه کرلو او نه زموږ ⟨حاصلات⟩ راټولول»،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "تאמרו",
+      "gloss": "تاسو ووايئ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "وخورو"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "په كال"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "اووم"
+    },
+    {
+      "surface": "הן",
+      "gloss": "هن"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "كرلو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "راټولول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زموږ حاصلات"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "زموږ حاصلات"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:25.380175813Z",
+  "model": "glm-5.3"
+}

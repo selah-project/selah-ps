@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او دا خبره د اوراهام په سترګو کې ډېره درنېده\/بدېده، د خپل زوی له امله.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "او درنېده\/بدېده"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا خبره"
+    },
+    {
+      "surface": "مאד",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "د اوراهام"
+    },
+    {
+      "surface": "על",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "د"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "خپل زوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:55.946979569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 19:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "زما شان يې له ما څخه پرې کړ، او د زما سر تاج يې لرې کړ.",
+  "tokens": [
+    {
+      "surface": "כבודי",
+      "gloss": "زما شان"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "له ما څخه"
+    },
+    {
+      "surface": "הפשיט",
+      "gloss": "پرې کړ"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "او لرې يې کړ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "د زما سر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:49.792381279Z",
+  "model": "glm-5.3"
+}

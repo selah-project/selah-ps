@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ولې ملتونه پاڅون وکړ، او قومونه په بې‌ځایه توګه فکر کوي؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "پاڅون وکړ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "او قومونه"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "فکر کوي"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "په بې‌ځایه توګه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:43.541629431Z",
+  "model": "glm-5.3"
+}

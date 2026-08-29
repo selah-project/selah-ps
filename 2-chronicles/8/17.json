@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "هغه وخت شلومو עِتسیون ګېبېر او اېلات ته ولاړ، د سمندر غاړې ته، د اېدوم په ځمکه کې.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "עِتسیون"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ګېبېر ته"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "اېلات ته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "غاړې"
+    },
+    {
+      "surface": "הים",
+      "gloss": "د سمندر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "د اېدوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:59:41.128313697Z",
+  "model": "glm-5.3"
+}

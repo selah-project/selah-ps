@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 85,
+  "translation": "ته دې ټوله خپله قهر راټول کړ؛ د خپل د غوسې له تودوخې راوستلې.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "راټول کړې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "خپله قهر"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "راوستلې"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "له تودوخې"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "د خپلې غوسې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:38.107299283Z",
+  "model": "glm-5.3"
+}

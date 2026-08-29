@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د یاهوه د مخ پوزه ⟨غوسه⟩ پر هغوی وتښتېده او ⟨هغه⟩ ولاړ.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "وتښتېده (د غوسې اور)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "پوزه\/غوسه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:27.319708247Z",
+  "model": "glm-5.3"
+}

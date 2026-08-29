@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د یصهار زامن: قورح، او نفګ، او زکري.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "יצهار",
+      "gloss": "یصهار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "او نفګ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "او زکري"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:41.905422910Z",
+  "model": "glm-5.3"
+}

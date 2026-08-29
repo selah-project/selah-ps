@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د ټپ مړوندنې او زخمونه بدي سپmakе کوي، او ډبرې د نس دننه خونو ته رسي.",
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "مړوندنې"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "د ټپ"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "سپmakе کوي"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "او ډبرې"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "خونو ته"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "د نس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:38.885381809Z",
+  "model": "glm-5.3"
+}

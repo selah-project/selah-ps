@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د شیمون زامن: اَمنون، رِنّه، بِن-حَنان او تیلون؛ او د یِشعي زامن: زوحِت او بِن-زوحِت.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "شیمون"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "اَمنون"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "رِنّه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حَنان"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "تیلون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "یِشعي"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحِت"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "بِن-"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "زوحِت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:21.238887212Z",
+  "model": "glm-5.3"
+}

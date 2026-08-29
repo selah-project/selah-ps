@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 36:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "د شریر ژوند نه ساتي، خو د زیارکښو حق ورکوي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ژوند ساتي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "د شریر"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "خو حق"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "د زیارکښو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:16.630213907Z",
+  "model": "glm-5.3"
+}

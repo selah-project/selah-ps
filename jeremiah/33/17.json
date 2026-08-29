@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ځکه داسې وايي یاهوه: د داوېد لپاره به هېڅکله يو سړی نه پرېکړل شي چې پر د یِسرایل کور تخت کښېني؛",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכרت",
+      "gloss": "پرېکړل شي"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد لپاره"
+    },
+    {
+      "surface": "איש",
+      "gloss": "يو سړی"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "کښېني"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:41:25.316699266Z",
+  "model": "glm-5.3"
+}

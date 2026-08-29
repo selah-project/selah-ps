@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "ټولې لارې د سړي په خپلو سترګو کې پاکې ښکاري، خو روحونه یاهوه وزنوي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاکې"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "خو وزنوي"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "روحونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:37.908918849Z",
+  "model": "glm-5.3"
+}

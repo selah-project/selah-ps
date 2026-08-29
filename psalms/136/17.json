@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 136,
+  "translation": "هغه چې لوی پاچاهان يې ووهل، ځکه چې د هغه خېسېد تل دی.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "هغه چې ووهل يې"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تل"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "د هغه خېسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:43.507470779Z",
+  "model": "glm-5.3"
+}

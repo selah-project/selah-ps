@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 20:5",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او یهوشافات د یهودا او یروشلایم په ټولګه کې ودريد، د یاهوه په کور کې، د ⟨the⟩ نوې ساحې مخې ته.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "او ودريد"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافات"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په ټولګه کې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "او یروشلایم"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ساحې"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "نوې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:05:02.830717888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او انسان ټیټ شو، او سړی خوار شو، او د لوړو سترګې ټیټې شوې.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "او ټیټ شو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "او خوار شو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "او سترګې"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "د لوړو"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "ټیټې شوې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:12:15.713013908Z",
+  "model": "glm-5.3"
+}

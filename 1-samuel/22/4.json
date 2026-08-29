@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او هغه ⟨את⟩ د دوی مخ د موآب پاچا ته ولېد، او د هغه سره يې ټول هغه ورځې چې داوېد په کلا کې و اوسېدل.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ولېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د دوی مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "اوسېدل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "د هغه سره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "היות",
+      "gloss": "د … وو"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "په کلا کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:38:20.925253210Z",
+  "model": "glm-5.3"
+}

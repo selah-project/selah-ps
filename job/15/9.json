@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "څه پېژنې چې موږ يې نه پېژنو؟ څه درکووې چې دا ⟨له موږ سره⟩ نه ده؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "چې... نه"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "پېژنو"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "درکووې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "چې... نه"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "له موږ سره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:00.402401200Z",
+  "model": "glm-5.3"
+}

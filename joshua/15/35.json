@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "یارموت، او عدُلام، سوکوه، او عزیقه.",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "یارموت"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "او عدُلام"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "سوکوه"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "او عزیقه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:42.619944799Z",
+  "model": "glm-5.3"
+}

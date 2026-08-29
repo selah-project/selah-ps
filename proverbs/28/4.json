@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "تورات پرېښودونکي شرمنځ ستایي، خو تورات ساتونکي پر هغوی مخالفت کوي.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "پرېښودونکي"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ستایي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرمنځ"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "خو ساتونکي"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "مخالفت کوي"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پر هغوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:08.953968904Z",
+  "model": "glm-5.3"
+}

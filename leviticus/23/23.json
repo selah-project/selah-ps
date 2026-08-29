@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او یاهوه موشې (موسیٰ) سره وویل، په دې ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې (موسیٰ)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "په دې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:56.914234752Z",
+  "model": "glm-5.3"
+}

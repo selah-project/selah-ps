@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "یو سخت-مخه ملت، چې د زاړه سړي مخ نه لري او پر ځوان رحم نه کوي.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "עז",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "لري"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "د زاړه سړي"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "او ځوان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "رحم کوي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:52.574714804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او پاچا ورته ووایه: یو خوب مې ولید، او زما روح په غوسه دی، چې ⟨את⟩ خوب پېژندم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "یو خوب"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "مې ولید"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "او په غوسه دی"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "زما روح"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "چې پېژندم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوب"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خوب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:29:23.308480052Z",
+  "model": "glm-5.3"
+}

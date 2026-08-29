@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او زما ته د یاهوه خبره راغله، چې ⟨وايي⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما ته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ⟨وايي⟩"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:45.802523550Z",
+  "model": "glm-5.3"
+}

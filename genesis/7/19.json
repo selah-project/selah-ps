@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او اوبو ډېره ډېره برلاسي وکړه پر ځمکه، او ټول لوړ غرونه چې د ټولو اسمانونو لاندې وو پټ شول.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "او اوبو"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "برلاسي وکړه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "پټ شول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:28.568305648Z",
+  "model": "glm-5.3"
+}

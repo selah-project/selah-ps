@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "زما خوله د حکمت خبرې کوي، او زما د زړه فکر د پوهې (پوهنې).",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "زما خوله"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "د حکمت"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "او فکر"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما د زړه"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "د پوهې (پوهنې)"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:37.567895147Z",
+  "model": "glm-5.3"
+}

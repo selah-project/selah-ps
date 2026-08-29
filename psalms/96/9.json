@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 96,
+  "translation": "د یاهوه په سپېڅلې ښکلا کې سجدې وکړئ؛ ټوله ځمکه د هغه له مخې لړزېږي.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "سجدې وکړئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "په ښکلا کې"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "سپېڅلې"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "لړزېږي"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "د هغه له مخې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:54.633040676Z",
+  "model": "glm-5.3"
+}

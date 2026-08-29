@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او بَرکیاهو او اِلکَناه د صندوق لپاره دروازه-بانان ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "او بَرکیاهو"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "او اِلکَناه"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازه-بانان"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "د صندوق لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:36.033128717Z",
+  "model": "glm-5.3"
+}

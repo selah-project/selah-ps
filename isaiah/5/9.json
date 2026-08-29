@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 5:9",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "په غوږونو کې یې یاهوه څواکو وویل: که ډېر کورونه ویجاړ نه شي، لوی او ښکلي بې مېشتوونکي پاتې کېږي!",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "په غوږونو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "څواکو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "کورونه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ویجاړ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "نه شي"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "او ښکلي"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "بې"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "مېشتوونکي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:12:05.509076626Z",
+  "model": "glm-5.3"
+}

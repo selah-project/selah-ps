@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "رشوت له بېغلې څخه شریر اخلي، چې د عدالت لارې کږې کړي.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "له بېغلې"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "اخلي"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "چې کږې کړي"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:00.946335874Z",
+  "model": "glm-5.3"
+}

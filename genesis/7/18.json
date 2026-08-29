@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او اوبو غلبه وکړه او پر ځمکه ډېرې ډېرې زياتې شوې، او کښتۍ د اوبو پر مخ ولاړه.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "غلبه وکړه"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "زياتې شوې"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېرې ډېرې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ولاړه"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کښتۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:28.568061391Z",
+  "model": "glm-5.3"
+}

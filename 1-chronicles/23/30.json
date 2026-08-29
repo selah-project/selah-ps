@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او سهار په سهار درېدل، د یاهوه مننه او حمد ویل لپاره، او همداسې ماښام.",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "او درېدل"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "په هر سهار"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "د مننې لپاره"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "او حمد"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "او همداسې"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ماښام"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:29.354489053Z",
+  "model": "glm-5.3"
+}

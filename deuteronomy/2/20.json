@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "(دا هم د رفایم ځمکه ګڼل شوې؛ رفایم پکې پخوا اوسېدلي وو، خو عامونيان ورته زمزمیان وايي،",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکه"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ګڼل شوې"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "اوسېدلي وو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پخوا"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "خو عامونيان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "زمزمیان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:57.187970482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او آسا ⟨له خپلو پلرونو سره⟩ وېده شو او د خپلې واکمنۍ په یوه څلویښتمه کال مېړۀ شو.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "وېده شو"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨له … سره⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "خپلو پلرونو"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مېړۀ شو"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "په … کال"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلویښتمه"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "د خپلې واکمنۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:23.996219642Z",
+  "model": "glm-5.3"
+}

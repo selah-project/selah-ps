@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "پر زموږ غاړو تعقیب شوي يوو؛ ستړي شوي يوو، دمه ⟨هېچا⟩ را نه کړه.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "زموږ غاړو"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "تعقیب شوي يوو"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "ستړي شوي يوو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "دمه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "را"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:24.279132402Z",
+  "model": "glm-5.3"
+}

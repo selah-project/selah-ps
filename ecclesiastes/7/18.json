@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "غوره ده چې دا زېړ ونیسې، او له دې څخه هم لاس مه بندوې ⟨את⟩ خپل لاس؛ ځکه چې د الوهیم وېروونکی له دې ټولو سره بهر راځي ⟨את⟩ ټول.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "زېړ ونیسې"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "له دې څخه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "بندوې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل لاس"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "وېروونکی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "بهر راځي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:06.493134913Z",
+  "model": "glm-5.3"
+}

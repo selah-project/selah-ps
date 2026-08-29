@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او یاهوه موشې ته وویل: زه یاهوه یم؛ پرهعته، د مِتسرایم پاچا ته، ټول هغه څه ووایه چې زه درته وایم.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرهعته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه څه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه...چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وایم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "درته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:27.953638023Z",
+  "model": "glm-5.3"
+}

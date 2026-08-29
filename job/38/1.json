@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "بیا یاهوه ⟨את⟩ ایوب له تندر څخه ځواب کړ او وویل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "بیا ځواب کړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایوب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "הסעرה",
+      "gloss": "تندر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:02.264195115Z",
+  "model": "glm-5.3"
+}

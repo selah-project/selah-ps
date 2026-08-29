@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "په رښتیا ته یو پټ شوی ایل يې، د اسراییلو الوهیم، خلاصون ورکوونکی.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "په رښتیا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "پټ شوی"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییلو"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "خلاصون ورکوونکی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:10.364787217Z",
+  "model": "glm-5.3"
+}

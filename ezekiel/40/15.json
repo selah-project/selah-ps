@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 40:15",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او له د بهرنۍ دروازې د مخې څخه — د داخل — تر د دروازې د داخلي دالان د مخې پورې پنځوس نَره وه.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او له"
+    },
+    {
+      "surface": "פני",
+      "gloss": "د مخې"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "היאתון",
+      "gloss": "د داخل"
+    },
+    {
+      "surface": "על",
+      "gloss": "تر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې پورې"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "دالان"
+    },
+    {
+      "surface": "השער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "داخلي"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "نَره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:52.184396319Z",
+  "model": "glm-5.3"
+}

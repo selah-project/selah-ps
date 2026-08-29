@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "نو اورئ، ای ملتونه، او زده کړه، ای جماعت، ⟨את⟩ هغه څه چې په هغوی کې دي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اورئ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "او زده کړه"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه چې په هغوی کې دي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בם",
+      "gloss": "په هغوی کې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:33:08.689976757Z",
+  "model": "glm-5.3"
+}

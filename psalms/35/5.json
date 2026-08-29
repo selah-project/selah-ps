@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "ویې شې لکه بوسه د باد مخې ته، او د یاهوه فرښته يې په شا وتمبوي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ویې شې"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "لکه بوسه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "او … فرښته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "په شا وتمبوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:34.046978285Z",
+  "model": "glm-5.3"
+}

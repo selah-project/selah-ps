@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "زما نذرونه به يې ياهوه ته ورپوره کړم، آ، د هغه د ټول قوم په وړاندې.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "زما نذرونه"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه ته"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "به ورپوره کړم"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "נא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:06.355391994Z",
+  "model": "glm-5.3"
+}

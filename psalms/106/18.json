@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 106:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "او اور په دوی کې بل شو؛ لمبې ګناهکاران وڅرخول.",
+  "tokens": [
+    {
+      "surface": "ותבער",
+      "gloss": "او بل شو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "בעדתם",
+      "gloss": "په دوی کې (په ټولنه کې يې)"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "لمبې"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "وڅرخول"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ګناهکاران"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:31.443536610Z",
+  "model": "glm-5.3"
+}

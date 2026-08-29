@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "ځکه تاسو تر دې مهاله نه یاست راغلي ⟨the⟩ ارامګاه ته او ⟨the⟩ میراث ته چې یاهوه ستاسو الوهیم درکوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "راغلي یاست"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "دې مهاله"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "ارامګاه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او…ته"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستاسو الوهیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:27.585403899Z",
+  "model": "glm-5.3"
+}

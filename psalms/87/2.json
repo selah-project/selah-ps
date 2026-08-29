@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 87,
+  "translation": "یاهوه د صهیون دروازې خوښوي، د یعقوب له ټولو استوګنځایونو.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "خوښوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "د … دروازې"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیون"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "مשכנות",
+      "gloss": "استوګنځایونو"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:41.643273211Z",
+  "model": "glm-5.3"
+}

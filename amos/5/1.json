@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د اسرائیلو کوره، دا خبر اورئ چې زه يې پرې ستاسو د پاره پورته کوم — يوه سوګاوري.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "اورئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا خبر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا خبر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "پورته کوم"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ستاسو پر"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "سوګاوري"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د … کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:14:57.791362243Z",
+  "model": "glm-5.3"
+}

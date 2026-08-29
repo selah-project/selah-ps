@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "څنان، او حَدَشه، او مِګدال ګاد؛",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "څنان"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "او حَدَشه"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "او مِګدال"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:47.558715740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د هغه لومړئ زوی عبدون، او تسور، او قیش، او بعال، او نېر، او نداب.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "او د هغه زوی"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "لومړئ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "او تسور"
+    },
+    {
+      "surface": "וקישׁ",
+      "gloss": "او قیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "او بعال"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "او نېر"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "او نداب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:21.728543460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 20:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او بیا په ګت کې جګړه وشوه؛ یو ستر قد مرد و، او د هغه ګوتې شپږ او شپږ — شل څلور وې — او هغه هم د رفاع لپاره زېږېدلی و.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "او وشوه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جګړه"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "په ګت کې"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "איש",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ستر قد"
+    },
+    {
+      "surface": "ואצבעתיו",
+      "gloss": "او د هغه ګوتې"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "زېږېدلی"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "د رفاع لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:53.270463794Z",
+  "model": "glm-5.3"
+}

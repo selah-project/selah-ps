@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 38:19",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ژوندی، ژوندی هغه دی چې تا مني، لکه زه نن ورځ؛ پلار خپلو زامنو ستا امانت پېژندوي.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه دی چې"
+    },
+    {
+      "surface": "יודך",
+      "gloss": "تا مني"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "لکه زه"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن ورځ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "خپلو زامنو"
+    },
+    {
+      "surface": "יודיע",
+      "gloss": "پېژندوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ستا امانت"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:48.069796847Z",
+  "model": "glm-5.3"
+}

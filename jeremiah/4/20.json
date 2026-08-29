@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 4:20",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ماتې پر ماتې ناچېرېده، ځکه چې ټوله ځمکه ويجاړه شوه؛ ناڅاپه زما خېمې لوټ شوې، په یوه شېبه زما پردې.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ماتې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ماتې"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ناچېرېده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "ويجاړه شوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناڅاپه"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "لوټ شوې"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "زما خېمې"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "په یوه شېبه"
+    },
+    {
+      "surface": "יריעתי",
+      "gloss": "زما پردې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:34.876005208Z",
+  "model": "glm-5.3"
+}

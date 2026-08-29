@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د صديق خوله د حکمت ګل کوي، خو د پټو تورو ژبه به پرې شي.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صديق"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ګل کوي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "خو … ژبه"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "د پټو تورو"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "به پرې شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:40.962715235Z",
+  "model": "glm-5.3"
+}

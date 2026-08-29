@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او لامبې يې چاپېر چاپېر وې — اوږدوالی يې پنځه او شل ګامه او پلنوالی يې پنځه ګامه و.",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "او لامبې"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اوږدوالی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ګامه"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "او پلنوالی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ګامه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:59.345885806Z",
+  "model": "glm-5.3"
+}

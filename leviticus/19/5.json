@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او کله چې د شلمیمو قرباني یاهوه ته وکړئ، د خپلې خوښۍ له مخې يې وکړئ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او کله چې"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "قرباني کوئ"
+    },
+    {
+      "surface": "زבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "د شلمیمو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "د خپلې خوښۍ له مخې"
+    },
+    {
+      "surface": "תזבחהو",
+      "gloss": "يې وکړئ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:51.132738643Z",
+  "model": "glm-5.3"
+}

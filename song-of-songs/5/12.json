@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "سترګې يې د کوترو په څېر دي، د اوبو پر مجراوو، چې په شيدو ځان وينځي او پر ډکو کاسو کښېنستلې دي.",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "سترګې يې"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "د کوترو په څېر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "مجراوو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "ځان وينځي"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "په شيدو"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "کښېنستلې دي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ډکو کاسو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:28.260995353Z",
+  "model": "glm-5.3"
+}

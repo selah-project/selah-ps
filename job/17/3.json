@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "اېشته کړه اوس زما ډېډی له ځان سره — څوک دی چې له ما سره لاس ووهي؟",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "اېشته کړه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "زما ډېډی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له ځان سره"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "له ما سره لاس"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "ووهي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:46.432485188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "ستا د غلو لمړنۍ برخه، ستا شراب او ستا تیل، او ستا د مېږو د وړۍ لمړنۍ برخه به هغه ته ورکوې.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "لمړنۍ برخه"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "ستا غله"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "ستا شراب"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "او ستا تیل"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "او لمړنۍ برخه"
+    },
+    {
+      "surface": "גז",
+      "gloss": "د وړۍ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ستا مېږې"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "به ورکوې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:53.638120291Z",
+  "model": "glm-5.3"
+}

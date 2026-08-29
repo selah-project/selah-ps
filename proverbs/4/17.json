@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ځکه چې دوی د خبیثتوب ډوډۍ خوري او د ظلمونو شراب څيي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "د خبیثتوب"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "او شراب"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "د ظلمونو"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "څيي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:57.679555596Z",
+  "model": "glm-5.3"
+}

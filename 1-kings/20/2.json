@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او هغه استازي د اسرائیلو د پاچا اخآب پر ښار ولېږل.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږل"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "استازي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اخآب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ښار ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:59:45.446146544Z",
+  "model": "glm-5.3"
+}

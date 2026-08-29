@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د لِبنه څخه روان شول او په رِسه کې پړاو وکړ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روان شول"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "د لِبنه څخه"
+    },
+    {
+      "surface": "ויחנو",
+      "gloss": "پړاو وکړ"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "په رِسه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:57.667005444Z",
+  "model": "glm-5.3"
+}

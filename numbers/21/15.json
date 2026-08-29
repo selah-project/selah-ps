@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او د درو لړې چې د عار د اوسېدنې ته تاوېږي او د موآب پولې ته تکیه کوي.",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "او د درو لړې"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "د درو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "تاوېږي"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "د اوسېدنې ته"
+    },
+    {
+      "surface": "ער",
+      "gloss": "د عار"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "او تکیه کوي"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "پولې ته"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "د موآب"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:36.498252029Z",
+  "model": "glm-5.3"
+}

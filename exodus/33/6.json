@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د یسرائیل زامنو ⟨את⟩ خپل زینت د حوریب غره خوا ته ښکته کړ.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ښکته\/له ځانه يې لرې کړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زینت"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "خپل زینت"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "د غره خوا ته"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "حوریب"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:28.039226049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "او د لېوي زامن: ګېرشون، قهات او مراري.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د ... زامن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېوي"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ګېرشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "او مراري"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:55.038707760Z",
+  "model": "glm-5.3"
+}

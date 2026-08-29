@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ته به او ⟨את⟩ ستا مور چې دې راوړې وي، په یوه بله ځمکه وغورځوم چې هلته زیږېدلي نه یاست؛ او هلته به مړه شئ.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "به وغورځوم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ته"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ستا مور"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ستا مور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "دې راوړې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "بله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "زیږېدلي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او هلته"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "به مړه شئ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:36:24.493407571Z",
+  "model": "glm-5.3"
+}

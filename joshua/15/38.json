@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او دِلعان، او هامِتزپه، او یوقتېیل؛",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "او دِلعان"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "او هامِتزپه"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "او یوقتېیل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:47.558951102Z",
+  "model": "glm-5.3"
+}

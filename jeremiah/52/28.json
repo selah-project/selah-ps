@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 52:28",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "دا هغه خلک دي چې نبورکدرعصر په اتم کال کې وشول — يهوديان، درې زره او درې او شل.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "نبورکدرعصر"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "په کال"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووم"
+    },
+    {
+      "surface": "יהודים",
+      "gloss": "يهوديان"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "او درې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:49:51.704638400Z",
+  "model": "glm-5.3"
+}

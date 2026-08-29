@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ویاړونکي به ستا د سترګو په وړاندې ودریږي نه؛ ته هر هغه چا کرې چې په باطل کار کوي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "ودریږي"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "ویاړونکي"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ستا سترګو"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ته کرې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "چا چې کار کوي"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:39.295438813Z",
+  "model": "glm-5.3"
+}

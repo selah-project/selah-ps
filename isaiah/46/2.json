@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "ټیټ شول، يوځای زنګېدل؛ بار يې خلاصولی نه شو، او د دوی ځان ⟨هم⟩ بنديانو ته ولاړ.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "ټیټ شول"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "زنګېدل"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يوځای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "کولی شول"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "خلاصول"
+    },
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "او د دوی ځان"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "بنديانو ته"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "ولاړ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:53.541490178Z",
+  "model": "glm-5.3"
+}

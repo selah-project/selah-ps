@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د شاتو او مستو د سیندونو بهېدونکې ویالې به وانه ویني.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "بهېدونکې"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "د سیندونو"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ویالې"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "د شاتو"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "او مستو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:13.934815240Z",
+  "model": "glm-5.3"
+}

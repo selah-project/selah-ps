@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "اېستر هاتک ته وويل او هغه يې مُردخای ته فرمان وکړ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اېستر"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "هاتک ته"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "فرمان وکړ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردخای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:26:29.032085429Z",
+  "model": "glm-5.3"
+}

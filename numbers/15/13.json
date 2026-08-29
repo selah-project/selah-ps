@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 15:13",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "ټول هېواد-زېږېدلي به داسې دا ⟨את⟩ وکړي، چې د اور قربانۍ د خوښې بوي د یاهوه لپاره راولي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "هېواد-زېږېدلي"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "راولي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د اور قرباني"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "بوي"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "خوښې"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:53.711320004Z",
+  "model": "glm-5.3"
+}

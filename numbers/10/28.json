@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 10:28",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "دا د اسرائیل د زامنو د پوځونو له مخې کوچونه وې — او ⟨هغوی⟩ روان شول.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מסעי",
+      "gloss": "کوچونه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "د پوځونو له مخې"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "او روان شول"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:38.730311045Z",
+  "model": "glm-5.3"
+}

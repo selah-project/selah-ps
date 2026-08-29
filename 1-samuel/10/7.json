@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او دا به وشي، چې کله دا نښې دې ته راشي، هغه وکړه چې ستا لاس يې ومومي، ځکه چې الوهیم ستا سره دی.",
+  "tokens": [
+    {
+      "surface": "وהיה",
+      "gloss": "او دا به وشي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "نښې"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا ته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ومومي"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:33:46.233942762Z",
+  "model": "glm-5.3"
+}

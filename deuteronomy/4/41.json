@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "آن‌هار وړاندې موشې درې ښارونه په هاخوا د یاردن، ختیځ‌لور ته د لمر، بېل کړل.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آن‌هار"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "بېل کړل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "په هاخوا"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "د یاردن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ختیځ‌لور ته"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "د لمر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:43.994620388Z",
+  "model": "glm-5.3"
+}

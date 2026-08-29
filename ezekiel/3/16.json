@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د اوه ورځو په پای کې داسې وشول چې د یاهوه خبرگاه راته راغی، وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "په پای کې"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "د اوه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرگاه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:01.252321113Z",
+  "model": "glm-5.3"
+}

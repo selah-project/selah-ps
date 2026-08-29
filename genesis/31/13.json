@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 31:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "زه یم ⟨ه⟩ ایل بیت ایل (د کور ایل)، چېرته چې ته مېزابه غوړه کړې، چېرته چې ته ما ته هلته نذر وکړ؛ اوس پاڅه، له دې ځمکې ووځه او خپلې زيږندې ځمکې ته ستون شه.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ال"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چېرته چې"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "غوړه کړې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "مېزابه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چېرته چې"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "نذر وکړ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "קום",
+      "gloss": "پاڅه"
+    },
+    {
+      "surface": "צא",
+      "gloss": "ووځه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "او ستون شه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "מולדתך",
+      "gloss": "زيږنده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:31.140526990Z",
+  "model": "glm-5.3"
+}

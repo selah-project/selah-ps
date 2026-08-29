@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او الوهیم رقېع ته «اسمانونه» نوم کېښود؛ او ماښام وشول او سهار وشول — دویم ورځ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "نوم کېښود\/بلنه يې کړه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "رقېع ته"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "بקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دویم"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:34.832771159Z",
+  "model": "glm-5.3"
+}

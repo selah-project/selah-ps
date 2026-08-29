@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "که چېرې زما فرېضې سپکې کړي، او زما حکمونه ونه ساتي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که چېرې"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "زما فرېضې"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "سپکې کړي"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "او زما حکمونه"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ونه ساتي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:55.998158143Z",
+  "model": "glm-5.3"
+}

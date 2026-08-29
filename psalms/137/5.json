@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 137,
+  "translation": "که ستا هېرې کړم، ای یروشلایم، نو زما ښي لاس هېرې کړي ⟨دا⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ستا هېرې کړم"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "هېرې کړي"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "زما ښي لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:47.011399380Z",
+  "model": "glm-5.3"
+}

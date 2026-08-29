@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او سېسِرا ته ويښ شو چې بارک، د ابينوعام زوی، د تابور غره ته پورته شوی دی.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "او ويښ شو"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "سېسِرا ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پورته شوی دی"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بارک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ابينوعام"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "تابور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:23:41.341713883Z",
+  "model": "glm-5.3"
+}

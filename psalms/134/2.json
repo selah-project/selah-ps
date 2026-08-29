@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 134,
+  "translation": "ستاسو لاسونه مقدس ځای ته پورته کړئ، او یاهوه ⟨את⟩ وبرکوئ.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "پورته کړئ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "ستاسو لاسونه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس ځای ته"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "او وبرکوئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:56.926796129Z",
+  "model": "glm-5.3"
+}

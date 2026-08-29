@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "خپل بار دې له ځمکې راټول کړه، اې د محاصرې ⟨اوسېدونکې⟩!",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "راټول کړه"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "له ځمکې"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "خپل بار"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "اې اوسېدونکې"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "په محاصره کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:32:12.271547079Z",
+  "model": "glm-5.3"
+}

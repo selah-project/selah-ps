@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 20:27",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او سړی که ښځه چې په دوی کې اوب وي، که يدعوني، مړ به مړ کړل شي؛ په تېږو به ويشتل شي ⟨את⟩ دوی، د دوی وينه پر دوی.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او سړی"
+    },
+    {
+      "surface": "או",
+      "gloss": "که"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په دوی کې"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "اوب"
+    },
+    {
+      "surface": "או",
+      "gloss": "که"
+    },
+    {
+      "surface": "ידעני",
+      "gloss": "يدعوني"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړ"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "مړ کړل شي"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "په تېږو"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "ويشتل شي"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "د دوی وينه"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پر دوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:20.916892875Z",
+  "model": "glm-5.3"
+}

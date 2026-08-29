@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "انسان چې د پوهې له لارې واوړي، هغه به د رپایم په ټولګه کې ارام وکړي.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "واوړي"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "له لارې"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "د پوهې"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په ټولګه کې"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "د رپایم"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ارام وکړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:05.521879486Z",
+  "model": "glm-5.3"
+}

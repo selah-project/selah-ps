@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 108,
+  "translation": "سندره، مزمور، د داوېد لپاره.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سندره"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:59.396434387Z",
+  "model": "glm-5.3"
+}

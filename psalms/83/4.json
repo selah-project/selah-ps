@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "پر ستا قوم پټه مشوره جوړوي، او پر ستا پټو شویو سلا کوي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا قوم"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "پټه مشوره جوړوي"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "پټه مشوره"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "او سلا کوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "ستا پټو شویو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:11.443037229Z",
+  "model": "glm-5.3"
+}

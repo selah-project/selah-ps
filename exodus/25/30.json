@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او به يې کېږې پر مېز د مخانو ډوډۍ، زموږ د مخې ته (د یاهوه د مخې ته) په ټول وخت.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "او به يې کېږې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "مېز"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "د مخانو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې ته"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "په ټول وخت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:52.380929494Z",
+  "model": "glm-5.3"
+}

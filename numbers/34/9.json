@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 34:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او پول به ووزي زیفرون ته، او د هغه وتلو ځای به ختسر-عینان وي؛ دا به ستاسو د شمال پول وي.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ووزي"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "پول"
+    },
+    {
+      "surface": "זפרנה",
+      "gloss": "زیفرون ته"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "د هغه وتلو ځای"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "ختسر"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عینان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پول"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:29.826955395Z",
+  "model": "glm-5.3"
+}

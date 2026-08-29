@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "دې دې د زړه له موخې ورکړي، او ټوله دې مشوره پوره کړي.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دې ورکړي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "د زړه له موخې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټوله"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "دې مشوره"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پوره کړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:50.435802002Z",
+  "model": "glm-5.3"
+}

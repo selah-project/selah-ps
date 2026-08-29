@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 61,
+  "translation": "الوهیمه، زما چیغه واوره؛ زما لمانځه ته غوږ ونیسه.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیمه"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "زما چیغه"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "غوږ ونیسه"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "زما لمانځه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:38.590900433Z",
+  "model": "glm-5.3"
+}

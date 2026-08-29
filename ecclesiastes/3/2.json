@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وخت د زېږېدو، او وخت د مړېدو؛ وخت د کېنولو، او وخت د ويستلو هغه څه چې کېنول شوي.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "د زېږېدو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "لמות",
+      "gloss": "د مړېدو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "د کېنولو"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "د ويستلو"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "هغه څه چې کېنول شوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:11.076492055Z",
+  "model": "glm-5.3"
+}

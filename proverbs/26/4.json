@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "احمق ته د هغه د نادانۍ له مخې ځواب مه ورکوه، که نه نو ته هم د هغه په څېر به شې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תען",
+      "gloss": "ځواب ورکوه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "د هغه د نادانۍ له مخې"
+    },
+    {
+      "surface": "פן",
+      "gloss": "که نه نو"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "په څېر به شې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:01.868285383Z",
+  "model": "glm-5.3"
+}

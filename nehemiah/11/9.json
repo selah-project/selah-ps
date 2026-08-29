@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "یوائل د زېکري زوی د هغوی پاکید (څارنکی) و، او یهودا د هاسنوعه زوی پر ښار دویم و.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "او یوائل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زېکري"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "پاکید (څارنکی)"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "د هغوی پر"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "او یهودا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "هاسنوعه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "دویم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:22.276770169Z",
+  "model": "glm-5.3"
+}

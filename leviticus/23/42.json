@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "په خټو کې به تاسو اوه ورځې اوسئ؛ هر اصلي زېږېدلی په اسراییل کې به په خټو کې اوسي.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "په خټو کې"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "تاسو به اوسئ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "اصلي زېږېدلی"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په اسراییل کې"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "به اوسي"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "په خټو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:32.600490594Z",
+  "model": "glm-5.3"
+}

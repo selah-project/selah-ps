@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 7:7",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "سهار ⟨دې⟩ لپاره راغلی، ای د ځمکې اوسېدونکیه؛ وخت راغلی، ورځ نږدې ده — ګډوډي ده، نه د غرونو چیغې.",
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "הצפירה",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې لپاره"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسېدونکی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "העת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ګډوډي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "הד",
+      "gloss": "چیغې"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:25.513666563Z",
+  "model": "glm-5.3"
+}

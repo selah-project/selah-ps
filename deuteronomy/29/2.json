@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "هغه لویې ازموینې چې ستا سترګو ولیدې، هغه نښانې او هغه لوی معجزې.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "ازموینې"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "لویې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ولیدې"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ستا سترګو"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "نښانې"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "او معجزې"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:24.932468641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او ځمکه نه شوای زغملای ⟨את⟩ هغوی چې يوځای اوسېږي، ځکه چې مال يې ډېر و، او يوځای اوسېدو ته يې وس نه لرله.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "زغملای"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هغوی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "چې اوسېږي"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يوځای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "مال يې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "وس لرلا"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "اوسېدو ته"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يوځای"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:19.845822347Z",
+  "model": "glm-5.3"
+}

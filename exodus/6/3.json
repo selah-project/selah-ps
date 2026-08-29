@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او زه اوراهام ته، یصحاق ته او یعقوب ته د ایل شدای په بڼه څرګند شوم؛ خو زما نوم یاهوه ⟨them⟩ ته نه و پېژندل شوی.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "او څرګند شوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یصحاق"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او… ته"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "באל",
+      "gloss": "په…"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "خو زما نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "پېژندل شوم"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ته یې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:16:27.816480973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 92,
+  "translation": "په لس-تارې اله او په نابِل (يو ډول بربط) سره، د زړور غږ سره په کِنور کې.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "په"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "لس-تارې اله"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "او په"
+    },
+    {
+      "surface": "نבל",
+      "gloss": "نابِل"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "په"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "زړور غږ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "په کِنور کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:09.726176986Z",
+  "model": "glm-5.3"
+}

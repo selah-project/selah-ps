@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "زنځير جوړ کړه، ځکه ځمکه د وينو پرېکړو څخه ډکه ده، او ښار له ظلمه ډک دی.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړه"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "زنځير"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکه ده"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پرېکړې"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "د وينو"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "او ښار"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډک دی"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "له ظلمه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:50:59.967151275Z",
+  "model": "glm-5.3"
+}

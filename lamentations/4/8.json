@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د دوی څېره له تور څخه توره شوه، په کوڅو کې نه پېژندل کېږي؛ د دوی پوټکی پر هډوکو پښېدلی، وچ شو — د ونې په څېر شو.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "توره شوه"
+    },
+    {
+      "surface": "مשחור",
+      "gloss": "له تور څخه"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "د دوی څېره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "پېژندل کېږي"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "په کوڅو کې"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "پښېدلی"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "د دوی پوټکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "هډوکو"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "وچ شو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شو"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "د ونې په څېر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:17.856426581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "1-kings 8:62",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او پاچاه او ټول اسرایل چې ورسره وو، د یاهوه مخې ته قرباني کولې.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "او پاچاه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرایل"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قرباني کوي"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:24.538068778Z",
+  "model": "glm-5.3"
+}

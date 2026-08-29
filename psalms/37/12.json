@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "بدکار پر نیک طرح کوي، او پر هغه خپل غاښونه ښوروي.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "طرحه کوي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "لצדיק",
+      "gloss": "پر نیک"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "او … ښوروي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "שניو",
+      "gloss": "خپل غاښونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:10.782780342Z",
+  "model": "glm-5.3"
+}

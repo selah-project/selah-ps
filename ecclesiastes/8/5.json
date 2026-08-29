@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "څوک چې حکم ساتي، هېڅ شر کار نه پېژني، او د هوښیار زړه وخت او حکم پېژني.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ساتونکی"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او حکم"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:24.433105923Z",
+  "model": "glm-5.3"
+}

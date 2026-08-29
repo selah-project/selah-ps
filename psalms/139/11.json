@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "او ومې ویل: «به یقین تیاره ما پوښلي» — خو شپه شاوخوا ماته رڼا کېږي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او ومې ویل"
+    },
+    {
+      "surface": "אך",
+      "gloss": "به یقین"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تیاره"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ما پوښلي"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "خو شپه"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "شاوخوا ماته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:49.631601757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "نو يې ⟨את⟩ بیت لحم او ⟨את⟩ عیتام او ⟨את⟩ تِقوعه جوړ کړل،",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "نو جوړ يې کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیت لحم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عیتام"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عیتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تِقوعه"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تِقوعه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:15.625600520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او وويل به: «چېرته دې د دوی الوهیم دي، هغه غوټه چې د دوی پناه پرې وه؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او وويل به"
+    },
+    {
+      "surface": "אי",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "د دوی الوهیم"
+    },
+    {
+      "surface": "צור",
+      "gloss": "غوټه"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "د دوی پناه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:33.379780934Z",
+  "model": "glm-5.3"
+}

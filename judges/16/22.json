@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د هغه د سر ویښتان بېرته وده پیلوله، هغه مهال چې وهیل شوی وو.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "پیلوله"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ویښتان"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "د هغه د سر"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "ودلو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "هغه مهال چې"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "وهیل شوی وو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:29:33.273719106Z",
+  "model": "glm-5.3"
+}

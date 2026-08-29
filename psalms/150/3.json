@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 150,
+  "translation": "ستایئ يې د شوپار په غږ کې؛ ستایئ يې د نبل او کنور سره.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ستایئ يې"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "په غږ کې"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "د شوپار"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ستایئ يې"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "د نبل سره"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "او کنور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:40.285267359Z",
+  "model": "glm-5.3"
+}

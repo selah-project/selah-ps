@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "سهار ⟨את⟩ خپل تخم وکره، او ماښام خپل لاس مه غړوه، ځکه ته نه پېژنې چې کوم به بریالی شي — دا که هغه، او که دواړه يو شان ښه وي.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "وکره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل تخم"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "خپل تخم"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "او ماښام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "غړوه"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نه يې"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "אי",
+      "gloss": "چې کوم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "بریالي شي"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "או",
+      "gloss": "که"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "دواړه"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "يو شان"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ښه وي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:45.165497118Z",
+  "model": "glm-5.3"
+}

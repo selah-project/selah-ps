@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 41:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "د کمان زوی يې نه شي تېښتولی؛ د غشۍ ډبرې ورته بوس واوښتې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבריחנו",
+      "gloss": "شي تېښتولی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "بوس"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "واوښتې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ډبرې"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "غشۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:12.628415673Z",
+  "model": "glm-5.3"
+}

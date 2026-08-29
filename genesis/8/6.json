@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ⟨داسې وشول⟩ د څلوېښتو ورځو په پای، نو نوح ⟨את⟩ کښتۍ کړکې چې جوړه کړې وه پرانيسته.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "په پای"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښتو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "پرانيسته"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کړکې"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "کړکې"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کښتۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړه کړې وه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:39.465132924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 117,
+  "translation": "ستاینه وکړئ ⟨את⟩ یاهوه ټول ملتونه، سپاینه يې کړئ ټول قومونه.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستاینه وکړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "سپاینه يې کړئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "قومونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:52.171127313Z",
+  "model": "glm-5.3"
+}

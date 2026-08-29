@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "هغه شته چې ځان غني ښيي خو هېڅ نه لري؛ هغه شته چې ځان فقیر ښيي خو شتمني یې ډېره ده.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "هغه شته"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "ځان غني ښيي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نشته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "ځان فقیر ښيي"
+    },
+    {
+      "surface": "והון",
+      "gloss": "خو شتمني"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:40.724522553Z",
+  "model": "glm-5.3"
+}

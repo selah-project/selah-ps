@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هغه وویل: ⟨את⟩ زما وروڼه زه لټوم. ماته ووایه اوس، چیرته هغه څاروي کوي؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما وروڼه"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "زما وروڼه"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "لټوم"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "چیرته"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "څاروي کوي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:41.695947873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "بیا دانییل له پاچا سره وواژه: «ای پاچا، تر تلہ ژوندی اوسې!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانییل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له... سره"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "وواژه"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ای پاچا"
+    },
+    {
+      "surface": "לעלمין",
+      "gloss": "تر تلہ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ژوندی اوسې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:58.445203313Z",
+  "model": "glm-5.3"
+}

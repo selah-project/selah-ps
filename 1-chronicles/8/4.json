@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ابیشوع، نعمان او احوحه.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "او ابیشوع"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "نعمان"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "او احوحه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:34.749313716Z",
+  "model": "glm-5.3"
+}

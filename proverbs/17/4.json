@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "بد کړه وږې غوږونه د باطل شونډو ته لري، درواغجن د زیانمن ژبې غوږ ساتي.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "بد کړه"
+    },
+    {
+      "surface": "مקשיב",
+      "gloss": "غوږونه لري"
+    },
+    {
+      "surface": "عל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "د شونډو"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "درواغجن"
+    },
+    {
+      "surface": "مזין",
+      "gloss": "غوږ ساتي"
+    },
+    {
+      "surface": "عל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "لשון",
+      "gloss": "د ژبې"
+    },
+    {
+      "surface": "הות",
+      "gloss": "زیانمن"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:51.235902003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "ځکه چې تاسو وویل: یاهوه په بابل کې زموږ لپاره نبویان پاڅولي دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "تاسو وویل"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "پاڅولي دي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ لپاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نبویان"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "په بابل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:55.434279453Z",
+  "model": "glm-5.3"
+}

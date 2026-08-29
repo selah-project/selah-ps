@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او دوی په یروشلایم کې په درېیمه میاشت کې د آسا د پاچاهۍ د پنځلسم کال راټول شول.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "راټول شول"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "په یروشلایم کې"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "په میاشت"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "درېیمه"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "د کال"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "د پاچاهۍ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "آسا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:29.468526645Z",
+  "model": "glm-5.3"
+}

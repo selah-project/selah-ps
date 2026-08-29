@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او په هغه ورځ به زه هڅه وکړم چې ⟨את⟩ ټول هغه ملتونه چې پر یروشلایم راځي هېڅ کړم.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او په هغه ورځ به وې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "زه هڅه وکړم"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "چې هېڅ کړم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه ملتونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "چې راځي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:08.645919088Z",
+  "model": "glm-5.3"
+}

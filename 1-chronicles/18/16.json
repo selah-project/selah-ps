@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او صادوق د اخیتوب زوی او ابیملک د ابیاتر زوی ⟨هغه وو⟩ کاهنان، او شوشا ⟨هغه و⟩ لیکوال.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "او صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیتوب"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "او ابیملک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ابیاتر"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "او شوشا"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "لیکوال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:39.871673185Z",
+  "model": "glm-5.3"
+}

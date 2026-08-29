@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هغه ⟨את⟩ کلاګانې کلکې کړې او په هغو کې يې مشران کېښودل او د خوراک زېرمې، تېل او شراب",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "کلکې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کلاګانې"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "کلاګانې"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "کېښودل"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په هغو کې"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "زېرمې"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "د خوراک"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "تېل"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "شراب"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:19.095022002Z",
+  "model": "glm-5.3"
+}

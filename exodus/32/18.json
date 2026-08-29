@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او هغه وویل: د بریا د چیغو غږ نه دی، او د ماتې د چیغو غږ هم نه دی؛ د سندرو غږ زه اورم يې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه دی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "د … غږ"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "د چیغو"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "بریا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او … نه دی"
+    },
+    {
+      "surface": "קול",
+      "gloss": "د … غږ"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "د چیغو"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "ماتې"
+    },
+    {
+      "surface": "קול",
+      "gloss": "د … غږ"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "سندرو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اورم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:27.339577018Z",
+  "model": "glm-5.3"
+}

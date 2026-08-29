@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او بلا ته زامن وو: ادر، ګېرا او ابیحود.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "بلا ته"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ادر"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "او ګېرا"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "او ابیحود"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:34.749204803Z",
+  "model": "glm-5.3"
+}

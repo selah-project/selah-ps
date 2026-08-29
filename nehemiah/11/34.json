@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "حدید، تصوعیم، نَبالَط؛",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "حدید"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "تصوعیم"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "نَبالَط"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:12.751415973Z",
+  "model": "glm-5.3"
+}

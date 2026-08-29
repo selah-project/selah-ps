@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 22:15",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ایا د پخواني لارې ساتنه کوې چې د شر سړیو خوښې کړې ده؟",
+  "tokens": [
+    {
+      "surface": "הארח",
+      "gloss": "ایا لار"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پخوانی"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ساتنه کوې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "خوښې کړې"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "سړیو"
+    },
+    {
+      "surface": "און",
+      "gloss": "شر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:05.595557500Z",
+  "model": "glm-5.3"
+}

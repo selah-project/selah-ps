@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "(له تورات او له شهادت ته!) که دا داسې خبره ونه کړي، نو د هغه لپاره سهار نشته.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "له تورات"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "او له شهادت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ووایي"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "د خبرې په څېر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لره"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سهار"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:10.140594625Z",
+  "model": "glm-5.3"
+}

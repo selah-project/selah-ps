@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه چې ما چې ومومي، هغه ⟨هغه⟩ ژوند مومي، او د یاهوه خوښي ترلاسه کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ما چې ومومي"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "هغه مومي"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "او ترلاسه کوي"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:04.797169202Z",
+  "model": "glm-5.3"
+}

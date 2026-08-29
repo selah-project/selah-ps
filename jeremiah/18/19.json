@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "یاهوه، غوږ کېږده زما ته، او د زما د مخالفينو غږ واوره.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "غوږ کېږده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما ته"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "او واوره"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "د غږ"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "زما د مخالفينو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:58.242642271Z",
+  "model": "glm-5.3"
+}

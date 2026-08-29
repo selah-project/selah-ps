@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "له بدۍ وګرځه او ښه وکړه؛ سوله ولټوه او تعقیب يې کړه.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "وګرځه"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "له بدۍ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "او وکړه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ولټوه"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سوله"
+    },
+    {
+      "surface": "וורדפהו",
+      "gloss": "او تعقیب يې کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:31.748367176Z",
+  "model": "glm-5.3"
+}

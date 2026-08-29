@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "هر نارینه چې په کاهنانو کې وي ⟨את⟩ هغه خوري؛ دا د قدسانو قدس دی.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نارینه"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "په کاهنانو کې"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (قرباني)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "د قدسانو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:06.033884233Z",
+  "model": "glm-5.3"
+}

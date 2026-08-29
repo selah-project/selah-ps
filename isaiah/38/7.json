@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او دا دې لپاره نښه ده ⟨له את⟩ د یاهوه لخوا، چې یاهوه به ⟨את⟩ دا خبره جوړوي چې ویې ویلې.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې لپاره"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نښه"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨له את⟩ لخوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "به جوړوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا خبره"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویې ویلې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:26.661699371Z",
+  "model": "glm-5.3"
+}

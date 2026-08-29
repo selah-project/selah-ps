@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او کله چې پاچا د تورات خبرې واورېدې، نو هغه ⟨את⟩ خپل جامې چېرې کړې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "واورېدې"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د تورات خبرې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "د تورات"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "چېرې يې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل جامې"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "خپل جامې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:46:51.021797253Z",
+  "model": "glm-5.3"
+}

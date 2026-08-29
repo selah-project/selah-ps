@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "کله چې ته خپل ملګري ته د هر څه پور ورکوې، د هغه کور ته دې مه ننوزه چې د هغه ګرو (ژهانه) واخېسې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "پور ورکوې"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "خپل ملګري ته"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "پور"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "د هر څه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ننوزه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "د هغه کور"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "چې ګرو واخېسې"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "د هغه ګرو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:06.146315408Z",
+  "model": "glm-5.3"
+}

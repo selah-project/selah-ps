@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ایا زما مرسته په ما کې ⟨نشته⟩، او توشیه له ما ړنګه شوې؟",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "زما مرسته"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما کې"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "او توشیه"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "ړنګه شوې"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:14.196361637Z",
+  "model": "glm-5.3"
+}

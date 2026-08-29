@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "زالو ته دوه لورګانې دي: «راورکوه! راورکوه!» درې دي چې نه مړېږي، څلور چې نه وايي «پوره!» —",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "زالو ته"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لورګانې"
+    },
+    {
+      "surface": "הב",
+      "gloss": "راورکوه"
+    },
+    {
+      "surface": "הב",
+      "gloss": "راورکوه"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "مړېږي"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "הון",
+      "gloss": "پوره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:20.042474453Z",
+  "model": "glm-5.3"
+}

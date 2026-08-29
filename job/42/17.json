@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او ایوب مړ شو، زوړ او د ورځو ډک.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "زوړ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ډک"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "د ورځو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:51.273038891Z",
+  "model": "glm-5.3"
+}

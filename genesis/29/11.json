@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او یعقوب رحیل ته ښکلې وکړه، خپل غږ يې پورته کړ او ژړا يې وکړه.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "او ښکلې يې وکړه"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "رحیل ته"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "پورته يې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل غږ"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "خپل غږ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "او ژړا يې وکړه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:48.601554183Z",
+  "model": "glm-5.3"
+}

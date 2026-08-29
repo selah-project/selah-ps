@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هغه سړي د خپلې ښځې نوم حوا کېښود، ځکه چې هغه د ټولو ژوندیو مور وه.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "او … نوم کېښود"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هغه سړي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "د خپلې ښځې"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "حوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندیو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:44.844016993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "په غوا او په خر یوځای مه قلموه.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "قلموه"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "په غوا"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "او په خر"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یوځای"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:14.690658670Z",
+  "model": "glm-5.3"
+}

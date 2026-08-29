@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 113,
+  "translation": "له ختځ د لمر تر ډوبېدو، ستیايل شوی دی د یاهوه نوم.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "له ختځ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ډوبېدو"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ستیايل شوی دی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:17.235477559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "ځکه وګوره، دې ته مې په ملتونو کې کوچنی کړې، په انسانانو کې سپک کړې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "کوچنی"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "دې ته مې کړې"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "په ملتونو کې"
+    },
+    {
+      "surface": "بזוי",
+      "gloss": "سپک"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "په انسانانو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:39.754885994Z",
+  "model": "glm-5.3"
+}

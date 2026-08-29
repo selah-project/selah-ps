@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "له ستا حکمونو څخه نه يم اوښتی، ځکه ته ⟨هغه⟩ ما ته لارښوونه کړې.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "له ستا حکمونو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "اوښتی يم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "ما ته لارښوونه کړې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:04.181484841Z",
+  "model": "glm-5.3"
+}

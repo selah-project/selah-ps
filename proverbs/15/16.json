@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "لږ څه د یاهوه په وېره کې ښه دي، له ډېرې خزانې او هغه سره چې په کې ګډوډي وي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه دي"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ څه"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "په وېره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "له خزانې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "او ګډوډي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:31.668863681Z",
+  "model": "glm-5.3"
+}

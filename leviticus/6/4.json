@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ⟨את⟩ خپلې جامې به وباسي، او نورې جامې به واغوندي؛ او ⟨את⟩ ایر به د کمپ بهر یو پاک ځای ته وباسي.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "او به وباسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپلې جامې"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "خپلې جامې"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "او به واغوندي"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "نورې"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "او به بهر ورواوړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایر"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ایر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "د کمپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:59.154309533Z",
+  "model": "glm-5.3"
+}

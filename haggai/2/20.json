@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "haggai 2:20",
+  "book": "haggai",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د یاهوه خبره دویم ځل حَګي ته راغله، په میاشت کې د څلوروېشتمې په شل-او-څلور، ویل:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دویم ځل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "حَګي"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "په شل"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "میاشتې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:54.974093942Z",
+  "model": "glm-5.3"
+}

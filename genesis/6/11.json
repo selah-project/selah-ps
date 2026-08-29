@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ځمکه د الوهیم په وړاندې فساده ښکېله شوه، او ځمکه له ظلمه ډکه شوه.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "فساده ښکېله شوه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "او ډکه شوه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "له ظلمه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:36.836107767Z",
+  "model": "glm-5.3"
+}

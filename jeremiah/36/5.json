@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او یرمیاهو ⟨את⟩ بروخ ته امر وکړ، ویې ویل: زه بندي شوی یم، نشم کولی چې د یاهوه ⟨په⟩ کور کې داخل شم.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "امر وکړ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بروخ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "بندي شوی یم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "نشم کولی"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "داخل شم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:42:56.761665450Z",
+  "model": "glm-5.3"
+}

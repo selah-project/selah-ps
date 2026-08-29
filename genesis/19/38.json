@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او کوچنۍ لور هم په همدې ډول زوی وزېږاوه، او يې نوم يې بِن-عَمي کېښود؛ هغه د بڼو-عَمون پلار دی تر دې ورځې.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "او کوچنۍ لور"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "په همدې ډول"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "يې نوم کېښود"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "عَمي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د بڼو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دې ورځې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:34.113976850Z",
+  "model": "glm-5.3"
+}

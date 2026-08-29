@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "بيا يې په ياد کوم، په ياد کوي يې، او زما روح پر ما ټيټ شوی دی.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "په ياد کوم"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "په ياد کوي يې"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "او ټيټ شوی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما روح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:30.548295116Z",
+  "model": "glm-5.3"
+}

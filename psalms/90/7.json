@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 90,
+  "translation": "ځکه چې موږ ستا په قهر کې فنا شوو، او ستا په غوسه کې وارخطا شوو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "فنا شوو"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ستا په قهر"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "او ستا په غوسه"
+    },
+    {
+      "surface": "נבהلנו",
+      "gloss": "وارخطا شوو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:29.367416025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "اوس پوه شوم چې یاهوه له ټولو الوهیمو لوی دی، ځکه په هغه کار چې ⟨دوی⟩ پر هغوی سرکښي وکړه.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "پوه شوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیمو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "په هغه کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "זדו",
+      "gloss": "سرکښي وکړه"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر هغوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:24.309423249Z",
+  "model": "glm-5.3"
+}

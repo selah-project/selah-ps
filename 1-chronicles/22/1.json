@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او داوېد وویل: «دا د یاهوه، الوهیم کور دی، او دا د سوځني نذریز مذبح، د اسرائیل لپاره.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځني نذریز"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "د اسرائیل لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:20.117795844Z",
+  "model": "glm-5.3"
+}

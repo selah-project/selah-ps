@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 9:31",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "خو په خپلو ډېرو رحمونو يې بشپړه تباهي ونه کړه او پرېښودل يې نه، ځکه ته ایل بښونکی او رحمن يې.",
+  "tokens": [
+    {
+      "surface": "וברחמיך",
+      "gloss": "خو په خپلو رحمونو"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "ډېرو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "کړه"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "بشپړه تباهي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "پرېښودل يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "بښونکی"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "او رحمن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:59.640873340Z",
+  "model": "glm-5.3"
+}

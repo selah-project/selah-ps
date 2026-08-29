@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او پاچا راته وویل: ولې ستا مخ بد دی، حال دا چې ته ناروغ نه یې؟ دا له زړه د بدحالۍ پرته بل څه نه دي. نو زه خورا ډېر ووېرېدم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "نه یې"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "ناروغ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدحالي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "او ووېرېدم"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "خورا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:32.747319603Z",
+  "model": "glm-5.3"
+}

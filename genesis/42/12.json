@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او هغه ورته وویل: «نه، بلکې تاسو د ځمکې بربنډۍ ته د کتلو لپاره راغلی یاست.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "אלהم",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "بربنډۍ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "راغلی یاست"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "د کتلو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:41.286978831Z",
+  "model": "glm-5.3"
+}

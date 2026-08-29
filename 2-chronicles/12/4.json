@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او هغه ⟨את⟩ د یهودا خوا د کلکو کلا ښارونه ونیول، او تر یروشلایم یې رارسیده.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ونیول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د کلکو کلا ښارونه"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "کلکو کلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "د یهودا خوا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "رارسیده"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:40.659921191Z",
+  "model": "glm-5.3"
+}

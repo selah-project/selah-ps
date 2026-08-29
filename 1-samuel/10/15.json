@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د شاول کاکا وويل: «ما ته راشه ووايه چې شموال تاسو ته څه وويل؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "کاکا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "د شاول"
+    },
+    {
+      "surface": "هגידה",
+      "gloss": "ووايه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مهرباني"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموال"
+    }
+  ],
+  "timestamp": "2026-08-28T22:33:48.502882130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "په خپله جان(نفس) مو خپله ډوډۍ راوړه، د بېدیا د تورې له مخې.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "په خپله جان(نفس) مو"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "راوړه"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "خپله ډوډۍ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "חרب",
+      "gloss": "د تورې"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "د بېديا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:25.685139350Z",
+  "model": "glm-5.3"
+}

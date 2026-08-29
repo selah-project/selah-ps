@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د یاهوه د ځواکونو (تسوا اوت) خبر راغی، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وټاکل شو \/ راغی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ځواکونو (تسوا اوت)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:25.777853765Z",
+  "model": "glm-5.3"
+}

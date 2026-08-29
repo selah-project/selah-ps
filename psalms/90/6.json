@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 90,
+  "translation": "سهار وختي ګل کوي او تېرېږي؛ ماښام پرې کېږي او وچېږي.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "سهار وختي"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ګل کوي"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "او تېرېږي"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "پرې کېږي"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "او وچېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:29.367272264Z",
+  "model": "glm-5.3"
+}

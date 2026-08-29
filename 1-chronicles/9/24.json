@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "په څلورو لورو کې کبانان وو: ختیځ، لوېدیځ، شمال او جنوب.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "په څلورو"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "لورو"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "کبانان"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ختیځ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لوېدیځ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "او جنوب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:45.935320010Z",
+  "model": "glm-5.3"
+}

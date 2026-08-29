@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "خو اوس مهرباني وکړې دا خبره واوره چې زه یې ستا په غوږونو او د ټول قوم په غوږونو کې وایم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مهرباني وکړې"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وایم"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ستا په غوږونو"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "او په غوږونو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:39:36.461825230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 91,
+  "translation": "د شپې له وېرې به نه وېرېږې، نه د هغه تېر له کمان چې په ورځ کې الېږي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "به وېرېږې"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "له وېرې"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "د شپې"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "له تېر"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "چې الېږي"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "په ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:00.790625614Z",
+  "model": "glm-5.3"
+}

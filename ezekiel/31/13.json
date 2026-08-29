@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 31:13",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "پر هغه چې لوېدلی وو ټول د اسمانونو مرغان مېشت شول، او پر هغه د څانګو ټول د دښتې څاروي وو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "هغه چې لوېدلی وو"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "مېشت شول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "مرغان"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "د اسمانونو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "פארתיו",
+      "gloss": "د هغه د څانګو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חית",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د دښتې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:03.308234346Z",
+  "model": "glm-5.3"
+}

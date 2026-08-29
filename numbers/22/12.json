@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "الوهیم بیلام ته وویل: له دوی سره مه ځه؛ ⟨את⟩ دا قوم مه لعنه کوه، ځکه هغه برکتمن دی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ځه"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "له دوی سره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنه کوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "برکتمن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:18.302958761Z",
+  "model": "glm-5.3"
+}

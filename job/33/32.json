@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 33:32",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "که خبرې لرې، ځواب مې راکړه؛ خبره وکړه، ځکه زه غواړم چې تا نېست onResponse کړم.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יש",
+      "gloss": "لرې"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "ځواب مې راکړه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره وکړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "زه غواړم"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "چې تا نېست onResponse کړم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:26.567854691Z",
+  "model": "glm-5.3"
+}

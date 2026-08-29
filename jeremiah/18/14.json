@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 18:14",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "ایا د میدان له ډبرې د لبنان واوره پریږدي؟ که بهرني ساړه بهېدونکي اوبه ویستل شي؟",
+  "tokens": [
+    {
+      "surface": "היעזב",
+      "gloss": "ایا پریږدي"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "له ډبرې"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "د میدان"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لبنان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ינתשו",
+      "gloss": "ویستل شي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "بهرني"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ساړه"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "بهېدونکي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:53.162672834Z",
+  "model": "glm-5.3"
+}

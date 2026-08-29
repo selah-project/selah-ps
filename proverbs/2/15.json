@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "چې د دوی لارې کجې دي او چوند شوي د دوی په ورونو کې",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "د دوی لارې"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "کج دي"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "او چوند شوي"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "د دوی په ورونو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:10.755295912Z",
+  "model": "glm-5.3"
+}

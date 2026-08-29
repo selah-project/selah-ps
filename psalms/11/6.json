@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "پر شریرانو به پاخونه، اور او ګوګرد، او د تلړو باد واوروي — دا ⟨ده⟩ د هغوی د پیالې برخه.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "واوروي به"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریرانو"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "پاخونه"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "او ګوګرد"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او باد"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "تلړو"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "د پیالې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:00.696960904Z",
+  "model": "glm-5.3"
+}

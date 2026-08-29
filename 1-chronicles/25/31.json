@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 25:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د څلور او شلو قدم ټاکل شوې وه لروممتي-عزر ته، هغه، زامن يې او وروڼه يې، دولس",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "د څلور"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شلو"
+    },
+    {
+      "surface": "לרוממתי",
+      "gloss": "لروممتي"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "عزر"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:17.236649412Z",
+  "model": "glm-5.3"
+}

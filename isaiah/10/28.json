@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "هغه راغی پر عیات، تېر شو په میګرون کې؛ په میخماش کې هغه خپل سامان وسپاري.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עית",
+      "gloss": "عیت"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "تېر شو"
+    },
+    {
+      "surface": "بמגרון",
+      "gloss": "په میګرون"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "په میخماش"
+    },
+    {
+      "surface": "یפקיד",
+      "gloss": "وسپاري"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "خپل سامان"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:07.008387402Z",
+  "model": "glm-5.3"
+}

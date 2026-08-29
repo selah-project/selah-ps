@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د شبا ملکې د شکلیا (شلومو) ټوله حکمت وليد، او کور چې هغه جوړ کړی وو،",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "وليده"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "د شبا ملکه"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټوله حکمت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "د شکلیا (شلومو)"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "او کور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوړ کړی وو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:54:12.512620302Z",
+  "model": "glm-5.3"
+}

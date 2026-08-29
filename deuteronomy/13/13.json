@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "چې واورې چې ⟨د⟩ ستا د ښارونو په یوه کې — چې یاهوه ستا الوهیم درکوي درته چې هلته واوسېږې — په دې ویلو:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תשمע",
+      "gloss": "واورې"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "په یوه"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ستا ښارونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "د اوسېدو لپاره"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "په دې ویلو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:33.045749099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 36:17",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او ته د شر د پرېکړې ډک يې؛ پرېکړه او انصاف دې نيسي.",
+  "tokens": [
+    {
+      "surface": "ודין",
+      "gloss": "او د پرېکړې"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ډک يې"
+    },
+    {
+      "surface": "דין",
+      "gloss": "پرېکړه"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او انصاف"
+    },
+    {
+      "surface": "יתמکו",
+      "gloss": "دې نيسي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:21.481445586Z",
+  "model": "glm-5.3"
+}

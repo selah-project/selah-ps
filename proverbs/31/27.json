@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "هغه د خپل کور لارو ته ګوري، او د سستي ډوډۍ نه خوري.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "ګوري"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "لارو"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "د خپل کور"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "او ... ډوډۍ"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "د سستي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خوري"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:34.358702406Z",
+  "model": "glm-5.3"
+}

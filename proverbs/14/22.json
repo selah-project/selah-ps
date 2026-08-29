@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ایا هغه چې شر پلانوي بې لارې نه شي؟ خو خېسېد او حق د هغو لپاره دي چې ښه پلانوي.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ایا نه"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "بې لارې شي"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "پلانوي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "خو خېسېد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "او حق"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "پلانوي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:21.632670904Z",
+  "model": "glm-5.3"
+}

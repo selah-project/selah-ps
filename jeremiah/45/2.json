@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "داسې وایي یاهوه، د اسرائیلو الوهیم: «ستا په اړه، ای باروخ،»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وایي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسرائیلو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ستا په اړه"
+    },
+    {
+      "surface": "בرוך",
+      "gloss": "باروخ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:59.866669754Z",
+  "model": "glm-5.3"
+}

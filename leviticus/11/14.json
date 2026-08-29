@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او ⟨את⟩ دَاּه او ⟨את⟩ اَیَه — د هغې د خپل نوعې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دَاּه"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "دَاּه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اَیَه"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "اَیَه"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "د هغې د خپل نوعې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:32.157958853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د خولې له میوې سړی په ښه شی满意 کیږي، او د سړي د لاسونو بدله بېرته ورته راګرځي.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "له میوې"
+    },
+    {
+      "surface": "פי",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ملي\/مړه کیږي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "په ښه"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "او بدله"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "د لاسونو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بېرته راګرځي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:01.495906050Z",
+  "model": "glm-5.3"
+}

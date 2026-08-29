@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او حزا‌ایل، د اروم پاچا، ومړ؛ او بن-هدد یې زوی د هغه پر ځای واکمن شو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او ومړ"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "حزا‌ایل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د … پاچا"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اروم"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "واکمن شو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "بن-هدد"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "یې زوی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "د هغه پر ځای"
+    }
+  ],
+  "timestamp": "2026-08-28T23:05:30.056571218Z",
+  "model": "glm-5.3"
+}

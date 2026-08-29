@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او سامان د ټول کار لپاره چې ⟨את⟩ هغه جوړ شي، کافي و، او پاتې هم پاتې شو.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "او کار (سامان)"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "و"
+    },
+    {
+      "surface": "דים",
+      "gloss": "کافي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "جوړ شي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (کار)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "او پاتې شو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:29:55.269120660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "نو وسلهوالو پرېښودل ⟨את⟩ بنديان او ⟨את⟩ غنيمت، د مشرانو او د ټولې ټولنې مخې ته.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "نو پرېښودل"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "وسلهوالو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنديان"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "بنديان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "غنيمت"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "غنيمت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "مشرانو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ټولنه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:08:15.315770162Z",
+  "model": "glm-5.3"
+}

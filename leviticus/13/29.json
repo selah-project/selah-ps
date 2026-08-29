@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او کله چې یو سړی یا ښځه وي چې پر سر یا په ږده کې ⟨په هغه کې⟩ ناږود وي،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او یو سړی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ناږود"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "په ږده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:34.762386973Z",
+  "model": "glm-5.3"
+}

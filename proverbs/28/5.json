@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "بد مردان عدالت نه پېژني، خو د یاهوه لټونکي ټول پېژني.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردان"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "خو لټونکي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:32.400821597Z",
+  "model": "glm-5.3"
+}

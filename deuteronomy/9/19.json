@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځکه زه له قهر او له سختې غوسې وارخطا وم چې یاهوه پر تاسو وګوزاره ⟨את⟩ له منځه یې یوسي؛ او یاهوه هم په هغه ځل زما غوږ ونیو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "وارخطا وم"
+    },
+    {
+      "surface": "مפני",
+      "gloss": "له...له امله"
+    },
+    {
+      "surface": "האף",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "سختې غوسې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "وګوزاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "پر تاسو"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "له منځه یې یوسي"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تاسو"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "غوږ ونیو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "په ځل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:29.841355144Z",
+  "model": "glm-5.3"
+}

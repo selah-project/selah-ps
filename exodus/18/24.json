@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او موشې د خپل خسر غږ واورېد او هر څه یې وکړل چې هغه ویلي وو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "او … واورېد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "خپل خسر"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "او … وکړل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویلي وو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:33.114895567Z",
+  "model": "glm-5.3"
+}

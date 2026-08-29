@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او که د ځمکې خلک خپلې سترګې ⟨את⟩ له هغه سړي پټې کړي کله چې هغه خپل نسل مُلِخ ته ورکوي، تر څو هغه ⟨את⟩ و نه وژني،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "پټول"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "پټې کړي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپلې سترګې"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "خپلې سترګې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "په ورکولو کې يې"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "خپل نسل"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "مُلِخ ته"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "تر څو نه"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ووژني"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:04.166835800Z",
+  "model": "glm-5.3"
+}

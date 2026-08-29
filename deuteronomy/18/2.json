@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او میراث به د هغه ته د هغه د وروڼو په منځ کې نه وي؛ یاهوه ⟨هغه⟩ دی د هغه میراث، لکه څنګه چې هغه ورته ویل کړي.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "او میراث"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د هغه وروڼو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "د هغه میراث"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویل کړي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:53.637771819Z",
+  "model": "glm-5.3"
+}

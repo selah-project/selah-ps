@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او که هغه په رښتیا په درېیمه ورځ وخوړل شي، پلوت شی دی — نه منل کېږي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "په رښتیا خوړل"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "وخوړل شي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "درېیمه"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "پلوت شی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "منل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:51.133264272Z",
+  "model": "glm-5.3"
+}

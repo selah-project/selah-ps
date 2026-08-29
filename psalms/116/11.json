@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "ما په خپله بيړنې وویل: هر انسان دروغجن دی.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه\/ما"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وویل مې"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "په خپله بيړنې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "دروغجن دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:54.523300216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ⟨את⟩ یبوسيان او ⟨את⟩ اموریان او ⟨את⟩ ګرګاشيان.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "یبوسيان"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "یبوسيان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "اموریان"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموریان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ګرګاشيان"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ګرګاشيان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:03.096860164Z",
+  "model": "glm-5.3"
+}

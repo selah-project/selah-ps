@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او یو سړی چې د خپل ورور ښځه واخلي — دا ناپاکه ده؛ د خپل ورور برنډتیا يې بربنډه کړې؛ بې اولاده به وي.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او یو سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "واخلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د خپل ورور ښځه"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د خپل ورور"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "ناپاکه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "برنډتیا"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د خپل ورور"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "بربنډه کړې"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "بې اولاده"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:17.157603627Z",
+  "model": "glm-5.3"
+}

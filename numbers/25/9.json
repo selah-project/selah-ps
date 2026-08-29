@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او هغه چې په وبا کې مړه شول څلور او شل زره وو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او شول"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "هغه چې مړه شول"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "په وبا کې"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:01.228479653Z",
+  "model": "glm-5.3"
+}

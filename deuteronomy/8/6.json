@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او به د یاهوه ستا الوهیم ⟨את⟩ فرمانونه ساتې، چې په لارو یې وګرځې او ⟨את⟩ هغه ووېرېږې.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "او به ساتې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرمانونه"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمانونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "چې وګرځې"
+    },
+    {
+      "surface": "בדרכיو",
+      "gloss": "په لارو یې"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "او ووېرېږې"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:04.585215537Z",
+  "model": "glm-5.3"
+}

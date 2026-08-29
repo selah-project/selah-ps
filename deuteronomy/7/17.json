@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "که په زړه کې ⟨د⟩ خپل ووایې: «دا ملتونه زما له مانه ډېر دي، څنګه به یې ایستلی شم؟»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ووایې"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر دي"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "زما له مانه"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "شم ایستلی"
+    },
+    {
+      "surface": "להורישׁים",
+      "gloss": "یې ایستل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:02.052073340Z",
+  "model": "glm-5.3"
+}

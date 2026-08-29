@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 20:1",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او وروسته له دې، د موآب زامن او د عمون زامن او له دوی سره د عمومي خلکو څخه يو شمېر، د يهوشافات پر against راغلل د جګړې لپاره.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وروسته له دې"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "כן",
+      "gloss": "له دې"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "او له دوی سره"
+    },
+    {
+      "surface": "מהעמונים",
+      "gloss": "د عمومي خلکو څخه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر against"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "يهوشافات"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "د جګړې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:38.645637013Z",
+  "model": "glm-5.3"
+}

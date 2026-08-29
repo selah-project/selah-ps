@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زموږ پوستکی لکه تنور تور او تېر شو، د لوږې د سوزو له مخې.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "زموږ پوستکی"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "لکه تنور"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "تور او تېر شو"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "د سوزو"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "د لوږې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:25.685358359Z",
+  "model": "glm-5.3"
+}

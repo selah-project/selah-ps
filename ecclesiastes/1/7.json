@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ټولې چینې سمندر ته بهېږي، خو سمندر ډک نه دی؛ هغه ځای ته چې چینې ورته بهېږي، هلته هغوی بېرته راګرځي چې بیا بهېږي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "چینې"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "بهېږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "והים",
+      "gloss": "او سمندر"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه دی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "چې چینې"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "بهېږي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "راګرځي"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "چې بهېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:06.409270355Z",
+  "model": "glm-5.3"
+}

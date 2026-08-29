@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ایوب په ځواب کې وویل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "په ځواب کې"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:54.778129844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "وا وربانو ته چې تباه کوي او خپروي ⟨את⟩ ډډې د زړیتوب زما — د یاهوه وينا.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وا"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "وربانو"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "تباه کوي"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "او خپروي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ډډې"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ډډې"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "د زړیتوب زما"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:37:13.299607643Z",
+  "model": "glm-5.3"
+}

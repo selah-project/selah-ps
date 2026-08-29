@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د یسرایل زامنو له رعمسیس څخه سفر وکړ او په سکوت کې پټې وليدې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "سفر وکړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسرایل"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "له رعمسیس څخه"
+    },
+    {
+      "surface": "ויחנو",
+      "gloss": "پټې وليدې"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "په سکوت کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:12.867132728Z",
+  "model": "glm-5.3"
+}

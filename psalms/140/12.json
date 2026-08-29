@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 140,
+  "translation": "د ژبې سړی به په ځمکه کې نه ټينګېږي؛ د ظلم سړی — بدي به يې تر بربادۍ په کمين کې نيسي.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "د ژبې"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ټينګېږي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "د ظلم"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "په کمين کې يې نيسي"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "تر بربادۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:28.198511554Z",
+  "model": "glm-5.3"
+}

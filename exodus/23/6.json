@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د خپل بېوزلي پر وړاندې د هغه د محکمې په قضیه کې انصاف مه کږوې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "کږوه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف\/محکمه"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "ستا بېوزلی"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "په قضیه کې یې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:36.698504089Z",
+  "model": "glm-5.3"
+}

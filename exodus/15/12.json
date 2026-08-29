@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "ته خپله ښې لاسه غوړولی وې، ځمکه هغوی تېر کړل.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "غوړولی وې"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "خپله ښې لاسه"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "هغوی تېر کړل"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:03.810435623Z",
+  "model": "glm-5.3"
+}

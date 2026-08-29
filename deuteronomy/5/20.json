@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او به د خپل ګاونډي په ضد دروغجن شهادت نه ورکوې.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "شهادت به ورکوې\/ځواب کوې"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "د خپل ګاونډي په ضد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شهادت"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "دروغجن\/باطل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:21.249094476Z",
+  "model": "glm-5.3"
+}

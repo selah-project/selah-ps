@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "خو يو مېږ ⟨له⟩ ځمکې پورته خېتېده او ⟨את⟩ ټول مخ يې د خاورې خړوباوه.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "خو مېږ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "خېتېده"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "او خړوباوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول مخ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "د خاورې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:36.295605672Z",
+  "model": "glm-5.3"
+}

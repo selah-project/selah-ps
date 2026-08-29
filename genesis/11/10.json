@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "دا د شېم نسلونه دي: شېم د سلو کلن و او ⟨את⟩ ارفکشاد يې وزېږوه، د طوفان دوه کاله وروسته.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلونه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "د شېم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د ... زوی\/کلن"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سلو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کلن"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "يې وزېږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ارفکشاد"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ارفکشاد"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دوه کاله"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "د طوفان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:06.027372972Z",
+  "model": "glm-5.3"
+}

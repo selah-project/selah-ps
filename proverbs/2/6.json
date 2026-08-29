@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې یاهوه حکمت ورکوي؛ د ⟨هغه⟩ له خولې پوهه او فهم راځي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "د ⟨هغه⟩ له خولې"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "او فهم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:11.235784094Z",
+  "model": "glm-5.3"
+}

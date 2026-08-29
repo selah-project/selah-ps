@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "اوبه زما پر سر وراورېدې؛ ومې ویل: زه بې برخې شوم.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "وراورېدې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "زما سر"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ووم ویل"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "زه بې برخې شوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:57.041553433Z",
+  "model": "glm-5.3"
+}

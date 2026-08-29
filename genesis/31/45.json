@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او یعقوب یوه ډبره واخیسته او هغه يې د مزدورې ډبرې په توګه ودروله.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیسته"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "ودروله يې"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "مزدوره ډبره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:23.929896033Z",
+  "model": "glm-5.3"
+}

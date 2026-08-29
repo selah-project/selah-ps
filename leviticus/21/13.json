@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او ⟨هغه⟩ ښځه په خپلې پېغلتوب کې ونيسي.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "او ⟨هغه⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "په خپلې پېغلتوب کې"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ونيسي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:36.732124869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 31:21",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "نو هغه ټول هغه څه چې د هغه وو وتښتېدل، او پاڅېد او ⟨את⟩ سیند واوښت، او خپل مخ يې د ګیلعاد غره ته ورواړاوه.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "وتښتېدل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "پاڅېد"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "واوښت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سیند"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "سیند"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ورواړاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل مخ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ګیلعاد"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:36.269217504Z",
+  "model": "glm-5.3"
+}

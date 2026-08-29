@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او پر کیریاتایم، او پر بیت-ګمول، او پر بیت-مِعون.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "کیریاتایم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ګمول"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مِعون"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:49.218776349Z",
+  "model": "glm-5.3"
+}

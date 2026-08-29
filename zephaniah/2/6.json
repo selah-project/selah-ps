@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او سمندرغاړه به د پسونو د روزونکو ډډونه او د پسونو بڼې شي.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "او به شي"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "سمندرغاړه"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "נות",
+      "gloss": "ډډونه"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "د پسونو د روزونکو"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "روزونکو"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "او بڼې"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "پسونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:15.165252327Z",
+  "model": "glm-5.3"
+}

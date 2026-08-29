@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "په سپېڅلې څراغ-بڼه کې ⟨את⟩ څراغونه یاهوه ته سپېڅلي په دوامداره توګه سم کړي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "په ... کې"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "څراغ-بڼه"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "سپېڅلې"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "سم کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "څراغونه"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "څراغونه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ته سپېڅلي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "په دوامداره توګه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:14.573453181Z",
+  "model": "glm-5.3"
+}

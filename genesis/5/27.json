@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او ټول د مِتوشلاخ ورځې نُه او شپېته کاله او نُه سوه کاله وې، او هغه مړ شو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "وې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د … ورځې"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مِتوشلاخ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نُه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "او نُه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:43.703383539Z",
+  "model": "glm-5.3"
+}

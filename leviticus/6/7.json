@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دا د منه‌ا تورات دئ: د اهرون زامن به ⟨את⟩ هغه د یاهوه مخې ته، د مذبه مخې ته وړي.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "د منه‌ا"
+    },
+    {
+      "surface": "הקרب",
+      "gloss": "وړي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "د اهرون"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "د مذبه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:04.696713127Z",
+  "model": "glm-5.3"
+}

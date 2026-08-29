@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او بلهاه، د راحېل کنیزې، بیا امېندواره شوه او یعقوب ته يې دویم زوی وزېږېد.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "او امېندواره شوه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "او وزېږېد"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بلهاه"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "کنیزې"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "د راحېل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوب ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:39.082571372Z",
+  "model": "glm-5.3"
+}

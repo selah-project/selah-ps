@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او یوسف مړ شو، او ټول د هغه وروڼه، او ټول هغه نسل.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د هغه وروڼه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:06.834877671Z",
+  "model": "glm-5.3"
+}

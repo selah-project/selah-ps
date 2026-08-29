@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 113,
+  "translation": "چې هغه له سردارانو سره کښنوي، د خپل قوم له سردارانو سره.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "کښنوي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "سردارانو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "سردارانو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:23.013920494Z",
+  "model": "glm-5.3"
+}

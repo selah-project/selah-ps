@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د افرایم د قبیلې له خوا: هوشِع د نون زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې له خوا"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "هوشِع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:20.261228644Z",
+  "model": "glm-5.3"
+}

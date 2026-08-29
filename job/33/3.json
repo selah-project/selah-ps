@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "زما خبرې د زما زړه نی дей، او زما شونډې پاک پوهه څرګندوي.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "نی"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "زما خبرې"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما شونډې"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "څرګندوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:16.454998377Z",
+  "model": "glm-5.3"
+}

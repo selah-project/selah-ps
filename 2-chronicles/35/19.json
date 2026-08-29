@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "د یوشیاهو د پاچاهۍ اتلسم کال دا پسح وشول.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "اتلسم"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "د پاچاهۍ"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یوشیاهو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پسح"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:11:46.831944387Z",
+  "model": "glm-5.3"
+}

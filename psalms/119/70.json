@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د دوی زړه لکه غوړ غلیظ شوی؛ خو زه په ستا شریعت کې خوند اخلم.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "غلیظ شوی"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "لکه غوړ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "د دوی زړه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ستا شریعت"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "خوند اخلم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:13.541616319Z",
+  "model": "glm-5.3"
+}

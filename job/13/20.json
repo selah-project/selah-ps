@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "یوازې دوه شیان مه راسره کوه، بیا به له ستا له مخې نه پټ شم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه شیان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "راسره"
+    },
+    {
+      "surface": "אז",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "له ستا له مخې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "پټ شم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:53.053856659Z",
+  "model": "glm-5.3"
+}

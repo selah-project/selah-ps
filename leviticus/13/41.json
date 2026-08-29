@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او که د مخ له خوا څخه يې ⟨ה⟩ سر چېتریږي، نو هغه مخ-وزګار دی — پاک دی هغه.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له خوا"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "د مخ"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "چېتریږي"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "سر"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "مخ-وزګار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:33.681874700Z",
+  "model": "glm-5.3"
+}

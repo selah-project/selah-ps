@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او ما زما په ارامۍ کې ويل: هېڅکله به نه سمېږم، تر تلله.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "او ما"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ويل"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "په ارامۍ کې"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هېڅکله نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "به سمېږم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تر تلله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:30.386389751Z",
+  "model": "glm-5.3"
+}

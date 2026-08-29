@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د شِم زامن: عِیلام او اَشّور او اَرفَخشاد او لود او اَرام، او عُوص او حول او ګِتِر او مِشِخ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "اَرفَخشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "عُوص"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "حول"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ګِتِر"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "مِشِخ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:59.356565762Z",
+  "model": "glm-5.3"
+}

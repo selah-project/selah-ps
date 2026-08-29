@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او له تسمونې وخوځېدل، او په پونون کې خېمې وکړې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وخوځېدل"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "له تسمونې"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خېمې وکړې"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "په پونون کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:18.150829701Z",
+  "model": "glm-5.3"
+}

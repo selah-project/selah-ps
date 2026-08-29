@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 26:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او عمونيانو عُزِیاou ته ډالۍ ورکړه، او نوم يې تر مِتسرایم د داخلېدو ځایه ورسېد، ځکه هغه تر ډېره ځواکمن شوی وو.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ورکړه يې"
+    },
+    {
+      "surface": "העמונים",
+      "gloss": "عمونيانو"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ډالۍ"
+    },
+    {
+      "surface": "לעזיהו",
+      "gloss": "عُزیاou ته"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ورسېد"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نوم يې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "داخلېدو"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ځواکمن شوی وو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ډېره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:06:44.650556233Z",
+  "model": "glm-5.3"
+}

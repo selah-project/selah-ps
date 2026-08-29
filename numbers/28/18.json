@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "په لومړۍ ورځ به غونډه، د مقدسې غونډې ورځ وي؛ هر ډول کارونه به نه کوئ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړۍ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "غونډه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدسه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבדه",
+      "gloss": "(خدمتي) کارونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کوئ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:06.817985272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او هغه (موشې) وویل: مهرباني کوه، خپل ⟨את⟩ جلال ما ته وښېه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ما ته وښېه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مهرباني کوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جلال"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "خپل جلال"
+    }
+  ],
+  "timestamp": "2026-08-28T21:26:03.079054210Z",
+  "model": "glm-5.3"
+}

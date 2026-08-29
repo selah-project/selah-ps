@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "که نیک böse نه یې — که رښتیني یې، څه ورته ورکوې؟ او که څه، له لاسه دې څه اخلي؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "رښتیني یې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ورکوې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "או",
+      "gloss": "او که څه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "له لاسه دې"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "اخلي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:05.685218370Z",
+  "model": "glm-5.3"
+}

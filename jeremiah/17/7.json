@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "برکت لري هغه سړی چې په یاهوه باندې تکیه کوي، او یاهوه د ⟨ده⟩ د تکیې ځای وي.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت لري"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "تکیه کوي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه باندې"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "د ⟨ده⟩ د تکیې ځای"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:09.991666604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 140,
+  "translation": "چې دوی په زړه کې بدۍ پلې کړې دي؛ ټوله ورځ د جګړو لپاره راټولېږي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "پلې کړې دي"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "راټولېږي"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جګړو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:57.412592962Z",
+  "model": "glm-5.3"
+}

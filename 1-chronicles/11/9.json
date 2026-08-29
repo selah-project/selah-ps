@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او داوېد لاړ، لاړ او لویېدونکی، ځکه چې یاهوه تسواوت ورسره و.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "او لاړ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "لاړ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "او لویېدونکی"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ځکه چې یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "تسواوت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره و"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:10.474935827Z",
+  "model": "glm-5.3"
+}

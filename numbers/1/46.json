@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ټول شمېرل شوي شپږ لک او درې زره او پنځه سوه او پنځوس وو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او … وو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "شمېرل شوي"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "لک (سوه سوه)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "او درې"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "او پنځوس"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:37.803824961Z",
+  "model": "glm-5.3"
+}

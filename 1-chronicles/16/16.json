@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "هغه چې له ⟨את⟩ ابراهام سره يې پرې کړ او د هغه لوړه ییصحاق ته.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "پرې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "او د هغه لوړه"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ییصحاق ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:23.431920408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه چې هغه دا نه پېژني چې څه به شي، ځکه چې کله چې وي، څوک يې ورته وايي؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "چې به شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:24.433501889Z",
+  "model": "glm-5.3"
+}

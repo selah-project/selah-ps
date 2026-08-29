@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "د راحېل زامن: یوسف او بنيامین.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحېل"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "بنيامین"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:27.034764678Z",
+  "model": "glm-5.3"
+}

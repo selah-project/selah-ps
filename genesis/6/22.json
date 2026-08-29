@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او نوح ⟨את⟩ دا وکړل — د ټول هغه څه له مخې چې الوهیم ⟨את⟩ هغه ته يې حکم کړی و، همداسې يې وکړل.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "د ټول له مخې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړل"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:36.170057144Z",
+  "model": "glm-5.3"
+}

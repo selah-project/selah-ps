@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او په یوولسم کال د یورام (د اهاب زوی) پاچاهۍ، اهازیا پر یهودا ⟨د⟩ پاچا شو.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "او په ... کال"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "د یورام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "اهاب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا شو"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "اهازیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:04:14.986579766Z",
+  "model": "glm-5.3"
+}

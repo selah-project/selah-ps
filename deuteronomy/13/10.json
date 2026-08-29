@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "بلکې يقيناً يې ووژنه؛ ستا لاس به پرې لومړی وي چې هغه مړ کړي، او وروسته د ټول قوم لاس.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "يقيناً ووژن"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "يې ووژنه"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "لومړی"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "چې هغه مړ کړي"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "او لاس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "وروسته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:03.445284532Z",
+  "model": "glm-5.3"
+}

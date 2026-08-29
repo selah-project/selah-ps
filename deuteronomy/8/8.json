@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "د غنمو او وربشو زمینه، د انګورو، د انجیرو او د انارو زمینه — د زیتونو تیلو او د شاتو زمینه.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمینه"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "غنمو"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "او وربشو"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "او انګور"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "او انجیر"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "او انار"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینه"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتون"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تېل"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "او شات"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:04.585526605Z",
+  "model": "glm-5.3"
+}

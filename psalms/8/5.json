@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "انسان څه دی چې ېې په یاد لرې، او د آدم زوی چې ېې پاملرنه کوې؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "ېې په یاد لرې"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "او د … زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "ېې پاملرنه کوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:05.693144499Z",
+  "model": "glm-5.3"
+}

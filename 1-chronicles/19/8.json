@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او داوېد واورېدل، نو هغه ⟨את⟩ یوآب او ⟨את⟩ د ټولو زړورو لښکر واستاوه.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "واورېدل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "واستاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د ټولو زړورو لښکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "زړورو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:58.972220494Z",
+  "model": "glm-5.3"
+}

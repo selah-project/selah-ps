@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او زموږ پلار وویل: بېرته لاړ شئ، موږ ته لږ خواړه واخلئ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "زموږ پلار"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "بېرته لاړ شئ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "واخلئ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "موږ ته"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خواړه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:50.072213645Z",
+  "model": "glm-5.3"
+}

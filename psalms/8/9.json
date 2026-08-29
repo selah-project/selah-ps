@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "د اسمانونو مرغۍ او د سمندر کبڼې، ⟨هغه⟩ چې د سمندرونو لارې بېولې.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "مرغۍ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "د اسمانونو"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "او … کبڼې"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "بېولې"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندرونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:58.768050157Z",
+  "model": "glm-5.3"
+}

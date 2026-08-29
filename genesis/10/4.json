@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د یاوان زامن: الیشاه، ترشیش، کټیم او دودانیم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوان"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "الیشاه"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "او ترشیش"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کټیم"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "او دودانیم"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:38.224814310Z",
+  "model": "glm-5.3"
+}

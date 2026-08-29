@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "کله چې ⟨هغه⟩ خپله غږ مهربانه کوي، پر هغه مه باور وکړه، ځکه چې اوه کرغېړنې په زړه کې يې دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "مهربانه کوي"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "خپله غږ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "باور وکړه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "کرغېړنې"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "په زړه کې يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:12.456408447Z",
+  "model": "glm-5.3"
+}

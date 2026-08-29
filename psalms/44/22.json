@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ایا الوهیم دا نه تېريزي؟ ځکه ⟨هغه⟩ د زړه رازونه پېژني.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ایا... نه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "تېريزي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "رازونه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:38.325073380Z",
+  "model": "glm-5.3"
+}

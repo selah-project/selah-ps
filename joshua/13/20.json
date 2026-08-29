@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او بېت-فِعور، او د فسقه لمنې، او بېت-هایِشیموت،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "او بېت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "-فِعور"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "او لمنې"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "د فسقه"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او بېت"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "-هایِشیموت"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:11.412758175Z",
+  "model": "glm-5.3"
+}

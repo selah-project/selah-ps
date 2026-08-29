@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د تورې له مړو ښه وو د لوږې له مړو، ځکه دا بهېدل، تېر شوي، د دښتې له نویو نه.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ښه وو"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "له مړو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "د تورې"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "له مړو"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "د لوږې"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ځکه دا"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "بهېدل"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "تېر شوي"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "له نویو"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "د دښتې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:33.927102716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه ټولو موږ وېرول، چې ووايي: «لاسونه به يې له کاره سست شي او نه به ترسره شي.» او اوس زما لاسونه پیاوړه کړه.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "وېرول"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "موږ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "سست شي"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "لاسونه يې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ترسره شي"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "پیاوړه کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما لاسونه"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "لاسونه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:32.683516917Z",
+  "model": "glm-5.3"
+}

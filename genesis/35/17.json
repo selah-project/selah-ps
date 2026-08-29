@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او کله چې هغه په زېږون کې سخته وه، قابله ورته وویله: مه وېرېږه، ځکه دا هم دې زوی دی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او کله چې"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "چې هغه سخته وه"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "په زېږون کې"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وویله"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "قابله"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "وېرېږه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:24.432397754Z",
+  "model": "glm-5.3"
+}

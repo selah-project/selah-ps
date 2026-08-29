@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او د هغه قاتل د نفس لپاره به فدیې وانه خستئ چې هغه د مرګ مستحق دی، ځکې چې هغه به یقیناً ووژل شي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "واخلئ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فدیې"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "د نفس لپاره"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "مستحق"
+    },
+    {
+      "surface": "למות",
+      "gloss": "د مرګ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکې چې"
+    },
+    {
+      "surface": "מות",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "به ووژل شي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:00.531258451Z",
+  "model": "glm-5.3"
+}

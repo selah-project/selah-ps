@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د بد سړي په سرغړونه کې ⟨د هغه⟩ دام دی؛ خو نیک سړی سندرې وايي او خوښېږي.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "په سرغړونه کې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "دام"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "خو نیک"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "سندرې وايي"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "او خوښېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:23.254421240Z",
+  "model": "glm-5.3"
+}

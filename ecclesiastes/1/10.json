@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ایا داسې ⟨شی⟩ شته چې یو څوک يې ووايي: “وګوره، دا نوی دی”؟ هغه دمخه د پخوانیو پیړیو په And کې و، چې له موږ دمخه و.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "شی"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "چې وويل شي"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "دمخه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "د پیړیو لپاره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "له موږ دمخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:49.371145690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "چې دې له شر لار څخه وژغوري، له هغه سړي چې اړوندې خبرې وايي —",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "چې دې وژغوري"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "له … لار څخه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "له هغه سړي"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "چې … وايي"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "اړوندې خبرې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:10.562048030Z",
+  "model": "glm-5.3"
+}

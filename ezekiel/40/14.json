@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او هغه ⟨את⟩ ستونونه شېښتې نَره جوړ کړل، او تر د انګړ د ستون پورې — دروازه چاپېر چاپېر.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او جوړ یې کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستونونه"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ستونونه"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شېښتې"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "نَره"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او تر"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "د انګړ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:52.184231066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 71,
+  "translation": "الوهیم! له مانه لرې مه کېږه؛ زما الوهیم! زما د مرستې ته چټک شه.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "لرې کېږه"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له مانه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "زما د مرستې ته"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "چټک شه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:56.083271507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او کِلوب، د شوحَه ورور، ⟨את⟩ مِحیر زیږ کړ؛ هغه د ایشتون پلار وو.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "او کِلوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ورور"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "د شوحَه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "زیږ کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِحیر"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "مِحیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "د ایشتون"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:52.646129382Z",
+  "model": "glm-5.3"
+}

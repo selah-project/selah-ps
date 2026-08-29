@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 136,
+  "translation": "چې ټولو غوښه والو ته خواړه ورکوي، ځکه چې د هغه خېسېد تر پایه پاتې کیږي.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه والو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לעולم",
+      "gloss": "تر پایه"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "د هغه خېسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:25.780868560Z",
+  "model": "glm-5.3"
+}

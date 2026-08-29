@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 140,
+  "translation": "دوی خپلې ژبې لکه مار تېرې کړې دي؛ د افعی زهر د دوی د شونډو لاندې ⟨دی⟩. سېلاه.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "تېرې کړې دي"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "خپلې ژبې"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "لکه"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "افعی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "د دوی د شونډو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:57.412826329Z",
+  "model": "glm-5.3"
+}

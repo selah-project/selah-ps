@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د کوش زامن: سبا، او حویله، او سبته، او رعما، او سبتیکا وو؛ او د رمah زامن: شبا او ددان وو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "سبا"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "او حویله"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "او سبته"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "او رعما"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "او سبتیکا"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "رعما"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبا"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "او ددان"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:20.238367448Z",
+  "model": "glm-5.3"
+}

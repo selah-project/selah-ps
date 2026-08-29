@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "پولې بې ځایه کوي، څرګ غټوي او ېې څري.",
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "پولې"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "بې ځایه کوي"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "څرګ"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "غټوي"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "او ېې څري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:51.085707307Z",
+  "model": "glm-5.3"
+}

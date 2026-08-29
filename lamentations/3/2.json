@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه ⟨את⟩ ما وچلولم او په تیارایي کې یې وختلم، نه روښنایي.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ما",
+      "marks": "ما"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "وچلولم"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "وختلم"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "په تیارایي کې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روښنایي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.103323119Z",
+  "model": "glm-5.3"
+}

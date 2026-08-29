@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 18:14",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او د موشې خسر ولیدل ⟨את⟩ ټول هغه څه چې هغه يې له قوم سره کول، او ويې ويل: «دا کومه خبره ده چې ته يې له قوم سره کوې؟ ولې يوازې کښېنې، او ټول قوم ستا مخې ته له سهاره تر ماښام ولاړ دی؟»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ولیدل"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "خسر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کول"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "له قوم سره"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوې"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "له قوم سره"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "کښېنې"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ستا مخې ته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سهاره"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ماښامه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:09.526369490Z",
+  "model": "glm-5.3"
+}

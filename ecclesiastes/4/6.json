@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "غوره ده يوه موټه چټوکه ارامي پر دوه مټې (چپې) ډکې له زحمت او د روح له بدبخته.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډکه"
+    },
+    {
+      "surface": "כף",
+      "gloss": "چټوکه (لاس-مخ)"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ارامي"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "پر ډک"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "دوه مټې (چپې)"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زحمت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "او بدبختي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:51.089279207Z",
+  "model": "glm-5.3"
+}

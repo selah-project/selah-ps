@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "چې خوښېږي د بدۍ کول، شادي کوي په بدو تاوونو کې",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "چې خوښېږي"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کول"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "شادي کوي"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "په ... تاوونو کې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:10.755137011Z",
+  "model": "glm-5.3"
+}

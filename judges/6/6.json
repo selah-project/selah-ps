@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 6:6",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او اسرایل د مادیان پر مخ ډېر ټیټ (بېوسې) شو، او د اسرایل زامو یاهوه ته چیغه ووهله.",
+  "tokens": [
+    {
+      "surface": "וידל",
+      "gloss": "ټیټ شو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرایل"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "د … پر مخ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مادیان"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "چیغه ووهوله"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:24:35.019044787Z",
+  "model": "glm-5.3"
+}

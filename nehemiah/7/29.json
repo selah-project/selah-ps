@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د کریات-یعاریم، کفیره او بېروت خلک: اووه سوه درويشت.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "کریات"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعاریم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "کفیره"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "او بېروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "درويشت"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:32.953404786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "له خپلې سرې اوبه وڅښه، او له خپلې چینې له منځه بهېدونکې اوبه.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "وڅښه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "له خپلې سرې"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "او بهېدونکې"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "له منځه"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "له خپلې چینې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:11.296815827Z",
+  "model": "glm-5.3"
+}

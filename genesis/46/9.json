@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "او د رئوبېن زامن: حانوخ او فالو او حتسرون او کارمي.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د ... زامن"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبېن"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حانوخ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "او فالو"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "او حتسرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "او کارمي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:55.038083235Z",
+  "model": "glm-5.3"
+}

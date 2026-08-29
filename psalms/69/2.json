@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "زما وژغوره، ای الوهیم، ځکه چې اوبه تر زما نفه پوره رارسېدلې دي.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "زما وژغوره"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ای الوهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "באו",
+      "gloss": "رارسېدلې دي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر... پوره"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:45.012056769Z",
+  "model": "glm-5.3"
+}

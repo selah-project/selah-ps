@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "اي کوڼو، واورئ! او اي ړندو، وګورئ ⟨لدې⟩ چې ووينئ!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "اي کوڼو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "او اي ړندو"
+    },
+    {
+      "surface": "הביטو",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "چې ووينئ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:00.038612946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د انسان زړه خپله لار پلانوي، خو یاهوه د هغه ګامونه ټینګوي.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "پلانوي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "خپله لار"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "خو یاهوه"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ټینګوي"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "د هغه ګامونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:47.983300941Z",
+  "model": "glm-5.3"
+}

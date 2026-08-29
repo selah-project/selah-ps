@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 63,
+  "translation": "ځکه چې ته زما مرستی وې، او ستا د وزو په سیورې کې به زه د خوشالۍ چیغه وهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وې"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "مرستی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "او په سیورې کې"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ستا وزې"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "چیغه وهم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:03.117109663Z",
+  "model": "glm-5.3"
+}

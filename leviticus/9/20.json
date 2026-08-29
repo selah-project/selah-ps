@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او غوړي يې پر سينو کېښودل، او هغه غوړي پر مذبح سوځول.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "کېښودل يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غوړي"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "غوړي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "سينو"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "سوځول يې"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "غوړي"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "مذبح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:07.467888958Z",
+  "model": "glm-5.3"
+}

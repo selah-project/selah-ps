@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او همداسې زه هم ورته فرمانونه ورکړل چې ښه نه وو، او حکمونه چې پر هغو به يې نه ژوند کاوه.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او همداسې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ورکړل مې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "فرمانونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "او حکمونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ژوند کول"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "پر هغو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:21.559087032Z",
+  "model": "glm-5.3"
+}

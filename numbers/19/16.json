@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 19:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او هر هغه څوک چې په ډګر کې د تورخو له وژل شوي، يا له مړي، يا د انسان له هډوکي، يا له قبر سره تماس وکړي، اوه ورځې ناپاک وي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "تماس وکړي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "په مخ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د ډګر"
+    },
+    {
+      "surface": "בחלל",
+      "gloss": "له وژل شوي"
+    },
+    {
+      "surface": "חרب",
+      "gloss": "تورخو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "במת",
+      "gloss": "له مړي"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "له هډوکي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "له قبر"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک وي"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:55.394481520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "دا ⟨هي⟩ څاروي دي چې خوري يې: غوا، د مېږو رېیشه او د وزو رېیشه.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خوري يې"
+    },
+    {
+      "surface": "שור",
+      "gloss": "غوا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "رېیشه"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "د مېږو"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "او رېیشه"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "د وزو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:36.920660970Z",
+  "model": "glm-5.3"
+}

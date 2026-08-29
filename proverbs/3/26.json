@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه چې یاهوه ⟨به⟩ ستا د باور پناه وي، او ستا پښه به له نیول کېدو وساتي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "ستا د باور"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "او وساتي"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ستا پښه"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "له نیول کېدو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:55.031679122Z",
+  "model": "glm-5.3"
+}

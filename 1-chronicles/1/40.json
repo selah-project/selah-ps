@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د شووال زامن: علیان، مانحت، عیبال، شفي او اونام؛ او د تسیبون زامن: ایه او انه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شووال"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "علیان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "مانحت"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "عیبال"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "شفي"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "اونام"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "تسیبون"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ایه"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "انه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:27.949719071Z",
+  "model": "glm-5.3"
+}

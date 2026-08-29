@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "دی ستا ثنا ووايي بل ⟨هغه⟩، نه ستا خوله؛ پردی ⟨هغه⟩، نه ستا شونډې.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "ستا ثنا ووايي"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ستا خوله"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "پردی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ستا شونډې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:16.662435284Z",
+  "model": "glm-5.3"
+}

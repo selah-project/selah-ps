@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د یاهوه نوم د ځواک برج دی؛ صدیق ⟨په هغه⟩ کې ګرزي او لوړ شوی وي.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "עז",
+      "gloss": "د ځواک"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه کې"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ګرزي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "او لوړ شوی وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:16.621714710Z",
+  "model": "glm-5.3"
+}

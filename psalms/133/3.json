@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 133,
+  "translation": "لکه د حرمون شبنم چې پر د صهیون غرونو راکېږي، ځکه هلته یاهوه برکت ټاکلی دی — د عمر تر پایه ژوند.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "لکه شبنم"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حرمون"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "چې راکېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "غرونو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صهیون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ټاکلی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "د عمر پای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:41.279393090Z",
+  "model": "glm-5.3"
+}

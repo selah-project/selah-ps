@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د رښتينۍ شونډې تر تل لپاره ټينګې پاتې کېږي، خو د دروغو ژبه يوازې يوه شېبه.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "رښتينۍ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ټينګې پاتې کېږي"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "تر تل لپاره"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "خو تر"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "يوې شېبې"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:03.480989496Z",
+  "model": "glm-5.3"
+}

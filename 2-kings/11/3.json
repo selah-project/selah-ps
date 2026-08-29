@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هغه ⟨את⟩ له هغې سره د یاهوه په كور كې شپږ کاله پټ و؛ او عتلیه پر ځمکه واکمنه وه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ له هغې سره"
+    },
+    {
+      "surface": "בית",
+      "gloss": "په كور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "پټ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "او عتلیه"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "واکمنه وه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:04:37.112628294Z",
+  "model": "glm-5.3"
+}

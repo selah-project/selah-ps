@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 4:18",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ستا لار او ستا کړه وړې دا دې ته ورسولې؛ دا ستا بدي ده، ځکه چې تلخه ده، ځکه چې تر ستا زړه پورې رسېدلې ده.",
+  "tokens": [
+    {
+      "surface": "דרכך",
+      "gloss": "ستا لار"
+    },
+    {
+      "surface": "ומעלליך",
+      "gloss": "او ستا کړه وړې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ورسولې"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ستا بدي ده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تلخه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "رسېدلې ده"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر ... پورې"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ستا زړه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:34.875560660Z",
+  "model": "glm-5.3"
+}

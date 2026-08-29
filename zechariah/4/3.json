@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او دوه زيتون ونې پرې، يوه يې د ګلدان ښي خوا ته او يوه يې چپ خوا ته.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زيتون ونې"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ښي خوا ته"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "د ګلدان"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "او يوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "چپ خوا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:54.426845283Z",
+  "model": "glm-5.3"
+}

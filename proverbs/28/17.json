@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "انسان چې د نفس په وینه ظلم کړی وي، تر بوره پورې تښتي — هېڅوک دې پر هغه ملاتړ ونه کړي.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ظلم کړی وي"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "په وینه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر ... پورې"
+    },
+    {
+      "surface": "בור",
+      "gloss": "بور"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "تښتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه \/ دې ... نه"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ملاتړ وکړي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:31.454415115Z",
+  "model": "glm-5.3"
+}

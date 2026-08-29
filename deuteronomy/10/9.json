@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "له همدې امله لویي ⟨he⟩ له خپلو وروڼو سره برخه او میراث نه درلود؛ یاهوه خپلوا میراث دی، لکه څنګه چې یاهوه، ستا الوهیم، ورته وویل.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "له"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې امله"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "درلود"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "لویي ⟨he⟩"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "او میراث"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له...سره"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "خپلو وروڼو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خپلوا"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "میراث دی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:02.571796254Z",
+  "model": "glm-5.3"
+}

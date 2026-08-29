@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او په ګیبعون کې د ګیبعون پلار مېشت شو، او د هغه د ښځې نوم مَعکه و.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "او په ګیبعون کې"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "مېشت شو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ګیبعون"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "د هغه د ښځې"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعکه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:10.912527022Z",
+  "model": "glm-5.3"
+}

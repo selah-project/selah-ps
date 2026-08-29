@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او رام ⟨את⟩ عمیناداب وزېږاوه، او عمیناداب ⟨את⟩ نحشون وزېږاوه، د يهودا د زامنو مشر.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "او رام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمیناداب"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عمیناداب"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "او عمیناداب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نحشون"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نحشون"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:11.753707874Z",
+  "model": "glm-5.3"
+}

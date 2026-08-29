@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "د نیکو هيله يوازې ښېګڼه ده، د بدکارانو تمه قهر دی.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "هيله"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د نیکو"
+    },
+    {
+      "surface": "אך",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښېګڼه"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "تمه"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "قهر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:32.977705812Z",
+  "model": "glm-5.3"
+}

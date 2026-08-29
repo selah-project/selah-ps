@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "راشئ او د یاهوه کارونه وګورئ، هغه چې په ځمکه کې يې ويجاړي کېښودې.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "راشئ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "کارونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "کېښودې"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ویجاړي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:53.540486717Z",
+  "model": "glm-5.3"
+}

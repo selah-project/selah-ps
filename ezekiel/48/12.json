@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 48:12",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او دوی ته به له ځمکې له نذرونه یوه نذر وي، د مزارونو مزار، د لویانو د پولې خوا ته.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دوی ته"
+    },
+    {
+      "surface": "תרומיה",
+      "gloss": "نذر"
+    },
+    {
+      "surface": "מתרומת",
+      "gloss": "له نذرونه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "له ځمکې"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مزار"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "د مزارونو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "خوا ته"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "د پولې"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:09:35.571802885Z",
+  "model": "glm-5.3"
+}

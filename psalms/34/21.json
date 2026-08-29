@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "یاهوه ټولې هډوکې يې ساتي؛ يوه يې هم نه ماتېږي.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "هډوکې يې"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "يې يې هم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ماتېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:04.922374030Z",
+  "model": "glm-5.3"
+}

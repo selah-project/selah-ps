@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "لوږه‌لنګېږي او تنده‌لنګېږي، د دوی ځان په دوی کې ورپاتې شو.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "لوږه‌لنګېږي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "او"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "تنده‌لنګېږي"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "د دوی ځان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په دوی کې"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "ورپاتې شو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:18.386455653Z",
+  "model": "glm-5.3"
+}

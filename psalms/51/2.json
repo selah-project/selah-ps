@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "کله چې ناثان پیغمبر ہ‍ې ته راغی، هغه وخت چې هغه بث-شبعې ته ننوت",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "کله چې راغی"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناثان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "هغه وخت چې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ننوت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بث"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبعې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:54.488838941Z",
+  "model": "glm-5.3"
+}

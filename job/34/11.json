@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 34:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "ځکه چې د آدم عمل ورته بشپړ ورکوي، او د هر سړي پر لار ورته وموموي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د آدم"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بشپړ ورکوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "וכארח",
+      "gloss": "او پر لار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ورته وموموي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:24.533016233Z",
+  "model": "glm-5.3"
+}

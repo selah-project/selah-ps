@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د هر څه لپاره ټاکلی وخت دی، او د هر ارادې لپاره وخت دی د اسمانونو لاندې.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "د هر څه لپاره"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ټاکلی وخت"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "او وخت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ارادې"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "د اسمانونو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:11.076288426Z",
+  "model": "glm-5.3"
+}

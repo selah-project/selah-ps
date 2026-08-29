@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ورپسې يې کاهنانو، د میدانو سړیو، ⟨دې⟩ بيا پياوړې کړه.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "او ورپسې"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "پياوړې يې کړه"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړيو"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "میدان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:40:45.714893912Z",
+  "model": "glm-5.3"
+}

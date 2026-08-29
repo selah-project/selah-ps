@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او هغه ته یې وویل: که ستا مخونه نه ځي، نو موږ دې له دې ځایه پورته مه یوسه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او یې وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخونه"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "موږ دې یوسې"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "له دې ځایه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:37.724934562Z",
+  "model": "glm-5.3"
+}

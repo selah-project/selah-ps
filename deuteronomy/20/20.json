@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "يوازې هغه ونه چې پوهېږې چې د خوړو ونه نه ده، ⟨את⟩ هغه به خرابوې او به يې پرېکوې؛ او پر هغه ښار به چې له تا سره جګړه کوي محاصره جوړه کړې، تر څو چې راټیټه شي.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "پوهېږې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "د خوړو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "به خرابوې"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "او به يې پرېکوې"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "او جوړه کړې"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "محاصره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "هغه ښار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جګړه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر څو چې"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "راټیټه شي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:19.114718315Z",
+  "model": "glm-5.3"
+}

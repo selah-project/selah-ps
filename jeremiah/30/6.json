@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 30:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "پوښتئ اوس او وګورئ: ایا نارینه زیږوي؟ ولې وینم چې هر سړی لاسونه پر خپلو مرۍ ایښي دي، لکه ږمېږینه، او ټول مخونه زرد شوي دي؟",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "پوښتئ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "او وګورئ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زیږوي"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نارینه"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "وینم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "خپلو مرۍ"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "لکه ږمېږینه"
+    },
+    {
+      "surface": "ונהפכו",
+      "gloss": "او شوي دي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخونه"
+    },
+    {
+      "surface": "לירקון",
+      "gloss": "زرد"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:16.048666631Z",
+  "model": "glm-5.3"
+}

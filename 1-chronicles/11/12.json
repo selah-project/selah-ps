@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او تر هغه وروسته الغزار زوی د دودو ה-اخوحي، هغه په درېیو زورورو کې و.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "او تر هغه وروسته"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "الغزار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ה-اخوحي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "په درېیو"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "زورورو کې و"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:10.475550108Z",
+  "model": "glm-5.3"
+}

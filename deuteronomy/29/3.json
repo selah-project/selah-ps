@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "خو یاهوه تاسو ته تر همدې ورځې پورې د پوهېدو زړه، د لیدو سترګې او د اورېدو غوږونه نه دي ورکړي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "خو… نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "د پوهېدو"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "او سترګې"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "د لیدو"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "او غوږونه"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "د اورېدو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر… پورې"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همدې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:24.932603929Z",
+  "model": "glm-5.3"
+}

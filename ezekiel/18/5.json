@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او که یو سړی نیک وي او پر拇 او نیکي وکړي —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او که یو سړی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "او وکړي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پر拇"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "نیکي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:55:57.795970039Z",
+  "model": "glm-5.3"
+}

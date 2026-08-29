@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او ابراهيم نږدې شو او ويې ويل: آيا به رښتیا هم نېک سړی له بد سره ړنګ کړې؟",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "او نږدې شو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ابراهيم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ويل"
+    },
+    {
+      "surface": "האף",
+      "gloss": "آيا به رښتیا هم"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "ړنګ کړې"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نېک سړی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له...سره"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:39.645064399Z",
+  "model": "glm-5.3"
+}

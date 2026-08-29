@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 21:23",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "دا ⟨one⟩ یو په خپل بشپړ توان کې مري، په ټولیز ډول ارام او خوندي.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "په ... توان کې"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "په ټولیز ډول"
+    },
+    {
+      "surface": "שלאנן",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "ושליו",
+      "gloss": "او خوندي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:25.764102137Z",
+  "model": "glm-5.3"
+}

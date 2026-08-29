@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ستاسو پلرونه چېرې دي؟ او نبیان به ⟨هلک⟩ تر پایه پورې ژوندي وي؟",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ستاسو پلرونه"
+    },
+    {
+      "surface": "איה",
+      "gloss": "چېرې"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "او نبیان"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "تر پایه پورې"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ژوندي وي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:19.816592113Z",
+  "model": "glm-5.3"
+}

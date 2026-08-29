@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د پراخ-نفسه ⟨هغه⟩ شخټه پاروي، خو چې پر یاهوه توکلی وي، هغه غوړېږي.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "پراخ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "-نفسه"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "پاروي"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "شخټه"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "خو چې توکلی وي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "غوړېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:29.306879362Z",
+  "model": "glm-5.3"
+}

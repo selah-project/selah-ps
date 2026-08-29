@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ولې، ای یاهوه، لرې ولاړ یې؟ ولې په تکلیفي وختونو کې ⟨ځان⟩ پټوې؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ولاړ یې"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "لرې"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "پټوې"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "په وختونو کې"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "د تکلیف"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:34.768102164Z",
+  "model": "glm-5.3"
+}

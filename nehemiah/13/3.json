@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او کله چې دوی ⟨את⟩ تورات واورېد، ټول ګډ کورنۍ ⟨د⟩ ییسرایل څخه جلا کړې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او کله چې"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "دوی واورېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تورات"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "جلا کړې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ګډ کورنۍ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "له ییسرایل څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:47.908896655Z",
+  "model": "glm-5.3"
+}

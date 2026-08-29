@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "آیا دا له یاهوه صباؤت نه نده؟ ځکه چې خلک به په اور کې اوږېږي، او ملتونه به په بېټه توکي کې ستړي شي.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "آیا ... نده"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "له ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "اوږېږي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "په"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "او ملتونه"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "په"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "بېټه توکي"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "ستړي شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:08.777187841Z",
+  "model": "glm-5.3"
+}

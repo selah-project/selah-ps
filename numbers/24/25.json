@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 24:25",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "بیلعام ودرېد او تلل او خپل ځای ته بېرته راغی، او بالق هم خپله لار ووهله.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ودرېد"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلعام"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "تلل"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "بېرته راغی"
+    },
+    {
+      "surface": "لמקמו",
+      "gloss": "خپل ځای ته"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او ... هم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالق"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ووهله (لار)"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "خپله لار"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:21.652351567Z",
+  "model": "glm-5.3"
+}

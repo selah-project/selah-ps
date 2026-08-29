@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه پر ما باندې (دېوال) جوړ کړی او ما یې په زهر او ستونزې احاطه کړی.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "جوړ یې کړی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما باندې"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "احاطه یې کړی"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "او ستونزې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:09.737241605Z",
+  "model": "glm-5.3"
+}

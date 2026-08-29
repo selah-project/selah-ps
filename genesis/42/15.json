@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "په دې به وازمویل شئ: د فرعون په ژوندي! له دې ځایه به نه ووځئ، مګر دا چې ستاسو کشر ورور دلاړ شي.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "په دې"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "به وازمویل شئ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "په ژوندي"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "د فرعون"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "به ووځئ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "له دې ځایه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مګر دا چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "په راتګ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ستاسو ورور"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "کشر"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دلاړ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:52.981260846Z",
+  "model": "glm-5.3"
+}

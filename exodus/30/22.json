@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او یاهوه موشې (موسیٰ) سره خبرې وکړې، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "خبرې یې وکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې (موسیٰ)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:24:12.351927396Z",
+  "model": "glm-5.3"
+}

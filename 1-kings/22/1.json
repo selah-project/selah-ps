@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او دوی درې کاله کېناستل؛ کومه جګړه نه وه د اَرام او یسارایل ترمنځ.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "او دوی کېناستل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه وه"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "کومه جګړه"
+    },
+    {
+      "surface": "בין",
+      "gloss": "د"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسارایل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:26:09.055475015Z",
+  "model": "glm-5.3"
+}

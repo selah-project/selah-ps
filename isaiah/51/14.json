@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ژر بندی خوشې کېږي، نه مري په ورڅاه کې او نه يې خوراک کمېږي.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "ژر"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "بندی"
+    },
+    {
+      "surface": "لהפתח",
+      "gloss": "خوشې کېږي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "په ورڅاه کې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کمېږي"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "خوراک يې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:25:14.396442562Z",
+  "model": "glm-5.3"
+}

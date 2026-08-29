@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "“شر نه شته، د ياهوه له خوله، د بدکارانو لپاره.”",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نه شته"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شر"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "له خوله (وايي)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "د بدکارانو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:21.413691276Z",
+  "model": "glm-5.3"
+}

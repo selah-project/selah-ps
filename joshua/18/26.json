@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او مِتسپه، او کِفیره، او موتسه،",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "او مِتسپه"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "او کِفیره"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "او موتسه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:22:30.198603635Z",
+  "model": "glm-5.3"
+}

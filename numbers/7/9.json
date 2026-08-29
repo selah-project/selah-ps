@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د قهات زامنو ته يې هيڅ نه وركړل، ځكه چې د مقدس خدمت بار پر دوى و — پر اوږو به يې هغه وړل.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "او ... زامنو ته"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "وركړل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځكه چې"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "پر دوى"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "پر اوږو"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "به يې وړل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:51.168637221Z",
+  "model": "glm-5.3"
+}

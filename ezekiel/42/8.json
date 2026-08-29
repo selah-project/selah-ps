@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "ځکه چې د بهرنۍ صحنې خونو اوږدوالی پنځوس اَمه و، او ګوره چې د هیکل د مخې ⟨لاندې⟩ سل اَمه و.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اوږدوالی"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "د خونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "د صحنې"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "بهرنۍ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمه"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ګوره چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "د هیکل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:19.117898473Z",
+  "model": "glm-5.3"
+}

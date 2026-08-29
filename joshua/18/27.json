@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او رِقِم، او یِرپ‌ایل، او تار‌علاه،",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "او رِقِم"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "او یِرپ‌ایل"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "او تار‌علاه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:22:30.198852733Z",
+  "model": "glm-5.3"
+}

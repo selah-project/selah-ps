@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او یهودا د خپل لومړي زوي عیر لپاره ښځه واخیسته، او د هغې نوم تامار ؤ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیسته"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "לער",
+      "gloss": "د عیر لپاره"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "د هغه لومړی زوی"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "او د هغې نوم"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تامار"
+    }
+  ],
+  "timestamp": "2026-08-28T21:10:49.089347736Z",
+  "model": "glm-5.3"
+}

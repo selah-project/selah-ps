@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "لکه بېلۍ په لېواندنه او لکه دړوره په الوتنه، همداسې بې-سبب لعنت نه پر ځای کېږي.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "لکه بېلۍ"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "په لېواندنه"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "لکه دړوره"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "په الوتنه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "קלلת",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بې-سبب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "پر ځای کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:01.868016708Z",
+  "model": "glm-5.3"
+}

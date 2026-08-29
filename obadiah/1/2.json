@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "دارې! کوچنی دې کړم په ملتونو کې؛ ته ډېر سپک او تحقیر شوی یې.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دارې"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "کوچنی"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "دې کړم"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "په ملتونو کې"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "سپک او تحقیر شوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:43.599661690Z",
+  "model": "glm-5.3"
+}

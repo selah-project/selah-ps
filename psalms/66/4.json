@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 66,
+  "translation": "ټوله ځمکه به درته سجده وکړي او درته زمرې ووايي؛ د ستا نوم به زمرې ووايي. سېلاه.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "سجده وکړي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "او زمرې ووايي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "زمرې ووايي"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:21.762308435Z",
+  "model": "glm-5.3"
+}

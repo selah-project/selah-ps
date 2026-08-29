@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "نو مُردُخای ولاړ او هر هغه څه يې وکړل چې اېستر پرې امر پرې کړی و.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "نو ولاړ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردُخای"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "هر هغه څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "امر پرې کړی و"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اېستر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:42.740438363Z",
+  "model": "glm-5.3"
+}

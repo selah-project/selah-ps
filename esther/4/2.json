@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او تر د پاچا د دروازې مخې ته راغی، ځکه چې په شَق کې د پاچا دروازې ته د ننوتلو اجازه نه وه.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې ته"
+    },
+    {
+      "surface": "שער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه وه"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "د ننوتلو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "په اغوستلو"
+    },
+    {
+      "surface": "שק",
+      "gloss": "شَق"
+    }
+  ],
+  "timestamp": "2026-08-29T01:27:26.996495956Z",
+  "model": "glm-5.3"
+}

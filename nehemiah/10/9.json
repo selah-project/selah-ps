@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "مَعَزْیاه، بِلْګای، شِمَعْیاه — دا د کاهنانو وو.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "مَعَزْیاه"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "بِلْګای"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمَعْیاه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:39.091234170Z",
+  "model": "glm-5.3"
+}

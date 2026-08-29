@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "نو د هغه پلار او مور به يې ونيسي او ⟨את⟩ هغه به د خپل ښار مشرانو ته او د خپل ځای دروازې ته راويستل کړي.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "او ونيسي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د هغه پلار"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "او مور"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "او راويستل کړي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دمخې"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "د مشرانو"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "د هغه ښار"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او دمخې"
+    },
+    {
+      "surface": "שער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "د هغه ځای"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:19.342185870Z",
+  "model": "glm-5.3"
+}

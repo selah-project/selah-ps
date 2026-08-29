@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "ځکه چې یاهوه لوی دی او ډېر ستایل شوی، او هغه د ټولو معبودو ⟨الله⟩ په پرتله وېروونکی دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "او ستایل شوی"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "او وېروونکی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "על",
+      "gloss": "په پرتله د"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "معبودو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:40.118853302Z",
+  "model": "glm-5.3"
+}

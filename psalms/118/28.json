@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 118,
+  "translation": "ته زما ایل یې، ته منم او ستایم؛ زما الوهیم، ته لوړوم.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "زما ایل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ואودך",
+      "gloss": "ته منم او ستایم"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ته لوړوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:29.442042889Z",
+  "model": "glm-5.3"
+}

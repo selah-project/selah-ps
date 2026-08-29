@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "زه به خپله غوږ ماثل ته کږوم، زه به خپله معما د کنور سره خلاصه کړم.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "کږوم"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ماثل ته"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "زما غوږ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "خلاصه کړم"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "د کنور سره"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "زما معما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:28.520430837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 20:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د افیانو زهر به څشي، د افیې ژبه به يې ووژني.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "د افیانو"
+    },
+    {
+      "surface": "יינק",
+      "gloss": "څشي\/شيدې اخلي"
+    },
+    {
+      "surface": "תהרגהו",
+      "gloss": "به يې ووژني"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "د افیې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:09.937731696Z",
+  "model": "glm-5.3"
+}

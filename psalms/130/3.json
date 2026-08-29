@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 130,
+  "translation": "که ته ای یاه ګناهونه ساتې، ادونای، څوک به ودرېږي؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ګناهونه"
+    },
+    {
+      "surface": "תשמړ",
+      "gloss": "ساتې"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ودرېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:28.547973170Z",
+  "model": "glm-5.3"
+}

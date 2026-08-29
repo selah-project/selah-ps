@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ادونای یو خبر يعقوب ته واستاوه، او پر اسرائيل يې ولوېد.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "واستاوه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "يعقوب ته"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "او ولوېد"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "پر اسرائيل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:14:05.427859738Z",
+  "model": "glm-5.3"
+}

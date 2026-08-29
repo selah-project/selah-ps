@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "په هغو ورځو کې زه ډانيل درې اونۍ ورځې ماتم کولم.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "په ورځو"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "هغو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ډانيل"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وُم"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "ماتم کولم"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اونۍ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:34:42.554646893Z",
+  "model": "glm-5.3"
+}

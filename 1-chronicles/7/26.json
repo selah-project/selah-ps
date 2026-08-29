@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "لعْدان ⟨زوی يې⟩، عَمیهود ⟨زوی يې⟩، اِلیشامَع ⟨زوی يې⟩.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "لعْدان"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عَمیهود"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "اِلیشامَع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:56.662829563Z",
+  "model": "glm-5.3"
+}

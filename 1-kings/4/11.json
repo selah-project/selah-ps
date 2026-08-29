@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د اَبيناداب زوی — ټوله نافَت دُور؛ طَفَت د شلومو لور د هغه ⟨لپاره⟩ په ښځه وه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "د اَبيناداب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "نافَت"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "دُور"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "طَفَت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "د شلومو"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    },
+    {
+      "surface": "لאשה",
+      "gloss": "په ښځه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:51:03.763174296Z",
+  "model": "glm-5.3"
+}

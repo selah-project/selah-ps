@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او یاهوه و موشې او و اهرون ته وویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او … ته"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووایي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:23.072372133Z",
+  "model": "glm-5.3"
+}

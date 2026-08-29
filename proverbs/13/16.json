@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "هر هوښیار په پوهه کار کوي، خو احمق خپله ناداري خپروي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کار کوي"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "په پوهه"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "خو احمق"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "خپروي"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ناداري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:18.156475015Z",
+  "model": "glm-5.3"
+}

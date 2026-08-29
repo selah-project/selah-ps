@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او په یوه شېبه چې ما د یو ⟨the⟩ ملت او د یوې ⟨the⟩ سلطنت په اړه وویل، چې هغه جوړ کړم او هغه کېنوم،",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "او په یوه شېبه"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "چې ما ... وویل"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه د"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ملت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او په اړه د"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "سلطنت"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "چې جوړ کړم"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "او کېنوم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:58.646450959Z",
+  "model": "glm-5.3"
+}

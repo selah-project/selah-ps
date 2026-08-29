@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "ټولې پاتې کورنۍ به، کورنۍ په کورنۍ جلا، او د دوی ښځې به جلا.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "پاتې"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "په کورنۍ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جلا"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "او د دوی ښځې"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:40.736666766Z",
+  "model": "glm-5.3"
+}

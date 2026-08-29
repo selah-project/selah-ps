@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او هغه هغه څه وکړل چې سمه ده د یاهوه په سترګو کې، خو په بشپړ زړه نه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "سمه ده"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רק",
+      "gloss": "خو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "په زړه"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "بشپړ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:07:18.365433109Z",
+  "model": "glm-5.3"
+}

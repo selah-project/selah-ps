@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "غوږ ونيسه، اې الوهیم، زما لمنا ته، او زما له لوبې ځان پټ کوه.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "غوږ ونيسه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "زما لمنا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "ځان پټ کوه"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "زما له لوبې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:03.358223398Z",
+  "model": "glm-5.3"
+}

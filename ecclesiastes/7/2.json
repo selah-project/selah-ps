@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "غوره ده چې د ماتم کور ته لاړ شې، له دې چې د ماښام ډوډۍ کور ته لاړ شې، ځکه هغه د ټولو انسانان پای دی، او ژوندی به دا په زړه کې کېږدي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "چې لاړ شې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ماتم"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "له لاړ شوې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "بېת",
+      "gloss": "کور",
+      "": ""
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ماښام ډوډۍ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "پای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسانان"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "او ژوندی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "کېږدي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:46.240555794Z",
+  "model": "glm-5.3"
+}

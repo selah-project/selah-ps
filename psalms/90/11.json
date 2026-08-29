@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 90,
+  "translation": "څوک د ستا د غضب ځواک پېژني؟ او ستا قهر د ستا د وېرې سره سم دی.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ستا د غضب"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "او د ستا د وېرې سره سم"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ستا قهر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:52.365042505Z",
+  "model": "glm-5.3"
+}

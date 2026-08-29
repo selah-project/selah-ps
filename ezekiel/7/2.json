@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 7:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او ته، د آدم زویه! داسې وايي ادونای یاهوه د یسرایل خاورې ته: پای! پای راغلی د ځمکې پر څلورو ورونو.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "لאדמת",
+      "gloss": "خاورې ته"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پای!"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "پای"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "ورونو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:40.128308045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د سستۍ له امله بام ښکته کېږي، او د لاسونو د سستۍ له امله کور درېږي.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "د سستۍ له امله"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ښکته کېږي"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "بام"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "او د سستۍ (کمزورۍ) له امله"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "درېږي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:11.397123971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "څه پلان کوئ تاسو د یاهوه ⟨پرهغه⟩ ضد کې؟ بشپړ پای هغه راولي؛ دويم ځل به بلا نه پاڅېږي.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "پلان کوئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "بشپړ پای"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "راولي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "پاڅېږي"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "دويم ځل"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "بلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:06.722159190Z",
+  "model": "glm-5.3"
+}

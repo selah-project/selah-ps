@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 145,
+  "translation": "یاهوه ⟨د⟩ ټولو ته ښه دی، او د هغه رحمتونه پر ټولو د هغه کارونو دي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټولو ته"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "او د هغه رحمتونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "د هغه کارونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:56.138984406Z",
+  "model": "glm-5.3"
+}

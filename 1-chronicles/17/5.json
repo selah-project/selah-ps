@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "ځکه چې زه په کور کې نه اوسېدم، له هغه ورځې چې ما اسرائیل ⟨את⟩ پورته کړل تر دې ورځې، او زه له خیمې تر خیمې او له مسکنه ⟨تر⟩ بل مسکن وهم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "اوسېدم"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "مן",
+      "gloss": "له"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "پورته کړم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "او وهم"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "له خیمې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "او له مسکنه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:54.260636640Z",
+  "model": "glm-5.3"
+}

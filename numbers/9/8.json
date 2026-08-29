@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او موشې ورته وویل: ودرېږئ، او زه به واورم چې یاهوه ستاسو په اړه څه فرمان کوي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ودرېږئ"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "او زه به واورم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "فرمان کوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو په اړه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:34.662714541Z",
+  "model": "glm-5.3"
+}

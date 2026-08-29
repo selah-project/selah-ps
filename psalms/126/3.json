@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 126,
+  "translation": "یاهوه له موږ سره لوی کارونه کړي دي؛ موږ شادان یو.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "لوی کارونه کړي دي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کړي دي"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "له موږ سره"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "موږ یو"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "شادان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:37.196497591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او شپږ کاله به خپله ځمکه کرې او ⟨את⟩ د هغې حاصل به راټولوې.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "به کرې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله ځمکه"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "خپله ځمکه"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "او به راټولوې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغې حاصل"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "د هغې حاصل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:25.341929174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "د بدۍ په وخت کې به نه شرمېږي، او د قحطۍ په ورځو کې به سیر شي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "شرمېږي"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "د بدۍ"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "او په ورځو"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "د قحطۍ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "سیر شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:46.247742240Z",
+  "model": "glm-5.3"
+}

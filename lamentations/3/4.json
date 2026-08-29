@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زما غوښه او پوټکی یې زوړ کړل؛ زما هډوکي یې مات کړل.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "زوړ کړل"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "زما غوښه"
+    },
+    {
+      "surface": "ועורي",
+      "gloss": "او پوټکی"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "مات کړل"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "زما هډوکي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.103552809Z",
+  "model": "glm-5.3"
+}

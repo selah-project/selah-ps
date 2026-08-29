@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "چې کله یِرمیاهو د څاه کور ته او حجرو ته ورسېد، نو یِرمیاهو هلته ډېرې ورځې پاتې شو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ورسېد"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمיاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "د څاه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "حجرو"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "پاتې شو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:43:49.144378738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "پوهان به عزت په میراث واخلي، خو نادانان د سپکاوي لوړوالی غځوي.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "پوهان"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "په میراث اخلي"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "خو نادانان"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "غځوي\/لوړوي"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "سپکاوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:06.589433985Z",
+  "model": "glm-5.3"
+}

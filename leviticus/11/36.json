@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "خو چینه او څاه — د اوبو ټولګه — پاک ⟨دي⟩؛ خو هغه چې د دوی مړې ته لاس وروړي ناپاکېږي.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "چینه"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "او څاه"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "د اوبو ټولګه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ونגע",
+      "gloss": "خو هغه چې لاس وروړي"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "د دوی مړې ته"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاکېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:48.583325077Z",
+  "model": "glm-5.3"
+}

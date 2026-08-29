@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "او هغه دوی د سمو لارې په لار رهڼ کړل، چې د اوسېدنې ښار ته ورشي.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "رهڼ کړل"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سمو"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "چې … ورشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "مושב",
+      "gloss": "د اوسېدنې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:18.386861897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 41:33",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "اوس نو دې فرعو یو هوښیار او پوه سړی وګوري او هغه دې پر مِتسرایم (مصر) ځمکه وګماري.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اوس نو"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "دې وګوري"
+    },
+    {
+      "surface": "پرعو",
+      "gloss": "فرعو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "او پوه"
+    },
+    {
+      "surface": "וישיתהו",
+      "gloss": "او هغه دې وګماري"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:26.283931007Z",
+  "model": "glm-5.3"
+}

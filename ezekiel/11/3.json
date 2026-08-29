@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "چې وايي: نږدې نه ده چې کورونه جوړ کړو؛ دا ښار ⟨هغه⟩ دی بارانۍ، او موږ غوښه یوو.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "چې وايي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "جوړ کړو"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "کورونه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا... دی"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "بارانۍ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "او موږ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "غوښه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:30.356670078Z",
+  "model": "glm-5.3"
+}

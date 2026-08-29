@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د یاهوه پیغام راته راغلی، چې وایي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "پیغام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وایي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:35:31.950873507Z",
+  "model": "glm-5.3"
+}

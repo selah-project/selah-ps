@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "او هغه خپل قوم په خوښۍ وویست، ⟨את⟩ خپل ټاکلي یې په د خوښۍ چیغو.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "وویست"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "په خوښۍ"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "په چیغو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل ټاکلي"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "خپل ټاکلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:48.212112478Z",
+  "model": "glm-5.3"
+}

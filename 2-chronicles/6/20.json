@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 6:20",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "چې ستا سترګې پر دا کور ورانی وي ورځ او شپه، پر هغه ځای چې تا ویل چې به خپل نوم هلته ږدې، چې هغه لمنا واورې چې ستا بنده پر دا ځای لمنا کوي.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "چې وي"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ستا سترګې"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "ورانی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "دا کور"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "او شپه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "هغه ځای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "تا ویل"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "ږدې"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "خپل نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "چې واورې"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "התפלה",
+      "gloss": "هغه لمنا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "لمنا کوي"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا بنده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:59:27.447996541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د بل نبو خلق، پنځوس او دوه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "خلق"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نبو"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:29.179113605Z",
+  "model": "glm-5.3"
+}

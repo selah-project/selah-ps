@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د هغو ورځو شمېر چې داوېد په حبرون کې د یهودا پر کور پاچا و، اوه کاله او شپږ مياشتې وو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "په حبرون کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "او شپږ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مياشتې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:42:03.941850291Z",
+  "model": "glm-5.3"
+}

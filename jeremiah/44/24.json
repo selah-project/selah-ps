@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 44:24",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او یرمیاهو ټول قوم او ټولو ښځو ته وویل: اورئ د یاهوه خبر، ټول یهودا چې په مِتسرایم (مصر) کې دېتابه اوسېږئ — اوسېږئ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ټولو … ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ښځو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اورئ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په … کې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:36.858235998Z",
+  "model": "glm-5.3"
+}

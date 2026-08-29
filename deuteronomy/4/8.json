@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او کوم لوی قوم دی چې هغه ته داسې احکام او پرېکړې وي، نيک او سم، لکه د ⟨د⟩ ټولې دا شریعت، چې زه نن ورځ ستاسو مخې ته ږدم؟",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "او کوم"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "احکام"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "او پرېکړې"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "نيک او سمه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "لکه ټول"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ږدم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ستاسو مخې ته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن ورځ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:36.953308782Z",
+  "model": "glm-5.3"
+}

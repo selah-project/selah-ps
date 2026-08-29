@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 118,
+  "translation": "له تنګي څخه مې یاه ته وغوښتل؛ یاه په پراخ ځای کې را ځواب کړ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له ... څخه"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "تنګي"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "وغوښتل مې"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "را ځواب کړ"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "په پراخ ځای کې"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:19.719633643Z",
+  "model": "glm-5.3"
+}

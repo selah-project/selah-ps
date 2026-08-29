@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه د خپلې تېرچې زامنې زما په ګردو کې دننه کړل.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "دننه کړل"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "زما په ګردو کې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنې (د)"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "د هغه تېرچه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:37.760689888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "څوک چې ښځه پيدا کړي، ⟨او⟩ ښه شی يې پيدا کړی، او د یاهوه خوښي يې ترلاسه کړې.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "پيدا کړي"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "پيدا کړی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "او ترلاسه کوي"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:35.289540494Z",
+  "model": "glm-5.3"
+}

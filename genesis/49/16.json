@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "دان به خپل قوم ته قضاوت وکړي، د یسرائیل د قبایلو په څېر یو ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "قضاوت وکړي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "په څېر یو"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "د قبایلو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:18.550794008Z",
+  "model": "glm-5.3"
+}

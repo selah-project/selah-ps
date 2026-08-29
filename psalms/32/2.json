@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "ښه ده هغه سړی چې یاهوه ورته עון نه ګڼي، او په روح کې يې درغلي نشته.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ښه ده"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ګڼي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "עון",
+      "gloss": "עון (کجي)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "په روح کې يې"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "درغلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.133131025Z",
+  "model": "glm-5.3"
+}

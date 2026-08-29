@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 32:12",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "مګر کالېب بن یفنې هقنزي او یهوشوع بن نون — ځکه هغوی د یاهوه تعقیب بشپړ کړ.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "مګر"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالېب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یفنې"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "هقنزي"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "بشپړ کړ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "تعقیب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:52.426462203Z",
+  "model": "glm-5.3"
+}

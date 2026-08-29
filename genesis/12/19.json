@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "ولې دې وویل چې هغه زما خور ده، چې ما ⟨את⟩ هغه ځان ته ښځه واخلم؟ او اوس دا هغه ستا ښځه — واخله او لاړ شه.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "دې وویل"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "زما خور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "واخلم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ښځې ته"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دا هغه"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ستا ښځه"
+    },
+    {
+      "surface": "קח",
+      "gloss": "واخله"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "او لاړ شه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:48.471276487Z",
+  "model": "glm-5.3"
+}

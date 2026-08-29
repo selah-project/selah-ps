@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "ځکه چې هغوی هغه څوک چې تا وهلی دی تعقیبوي، او د ستا د زخمیانو درد بیانوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "وهلی دی"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "تعقیبوي"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او د … د"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "درد"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "ستا د زخمیانو"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "بیانوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:48.072355516Z",
+  "model": "glm-5.3"
+}

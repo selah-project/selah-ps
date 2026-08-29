@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 140,
+  "translation": "پوهېږم چې یاهوه به د خوار پرهرونې ⟨דیان⟩ او د بېوزلو حق به راولي.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "به راولي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דין",
+      "gloss": "پرهرونې"
+    },
+    {
+      "surface": "עני",
+      "gloss": "خوار"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "بېوزلو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:23.918146095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "ګوره، هغوی راته وايي: د یاهوه خبره چېرته ده؟ راځي دې اوس!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "איה",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راځي دې"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:28.658811245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 2:11",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "هره مېنچه چې تاسو یاهوه ته راولېږدوئ، خمیر شوې نه جوړه شوه؛ ځکه هر خمیر او هر شات — د یاهوه اور-قربانۍ ته يې مه بخوروئ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هره"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "مېنچه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "راولېږدوئ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوړه شوه"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "خمیر شوې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "بخوروئ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د اور قربانۍ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:55.525269325Z",
+  "model": "glm-5.3"
+}

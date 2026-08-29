@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او همدارنګه په رښتیا هغه خور مې ده؛ د پلار لور ده، خو د مور لور نه ده؛ او هغه مې ښځه شوه.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او همدارنګه"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "په رښتیا"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "خور مې"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "زما پلار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "زما مور"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "او شوه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ښځه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:03:04.808208508Z",
+  "model": "glm-5.3"
+}

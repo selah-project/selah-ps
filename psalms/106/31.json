@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "او دا د هغه لپاره عدالت وګڼل شو، له نسل څخه تر نسل، تر پایه.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "وګڼل شو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه لپاره"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "له نسل څخه"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تر نسل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پایه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:16.760509910Z",
+  "model": "glm-5.3"
+}

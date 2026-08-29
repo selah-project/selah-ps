@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او کله چې مو ستا غلام زما پلار ته پورته شو، نو مو ⟨את⟩ د ادونای خبرې ورته وویلې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او کله چې وشول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "مو پورته شو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا غلام"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "زما پلار"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "نو مو راوویلې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ادونای خبرې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "د ادونای"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:20.437965189Z",
+  "model": "glm-5.3"
+}

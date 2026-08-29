@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 19:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "خو که یو سړی د خپل ملګري بېزار وي او ورته کمین ونیسي او پرې پاڅېږي او هغه د مړینې ووهي، او وتښتي د دې ښارونو یو ته،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "خو که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "بېزار وي"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "د خپل ملګري"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "او کمین ونیسي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "او پاڅېږي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "او هغه ووهي"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "د مړینې"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "او مړ شي"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "او وتښتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د … ته"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یو"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "د ښارونو"
+    },
+    {
+      "surface": "האל",
+      "gloss": "د دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:54.372038707Z",
+  "model": "glm-5.3"
+}

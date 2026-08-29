@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ولې ژوندی انسان، يو سړی، پر خپله ګناه شکایت وکړي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "شکایت وکړي"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "خپله ګناه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:16.990535952Z",
+  "model": "glm-5.3"
+}

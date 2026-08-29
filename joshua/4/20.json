@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ⟨את⟩ دغه دولسسې ډبرې چې دوی د یَردېن څخه اختي وې، یهوشُع په ګلګل کې ودريدلې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دولسسې ډبرې"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשרه",
+      "gloss": "لس"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ډبرې"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دغه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "اختي وې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "څخه"
+    },
+    {
+      "surface": "הירדש",
+      "gloss": "یَردېن"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ودريدلې"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشُع"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "په ګلګل کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:40.714173917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او که د هغه قرباني د شلیمیم قرباني وي، که له غواګانو څخه راوړي، که نارينه وي که ښځينه، بې عيب به هغه د ياهوه پر مخ راوړي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "د شلیمیم"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "د هغه قرباني"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "غواګانو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "راوړي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نارينه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ښځينه"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بې عيب"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "هغه راوړي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر مخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:32:17.618558118Z",
+  "model": "glm-5.3"
+}

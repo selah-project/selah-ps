@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د سلما زامن: بیت-لحم، نتوفتي، عتروت بیت-یوآب، او د منحتي نيمه — صرعي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سلما"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "او نتوفتي"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "عتروت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "او نيمه"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "د منحتي"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "صرعي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:43.389437105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 60,
+  "translation": "د رهبر ⟨لپاره⟩، پر شوشان-عدوت، د داوېد مېخټام، ⟨د⟩ ښوونې لپاره.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر ⟨لپاره⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "شوشان"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "عدوت"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "مېخټام"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "⟨د⟩ ښوونې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:41.686071014Z",
+  "model": "glm-5.3"
+}

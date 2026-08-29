@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د سړي ډالۍ ورته لار پرانیزي، او له سترو سړو سره يې مخ کوي.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "ډالۍ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "لار پرانیزي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "سترو سړو"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "مخ کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:08.463876887Z",
+  "model": "glm-5.3"
+}

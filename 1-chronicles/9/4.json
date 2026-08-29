@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "عوتای د عمیهود زوی، د عمري زوی، د عمري زوی، د بني زوی، د پیرتس زامنو څخه، د یهودا زوی.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "عوتای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د ... زوی"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عمیهود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د ... زوی"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عمري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د ... زوی"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "عمري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د ... زوی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بني"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو څخه"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پیرتس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د ... زوی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:48.030701936Z",
+  "model": "glm-5.3"
+}

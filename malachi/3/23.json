@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "کتل! زه تاسو ته ⟨את⟩ نبي الیاس درلېږم، د یاهوه د هغه لویې او وېروونکې ورځې له راتګ دمخه.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "کتل!"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "درلېږم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نبي الیاس"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "الیاس"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "دمخه"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "راتګ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "لویې"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "او وېروونکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:48.494934003Z",
+  "model": "glm-5.3"
+}

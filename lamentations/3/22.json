@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د یاهوه خېسېدګانې — ځکه چې نه دي پای ته رسېدلي، ځکه چې د هغه رحمتونه نه دي ختم شوي.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "خېسېدګانې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "دی پای ته رسېدلي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ختم شوي"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "د هغه رحمتونه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:01.341000231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او پاچا اهاشوروش ⟨את⟩ مَس (باج) پر ځمکه او پر د سمندر ټاپوګانو ولګاوه.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ولګاوه"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "اهاشوروش"
+    },
+    {
+      "surface": "מס",
+      "gloss": "مَس (باج)"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "او ټاپوګانو"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:27:58.829310488Z",
+  "model": "glm-5.3"
+}

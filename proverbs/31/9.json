@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "خوله دې پرانیزه، پر ډاډ قضاوت وکړه، او د مزدورو او بېوسېانو حق وغواړه.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "پرانیزه"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "خوله دې"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "قضاوت وکړه"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "پر ډاډ"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "او حق وغواړه"
+    },
+    {
+      "surface": "עני",
+      "gloss": "مزدور"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "او بېوسې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:56.405679841Z",
+  "model": "glm-5.3"
+}

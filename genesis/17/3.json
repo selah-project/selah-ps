@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "نو ابرام پر مخ څملاست، او الوهیم ⟨את⟩ د هغه سره وغږېد، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "نو … څملاست"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "او وغږېد"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه سره"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:15.716970767Z",
+  "model": "glm-5.3"
+}

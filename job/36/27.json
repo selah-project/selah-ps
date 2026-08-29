@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "ځکه چې هغه د اوبو څاڅکي کموي، باران د هغه له بخاره تصفیه کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "کموي"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "څاڅکي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "تصفیه کوي"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "د هغه له بخاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:18.001823629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د مېلمستیا کور ته دې نه دننه کېږې چې له ⟨את⟩ هغوی سره کښېنې، چې وخورې او څښې.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "او… کور"
+    },
+    {
+      "surface": "משתه",
+      "gloss": "د مېلمستیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "دننه کېږې"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "چې کښېنې"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هغوی"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "چې وخورې"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "او څښې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:43.958973070Z",
+  "model": "glm-5.3"
+}

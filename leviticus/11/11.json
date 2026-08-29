@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او مکروه به وي ستاسو لپاره؛ د دوی غوښه مه خورئ او ⟨את⟩ د دوی مړې به کرښېنئ.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "او مکروه"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "د دوی غوښه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورئ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د دوی مړې"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "د دوی مړې"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "به کرښېنئ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:51.695452097Z",
+  "model": "glm-5.3"
+}

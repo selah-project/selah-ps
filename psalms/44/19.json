@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "زموږ زړه نه دی شاتګ کړی او زموږ ګامه ستا ⟨له⟩ لارې نه ده اوښتې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "شاتګ کړی"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "شا ته"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "زموږ زړه"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "او اوښتې"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "زموږ ګامه"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "ستا لارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:54.731903412Z",
+  "model": "glm-5.3"
+}

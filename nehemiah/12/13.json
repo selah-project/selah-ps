@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د عِزرا لپاره مِشولام، د اَمَریا لپاره یِهوچانان.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "د عِزرا لپاره"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشولام"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "د اَمَریا لپاره"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یِهوچانان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:35.746445207Z",
+  "model": "glm-5.3"
+}

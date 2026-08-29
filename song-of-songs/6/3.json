@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زه د زما محبوب یم او زما محبوب زما دی؛ هغه ⟨هغه⟩ چې په سوسن ګلانو کې څري.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "د زما محبوب یم"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "او زما محبوب"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما دی"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "هغه چې څري"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "په سوسن ګلانو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:59.032625371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 88,
+  "translation": "ستا غوسه پر ما درېده، او د ستا د ټولو څپو سره مې کړې ده. سلاه.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "درېده"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ستا غوسه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او د ټولو"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "ستا څپو"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "مې کړې ده"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:38.747660083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "تَهوم دې لکه کالي پرې پوښلی و؛ پر غرونو اوبه درېدلې وې.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "تَهوم"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "لکه کالي"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "پوښلی و"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونو"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "درېدلې وې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:11.189766761Z",
+  "model": "glm-5.3"
+}

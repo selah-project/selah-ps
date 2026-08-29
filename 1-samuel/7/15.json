@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او شموئل د خپل ژوند ټولې ورځې پر ⟨את⟩ اسرائیل قضاوت وکړ.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "او قضاوت يې وکړ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اسرائیل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "د خپل ژوند"
+    }
+  ],
+  "timestamp": "2026-08-28T22:32:34.899619813Z",
+  "model": "glm-5.3"
+}

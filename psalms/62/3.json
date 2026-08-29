@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "یوازې ⟨هغه⟩ زما ډبره او زما خلاصون دی، زما لوړه پناه؛ زه به ډېر نه وخوځېږم.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "زما ډبره"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "او زما خلاصون"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "زما لوړه پناه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "خوځېږم"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:32.325362874Z",
+  "model": "glm-5.3"
+}

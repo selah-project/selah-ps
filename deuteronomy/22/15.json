@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "نو د نجلۍ پلار او مور يې د نجلۍ د کنواریتوب نښې ⟨את⟩ د ښار د دروازې مشرانو ته وروړي،",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "نو واخلي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "د نجلۍ"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "او مور يې"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "وروړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د نجلۍ د کنواریتوب نښې"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "د کنواریتوب"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "د نجلۍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "مشرانو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "د دروازې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:31.173604288Z",
+  "model": "glm-5.3"
+}

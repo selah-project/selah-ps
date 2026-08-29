@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او که ستا قرباني د مارخشټ (دیګ) منچه وي، سوټه آرد په تيلو کې به جوړه شي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "منچه"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "مارخشټ (دیګ)"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ستا قرباني"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "سوټه آرد"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "په تيلو کې"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "به جوړه شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:16.590007977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "له بهر به توره بې اولاده کړي، او په کوټو کې به وېره وي؛ هم ځوان هم پېغله، شیدې څښونکی د سپین ږیري سړي سره.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "له بهر"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "بې اولاده کړي"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "او په کوټو کې"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ځوان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "پېغله"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "شیدې څښونکی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "سپین ږیری"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:48.079955743Z",
+  "model": "glm-5.3"
+}

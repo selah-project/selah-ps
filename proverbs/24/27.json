@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 24:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "خپله کار د بهر چمتو کړه، او په دېر کې يې درته برابر کړه؛ وروسته بيا خپل کور جوړ کړې.",
+  "tokens": [
+    {
+      "surface": "הכן",
+      "gloss": "چمتو کړه"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "خپله کار"
+    },
+    {
+      "surface": "ועתדה",
+      "gloss": "او برابر کړه"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په دېر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "جوړ کړې"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خپل کور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:05.298319277Z",
+  "model": "glm-5.3"
+}

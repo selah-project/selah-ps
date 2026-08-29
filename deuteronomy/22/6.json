@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 22:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "که ستا مخې ته په لار کې د مرغۍ لمرڅېرا راښکاره شي، په هره ونه کې یا پر ځمکه، بچې وي یا هګۍ، او مور پر بچو یا پر هګیو ناسته وي، مور به له بچو سره نه نیسې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "راښکاره شي"
+    },
+    {
+      "surface": "קן",
+      "gloss": "لمرڅېرا"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "د مرغۍ"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ستا مخې ته"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "אפרחים",
+      "gloss": "بچې"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "هګۍ"
+    },
+    {
+      "surface": "והאם",
+      "gloss": "او مور"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "ناسته وي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האפרחים",
+      "gloss": "بچو"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הביצים",
+      "gloss": "هګیو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "نیسې"
+    },
+    {
+      "surface": "האם",
+      "gloss": "مور"
+    },
+    {
+      "surface": "על",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "بچو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:34.776338364Z",
+  "model": "glm-5.3"
+}

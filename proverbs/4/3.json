@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "چې زه د خپل پلار زوی وم — نرم او يوازینی د خپلې مور په وړاندې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وم"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "او يوازینی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "د خپلې مور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:46.868085149Z",
+  "model": "glm-5.3"
+}

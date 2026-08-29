@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او شموئل ⟨את⟩ د یاهوه مخ ته خدمت کاوه — هلک چې د کټان ایفود یې تړلی و.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "او شموئل"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "خدمت کاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נער",
+      "gloss": "هلک"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "تړلی"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "ایفود"
+    },
+    {
+      "surface": "בד",
+      "gloss": "کټان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:31:30.604248435Z",
+  "model": "glm-5.3"
+}

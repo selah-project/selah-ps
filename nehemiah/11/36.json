@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او له لویانو څخه ځینې برخې په یهودا کې د بېنیامین ته ونښلول شوې؛",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له … څخه"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "مחלקות",
+      "gloss": "برخې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "د بېنیامین ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:12.751655070Z",
+  "model": "glm-5.3"
+}

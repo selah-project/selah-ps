@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "سر يې د خالص سرو زرو په څېر دی، ګنډسري يې څنډلي، تور دي لکه زاغ.",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "سر"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "د سرو زرو"
+    },
+    {
+      "surface": "פז",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "ګنډسري"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "څنډلي"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "تور"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "لکه زاغ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:15.062036232Z",
+  "model": "glm-5.3"
+}

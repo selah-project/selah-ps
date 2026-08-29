@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "له هغې ځمکې څخه اَشور راووت او ⟨את⟩ نینوه او ⟨את⟩ رِحوبوت-عیر او ⟨את⟩ کَلَح یې جوړ کړل.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هغې ځمکې"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "راووت"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشور"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "جوړ یې کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نینوه"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نینوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رِحوبوت-عیر"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "رِحوبوت"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کَلَح"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کَلَح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:11.880798652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او وګوره — يوه ګرده سرب پورته شوې وه، او دا يوه ښځه وه چې د اېفه ⟨په⟩ منځ کې ناسته ده.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ګرده"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "سرب"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "پورته شوې وه"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ناسته"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "اېفه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:56.658816402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ټول ټولګی ⟨وو⟩ لکه یو کس څلویښت زره دوه زره درې سوه شپېته.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ټولګی"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "لکه یو کس"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "لک\/زره"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:01.331817540Z",
+  "model": "glm-5.3"
+}

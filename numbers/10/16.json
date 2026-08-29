@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د زبولون د زامنو د قبیلې د پوځ پر سر الیآب زوی د حیلون و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر … سر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "الیآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "حیلون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:40.538478107Z",
+  "model": "glm-5.3"
+}

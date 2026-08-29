@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "د اهولیبامه ⟨the⟩ مشر، د ایله ⟨the⟩ مشر، د پینون ⟨the⟩ مشر.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "اهولیبامه"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایله"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "پینون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:43.291023048Z",
+  "model": "glm-5.3"
+}

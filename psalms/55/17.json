@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 55,
+  "translation": "زه به الوهیم ته غږ کوم، او یاهوه مې ژغوري.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "غږ کوم"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "او یاهوه"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "مې ژغوري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:44.265222530Z",
+  "model": "glm-5.3"
+}

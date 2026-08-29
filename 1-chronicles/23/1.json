@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "داوېد بوډا شو او په ورځو ملاتړ شو، او خپل زوی شلومو ⟨את⟩ يې پر یسرایل واکمن کړ.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "بوډا شو"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "مالاتړ شو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "واکمن کړ يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شلومو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "خپل زوی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:53.247928713Z",
+  "model": "glm-5.3"
+}

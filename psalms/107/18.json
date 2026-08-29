@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "د دوی ږдинه ټول خواړه کرغېړن ګڼي، او د مرګ تر دروازو رسېږي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "תתעب",
+      "gloss": "کرغېړن ګڼي"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "د دوی ږ dinde"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "او رسېږي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مرګ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:28.881108116Z",
+  "model": "glm-5.3"
+}

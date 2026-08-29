@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "جادوګرې ښځه به ژوندې نه پریږدې.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "جادوګرې ښځه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "به ژوندې پریږدې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:16.833518714Z",
+  "model": "glm-5.3"
+}

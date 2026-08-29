@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "یانیم، بیت-تپوح او افېقه.",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "یانیم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "بیت-تپوح (د تپوح کور)"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואפקه",
+      "gloss": "افېقه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:49.154446016Z",
+  "model": "glm-5.3"
+}

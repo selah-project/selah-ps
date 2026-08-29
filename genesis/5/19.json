@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 5:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او یارد د ⟨את⟩ حنوخ د پیدا کولو وروسته اته سوه کالونه ژوند وکړ، او زامن او لوڼې يې پیدا کړې.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یارد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "د پیدا کولو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حنوخ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حنوخ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اته"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالونه"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "پیدا کړې"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:39.639764956Z",
+  "model": "glm-5.3"
+}

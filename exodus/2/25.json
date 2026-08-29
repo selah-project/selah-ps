@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او الوهیم ⟨את⟩ د یسراییل زامن ولوستل، او الوهیم ⟨پوه شو⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ولوستل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یسراییل زامن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "پوه شو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:11.046067197Z",
+  "model": "glm-5.3"
+}

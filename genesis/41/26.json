@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "اووه ښې غواګانې اووه کاله دي؛ او اووه ښې غوټۍ اووه کاله دي — یو خوب ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "غواګانې"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ښې"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دي"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "او اووه"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "غوټۍ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ښې"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دي"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:03.988251770Z",
+  "model": "glm-5.3"
+}

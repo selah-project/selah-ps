@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "چې د هغه لارې نه زده کړې او د خپل ځان لپاره دام واخلې.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "چې (نه…)"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "زده کړې"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "د هغه لارې"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "او واخلې"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "دام"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "د خپل ځان لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:46.356502536Z",
+  "model": "glm-5.3"
+}

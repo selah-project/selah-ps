@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "له حکیمانو سره ⟨את⟩ تلل حکیم کېږي، خو د نادانانو ملګری زیانمن کېږي.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "تلل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکیمانو"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکیمانو"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "خو حکیم"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "خو ملګری"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانانو"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "زیانمن کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:13.343161335Z",
+  "model": "glm-5.3"
+}

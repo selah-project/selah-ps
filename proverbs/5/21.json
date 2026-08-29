@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ځکه چې د یاهوه په سترګو کې د سړي لارې دي، او ټولې د هغه ځغاستې هغه برابروي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "مخامخ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټولې"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "د هغه ځغاستې"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "برابروي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:59.713026109Z",
+  "model": "glm-5.3"
+}

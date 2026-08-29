@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 30:27",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "زړه دننه مې ایشي او نه درېږي؛ د غم ورځې مې مخکې راغلې دي.",
+  "tokens": [
+    {
+      "surface": "מעי",
+      "gloss": "زړه دننه مې"
+    },
+    {
+      "surface": "רתחו",
+      "gloss": "ایشي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "درېږي"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "مخکې راغلې دي"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:18.982321513Z",
+  "model": "glm-5.3"
+}

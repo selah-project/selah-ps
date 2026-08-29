@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د ګرشون لپاره د لِبنۍ کورنۍ او د شِمعۍ کورنۍ؛ دا دې د ګرشونیانو کورنۍ دي.",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "د ګرشون لپاره"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "د لِبنۍ"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "او کورنۍ"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "د شِمعۍ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دې"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "د ګرشونیانو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:40.807625387Z",
+  "model": "glm-5.3"
+}

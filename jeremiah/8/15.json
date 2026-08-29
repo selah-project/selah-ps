@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "مو د سولې تمه وکړه، خو هېڅ ښه نه راغله؛ د روږدونې د وخت تمه مو وکړه، او ګورئ — وېره ده.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "تمه وکړه"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "د سولې"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "د ... د وخت"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "روږدونې"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ګورئ"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "وېره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:08.716521009Z",
+  "model": "glm-5.3"
+}

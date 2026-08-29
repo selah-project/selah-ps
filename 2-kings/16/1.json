@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د پکاح بن رملياهو د پاچاهۍ په اولسم کال کې احاز بن یوتام، د یهودا پاچا، پاچا شو.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "په...کال کې"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اولس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "اولس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "پکاح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "رملياهو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا شو"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "احاز"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یوتام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:07:23.026900677Z",
+  "model": "glm-5.3"
+}

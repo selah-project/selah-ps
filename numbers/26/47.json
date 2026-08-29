@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 26:47",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "دا د اشر د زامنو کورنۍ دي، د هغوی د شمېرل شویو له مخې — درې پنځوس زره څلور سوه.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اشر"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "د هغوی د شمېرل شویو له مخې"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:51.520955239Z",
+  "model": "glm-5.3"
+}

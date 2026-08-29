@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما لارې مې وسنجولې، او خپلې پښې مې بېرته ستا ګواهیو ته واړولې.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "وسنجولم"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "زما لارې"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "واړولم"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "خپلې پښې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ستا ګواهیو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:53.722051657Z",
+  "model": "glm-5.3"
+}

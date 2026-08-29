@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او موشې به يوازې ياهوه ته نږدې شي، خو هغوى به نږدې نه شي، او قوم به هم له هغه سره پورته نه شي.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "او نږدې شي"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לבדو",
+      "gloss": "يووازې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והם",
+      "gloss": "خو هغوى"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "نږدې شي"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "او قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "پورته شي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "له هغه سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:27.878159335Z",
+  "model": "glm-5.3"
+}

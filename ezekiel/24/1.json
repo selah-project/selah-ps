@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 24:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "په نهمه کال، په لسمه میاشت، د میاشتې په لسمه ⟨ورځ⟩، د یاهوه خبره راته راغله، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "پېښ شو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "په کال"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "نهم"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "په میاشت"
+    },
+    {
+      "surface": "هעשירי",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "په لسمه"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د میاشتې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:18.048294328Z",
+  "model": "glm-5.3"
+}

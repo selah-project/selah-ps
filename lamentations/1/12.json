@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 1:12",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "تاسو ته نه ده، ټولو لار تېرونکو؟ وګورئ او وینئ — ایا کوم درد شته لکه زما درد، چې راته واوښت، چې یاهوه مې په خپل د قهر په ورځ کې وځپلم؟",
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "تېرونکو"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "הביטو",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "او وینئ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شتې\/دی"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "درد"
+    },
+    {
+      "surface": "כמכאבי",
+      "gloss": "لکه زما درد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "واوښت\/راکړ شول"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "وځپلم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "د قهر"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "د هغه د غوسې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:35.194002962Z",
+  "model": "glm-5.3"
+}

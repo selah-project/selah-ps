@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "عُزیه هَعَشتَراتي، شمع او یِعوایل زامن د حوتام هَعَرعري،",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "عُزیه"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "هَعَشتَراتي"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شمع"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "او یِعوایل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "د حوتام"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "هَعَرعري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:24.793591129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "احینادَب د عیدو زوی، په محنایم کې.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "احینادَب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "عیدو"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "په محنایم کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:51:02.514094109Z",
+  "model": "glm-5.3"
+}

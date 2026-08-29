@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "د تڼینانو زهر د هغوی شراب دی، او د افعیانو زهر اوره.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زهر"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "د تڼینانو"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "د هغوی شراب"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "او زهر"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "د افعیانو"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "اوره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:18.442766311Z",
+  "model": "glm-5.3"
+}

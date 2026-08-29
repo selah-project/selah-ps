@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 150,
+  "translation": "ستایئ يې د ډول او نڅا سره؛ ستایئ يې د تارونو او اوغاو سره.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "ستایئ يې"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "د ډول سره"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "او نڅا"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "ستایئ يې"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "د تارونو سره"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "او اوغاو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:40.285369890Z",
+  "model": "glm-5.3"
+}

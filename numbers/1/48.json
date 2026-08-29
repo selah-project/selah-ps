@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ځکه چې یاهوه موشې سره خبرې کړې وې، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "خبرې یې کړې وې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:37.804146320Z",
+  "model": "glm-5.3"
+}

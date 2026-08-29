@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "وايې پر هغه چې په وینو سره ښار جوړوي، او په ظلم سره کلیمه تېروي!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وايې"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "په وینو"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "او کلیمه تېروي"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "کلیمه\/ښار"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "په ظلم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:48.876152356Z",
+  "model": "glm-5.3"
+}

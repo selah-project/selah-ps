@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او هغه دننه لاړ، او د خولې ستون یې وڅېچه — دوه مټې؛ او خوله شپږ مټې؛ او د خولې پلنوالی اوه مټې.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "او هغه لاړ"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "دننه"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "او هغه وڅېچه"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مټې"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "او خوله"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مټې"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "او پلنوالی"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "آموت",
+      "gloss": "مټې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:14.105790644Z",
+  "model": "glm-5.3"
+}

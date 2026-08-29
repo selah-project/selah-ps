@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ته ⟨⟨مې⟩⟩ ماته ماته ماتمات واوښتې — ته مې ماتمات ⟨⟨ماته⟩⟩ ته ماته",
+  "tokens": [],
+  "timestamp": "2026-08-29T02:38:55.069421965Z",
+  "model": "glm-5.3"
+}

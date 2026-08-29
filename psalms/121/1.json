@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 121,
+  "translation": "د ختلو دندره. خپلې سترګې غونډیو ته پورته کوم — زما مرسته به له چاره راشي؟",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "دندره"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "د ختلو"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "پورته کوم"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "خپلې سترګې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "غونډیو"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "له چاره"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "زما مرسته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:04.126578551Z",
+  "model": "glm-5.3"
+}

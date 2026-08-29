@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "چې د بدۍ ورځ لرې تېرئ او د ظلمې ارېښګانې نږدې راوړئ،",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "لرې تېرونکي"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "او نږدې راوړئ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "د ارېښګانې"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:37:27.747323555Z",
+  "model": "glm-5.3"
+}

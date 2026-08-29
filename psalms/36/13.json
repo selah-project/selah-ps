@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "هلې د باطل کاریان لوېدلي دي؛ په شا اچول شوي دي او د پاڅېدو توانا نه دي.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "هلې"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "لوېدلي دي"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کاریان"
+    },
+    {
+      "surface": "און",
+      "gloss": "د باطل"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "په شا اچول شوي دي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "توانا دي"
+    },
+    {
+      "surface": "קום",
+      "gloss": "پاڅېدل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:26.025072923Z",
+  "model": "glm-5.3"
+}

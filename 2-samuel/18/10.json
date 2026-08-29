@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "یو سړي ولید او یوآب ته يې وویل: دا چې ما ⟨את⟩ ابشالوم په بلوط کې ځوړېدلی ولید.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ولید"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ويې وویل"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "یوآب ته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دا چې"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ما ولید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابشالوم"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "ځوړېدلی"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "په بلوط"
+    }
+  ],
+  "timestamp": "2026-08-28T22:48:01.927971328Z",
+  "model": "glm-5.3"
+}

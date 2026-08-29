@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د مړینې چ期末ې راتاښې مې وې، او د بېلِیال درنې مې وېرولې.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "راتاښې مې وې"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "د … چ期末ې"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړینې"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "او … درنې"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بېلِیال"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "مې وېرولې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:39.050183879Z",
+  "model": "glm-5.3"
+}

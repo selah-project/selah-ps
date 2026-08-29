@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یو ګوړی د غواګانو زوی، یوه نریښ، یوه لرسی د يو کال زوی، د سوځېدو قربانۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ګوړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "غواګانو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "نریښ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لرسی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "يوه کال"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځېدو قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:53.635446687Z",
+  "model": "glm-5.3"
+}

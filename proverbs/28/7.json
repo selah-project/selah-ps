@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "شریعت ساتونکی زوی پوه دی، خو د ډوډۍ-مینانو ملګری خپل پلار شرموي.",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "ساتونکی"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "خو ملګری"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "د ډوډۍ مینانو"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "شرموي"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:32.401183580Z",
+  "model": "glm-5.3"
+}

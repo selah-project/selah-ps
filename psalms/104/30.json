@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "چې ته خپله روح درلېږې، نو دوی پیدا کېږي، او ته د ځمکې مخ نوي کوې.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "درلېږې"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "خپله روح"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "پیدا کېږي"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "او … نوي کوې"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:35.804200082Z",
+  "model": "glm-5.3"
+}

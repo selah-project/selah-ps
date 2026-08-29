@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "که ښه پیدا کړې، د خپل بريور وګوره، له دې چې ښکېل شې او بېرته يې راواېستې.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "مצאת",
+      "gloss": "پیدا کړې"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "د خپل بريور"
+    },
+    {
+      "surface": "פן",
+      "gloss": "له دې چې"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "ښکېل شې"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "او بېرته يې راواېستې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:48.725226127Z",
+  "model": "glm-5.3"
+}

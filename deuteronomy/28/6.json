@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "برکت لره ته په راتګ کې، او برکت لره ته په وتلو کې.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت لره"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "په راتګ کې"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "او برکت لره"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "په وتلو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:08.200905192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د محتاجۍ سړی خوښي loves کوي — هغه چې شراب او تېل loves کوي، شتمن به نه شي.",
+  "tokens": [],
+  "timestamp": "2026-08-29T00:59:10.107180235Z",
+  "model": "glm-5.3"
+}

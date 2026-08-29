@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "له منځه وشړل شول، پر هغوی یې چغې وهلې لکه پر غلا.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "גו",
+      "gloss": "منځ"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "وشړل شول"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "چغې وهل یې"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "لکه پر غلا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:06.547747851Z",
+  "model": "glm-5.3"
+}

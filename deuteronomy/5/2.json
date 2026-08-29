@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "یاهوه زموږ الوهیم په حورب کې زموږ سره تړون وکړ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "وکړ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "زموږ سره"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "په حورب کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:48.065266607Z",
+  "model": "glm-5.3"
+}

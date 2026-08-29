@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او ته د اسرائیل د مشرانو لپاره يوه ماتمونه اوښه پورته کړه",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "שא",
+      "gloss": "پورته کړه"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتمونه اوښه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لپاره"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "د مشرانو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:56:33.660695763Z",
+  "model": "glm-5.3"
+}

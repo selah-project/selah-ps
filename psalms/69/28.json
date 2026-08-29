@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "ګناه پر هغوی د ګناه ورزیاته کړه، او دې هغوی په ستا عدالت کې نه راځي.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "ورزیاته کړه"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "د هغوی ګناه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او دې … نه"
+    },
+    {
+      "surface": "יבאو",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "په ستا عدالت کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:48.072493326Z",
+  "model": "glm-5.3"
+}

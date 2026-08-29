@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "غریب چې په خپل سپېڅلي توب ګرځي، له هغه څخه غوره دی چې خپلې شونډې تېرې کوي او هغه نادان دی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "په سپېڅلي توب"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "تېرې کوي"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "خپلې شونډې"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:35.871856253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 32:17",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او د دې به دا وشي چې د عدل کار به سوله وي، او د عدل خدمت به ارامي او باور وي تر سهولم پورې.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به وشي"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "د عدل"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سوله"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "او خدمت"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "د عدل"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "ارامي"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "او باور"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "سهولم پورې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:18.600074570Z",
+  "model": "glm-5.3"
+}

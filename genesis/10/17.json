@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ⟨את⟩ حِوي او ⟨את⟩ عَرقِي او ⟨את⟩ سِينِي",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حِوي"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "حِوي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عَرقِي"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "عَرقِي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سِينِي"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "سِينِي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:52.512701268Z",
+  "model": "glm-5.3"
+}

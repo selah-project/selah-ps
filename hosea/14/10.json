@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "څوک هوښیار دی چې دا ټول وپېژني؟ څوک پوه دی چې پرې پوه شي؟ ځکه چې د یاهوه لارې سURRENTې دي، او نیک به پکې ګرزي، خو سرکښ به پکې ولوېږي.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "چې وپېژني"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا ټول"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "וידעם",
+      "gloss": "چې پرې پوه شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سUREMENTې"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וצדקים",
+      "gloss": "او نیک"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ګرزي"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "خو سرکښ"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:11:39.575669307Z",
+  "model": "glm-5.3"
+}

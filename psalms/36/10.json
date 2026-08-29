@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "ځکه چې ستا سره ⟨ه⟩ د ژوند سرچینه؛ ستا په رڼا کې رڼا ګورو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "سرچینه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ستا په رڼا"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ګورو"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:58.454942279Z",
+  "model": "glm-5.3"
+}

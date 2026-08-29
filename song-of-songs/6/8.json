@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "شپېته يې ملکې دي، اتیا يې پیلګشې دي، او پېغلې يې بې-شمېرې دي.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "شپېته"
+    },
+    {
+      "surface": "המה",
+      "gloss": "يې"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ملکې دي"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "اتیا"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "پیلګشې دي"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "او پېغلې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بې"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېرې دي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:47.121986067Z",
+  "model": "glm-5.3"
+}

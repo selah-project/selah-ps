@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او تر دې زيات، زما زويه، ځان وساته: د ډېرو کتابونو جوړول بې پای دي، او ډېر ويل د غاړې ستوندينه ده.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "او تر دې زيات"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "له دې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زما زويه"
+    },
+    {
+      "surface": "هזהר",
+      "gloss": "ځان وساته"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "جوړول"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "کتابونو"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېرو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پای"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "او ډېر ويل"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ستوندينه"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "د غاړې\/بدن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:26:04.601589239Z",
+  "model": "glm-5.3"
+}

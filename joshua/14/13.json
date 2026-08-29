@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "نو یې یوشعا برکت ورکړ، او حبرون يې د یفني زوی کالِب ته په میراث ورکړ.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "نو یې برکت ورکړ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یوشعا"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "او ورکړ يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حبرون"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کالِب ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یفني"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "په میراث"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:08.442056795Z",
+  "model": "glm-5.3"
+}

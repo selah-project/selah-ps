@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او موشې او اهرون دا کسان ونیول چې په نومونو یې نومونه نښلول شوي وو.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ونیول"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "او اهرون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا کسان"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "کسان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "نښلول شوي وو"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "په نومونو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:06.320574679Z",
+  "model": "glm-5.3"
+}

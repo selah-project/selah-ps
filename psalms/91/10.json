@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 91,
+  "translation": "هېڅ بدې به درته ونه رسي او هېڅ بلاؤ به ستا خیمې ته نږدې نه شي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "به رسي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "او بلاؤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "نږدې شي"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ستا خیمې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:26.002398520Z",
+  "model": "glm-5.3"
+}

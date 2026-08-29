@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 20:46",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ټول هغه چې د بنيامین له خوا ولوېدل شل او پنځه زره سړي وو، د تورې غوږونکي — په هغه ورځ ⟨את⟩ ټول دا د زور سړي وو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "هغه چې ولوېدل"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "د بنيامین له"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "غوږونکي"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "د تورې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "د زور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:30:33.803696061Z",
+  "model": "glm-5.3"
+}

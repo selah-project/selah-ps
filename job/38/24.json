@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 38:24",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "چېرته دا لار ده چې رڼا پرې وېشل کېږي، چې ختيځ باد يې پر ځمکه خپروي؟",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "وېشل کېږي"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "יפץ",
+      "gloss": "خپروي"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ختیځ باد"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:50.050880722Z",
+  "model": "glm-5.3"
+}

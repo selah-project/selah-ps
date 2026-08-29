@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه ⟨את⟩ تدمر په بېدیا کې جوړ کړ، او ⟨את⟩ ټول هغه ذخیرې ښارونه چې هغه په حامات کې جوړ کړي وو.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "جوړ يې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تدمر"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "تدمر"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بېدیا کې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ټول ذخیرې ښارونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ذخیرې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوړ کړي وو"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "په حامات کې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:01.962436911Z",
+  "model": "glm-5.3"
+}

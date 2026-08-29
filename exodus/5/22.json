@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او موشې بېرته یاهوه ته راغی او ويې ويل: ادونای، ولې دا قوم بدې ته ورسېدې؟ ولې مې وليږې؟",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "او بېرته راغی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ويل"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "بدې ته ورسېدې"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "دا قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "مې وليږې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:16:10.094266875Z",
+  "model": "glm-5.3"
+}

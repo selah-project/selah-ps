@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او موشې — د الوهیم سړی — د هغه زامن د لاوي د قبیلې پر نوم وبلل شول.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "او موشې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامن"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ونه بلل شول"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:47.762625762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 64,
+  "translation": "یاهوه، ډېر غوسه مه کوه، او د گناه د تل لپاره مه ياده کوه؛ ګوره، اوس وګوره — موږ ټول ستا قوم يوو.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "غوسه کوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ياده کوه"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "اوس وګوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "—"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا قوم"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "موږ ټول"
+    }
+  ],
+  "timestamp": "2026-08-28T23:27:46.771134765Z",
+  "model": "glm-5.3"
+}

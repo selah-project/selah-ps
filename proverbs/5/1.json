@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زما زویه، زما په حکمت غوږ وږده، خپل غوږ زما په پوهېې ته ماته.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زما زویه"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "زما په حکمت"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "غوږ وږده"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "زما په پوهې"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ماته (کړه)"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "خپل غوږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:10.917627122Z",
+  "model": "glm-5.3"
+}

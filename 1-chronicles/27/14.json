@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 27:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "یولسم د یولسمې میاشتې لپاره بِناياهاهاپِرعاتوني، د افرایم له زامنو؛ او پر ډلې يې شل او څلور زره وو.",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "یولسم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "د یولسمې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "החדש",
+      "gloss": "میاشتې"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "بِنایا"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "هاپِراعاتوني"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "ډلې يې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:11.802009568Z",
+  "model": "glm-5.3"
+}

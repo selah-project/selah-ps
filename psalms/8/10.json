@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "یاهوه، ادونای موږ، څومره لوې <⟨دی⟩> ستا نوم په ټوله ځمکه کې!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ادونای موږ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "لوې"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:58.768288052Z",
+  "model": "glm-5.3"
+}

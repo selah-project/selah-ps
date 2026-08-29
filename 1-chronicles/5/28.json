@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د قِهات زامن: عَمرام، یِصهار، حِبرون او عُزیایل.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عَمرام"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِصهار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "حِبرون"
+    },
+    {
+      "surface": "ועזיאل",
+      "gloss": "عُزیایل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:58.652948329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "چې ځې، ستا ګامه به تنګه نه شي، او که منډه وهې، به نه ټېټېږې.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "چې ځې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "به تنګه شي"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "ستا ګامه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "منډه وهې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "به ټېټېږې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:27.247150183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ته ⟨خپل ځان⟩ په ورېځه پټ کړی دې، چې دعا تېره نشي.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "پټ کړی دې"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "په ورېځه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل ځان ته"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "د تېرېدو"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:20.581397158Z",
+  "model": "glm-5.3"
+}

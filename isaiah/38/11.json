@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 38:11",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ما وویل: یاه به نه وینم — یاه! — د ژوندیو په ځمکه کې؛ نور به انسان نه ګورم د هغو سره چې د חדל اوسیدونکي دي.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "به وینم"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "د ژوندیو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "به ګورم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "עם",
+      "gloss": "د ... سره"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "اوسیدونکي"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "چدل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:44.654011374Z",
+  "model": "glm-5.3"
+}

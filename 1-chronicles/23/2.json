@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او ⟨את⟩ د یسرایل ټول مشران، کاهنان او لویان يې راټول کړل.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "راټول کړل يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یسرایل ټول مشران"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "او کاهنان"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "او لویان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:53.248128774Z",
+  "model": "glm-5.3"
+}

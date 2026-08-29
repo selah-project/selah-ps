@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "خو زړور به زړورې طرحې جوړوي، او هغه به پر زړورو کارونو ولاړ وي.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "خو زړور"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "زړورې طرحې"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "زړورو کارونو"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ولاړ وي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:40.841999054Z",
+  "model": "glm-5.3"
+}

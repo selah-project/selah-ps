@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 8:22",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "بیا يې دویم ⟨את⟩ قوچ، د سپېناولو قوچ، وړاندې کړ، او اهرون او زامنو يې ⟨את⟩ خپل لاسان د قوچ پر سر کېښودل.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "وړاندې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوچ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "איל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "د سپېناولو"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "کېښودل"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "او زامنو يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل لاسان"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "خپل لاسان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:37:53.941204682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "پنځم شِفتیا، د اَبیټل له خوا؛ شپږم یِترعام، د هغه د مېرمنې ایګله له خوا.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پنځم"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفتیا"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "د اَبیټل له خوا"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شپږم"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "یِترعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "د ایګله له خوا"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "د هغه مېرمن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:03.141918955Z",
+  "model": "glm-5.3"
+}

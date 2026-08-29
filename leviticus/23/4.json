@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "دا د یاهوه ټاکلي وختونه دي، مقدسې غونډې چې تاسو يې ⟨את⟩ په خپل وخت اعلانوئ.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ټاکلي وختونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "مقدسې غونډې"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "تاسو اعلانوئ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "په خپل وخت"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "په خپل وخت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:32.837993662Z",
+  "model": "glm-5.3"
+}

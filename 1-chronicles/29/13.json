@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 29:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او اوس، زموږ الوهیم، موږ تا ته مننې وایو او د ستا د جلال نوم ستایو.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "מודים",
+      "gloss": "مننې وایو"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "ומהללים",
+      "gloss": "او ستایو"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "د نوم"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "د ستا د جلال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:07.961578583Z",
+  "model": "glm-5.3"
+}

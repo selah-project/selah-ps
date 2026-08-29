@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او دا د دیشان زامن وو: حِمدان او اشبان او یتران او کران.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دیشان"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "حِمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "او اشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "او یتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "او کران"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:07.391886518Z",
+  "model": "glm-5.3"
+}

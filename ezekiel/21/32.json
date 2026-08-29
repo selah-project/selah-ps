@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 21:32",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "خرابه، خرابه، خرابه به يې کړم؛ دا هم داسې نه وه، تر هغه چې هغه راشي چې حکم يې دی، او زه به هغه ته يې وروبښم.",
+  "tokens": [
+    {
+      "surface": "עוה",
+      "gloss": "خرابه"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "خرابه"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "خرابه"
+    },
+    {
+      "surface": "אשימנה",
+      "gloss": "به يې کړم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر هغه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "چې راشي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "او به هغه ته يې وروبښم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:07.692806853Z",
+  "model": "glm-5.3"
+}

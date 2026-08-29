@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ایا په زما ژبه کې زیاتي ده؟ ایا زما تال فتنې نه پېژني؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ایا … ده"
+    },
+    {
+      "surface": "بלשוני",
+      "gloss": "په زما ژبه کې"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "زیاتي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "زما تال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "فتنې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:01.431965184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او که یو سړی د انسان هر نفس ووهي، مړینه به مړ شي.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او که یو سړی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ووهي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړینه"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مړ شي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:02.627791569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او الوهیم له هغه څخه پورته ولاړ، په هغه ځای کې چې له هغه سره يې خبرې کړې وې.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "پورته ولاړ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "له هغه څخه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "په ځای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې کړې"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "له هغه سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:37.765405129Z",
+  "model": "glm-5.3"
+}

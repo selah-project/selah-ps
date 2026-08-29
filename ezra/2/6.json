@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د فَحات-موأب زامن، د یِشوع او یوآب له زامنو، دوې زره اته سوه او دولس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "فَحات"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موأب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "له زامنو"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِشوع"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اشتو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:40.346295722Z",
+  "model": "glm-5.3"
+}

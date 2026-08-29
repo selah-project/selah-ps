@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "غوا (خوګ\/ښځينه بېړه) به په خپل د غنمو رېبلو (دېرش) کې خوله نه بنده کړې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "خوله بنده کړې"
+    },
+    {
+      "surface": "שור",
+      "gloss": "غوا"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "په غنمو رېبلو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:06.404559020Z",
+  "model": "glm-5.3"
+}

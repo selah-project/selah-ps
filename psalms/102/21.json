@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "د بندي د نارې اورېدلو ته، د مرګ د زامنو د خلاصولو لپاره،",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "اورېدلو ته"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "د نارې"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "بندي"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "د خلاصولو لپاره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "مرګ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:35.425243760Z",
+  "model": "glm-5.3"
+}

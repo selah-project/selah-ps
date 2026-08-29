@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د بِریعه زامن: حېبېر او مَلکيایل — هغه ⟨دی⟩ د بِرزوت پلار.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د زامنو"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بِرییه"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "حېبېر"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "او مَلکيایل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "بِرزوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:55.866094481Z",
+  "model": "glm-5.3"
+}

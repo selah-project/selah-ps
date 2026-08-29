@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د بصیرت درې بار (مَشا): اوس دې څه شوي چې ټول دې بامونو ته پورته شوی یې؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار (مَشا)"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "درې"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "بصیرت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "پورته شوی یې"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ټول دې"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "بامونو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:08.441117612Z",
+  "model": "glm-5.3"
+}

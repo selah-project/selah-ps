@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 19:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "نو همداسې، نن ورځې راروان دي — د یاهوه خبره — او دا ځای به بیا توپت او د هینوم زوی دره ونه‌بلل شي، بلکې د وژنې دره به وبلل شي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو همداسې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "نن"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "באים",
+      "gloss": "راروان دي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "به وبلل شي"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "دا ځای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "توپت"
+    },
+    {
+      "surface": "וגיא",
+      "gloss": "او دره"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "د هینوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "גיא",
+      "gloss": "دره"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "د وژنې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:36:32.083240771Z",
+  "model": "glm-5.3"
+}

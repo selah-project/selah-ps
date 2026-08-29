@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "که څوک ډېر کاله ژوندی وي، په ټولو کې دې خوښ شي، او ⟨את⟩ د تيارو ورځې په ياد ولري، ځکه ډېرې وي؛ هر څه چې راځي بې ګټې والی دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ژوندی وي"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "په ټولو کې"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوښ شي"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "او په ياد ولري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ورځې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "د تيارو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "وي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه چې"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بې ګټې والی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:45.165776475Z",
+  "model": "glm-5.3"
+}

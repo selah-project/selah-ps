@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "زما اوږې راته خواړه شوي دي ورځ او شپه، په داسې حال کې چې ټول ورځ راته وايي: «چېرې دی ستا الوهیم؟»",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "شوي دي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "زما اوږې"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "وלילה",
+      "gloss": "او شپه"
+    },
+    {
+      "surface": "بאמר",
+      "gloss": "په ویلو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "چېرې"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:38.578784005Z",
+  "model": "glm-5.3"
+}

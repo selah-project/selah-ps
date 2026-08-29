@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د دوی اوښان څلور سوه دېرش او پنځه وو، د دوی خره شپږ زره اوه سوه او شل.",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "د دوی اوښان"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "خره"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:43.835766177Z",
+  "model": "glm-5.3"
+}

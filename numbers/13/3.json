@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او موشې ⟨את⟩ هغوی د پاران له بیابانه د یاهوه په خوله ولېږل — ټول سړي وو، د یسراییل زامنو سرونه، هغوی وو.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "او…ولېږل"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "هغوی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "له بیابانه"
+    },
+    {
+      "surface": "پארן",
+      "gloss": "پاران"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرونه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د…زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی وو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:35.567237749Z",
+  "model": "glm-5.3"
+}

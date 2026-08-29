@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "په خپلو سترګو کې حکيم مه اوسه؛ له یاهوه وويرېږه ⟨את⟩، او له شر څخه ليرې ګرځه.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "اوسه"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکيم"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "په خپلو سترګو کې"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "وويرېږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "او ليرې ګرځه"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "له شر څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:25.144648220Z",
+  "model": "glm-5.3"
+}

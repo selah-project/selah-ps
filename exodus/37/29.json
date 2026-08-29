@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هغه ⟨את⟩ د مسح غوټۍ غوټی غوټی غوټی",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او هغه جوړ کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د مسح تېل"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تېل"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "د مسح"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د عطرونو بخور"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بخور"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "د عطرونو"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "د کار"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "د عطرونو جوړوونکي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:21.790187195Z",
+  "model": "glm-5.3"
+}

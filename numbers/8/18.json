@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ما ⟨את⟩ لویان واخیستل د یسرائیل د زامنو د هر لومړيزي پر ځای.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "او ما واخیستل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "د پر ځای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "لومړيزي"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:53.651423097Z",
+  "model": "glm-5.3"
+}

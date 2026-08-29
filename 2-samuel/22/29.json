@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ځکه چې ته زما څراغ يې، ای یاهوه، او یاهوه زما تیاره روښانه کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "زما څراغ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "او یاهوه"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "روښانه کوي"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "زما تیاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:24:47.425611341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ⟨את⟩ کور يې د ګران بيد په ډاډونو د ښکلا لپاره سينګار کړی؛ او زر يې د پړوايم زر و.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "سينګار يې کړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کور"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "بېږی"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ګران"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "د ښکلا لپاره"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "او زر"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "پړوايم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:59:11.031135421Z",
+  "model": "glm-5.3"
+}

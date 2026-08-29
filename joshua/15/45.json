@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "عِقرون د دې ښارګوټي او د دې کلي سره؛",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "عِقرون"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "او د دې ښارګوټي"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "او د دې کلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:47.703469524Z",
+  "model": "glm-5.3"
+}

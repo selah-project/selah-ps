@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او بالاق ⟨את⟩ بېلعام د فغور پر سر ولاېه، هغه چې پر دښتې مخې ګوري.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "او ولاېه"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بېلعام"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بېلعام"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "د فغور"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "هغه چې ګوري"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "دښتې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:40.235262064Z",
+  "model": "glm-5.3"
+}

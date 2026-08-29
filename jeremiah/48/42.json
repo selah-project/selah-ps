@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او موآب به له ملت څخه ړنګ شي، ځکه چې هغه پر یاهوه سترګه وتلې غټوالی کړی.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "او ړنګ شي"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "له ملت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "غټوالی یې کړی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:05.274708463Z",
+  "model": "glm-5.3"
+}

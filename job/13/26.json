@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 13:26",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "چې پر ما تلخ thing لیکې او د زما د ځوانۍ نارواوې مېراث راکوې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "لیکې"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "מררות",
+      "gloss": "تلخ thing"
+    },
+    {
+      "surface": "ותורישני",
+      "gloss": "مېراث راکوې"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "نارواوې"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "د ځوانۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:56.290158075Z",
+  "model": "glm-5.3"
+}

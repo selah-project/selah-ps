@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "خپل زړه انضباط ته راولې، او خپل غوږونه د پوهې خبرو ته.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "راولې"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "انضباط ته"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "خپل زړه"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "او خپل غوږونه"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "خبرو ته"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "د پوهې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:41.999505660Z",
+  "model": "glm-5.3"
+}

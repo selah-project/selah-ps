@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "څوک د حکیم په څېر دی؟ او څوک د یوې خبرې پېژندنه (پېشر) پېژني؟ د انسان حکمت يې مخ روښانه کوي، او د مخې زور به بدل شي.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "د حکیم په څېر"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "پېژندنه (پېشر)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "د یوې خبرې"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "روښانه کوي"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "د مخې"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "به بدل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:42.397650704Z",
+  "model": "glm-5.3"
+}

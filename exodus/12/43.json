@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او یاهوه موشې او اهرون ته وويل: «دا د پسح فرض دی — هر بهرنی زوی به ترې نه خوري.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "او اهرون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فرض"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "د پسح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بهرنی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ترې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:18:25.580402269Z",
+  "model": "glm-5.3"
+}

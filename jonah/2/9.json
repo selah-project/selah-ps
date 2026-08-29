@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "چې دروغجن پاپيانې ساتي، خپل خېسېد پرېږدي.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "پاپيانې"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "خپل خېسېد"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "پرېږدي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:51.910006535Z",
+  "model": "glm-5.3"
+}

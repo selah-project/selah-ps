@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او یاهوه له موشې او له اهرون سره وویل چې:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او له"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:40.081086285Z",
+  "model": "glm-5.3"
+}

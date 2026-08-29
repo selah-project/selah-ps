@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او اوس د اسرائیلو الوهیم یاهوه، دا ژمنه دې پر ځای شي چې ته دې خپل بنده داوېد ته وړې.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "پر ځای شي"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "دا ژمنه دې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "وړې"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "خپل بنده"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوېد ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:59:27.447337812Z",
+  "model": "glm-5.3"
+}

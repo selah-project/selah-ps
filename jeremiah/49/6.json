@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "او له دې وروسته زه د عمون زامنو ⟨את⟩ بندۍ بېرته راګرځوم — د یاهوه نېغ.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "او له دې وروسته"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "راګرځوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندۍ"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "بندۍ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نېغ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:30.912232844Z",
+  "model": "glm-5.3"
+}

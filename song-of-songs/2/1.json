@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زه د شارون ګل یم، د درو شوڼو زMBOL…",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ګل"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "د شارون"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "شوڼۍ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "د درو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:33.807970451Z",
+  "model": "glm-5.3"
+}

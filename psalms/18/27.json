@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "له پاک سره به ځان پاک ښکارې؛ خو له کج سره به تاو ښکارې.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "پاک به ښکارې"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "خو له ... سره"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کج"
+    },
+    {
+      "surface": "תתפתل",
+      "gloss": "تاو به ښکارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:16.113321392Z",
+  "model": "glm-5.3"
+}

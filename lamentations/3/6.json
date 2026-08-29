@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "په تیارو کې یې مې کېناوه، لکه ⟨د⟩ د پخوانیو زمانو مړي.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "په تیارو کې"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "کېناوه یې مې"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "لکه مړي"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "د پخوانیو زمانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:09.737422730Z",
+  "model": "glm-5.3"
+}

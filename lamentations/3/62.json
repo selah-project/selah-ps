@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د زما پاڅونکو شونډې او د دوی چوپتیا کول زما پر ضد ټول ورځ.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "زما پاڅونکو د"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "او د دوی چوپتیا کول"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما پر ضد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:34.258322638Z",
+  "model": "glm-5.3"
+}

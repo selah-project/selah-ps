@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "بیلام الوهیم ته وویل: بالاق د څېپور زوی، د موآب پاچا، ما ته استولی دی،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بالاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "څېپور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "استولی دی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ما ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:18.302569740Z",
+  "model": "glm-5.3"
+}

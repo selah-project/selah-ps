@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د حصیروت څخه وکوچېدل، او په رِتمه کې په ډېره کې شول.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وکوچېدل"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "د حصیروت څخه"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "په ډېره کې شول"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "په رِتمه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:02.395864236Z",
+  "model": "glm-5.3"
+}

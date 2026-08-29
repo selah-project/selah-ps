@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او دا د ییتسحاق نسلونه دي، د اوراهام زوی؛ اوراهام ⟨את⟩ ییتسحاق وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلونه"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "د اوراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ییتسحاق"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ییتسحاق"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:39.476280890Z",
+  "model": "glm-5.3"
+}

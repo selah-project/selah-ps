@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "دا ⟨هغه⟩ شریعت دی: کله چې يو انسان په خیمه کې مړ شي، هر چا چې خیمې ته ننوزي او هر هغه څه چې په خیمه کې وي، اوه ورځې ناپاک دي.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مړ شي"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "په خیمه کې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "ننوتونکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "په خیمه کې"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک وي"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:55.394186623Z",
+  "model": "glm-5.3"
+}

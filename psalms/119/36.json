@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زما زړه ستا ګواهیو ته مېل کړه، او نا عادل ګټې ته مېل مه يې کړه.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "مېل کړه"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ستا ګواهیو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "نا عادل ګټې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:45.768945290Z",
+  "model": "glm-5.3"
+}

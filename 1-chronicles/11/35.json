@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "احیام د ساکر زوی ⟨ه⟩حراری، الیفال د اور زوی،",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "احیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ساکر"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "حراری"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "الیفال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:20.543519161Z",
+  "model": "glm-5.3"
+}

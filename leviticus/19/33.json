@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او که یو غریب ⟨את⟩-له تاسې سره ستاسو په ځمکه کې اوسېږي، ⟨את⟩ هغه مه ظلموئ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "اوسېږي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ له تاسې سره",
+      "marks": "له تاسې سره"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ستاسو په ځمکه کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ظلموئ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:28.610264943Z",
+  "model": "glm-5.3"
+}

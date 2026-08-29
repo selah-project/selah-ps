@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "تر کله به نښه ووینم، د شوفر غږ واورم؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ووینم"
+    },
+    {
+      "surface": "נס",
+      "gloss": "نښه"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "واورم"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفر"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:46.543368333Z",
+  "model": "glm-5.3"
+}

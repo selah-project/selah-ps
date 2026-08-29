@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او بېرَک ورته وويل: «که ته راسره لاړه شې، زه به لاړ شم؛ که ته راسره نه لاړه شې، زه به نه لاړ شم.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "بېرَک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ته لاړه شې"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "راسره"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "زه به لاړ شم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ته لاړه شې"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "راسره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "زه به لاړ شم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:24:25.669580526Z",
+  "model": "glm-5.3"
+}

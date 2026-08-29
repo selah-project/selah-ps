@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "obadiah 1:13",
+  "book": "obadiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د زما د قوم په دروازه مه ننوه د هغوی د مصیبت په ورځ؛ هم ته مه یې وګوره د هغه په بدمرغۍ، د هغه د مصیبت په ورځ؛ او مه یې پر هغه مال لاس پرهېوه د هغه د مصیبت په ورځ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ننوه"
+    },
+    {
+      "surface": "בשעر",
+      "gloss": "په دروازه"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما د قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "د هغوی د مصیبت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "د هغه په بدمرغۍ"
+    },
+    {
+      "surface": "ביوו",
+      "gloss": "",
+      "note": "surface corrected below"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "د هغه د مصیبت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תשלחנה",
+      "gloss": "لاس پرهېوه"
+    },
+    {
+      "surface": "בחילו",
+      "gloss": "پر هغه مال"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "د هغه د مصیبت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:16:01.103505225Z",
+  "model": "glm-5.3"
+}

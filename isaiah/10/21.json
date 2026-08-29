@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "پاتې‌شوني به راستون شي، د یعقوب پاتې‌شوني، ‏⟨את⟩ ایل ګېبور ته.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "پاتې‌شوني"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "به راستون شي"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "پاتې‌شوني"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "د یعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ګېبور"
+    }
+  ],
+  "timestamp": "2026-08-28T23:14:22.163605483Z",
+  "model": "glm-5.3"
+}

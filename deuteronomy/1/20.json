@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ما تاسو ته ووېل: تاسو د اومري غره ته رسېدلي ياست، هغه چې یاهوه زموږ الوهیم موږ ته راکوي.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او ما ووېل"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "تاسو رسېدلي ياست"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "د اومري"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "راکوي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "موږ ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:41.133618268Z",
+  "model": "glm-5.3"
+}

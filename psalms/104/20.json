@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "ته تیاره ږدې، نو شپه کېږي؛ په هغه کې د ځنګل ټول څاروي خزېږي.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ته ږدې"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تیاره"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "نو کېږي"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه کې"
+    },
+    {
+      "surface": "תרمש",
+      "gloss": "خزېږي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "יער",
+      "gloss": "د ځنګل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:18.749150467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "چې لوی کارونه کوي او پلټنه يې نه شې، عجیب کارونه بې له شمېرنې.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "لوی کارونه"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نه شې"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "پلټنه"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "عجیب کارونه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېرنې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:46.365522273Z",
+  "model": "glm-5.3"
+}

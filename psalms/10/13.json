@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ولې بدکار الوهیم بې درنه؟ د هغه په زړه کې يې وويل: “ته به هېڅکله نه پلټېې.”",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "د چ لپاره"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "بې درنه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "د هغه په زړه کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "به پلټېې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:34.166707925Z",
+  "model": "glm-5.3"
+}

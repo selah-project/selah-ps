@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ځکه چې له بندخانې ⟨د بندیانو له کوره⟩ ووت چې پاچا شي، که څه هم په خپله پاچاهۍ کې بېوزله زیږېدلی و.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "له کوره"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "د بندیانو"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "چې پاچا شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که څه هم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "په پاچاهۍ کې يې"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "زیږېدلی"
+    },
+    {
+      "surface": "רש",
+      "gloss": "بېوزله"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:59.911997690Z",
+  "model": "glm-5.3"
+}

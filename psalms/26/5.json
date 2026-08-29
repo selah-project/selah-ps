@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "زه د بدکارانو ټولګه وهمه، او له ظالمانو سره به نه کښېنم.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "وهمه"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ټولګه"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "او له … سره"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ظالمانو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "کښېنم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:02.818134412Z",
+  "model": "glm-5.3"
+}

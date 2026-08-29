@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "الوهیم پر ملتونو واکمني کوي؛ الوهیم پر خپله سپېڅلېې چوکۍ کښېناست.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "واکمني کوي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "کښېناست"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "چوکۍ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "خپله سپېڅلېې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:48.911764931Z",
+  "model": "glm-5.3"
+}

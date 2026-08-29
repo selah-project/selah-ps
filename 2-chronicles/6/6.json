@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "خو ما یروشلایم وټاکه چې زما نوم هلته وي، او ما داوېد وټاکه چې د زما قوم اسرائیلو پر سر وي.",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "خو ما وټاکه"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "چې وي"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "زما نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "او ما وټاکه"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "چې وي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما قوم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:47.787197466Z",
+  "model": "glm-5.3"
+}

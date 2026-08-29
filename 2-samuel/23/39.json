@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "اوریا دی حِتیتي — ټول دېرش او اوه.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوریا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "دی حِتیتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "او اوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:36.512675922Z",
+  "model": "glm-5.3"
+}

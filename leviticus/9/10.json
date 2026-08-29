@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨את⟩ غوړ، ⟨את⟩ ګردې او ⟨את⟩ د كبې extra برخه د ګناه قربانۍ څخه هغه پر قربانگاه سوځولې کړه، لکه څنګه چې یاهوه موشې ته حکم کړی و ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "غوړ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ګردې"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ګردې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د كبې extra برخه"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "د كبې extra برخه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "څخه"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "د كبې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "د"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ګناه قربانۍ"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "سوځولې کړه"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "پر قربانگاه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:43.192155039Z",
+  "model": "glm-5.3"
+}

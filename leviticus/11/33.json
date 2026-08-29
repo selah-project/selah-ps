@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هر د خټې لوښی چې د دوی څخه يې څه دننه ته پرې ولوېږي، هر څه چې د دننه پکې وي ناپاکېږي، او ⟨את⟩ هغه به ماتوئ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښی"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "د خټې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "د دوی څخه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "دننه ته"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "د دننه پکې"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاکېږي"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (لوښی)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "به ماتوئ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:48.582703267Z",
+  "model": "glm-5.3"
+}

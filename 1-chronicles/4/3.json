@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او دا د عېیتام د پلار (اولاد) وو: یزرعیل، یِشما او یِدبش؛ د دوی خور تسِلَلپوني نومېده.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "د پلار"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عېیتام"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "یزرعیل"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "یِشما"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "یِدبش"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "د دوی خور"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "تسِلَلپوني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:39.826884745Z",
+  "model": "glm-5.3"
+}

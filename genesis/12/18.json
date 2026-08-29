@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او فیرعون ابرام ته وغوښت او ویې ویل: دا څه ما سره وکړلې؟ ولې ما ته ونه وایېدل چې هغه دا ⟨⟨زما⟩⟩ ښځه ده؟",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "وغوښت"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فیرعون"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ابرام ته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "وکړلې"
+    },
+    {
+      "surface": "لי",
+      "gloss": "ما سره"
+    },
+    {
+      "surface": "لמה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "وایېدل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ستا ښځه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:48.471073772Z",
+  "model": "glm-5.3"
+}

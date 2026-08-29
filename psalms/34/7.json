@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "دا بېوزلي غږ وکړ، او یاهوه واورېد، او له ټولو ناورینونو یې خلاص کړ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بېوزلي"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "غږ وکړ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "او یاهوه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واورېد"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "او له ټولو"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "ناورینونو یې"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "خلاص کړ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:47.927453754Z",
+  "model": "glm-5.3"
+}

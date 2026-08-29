@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "رښتيا واخله او يې مه خرڅوه — همدا حکمت، روزنه او پوهه.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "رښتيا"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "واخله"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "خرڅوه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "او روزنه"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "او پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:05.700522617Z",
+  "model": "glm-5.3"
+}

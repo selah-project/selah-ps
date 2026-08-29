@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 39:24",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "په بوژن او په غوسه ځمکه څښي؛ باور نه کوي چې د شپور غږ دی.",
+  "tokens": [
+    {
+      "surface": "ברעש",
+      "gloss": "په بوژن"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "او په غوسه"
+    },
+    {
+      "surface": "יגמא",
+      "gloss": "څښي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "باور کوي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شپور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:53.003818391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "مخېروونکی وشړه، نو شخړه به ووځي، او محکمه او سپکاوی به درېږي.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "وشړه"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "مخېروونکی"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نو به ووځي"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "شخړه"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "او به درېږي"
+    },
+    {
+      "surface": "דין",
+      "gloss": "محکمه"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "او سپکاوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.315547615Z",
+  "model": "glm-5.3"
+}

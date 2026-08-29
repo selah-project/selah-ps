@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د کج لار لار کې زغمې او دامونه دي؛ خپله نفس ساتونکی له هغوی لرې ګرځي.",
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "زغمې"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "دامونه"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کج لار"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ساتونکی"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "خپله نفس"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "لرې ګرځي"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "له هغوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:38.189385199Z",
+  "model": "glm-5.3"
+}

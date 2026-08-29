@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او ياد دې کړې چې ته په مِتسرایم کې غلام وې؛ او دې ساتلې او دې کړې ⟨את⟩ دا فرض.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "او ياد دې کړې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وې"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "په مِتسرایم کې"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "او دې ساتلې"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "او دې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دې فرض"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "فرض"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:28.374192616Z",
+  "model": "glm-5.3"
+}

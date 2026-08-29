@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "اګر تاسو ووایاست: نه يې اوسو په دې ځمکه — لکه چې د یاهوه ستاسو د الوهیم غږ ونه اورېدو،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اګر"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ووایاست"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "اوسو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "لکه چې"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واورېدو"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:27.212199321Z",
+  "model": "glm-5.3"
+}

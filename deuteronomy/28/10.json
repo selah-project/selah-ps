@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او د ځمکې ټول قومونه به وویني چې د یاهوه نوم پر تا ایښودل شوی دی، او له تا به وېرېږي.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "او به وویني"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومونه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ایښودل شوی دی"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "او به وېرېږي"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له تا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:28.326227956Z",
+  "model": "glm-5.3"
+}

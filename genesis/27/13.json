@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او مور يې ورته وويل: زوی می، پر ما دې لعنت وي؛ يوازې زما غږ واوره او لاړ شه، ماته راوړه.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مور يې"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "קללתך",
+      "gloss": "لعنت دې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زوی می"
+    },
+    {
+      "surface": "אך",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "او لاړ شه"
+    },
+    {
+      "surface": "קח",
+      "gloss": "راوړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:07.371587743Z",
+  "model": "glm-5.3"
+}

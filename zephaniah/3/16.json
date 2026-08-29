@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "پر هغه ورځ به یروشلایم ته وويل شي: مه وېرېږه! اې تسیونه، ستا لاسونه دې لېوسه شي!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "پر هغه ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هماغه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "به وويل شي"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "وېرېږه"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "اې تسیونه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "لېوسه شي"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ستا لاسونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:56.352680711Z",
+  "model": "glm-5.3"
+}

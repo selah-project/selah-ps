@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د یاهوه سترګې پوهه ساتي، او د خیانت کوونکي خبرې ړنګوي.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "او ړنګوي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "د خیانت کوونکي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.315793255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او له سکوته يې سفر وکړ او په ایتام کې پټې وليدې، چې د شنې په درېزه کې ده.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "سفر يې وکړ"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "له سکوته"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پټې وليدې"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "په ایتام کې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "په درېزه کې"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "د شنې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:12.867368620Z",
+  "model": "glm-5.3"
+}

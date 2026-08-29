@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "ولې وايي ملتونه: «چېرته دی، نا، د دوی الوهیم؟»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "איה",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "נא",
+      "gloss": "نا"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "د دوی الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:48.030733600Z",
+  "model": "glm-5.3"
+}

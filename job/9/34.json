@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 9:34",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "که خپله ګدان له ما لرې کړي او وېره يې مې مه وېروي.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "لرې کړي"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "له ما"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "خپله ګدان"
+    },
+    {
+      "surface": "ואמתو",
+      "gloss": "او وېره يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "مې وېروي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:06.879786902Z",
+  "model": "glm-5.3"
+}

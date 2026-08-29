@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او یو ګڼ ګډ بهیر هم ⟨دوی⟩ سره پورته شو، او پسونه او غواوي — ډېر دروند مالونه.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ګډ بهیر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ګڼ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پورته شو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی سره"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "او پسونه"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "او غواوي"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مالونه"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ډېر دروند"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "نهایت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:18:34.952889662Z",
+  "model": "glm-5.3"
+}

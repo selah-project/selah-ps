@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "نو ژوند یې له ډوډۍ کرږه کوي، او نفس یې له خوښ خواړو.",
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "کرږه کوي"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ژوند یې"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "له ډوډۍ"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "او نفس یې"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "له خواړو"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "خوښ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:18.928885723Z",
+  "model": "glm-5.3"
+}

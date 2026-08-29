@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د پلار برنډۍ يې په تا کې بربنډه کړه؛ د ناداستانه ښځې ناپاکي يې په تا کې ځوروله.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برنډۍ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "د پلار"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "بربنډه کړه"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا کې"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "ناپاکي"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "د ناداستانه ښځې"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ځوروله"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:14.492227849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 18:24",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او کفار-هعموني، او هعفني، او ګبع — دولس ښارونه او د دوی کلي.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "او کفار"
+    },
+    {
+      "surface": "העמני",
+      "gloss": "هعموني"
+    },
+    {
+      "surface": "והעפני",
+      "gloss": "او هعفني"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "او ګبع"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لسه"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "او د دوی کلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:03.355106885Z",
+  "model": "glm-5.3"
+}

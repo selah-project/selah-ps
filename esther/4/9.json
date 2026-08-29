@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "هاتک راغی او اېستر ته يې ⟨את⟩ د مُردخای خبرې وويلې.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "התך",
+      "gloss": "هاتک"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "وويلې"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "اېستر ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د مُردخای خبرې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردخای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:26:29.031866791Z",
+  "model": "glm-5.3"
+}

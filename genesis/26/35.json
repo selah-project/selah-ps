@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او دا د یتسهاک او د ریبکه د روح لپاره تکلیف وې.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "او وې"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تکلیف"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "د روح"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "د یتسهاک لپاره"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "او د ریبکه لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:27.201095150Z",
+  "model": "glm-5.3"
+}

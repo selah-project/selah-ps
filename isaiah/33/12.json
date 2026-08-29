@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او ملتونه به د سوځول شوې چونا په څېر وي؛ غاښ-bootان به لکه پرې کېدلي، په اور کې بل شي.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "او … وي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "د سوځول شوې"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "چونا"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "غاښ-bootان"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "لکه پرې کېدلي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور کې"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "بل شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:23.220453662Z",
+  "model": "glm-5.3"
+}

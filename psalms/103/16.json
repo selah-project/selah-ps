@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 103,
+  "translation": "ځکه چې باد پرې تېرېږي او هغه نور نه وي، او د هغه ځای نور نه شي پېژندلی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "تېرېږي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "او هغه نور نه وي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יכירنו",
+      "gloss": "پېژندلی شي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "د هغه ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:56.490000972Z",
+  "model": "glm-5.3"
+}

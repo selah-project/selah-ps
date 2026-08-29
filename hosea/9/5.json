@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "څه به کوئ د ټاکلي وخت په ورځ، او د یاهوه د اختر په ورځ؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "به کوئ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د ټاکلي وخت"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "او په ورځ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "د اختر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:12:03.479797439Z",
+  "model": "glm-5.3"
+}

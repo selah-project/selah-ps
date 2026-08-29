@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د شمعون د قبیلې له خوا: شافټ د حوري زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې له خوا"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافټ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "حوري"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:20.260763193Z",
+  "model": "glm-5.3"
+}

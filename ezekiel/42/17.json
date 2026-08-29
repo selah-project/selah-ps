@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "د شمال خوا يې ومېده، پنځه سوه قامې، د اندازه کولو په قامه، چاپېر.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ومېده"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "د شمال"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قامې"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "په قامه"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "د اندازه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:37.891918269Z",
+  "model": "glm-5.3"
+}

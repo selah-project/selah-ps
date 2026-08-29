@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 11:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او پاتې‌شونې به ورته پاتې نه شي، ځك زه بدي د اناتوت خلكو ته راوړم — د هغوی د محاسبې كال.",
+  "tokens": [
+    {
+      "surface": "ושארית",
+      "gloss": "او پاتې‌شونې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "پاتې شي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځك"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "زه راوړم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "د خلكو"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "اناتوت"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "كال"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "د هغوی د محاسبې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:32:56.516298066Z",
+  "model": "glm-5.3"
+}

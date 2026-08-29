@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 2:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې زما قوم دوه بدۍ کړې دي: ما د ژوندیو اوبو سرچینه پرېښوده، او ځان ته يې کنۍ وکنې — ماتې کنۍ، چې اوبه نشي ساتلې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړې دي"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما قوم"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "پرېښوده"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "سرچینه"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندیو"
+    },
+    {
+      "surface": "לחצב",
+      "gloss": "وکنې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "בארות",
+      "gloss": "کنۍ"
+    },
+    {
+      "surface": "בארת",
+      "gloss": "کنۍ"
+    },
+    {
+      "surface": "נשברים",
+      "gloss": "ماتې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نشي"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ساتلې"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:28:58.976146513Z",
+  "model": "glm-5.3"
+}

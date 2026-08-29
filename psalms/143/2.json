@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 143,
+  "translation": "او مه راځه د ⟨┌خپل┐⟩ بنده سره په محکمه کې، ځکه چې ستا د مخ په وړاندې هېڅ ژوندی نه ثابتېږي righteous.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "راځه"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "په محکمه کې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنده"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "خپل بنده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "نه ثابتېږي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ستا د مخ په وړاندې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:40.343302349Z",
+  "model": "glm-5.3"
+}

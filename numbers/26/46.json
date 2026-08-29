@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او د اشر د لور نوم سْراح و.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "او نوم"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اشر"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "سْراح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:51.520778453Z",
+  "model": "glm-5.3"
+}

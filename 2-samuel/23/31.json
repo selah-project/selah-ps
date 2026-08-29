@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "اَبي-عَلبون عَرَباتی؛ عَزماوېت بَرحُمی،",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "اَبي-"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "عَلبون"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "عَرَباتی"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "عَزماوېت"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "بَرحُمی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:39.196157579Z",
+  "model": "glm-5.3"
+}

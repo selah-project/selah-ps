@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "⟨هغه⟩ چې مشران بېلوي او د ځمکې قاضیان يې لکه هېڅ کړي دي.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "چې بېلوي"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "قاضیان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "لکه هېڅ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړي دي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:21:18.542316971Z",
+  "model": "glm-5.3"
+}

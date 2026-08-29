@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "وګورئ، ورځې راځي، د یاهوه خبره، او زه به د یشارېل کور او د یهودا کور د انسان تخم او د څاروي تخم وکرم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "באים",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د … خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "او زه به … وکرم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یشارېل کور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یشارېل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د یهودا کور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "او تخم"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "څاروي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:47.904151638Z",
+  "model": "glm-5.3"
+}

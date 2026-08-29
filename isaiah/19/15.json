@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او مِتسرایم ته به هېڅ کار نه وي چې سر یا لکۍ، د خرما پاڼه یا قاموس يې وکړي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "مِتسرایم ته"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "يې وکړي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "یا لکۍ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "د خرما پاڼه"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "یا قاموس"
+    }
+  ],
+  "timestamp": "2026-08-28T23:15:21.420823051Z",
+  "model": "glm-5.3"
+}

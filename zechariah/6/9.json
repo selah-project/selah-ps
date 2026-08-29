@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د یاهوه کلام راته راغی، چې ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:02.083419810Z",
+  "model": "glm-5.3"
+}

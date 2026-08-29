@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "دا واورئ، تاسو چې بېوزلي تېرېئ او د ځمکې خواران ختموئ:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "چې تېرېئ"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "بېوزلي"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "او ختموئ"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "خواران"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:24.033153699Z",
+  "model": "glm-5.3"
+}

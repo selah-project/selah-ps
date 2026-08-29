@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ورته ووایه: زه ژوندی یم — د یاهوه فرمایش — که نه، هغسی چې تاسو په زړونو کې وویل، همداسې به تاسو ته وکړم.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فرمایش"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "هغسی چې"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "وویل تاسو"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "په زړونو کې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "به وکړم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:40.081411982Z",
+  "model": "glm-5.3"
+}

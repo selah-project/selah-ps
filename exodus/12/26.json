@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او داسې به شي، چې کله ستاسو زامن درته ووایي: دا عبادت درته څه معنا لري؟",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او داسې به شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ووایي"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "درته"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ستاسو زامن"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "دا عبادت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "درته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:53.246066272Z",
+  "model": "glm-5.3"
+}

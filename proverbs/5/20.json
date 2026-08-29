@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او ولې، زما زويه، په بېمارکې مې ومستېږه، او د بهرنۍ غېږ ونيوې؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "او ولې"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "مې ومستېږه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زما زويه"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "په بېمارکې"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "او غېږه ونيوې"
+    },
+    {
+      "surface": "חק",
+      "gloss": "غېږ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "د بهرنۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:38.854977358Z",
+  "model": "glm-5.3"
+}

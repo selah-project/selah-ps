@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او عیسو د څلوېښت کلن و چې ښځه یې واخیسته: یِهودیت د بېري د حِتی لور، او ⟨את⟩ بَشمت د ایلون د حِتی لور.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زاوی"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "واخیسته"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِهودیت"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "یِهودیت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "بېري"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بَشمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَشمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "ایلون"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:44.132327170Z",
+  "model": "glm-5.3"
+}

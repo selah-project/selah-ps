@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "او اسمانونه به د هغه عدالت اعلان کړي، ځکه الوهیم خپله قاضي دی. سِلاه.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "اعلان کړي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "د هغه عدالت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خپله"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:54.911656314Z",
+  "model": "glm-5.3"
+}

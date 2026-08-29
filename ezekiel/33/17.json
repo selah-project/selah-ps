@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 33:17",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د ستا د خلکو زامنو ویل: د ادونای لار برابره نه ده؛ خو د دوی خپله لار برابره نه ده.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "او ویل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "د ستا د خلکو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "برابره ده"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "خو د دوی"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "خپله لار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "برابره ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:02:32.306939236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "اسراییل یوسف ته وویل: دا ځل که مړ شوم ⟨هم⟩ ارم، ځکه چې ⟨את⟩ ستا مخ مې ولید، او ته لا ژوندی يې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "که مړ شوم ارم"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "دا ځل"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته له"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "چې مې ولید"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا مخ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ته لا"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:13:37.890807853Z",
+  "model": "glm-5.3"
+}

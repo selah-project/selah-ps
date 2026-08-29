@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او د منسی د قبیلې له نیمایي څخه اته لس زره، چې په نومونو وټاکل شول چې راشي او ⟨את⟩ داوېد پاچا کړي.",
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "او…له نیمایي"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منسی"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اته"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "وټاکل شول"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "په نومونو"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "چې راشي"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "پاچا کړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوېد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:02.603999772Z",
+  "model": "glm-5.3"
+}

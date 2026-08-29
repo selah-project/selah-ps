@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او د مسکن دویمې خوا لپاره، شمال لوري ته، شل تخته.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "او د خوا لپاره"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "د مسکن"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دویمه"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "لوري ته"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تخته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:57.553474487Z",
+  "model": "glm-5.3"
+}

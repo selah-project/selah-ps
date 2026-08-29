@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "زه د غرونو ټولې الې پېژنم، او د کرنیزو ډګرونو خوځندې له ما سره دي.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پېژنم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "الې"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونو"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "او خوځندې"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "کرنیزو ډګرونو"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "له ما سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:45.709546373Z",
+  "model": "glm-5.3"
+}

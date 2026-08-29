@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د مَلوکي لپاره یوناتان، د شِبَنیا لپاره یوسِف.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "د مَلوکي لپاره"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "د شِبَنیا لپاره"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسِف"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:35.746689434Z",
+  "model": "glm-5.3"
+}

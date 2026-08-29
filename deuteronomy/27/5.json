@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او هلته به د یاهوه ستا الوهیم لپاره مذبح جوړه کړې — د تیږو مذبح؛ پر هغوی به اوسپنه نه لګوې.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "او جوړه به کړې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "د تیږو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "به لګوې"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:37.407119573Z",
+  "model": "glm-5.3"
+}

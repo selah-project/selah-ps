@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "عَتّای شپږم، اِلِیایل اوم.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "عَتّای"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شپږم"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِلِیایل"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "اوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:14.101291907Z",
+  "model": "glm-5.3"
+}

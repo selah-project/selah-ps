@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 135,
+  "translation": "ځکه چې یعقوب يې یاه ځانته وټاکه، اسراییل د هغه ځانګړي خزانې لپاره.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "وټاکه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ځانته"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "د هغه ځانګړي خزانې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:57.569504032Z",
+  "model": "glm-5.3"
+}

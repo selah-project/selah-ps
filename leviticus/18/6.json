@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "هر سړی ⟨هغه⟩ د خپلې غوښې له هر نږدې توب سره، مه نږدې کېږئ چې برنډتیا راوسپړئ؛ زه يم یاهوه.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "نږدې توب (د خپلوانۍ)"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "خپلې غوښې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "مه نږدې کېږئ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "چې راوسپړئ"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "برنډتیا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:31.817814279Z",
+  "model": "glm-5.3"
+}

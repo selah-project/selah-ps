@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "⟨את⟩ د سویل خوا يې ومېده، پنځه سوه قامې، په د اندازه کولو قامه.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د سویل خوا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "د سویل"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ومېده"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قامې"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "په قامه"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "د اندازه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:37.892109192Z",
+  "model": "glm-5.3"
+}

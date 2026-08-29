@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "نو موشې ⟨את⟩ چوکی له یاهوه له مخې واخیسته، لکه څنګه چې هغه ته يې حکم شوی و.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیسته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چوکی"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "چوکی"
+    },
+    {
+      "surface": "مלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "حکم يې ورته کړی و"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:01.341292087Z",
+  "model": "glm-5.3"
+}

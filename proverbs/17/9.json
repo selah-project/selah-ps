@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "چا چې ګناه پټوي، مینه لټوي؛ خو چا چې یوه خبره تکروروي، نږدې ملګری بېلوي.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "پټوي"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "لټوي"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "مینه"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "خو تکروروي"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "یوه خبره"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "بېلوي"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "نږدې ملګری"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:30.333780475Z",
+  "model": "glm-5.3"
+}

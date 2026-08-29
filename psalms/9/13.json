@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځکه چې هغه چې د وینې پلټنه کوي ⟨את⟩ دوی یادوي؛ د خوارو چیغه نه هېروي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "پلټنه کوي"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "د وینې"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یادوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "هېروي"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "چیغه"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "د خوارو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:26.125979710Z",
+  "model": "glm-5.3"
+}

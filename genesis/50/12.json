@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "او زامنو يې ورسره همداسې وکړل، لکه څنګه چې يې حکم کړی وو.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "وکړل"
+    },
+    {
+      "surface": "בניو",
+      "gloss": "زامنو يې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورسره\/د هغه لپاره"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צום",
+      "gloss": "حکم يې کړی وو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:14:31.968904205Z",
+  "model": "glm-5.3"
+}

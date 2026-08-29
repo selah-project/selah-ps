@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او کاهن به هغه پر مذبح سوځوي — خواړه د اور سوځېدنې، د خوښېونې بوی لپاره؛ ټول غوړ د یاهوه دی.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "او سوځوي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "پر مذبح"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د اور سوځېدنې"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "د بوی"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "د خوښېونې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:32:10.079903914Z",
+  "model": "glm-5.3"
+}

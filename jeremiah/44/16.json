@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "هغه خبره چې ته يې زموږ په شان ⟨د⟩ یاهوه په نوم راته وویله، موږ يې نه اورو، نه دې غوږ.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ته ... وویله"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "راته"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه یو"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "اورونکي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:02.915794339Z",
+  "model": "glm-5.3"
+}

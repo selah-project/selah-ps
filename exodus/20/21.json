@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او قوم له لرې ودرېد، او موشې هغې تورې تیارې ته نږدې شو چېرته چې الوهیم وو.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ودرېد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "له لرې"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "او موشې"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "نږدې شو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "هغې تورې تیارې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چېرته چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:58.980691009Z",
+  "model": "glm-5.3"
+}

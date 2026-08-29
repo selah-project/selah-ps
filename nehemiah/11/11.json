@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 11:11",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "سِرایه د حِلقیه زوی، د مِشلام زوی، د صادوق زوی، د مرایوت زوی، د اِحیتوب زوی، د الوهیم د کور نګید (سردار).",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "سِرایه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "حِلقیه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشلام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "مرایوت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اِحیتوب"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "نګید (سردار)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:22.277075385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 22:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "نږدې او لرې دي له تا به پر تا پېغور وهې، اې د نوم ټیټه شوی او د ګڼې ښکېلۍ ډکه!",
+  "tokens": [
+    {
+      "surface": "הקרבות",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "והרחקות",
+      "gloss": "او لرې"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له تا"
+    },
+    {
+      "surface": "יתקלסו",
+      "gloss": "به پېغور وهې"
+    },
+    {
+      "surface": "בך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "ټیټه شوی (چټل)"
+    },
+    {
+      "surface": "השם",
+      "gloss": "د نوم"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ډکه"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "د ګڼې ښکېلۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:02.157192002Z",
+  "model": "glm-5.3"
+}

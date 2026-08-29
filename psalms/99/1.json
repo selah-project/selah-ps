@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 99,
+  "translation": "یاهوه واکمني کوي — خلک به وړېدلي؛ ⟨هغه⟩ چې پر کروبو ناست دی، ځمکه به ولړزي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "واکمني کوي"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "وړېدلي به وي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ناست دی"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "کروبو"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ولړزي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:16.392163150Z",
+  "model": "glm-5.3"
+}

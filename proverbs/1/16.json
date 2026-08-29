@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ځکه چې د دوی پښې د شر پر لور ځغلېږي او د وینو تویلو ته يې بیړه ده.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "د دوی پښې"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "د شر پر لور"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ځغلېږي"
+    },
+    {
+      "surface": "וימהرو",
+      "gloss": "بيړه لري"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "د تویلو"
+    },
+    {
+      "surface": "דם",
+      "gloss": "وینو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:53.781188498Z",
+  "model": "glm-5.3"
+}

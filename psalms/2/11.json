@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "یاهوه ⟨את⟩ د وېرې سره خدمت وکړئ، او د رېږدېدو سره خوښ شئ.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت وکړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "د وېرې سره"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "او خوښ شئ"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "د رېږدېدو سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:10.056836473Z",
+  "model": "glm-5.3"
+}

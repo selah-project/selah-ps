@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د یاهوه غږ سدرې ماتوي؛ هو، یاهوه ⟨את⟩ د لوبنان سدرې ماتوي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ماتوي"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "سدرې"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "او ماتوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د لوبنان سدرې"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "سدرې"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "لوبنان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:26.603073941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "د مهار کوونکي لپاره، د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د مهار کوونکي لپاره"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "مזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:19.670564684Z",
+  "model": "glm-5.3"
+}

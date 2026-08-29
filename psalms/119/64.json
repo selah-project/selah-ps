@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "یاهوه، ځمکه ستا له خېسېد ډکه ده — ستا احکام را زده کړه.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "ستا خېسېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکه ده"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا احکام"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "را زده کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:01.513015490Z",
+  "model": "glm-5.3"
+}

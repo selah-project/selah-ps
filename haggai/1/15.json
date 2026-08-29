@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "په شپږمې میاشتې کې د دوه ویشتمې ورځې په ورځ، په دویم کال د دارياوش ⟨هغه⟩ پاچا.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "وארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "میاشتې ته"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "په شپږمه"
+    },
+    {
+      "surface": "بשנת",
+      "gloss": "په کال"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "دارياوش"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:53.201357299Z",
+  "model": "glm-5.3"
+}

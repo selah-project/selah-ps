@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ایا زما ځواک د تېږو ځواک دی؟ ایا زما غوښه مسينه ده؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ځواک"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "د تېږو"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "زما ځواک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "زما غوښه"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "مسينه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:08.613050077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "او هغوی له یوه ملت څخه بل ملت ته، له یوې مملکت څخه بل قوم ته سفر کول.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "سفر کول"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "له یوه ملت څخه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "بل ملت"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "له یوې مملکت څخه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:36.271120159Z",
+  "model": "glm-5.3"
+}

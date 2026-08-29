@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 23:43",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "واېې وې: «زناګانو ستړې شوې ته — اوس يې زنا سره کوي او هغه هم.»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "واېې وې"
+    },
+    {
+      "surface": "לבלה",
+      "gloss": "ستړې شوې ته"
+    },
+    {
+      "surface": "נאופים",
+      "gloss": "زناګانو"
+    },
+    {
+      "surface": "עת",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "יזנה",
+      "gloss": "زنا سره کوي"
+    },
+    {
+      "surface": "תזנותה",
+      "gloss": "د هغې زنا"
+    },
+    {
+      "surface": "وהיא",
+      "gloss": "او هغه هم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:02.646572514Z",
+  "model": "glm-5.3"
+}

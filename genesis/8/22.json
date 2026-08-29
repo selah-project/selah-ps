@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "بيا، د ځمکې د ټولو ورځو په اوږدو کې، کرل او رېبل، يخوالې او تودوالې، اوړی او ژمی، ورځ او شپه به نه درېږي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "بيا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "کرل"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "او رېبل"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "او يخوالې"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "او تودوالې"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "او اوړی"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "او ژمی"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "او ورځ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "او شپه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "به درېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:55.078600177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 24:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د یریا زامن: امریا ⟨د⟩ دویم، یحزیایل ⟨د⟩ درېیم، یکمعام ⟨د⟩ څلورم.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "یریا"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "امریا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "یحزیایل"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "درېیم"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "یکمعام"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "څلورم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:20.351397039Z",
+  "model": "glm-5.3"
+}

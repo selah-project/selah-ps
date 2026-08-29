@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د اېستر فرمان ⟨د⟩ پوریم دا ویونې ټینګ کړل، او په کتاب کې وليکل شو.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "او فرمان"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "د اېستر"
+    },
+    {
+      "surface": "קים",
+      "gloss": "ټینګ کړل"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ویونې"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "د پوریم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "او وليکل شو"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "په کتاب کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:28:43.143146074Z",
+  "model": "glm-5.3"
+}

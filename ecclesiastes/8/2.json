@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "زه وایم: د پاچا خوله وساته، او د الوهیم د قسم له امله.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "وساته"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او د… له امله"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "په خاطر"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "د قسم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:42.397973456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "یاهوه د بشپړو ورځې پېژني، او د دوی میراث دایم ⟨وي⟩.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د … ورځې"
+    },
+    {
+      "surface": "תמימים",
+      "gloss": "بشپړو"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "او د دوی میراث"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "دایم"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:46.247581886Z",
+  "model": "glm-5.3"
+}

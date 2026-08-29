@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 66,
+  "translation": "خو په رښتیا الوهیم واورېد؛ د زما لمنځ غږ ته يې غوږ کېښود.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "خو په رښتیا"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واورېد"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "غوږ يې کېښود"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "د ... غږ ته"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "زما لمنښت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:19.988634672Z",
+  "model": "glm-5.3"
+}

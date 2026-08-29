@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "هغه ځمکه چې په کې به بې له کمبود ډوډۍ خورې، هلته به هيڅ نه کمې؛ هغه ځمکه چې ډبرې يې اوسپنه دي او له غرونو يې مس ۼېانڅلوې.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "په کمبود"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "به خورې"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "به کمې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هيڅ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ډبرې يې"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "او له غرونو يې"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "به ۼېانڅلوې"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:16.300056987Z",
+  "model": "glm-5.3"
+}

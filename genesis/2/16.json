@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه الوهیم انسان ته يې حکم وکړ، ویې ویل: د باغ له هر ونه يې په ازادۍ خوړلای شی،",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "حکم يې وکړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته\/پر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له هر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوړل"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خوړلای شی"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:23.950535497Z",
+  "model": "glm-5.3"
+}

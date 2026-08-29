@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او یاهوه ماته خبرې زیاته کړې، بیا یې داسې وویل:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "زیاته یې کړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې داسې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:02.840071872Z",
+  "model": "glm-5.3"
+}

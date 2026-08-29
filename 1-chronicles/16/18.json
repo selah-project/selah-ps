@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "چې ويل يې: «تا ته درکوم د کېناعان ځمکه، د ستاسو د ميراث برخه.»",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "چې ويل يې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "درکوم"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کېناعان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ستاسو ميراث"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:35.338328742Z",
+  "model": "glm-5.3"
+}

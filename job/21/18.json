@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 21:18",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "دا لکه د باد مخې ته وږمه وچه دي، او لکه چاف چې طوفان يې غلا کوي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "دي"
+    },
+    {
+      "surface": "כתבן",
+      "gloss": "لکه وچه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې ته"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "וכמץ",
+      "gloss": "او لکه چاف"
+    },
+    {
+      "surface": "גנבתו",
+      "gloss": "غلا کوي يې"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "طوفان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:49.919196686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "میراث چې په پیل کې په بیړه ترلاسه شي، د هغه پای برکتمن نه کېږي.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "په بیړه ترلاسه شوی"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "په پیل کې"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "د هغه پای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "برکتمن کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:51.115621972Z",
+  "model": "glm-5.3"
+}

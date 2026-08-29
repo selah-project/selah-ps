@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او کتاب هغه چا ته ورکول کېږي چې کتاب نه پېژني، او ورته وايي: «دا ولوله، بېځایه»، او هغه وايي: «زه کتاب نه پېژنم».",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ورکول کېږي"
+    },
+    {
+      "surface": "هספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ولوله"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بېځایه"
+    },
+    {
+      "surface": "زה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "هغه وايي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زه ... پېژنم"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:03.884091295Z",
+  "model": "glm-5.3"
+}

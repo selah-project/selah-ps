@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "د هغې مېړه زړه پر هغه اطمینان کوي، او له ګټې به نه شي کمبښته.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "اطمینان کوي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "د هغې مېړه"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "او له ګټې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "به شي کمبښته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:56.406045551Z",
+  "model": "glm-5.3"
+}

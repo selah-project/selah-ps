@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 48:28",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او پر د ګاد پر پولې، د سهيل خوا ته سهيل لوري، او به ⟨اوسې⟩ د پولې له تمار څخه، د مریبات قادش اوبو ته، دره پر لوی سمندر.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پولې"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "سهيل"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "سهيل لوري"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "او به ⟨اوسې⟩"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "د پولې"
+    },
+    {
+      "surface": "מתמר",
+      "gloss": "له تمار څخه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "מריבת",
+      "gloss": "د مریبات"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادش"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "دره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:36:50.642375739Z",
+  "model": "glm-5.3"
+}

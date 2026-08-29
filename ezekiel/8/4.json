@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ګوره — هلټ د اسرائیل د الوهیم جلال و، هغه بڼه چې ما په دره کې لیدلې وه.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "او ګوره"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسرائیل"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "هغه بڼه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ما لیدلې وه"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "په دره کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:05.095755991Z",
+  "model": "glm-5.3"
+}

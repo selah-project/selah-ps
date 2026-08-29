@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د توم لپاره د یاهوه لار کلک محافظت ده، خو د اور شرکتوونکو ته هلاکت دی.",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "کلک محافظت"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "د توم لپاره"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "خو هلاکت"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "د … شرکتوونکو ته"
+    },
+    {
+      "surface": "און",
+      "gloss": "اور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:40.962363958Z",
+  "model": "glm-5.3"
+}

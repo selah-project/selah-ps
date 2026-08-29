@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 18:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او د یسرایل زامن به نور د ملاقات خېمې ته نږدې نه شي، څو ګناه و نه اخلي او مړه نه شي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "نږدې شي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خېمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د ملاقات"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "څو واخلي"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "למות",
+      "gloss": "او مړه شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:22.034429698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 19:28",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "که وواياست: څنګه يې ځوروو؟ او د خبرې ريښه په ما کې موندل کېږي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "وواياست"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "يې ځوروو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "او ... ريښه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "د خبرې"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "موندل کېږي"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:25.022842726Z",
+  "model": "glm-5.3"
+}

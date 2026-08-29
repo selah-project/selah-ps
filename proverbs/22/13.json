@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "کاهل وویل: «بهر شیر دی، په کوڅو کې به ووژل شم.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاهل"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په … کې"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "کوڅو"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ووژل شم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:31.111642302Z",
+  "model": "glm-5.3"
+}

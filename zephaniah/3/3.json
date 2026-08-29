@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "چاروان يې په منځ کې يې د غپلو زړو دی، قاضیان يې د ماښام غپره دي چې هډوکي يې سهار ته پاتې نه کړي.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "چاروان يې"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "په منځ کې يې"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "غپلو"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "قاضیان يې"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "غپره"
+    },
+    {
+      "surface": "عרב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "גרمו",
+      "gloss": "هډوکي پاتې کړي"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "سهار ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:27.647118041Z",
+  "model": "glm-5.3"
+}

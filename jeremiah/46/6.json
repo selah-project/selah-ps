@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "چټک دې وتښتېد شي نه، او زورور دې خلاص شي نه؛ په شمال کې، د فرات سیند تر څنګ، ونښول او ولوېدل.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "دې وتښتېد شي"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "چټک"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "دې خلاص شي"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "زورور"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "په شمال کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "تر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "څنګ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "سیند"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "فرات"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ونښول"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ولوېدل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:44.012988152Z",
+  "model": "glm-5.3"
+}

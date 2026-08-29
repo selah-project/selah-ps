@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ما ⟨את⟩ ټول کړنې ولیدې چې تر لمر لاندې شوې دي؛ او ګوره، ټول هېبل دی او د روح پڅتیا.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ما ولیدې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول کړنې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "کړنې"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "چې شوې دي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر لاندې"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ګوره"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېبل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "او پڅتیا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "د روح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:03.156131054Z",
+  "model": "glm-5.3"
+}

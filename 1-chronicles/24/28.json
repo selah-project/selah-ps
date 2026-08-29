@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د مَحلي ⟨له نسله⟩ اِلعازر و، او هغه ته زامن نه وو.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "د مَحلي"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:28.648191724Z",
+  "model": "glm-5.3"
+}

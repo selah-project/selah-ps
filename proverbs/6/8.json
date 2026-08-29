@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "په اوړي کې خپله خوراک برابروي، په رېبلن کې خپله خواړه راټولوي.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "برابروي"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "په اوړي کې"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "خپله خوراک"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "راټولوي"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "په رېبلن کې"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "خپله خواړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:05.802317426Z",
+  "model": "glm-5.3"
+}

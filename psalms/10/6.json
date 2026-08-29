@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "هغه په خپل زړه کې وویل: «نه لرېږم، له نسله تر نسل به هېڅکله په بدۍ کې نه وسم.»",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "په خپل زړه کې"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "لرېږم"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "له نسله"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تر نسل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "په بدۍ کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:55.068205191Z",
+  "model": "glm-5.3"
+}

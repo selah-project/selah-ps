@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "اَلکانَه د هغه زوی، او اَویاسَف د هغه زوی، او اَسِیر د هغه زوی.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلکانَه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "او اَویاسَف"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "او اَسِیر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:44.811549124Z",
+  "model": "glm-5.3"
+}

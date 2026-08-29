@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 148,
+  "translation": "دې ټولو دې ستایي ⟨את⟩ د یاهوه نوم، ځکه ⟨هغه⟩ يې فرمان وکړ او پیدا ⟨شول⟩.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "دې ستایي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان وکړ"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "پیدا شول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:18.867038517Z",
+  "model": "glm-5.3"
+}

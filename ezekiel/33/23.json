@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د یاهوه خبره ماته راغله، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او پېښ شو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:02:51.699403618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د میدیان زامن: عیفه او عِفِر، او حانوخ، او اویِدع، او اِلدِعاه — دا ټول د قتوره زامن وو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "میدیان"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "عیفه"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "او عِفِر"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "او حانوخ"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "او اویِدع"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "او اِلدِعاه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قتوره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:01.311053003Z",
+  "model": "glm-5.3"
+}

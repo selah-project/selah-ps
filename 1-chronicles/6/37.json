@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "مْرایوت د هغه زوی، امرَیه د هغه زوی، اهیتوب د هغه زوی.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مْرایوت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امرَیه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اهیتوب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:19.870851212Z",
+  "model": "glm-5.3"
+}

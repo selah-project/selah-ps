@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "دا ستا قد د تامار (نخل) غوندې شوی، او ستا سینه د انګورو د خوشو غوندې.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "ستا قد"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "شوی"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "د تامار (نخل) غوندې"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "او ستا سینه"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "د خوشو غوندې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:03.915021821Z",
+  "model": "glm-5.3"
+}

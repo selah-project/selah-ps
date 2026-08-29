@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ای یاهوه، زما الوهیم، ستا ته مې غږ وکړ او تا ما روغ کړم.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "غږ مې وکړ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ستا ته"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "او تا ما روغ کړم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:38.898170752Z",
+  "model": "glm-5.3"
+}

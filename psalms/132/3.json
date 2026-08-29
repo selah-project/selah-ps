@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 132,
+  "translation": "که زما د کور په خیمه کې ننوځم، که زما پر بستره پورته شم،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ننوځم"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "په خیمه کې"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "زما د کور"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "پورته شم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "بستره"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "زما د اېږدولو ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:11.180753597Z",
+  "model": "glm-5.3"
+}

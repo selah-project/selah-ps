@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه راته وویل: «ننوځه او ⟨את⟩ هغه بدې کرغېړنې وګوره چې دوی يې دلته کوي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ننوځه"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه بدې کرغېړنې"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "کرغېړنې"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دلته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:28.745163848Z",
+  "model": "glm-5.3"
+}

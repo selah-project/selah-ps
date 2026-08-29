@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 9:33",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "زموږ ترمنځ منځګړی نشته چې خپله لاس پر دواړو مو کېږدي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "زموږ ترمنځ"
+    },
+    {
+      "surface": "مוכיח",
+      "gloss": "منځګړی"
+    },
+    {
+      "surface": "ישת",
+      "gloss": "کېږدي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپله لاس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "دواړو مو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:06.879548994Z",
+  "model": "glm-5.3"
+}

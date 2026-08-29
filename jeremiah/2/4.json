@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د یاهوه خبر واورئ، د یعقوب کورنۍ، او د اسراییل د کور ټولې کورنۍ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "یעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټولې"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "کورنۍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:32:49.636489912Z",
+  "model": "glm-5.3"
+}

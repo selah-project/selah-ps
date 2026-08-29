@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 7:2",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "چې پاچا ناتن نبوي ته وویل: وګوره، اوس زه د ارو په کور کې اوسم، خو د الوهیم صندوق د پردې په منځ کې اوسي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبوي"
+    },
+    {
+      "surface": "رאה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسم"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ارو"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "خو صندوق"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسي"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "د پردې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:17.412114684Z",
+  "model": "glm-5.3"
+}

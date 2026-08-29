@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د ګرشونیانو د پلار کور مشر اِلیاسف د لاعِل زوی و.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "او مشر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "אב",
+      "gloss": "د پلار"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "د ګرشونیانو"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لاعِل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:40.808187277Z",
+  "model": "glm-5.3"
+}

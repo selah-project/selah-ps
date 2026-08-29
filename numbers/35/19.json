@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "د وينې ګول خود به قاتل ⟨את⟩ وژني؛ چې ورسره مخ شي، خود به يې وژني.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "ګول"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "د وينې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خود"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "وژني"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "چې ورسره مخ شي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "خود"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "به يې وژني"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:52.200202973Z",
+  "model": "glm-5.3"
+}

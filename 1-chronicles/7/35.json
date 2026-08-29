@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د هېلم د هغه د ورور زامن: صُوپَخ، او یِمنَع، او شِلېش، او عَمال.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "هېلم"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د هغه ورور"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "صُوپَخ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "او یِمنَع"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "او شِلېش"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "او عَمال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:02.171190280Z",
+  "model": "glm-5.3"
+}

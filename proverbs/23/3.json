@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د هغه خوندورو خوړو ارمان مه کوه، ځکه دا د دروغو خواړه دي",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתאو",
+      "gloss": "ارمان کوه"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "د هغه خوندورو خوړو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ځکه دا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "د دروغو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:59.101993566Z",
+  "model": "glm-5.3"
+}

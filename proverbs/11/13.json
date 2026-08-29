@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ګرځېدونکی چغلی د پټې مشورې راز افشا کوي، خو د وفاداره روح ساتي خبره.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ګرځېدونکی"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغلی"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "افشا کوي"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "د پټې مشورې راز"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "خو وفادار"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:53.269823797Z",
+  "model": "glm-5.3"
+}

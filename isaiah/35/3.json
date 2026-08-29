@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "لینې لاسونه قوي کړئ، او ژوبلې زنګونې ټینګې کړئ.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "قوي کړئ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "لینې"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "او زنګونې"
+    },
+    {
+      "surface": "کשלות",
+      "gloss": "ژوبلې"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "ټینګې کړئ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:19:58.181029556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 5:9",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ایا په دې ټولو باندې نه څېړم، د یاهوه خبره؛ او که په داسې یوه ملت زما ځان غچ وانه خلي؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ایا په"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دې ټولو باندې"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפקد",
+      "gloss": "څېړم"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د… خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "په ملت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "غچ اخلي"
+    },
+    {
+      "surface": "نפשי",
+      "gloss": "زما ځان"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:11.805779085Z",
+  "model": "glm-5.3"
+}

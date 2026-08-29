@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او زه به پر لوحو ⟨את⟩ هغه خبرې ولیکم چې پر لومړیو لوحو وې، چې تا ماتې کړې وې، او ته به هغه په صندوق کې کېږدې.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "او به ولیکم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لوحو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبرې"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "لوحو"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "لومړیو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "ماتې کړې وې"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "او به یې کېږدې"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "په صندوق کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:31.337558031Z",
+  "model": "glm-5.3"
+}

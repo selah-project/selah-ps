@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او دا د ابراهام د ژوند ورځې دي — د کالونو شمېر چې هغه ژوند کاوه: سلو کالو او اویا کالو او پنځو کالونو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "שני",
+      "gloss": "د کالونو"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "د ابراهام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوند کاوه"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سلو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "او اویا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالو"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کالونو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:50.013432235Z",
+  "model": "glm-5.3"
+}

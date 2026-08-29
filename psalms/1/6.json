@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ځکه یاهوه د صالحانو لار پېژني، خو د بدکارانو لار به تباه شي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د صالحانو"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "خو د"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانو"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "تباه شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:38.492094640Z",
+  "model": "glm-5.3"
+}

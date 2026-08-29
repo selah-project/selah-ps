@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "آن和ه Shelomah د Moab د کرغېړن Kemosh لپاره، په هغه غر چې د Yerushalaim مخې ته دی، او د Ammon د زامنو د کرغېړن Molech لپاره بامې جوړې کړې.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آن和ه"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "במה",
+      "gloss": "بامې"
+    },
+    {
+      "surface": "لכמוש",
+      "gloss": "د Kemosh لپاره"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "د Moab"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "او د Molech لپاره"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "د Ammon"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:41.315120791Z",
+  "model": "glm-5.3"
+}

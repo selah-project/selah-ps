@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "هو، ظلم يې نه کړی، په هغه د لارو کې يې ګرځېدلي دي.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "هو،"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "يې کړی"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "په هغه د لارو کې"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "يې ګرځېدلي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:42.796718943Z",
+  "model": "glm-5.3"
+}

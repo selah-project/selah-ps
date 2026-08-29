@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "شَلُم د هغه زوی، مِبسام د هغه زوی، مِشماع د هغه زوی.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "شَلُم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "مِبسام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "مِشماع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:06.670449935Z",
+  "model": "glm-5.3"
+}

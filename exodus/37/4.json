@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هغه د شټم لرګیو وتۍ جوړ کړې او ⟨אתם⟩ هغې يې په زرو پوښلې.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "جوړ کړې"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "وتۍ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لرګیو"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شټم"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "پوښلې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "هغې (وتۍ)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زرو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:15.659937827Z",
+  "model": "glm-5.3"
+}

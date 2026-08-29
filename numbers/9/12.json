@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "تر سهار يې له ځانه هېڅ نه پريږدي، او هډوکي يې نه ماتوي؛ د پیسخ د ټولو احکامو له مخې يې ⟨אתו⟩ وکړي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "پريږدي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له ځانه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "او هډوکي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישברو",
+      "gloss": "ماتوي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "احکامو"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "د پیسخ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "وکړي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "پیسخ (يې)"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:32.234111730Z",
+  "model": "glm-5.3"
+}

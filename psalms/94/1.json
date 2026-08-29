@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "د انتقام خاوند ایل — یاهوه! د انتقام خاوند ایل، ښکاره شه!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "د انتقام خاوند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "د انتقام خاوند"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ښکاره شه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:31.243129579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 41:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او موږ يو شپه خوب لیدلی — زه او هغه، هر یو د خپل خوب د تعبیر سره سم خوب لیدلی و.",
+  "tokens": [
+    {
+      "surface": "ונחלמה",
+      "gloss": "او خوب لیدلی"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "په شپه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یو"
+    },
+    {
+      "surface": "כפתרון",
+      "gloss": "د تعبیر سره سم"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "خپل خوب"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "خوب لیدلی و"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:06.482016485Z",
+  "model": "glm-5.3"
+}

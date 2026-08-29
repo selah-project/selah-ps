@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او هغه يې دamar غواګي په څېر ګرځوي؛ لوبنان او شیریون د ځنګلي غوا د بچي په څېر.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "او هغه يې ګرځوي"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "د… په څېر"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "غواګی"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "لوبنان"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "او شیریون"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "د… په څېر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچی"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ځنګلي غوا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:26.603311967Z",
+  "model": "glm-5.3"
+}

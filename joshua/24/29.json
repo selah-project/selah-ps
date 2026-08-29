@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او د دې خبرو وروسته یېشوع، د نون زوی، د یاهوه بنده، ومړ — د سلو لسو کلونو زوی.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "دې خبرو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومړ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یېشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بنده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سلو"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "لسو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کلونو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:33.271411877Z",
+  "model": "glm-5.3"
+}

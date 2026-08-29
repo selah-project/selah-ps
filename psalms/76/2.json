@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 76,
+  "translation": "په یهودا کې الوهیم پېژندل شوی؛ په اسراییل کې يې نوم لوی دی.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "پېژندل شوی"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "په یهودا کې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په اسراییل کې"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نوم يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:24.659311081Z",
+  "model": "glm-5.3"
+}

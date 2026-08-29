@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "حکمت له میراث سره ⟨دی⟩ ښه، او د لمر لیدونکو لپاره ګټور ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "او ګټور"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "د ... لیدونکو لپاره"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:17.312618611Z",
+  "model": "glm-5.3"
+}

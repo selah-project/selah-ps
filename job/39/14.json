@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 39:14",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "چې هغه خپلې هګۍ پر ځمکه پرېږدي او په دوړو کې يې تودوي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "پرېږدي"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "پر ځمکه"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "خپلې هګۍ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او په"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دوړو"
+    },
+    {
+      "surface": "תחמם",
+      "gloss": "تودوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:32.724919789Z",
+  "model": "glm-5.3"
+}

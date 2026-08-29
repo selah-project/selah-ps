@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "له خېسېد سره به خېسېد کوې؛ له بشپړ سړي سره به ځان بشپړ ښکارې.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "خېسېد به کوې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "بشپړ به ښکارې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:16.113156428Z",
+  "model": "glm-5.3"
+}

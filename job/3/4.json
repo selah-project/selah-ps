@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه ورځ تیاره شي؛ الوه د لوړو څخه ⟨دې⟩ ونه لټوي، او رڼا پر ⟨دې⟩ ونه تابيږي.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "هغه ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "شي"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تیاره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه\/ونه"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "ونه لټوي"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "د لوړو څخه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "ونه تابيږي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر دې"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:54.778368353Z",
+  "model": "glm-5.3"
+}

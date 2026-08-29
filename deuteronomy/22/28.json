@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "که سړی داسې نجلۍ چې پېغله وي او ماندينه شوې نه وي ومومي، او ونيسي او ورسره ویده شي، او موندل شي،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ومومي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "נער",
+      "gloss": "نجلۍ"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "پېغله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "ماندينه شوې"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "او ونيسي"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "او ویده شي"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "او موندل شي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:51.851264632Z",
+  "model": "glm-5.3"
+}

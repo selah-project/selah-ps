@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "نږدې دی د یاهوه ⟨لوی⟩ ورځ، نږدې دی او ډېر ژر راروان؛ د یاهوه د ورځې غږ تللی دی — همالته به زورور هلک کوي.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې دی"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "⟨لوی⟩"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې دی"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "او ډېر ژر راروان"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מר",
+      "gloss": "تللی"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "هلک کوي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "همالته"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "زورور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:40.733446442Z",
+  "model": "glm-5.3"
+}

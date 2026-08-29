@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 129,
+  "translation": "خپواکه شوي دې وي او شا ته دې ستون شي، ټول د تسیون دښمنان.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "خپواکه شوي دې وي"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "او شا ته دې ستون شي"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "شا ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "دښمنان"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "د تسیون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:23.430092429Z",
+  "model": "glm-5.3"
+}

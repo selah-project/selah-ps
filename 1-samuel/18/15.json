@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او کله چې شاؤل وليدل چې هغه ډېر هوښیار دی، نو له هغه څخه وېریېد.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وليدل"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "هوښیار (بریالی)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "وېریېد"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "له هغه څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:51.368705140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "او په د نوم يې غږ وکړم: 'اې یاهوه، اوسې، زما نفس وژغوره'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "او په د نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "غږ وکړم"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "اې ... اوسې\/تफ لرمن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "وژغوره"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:10.119422456Z",
+  "model": "glm-5.3"
+}

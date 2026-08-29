@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "شاؤل استازي واستول چې ⟨את⟩ داوېد ونیسي، او هغې وویل: هغه ناروغ دی.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "واستول"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "استازي"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "چې ونیسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داوېد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "او هغې وویل"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ناروغ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:59.658645617Z",
+  "model": "glm-5.3"
+}

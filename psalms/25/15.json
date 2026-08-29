@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "زما سترګې ⟨⟩ همېشتي یاهوه ته دي، ځکه هغه به زما پښې له ځال څخه وباسي.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګې"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "همېشتي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "به وباسي"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "له ځال څخه"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "زما پښې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:49.008377223Z",
+  "model": "glm-5.3"
+}

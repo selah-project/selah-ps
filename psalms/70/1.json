@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 70,
+  "translation": "د مشر لپاره، د داوېد (زبو)ر، د یادولو لپاره.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د مشر لپاره"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "لהזכיר",
+      "gloss": "د یادولو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:05.192869113Z",
+  "model": "glm-5.3"
+}

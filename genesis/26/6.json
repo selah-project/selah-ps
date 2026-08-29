@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "نو اِتسحاق په ګرار کې مېشت شو.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "نو ... مېشت شو"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "اِتسحاق"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "په ګرار کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:07.635774513Z",
+  "model": "glm-5.3"
+}

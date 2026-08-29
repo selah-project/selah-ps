@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او په دولسمه کال، د مياشتې په پنځلسمه ورځ، د یاهوه خبره راته راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او پېښ شول"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "په دوو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "په پنځو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "لחדש",
+      "gloss": "د مياشتې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "راغله"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:17.067334704Z",
+  "model": "glm-5.3"
+}

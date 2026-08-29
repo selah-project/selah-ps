@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "چې د خپل ځوانۍ ملګری پرېږدي او د خپل الوهیم تړون ⟨את⟩ هېروي،",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "چې پرېږدي"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ملګری"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "د خپل ځوانۍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تړون"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "د خپل الوهیم"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "هېروي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:17.179943461Z",
+  "model": "glm-5.3"
+}

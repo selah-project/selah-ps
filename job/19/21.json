@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 19:21",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "زما پرېوه، زما پرېوه، تاسو زما ملګري، ځکه د الوه لاس ما ته لګېدلې ده.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "زما پرېوه"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "زما پرېوه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "زما ملګري"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "لګېدلې ده"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ما ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:15.801540963Z",
+  "model": "glm-5.3"
+}

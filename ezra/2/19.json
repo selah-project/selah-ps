@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د حاشوم زامن دوه سوه دېرش درې.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "حاشوم"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:03.646492807Z",
+  "model": "glm-5.3"
+}

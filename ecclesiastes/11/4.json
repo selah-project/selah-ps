@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "چا چې باد ته سترګې ونيسي، کرل به نه کوي؛ او چا چې ورېځو ته وګوري، درمل به نه کوي.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "سترګې ونيسي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "کرل"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "وګوري"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ورېځو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "درمل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:31.515711054Z",
+  "model": "glm-5.3"
+}

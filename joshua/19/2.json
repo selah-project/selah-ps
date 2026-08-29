@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او د دوی په میراث کې دوی ته بئر شِبعا، او شِبعا، او مولادا وې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دوی ته"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "په میراث کې"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبعا"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "او شِبعا"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "او مولادا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:25.128692688Z",
+  "model": "glm-5.3"
+}

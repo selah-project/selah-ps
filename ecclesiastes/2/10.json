@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 2:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او هر څه چې زما سترګو غوښتل، زه يې ترېنه نه شړلم؛ زما زړه مې ⟨את⟩ له هیڅ خوښۍ نه منع کړ، ځکه زما زړه د زما ټول رنځ څخه خوښ و، او دا زما برخه وه د زما ټول رنځ څخه.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "غوښتل"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אצלתי",
+      "gloss": "شړلم"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ترېنه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "منع کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما زړه"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له هیڅ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوښۍ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوښ و"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "زما رنځ څخه"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "زما برخه"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "زما رنځ څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:24.419136058Z",
+  "model": "glm-5.3"
+}

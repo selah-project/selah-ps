@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او پاچا او ټول ولس د یاهوه مخې ته قرباني وړاندې کړه.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "او پاچا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ولس"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "قرباني وړاندې کړه"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د ... مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:59:44.725841906Z",
+  "model": "glm-5.3"
+}

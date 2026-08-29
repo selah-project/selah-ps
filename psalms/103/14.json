@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 103,
+  "translation": "ځکه چې هغه زموږ بڼه پېژني، په یاد لري چې موږ خټه یوو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "زموږ بڼه"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "په یاد لري"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خټه"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ یوو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:56.489744931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "په لوړوالي کې ښکلی، د ټولې ځمکې خوښی دی — د زیون غر، د شمال په څنډو کې، د لوی پاچا ښار.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ښکلی"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "لوړوالی"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوښی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زیون"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "څنډو"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "قרית",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "רב",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:25.604887014Z",
+  "model": "glm-5.3"
+}

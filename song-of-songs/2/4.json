@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "هغه مې د شرابو کور ته راوست، او د هغه بیرغ زما پر سر مینه ده.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "هغه مې راوست"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شرابو"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "او د هغه بیرغ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما پر سر"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "مینه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:33.808406235Z",
+  "model": "glm-5.3"
+}

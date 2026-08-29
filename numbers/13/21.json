@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "نو پورته شول او ⟨את⟩ ځمکه يې وپلټله، د صِن له بیابانه تر رِحوب، د حَمات د ننوتلو ځای ته.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "پورته شول"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "وپلټله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "له بیابانه"
+    },
+    {
+      "surface": "צן",
+      "gloss": "صِن"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رِحوب"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "د ننوتلو"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:23.001323609Z",
+  "model": "glm-5.3"
+}

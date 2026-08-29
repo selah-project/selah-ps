@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د میخا زامن: پیثون او مېلېک او تعارېع او اهاز.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "د میخا"
+    },
+    {
+      "surface": "فיתון",
+      "gloss": "پیثون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "او مېلېک"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "او تعارېع"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "او اهاز"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:30.202052697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د ډهولونو خوښي ودروه، د شادمانو غوغا ودروه، د بربط خوښي ودروه.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ودروه"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "د ډهولونو"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ودروه"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "غوغا"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "د شادمانو"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ودروه"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "د بربط"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:43.646888168Z",
+  "model": "glm-5.3"
+}

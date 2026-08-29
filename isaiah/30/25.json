@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 30:25",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او به پر هر لوړ غره او پر هره پورته شوې لړۍ د اوبو چینې او ویېلې وي، په هغه ورځ چې ډېره وژنه کېږي، کله چې برجونه رالوېږي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "لړۍ"
+    },
+    {
+      "surface": "נשאה",
+      "gloss": "پورته شوې"
+    },
+    {
+      "surface": "פלגים",
+      "gloss": "چینې"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "ویېلې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "وژنه"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "کله چې رالوېږي"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "برجونه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:55.158449692Z",
+  "model": "glm-5.3"
+}

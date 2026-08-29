@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "ځکه چې زه پوهېدم چې ته سخت زړه يې، ستا د غاړې بند اوسپنه ده او ستا پیشانی مس.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "ځکه چې زه پوهېدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت زړه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "او بند"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "اوسپنه"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "ستا د غاړې"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "او ستا پیشانی"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:28.462902461Z",
+  "model": "glm-5.3"
+}

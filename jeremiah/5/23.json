@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "خو دا قوم بغاوي او سرکښ زړه لري؛ په شا شول او ولاړل.",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "خو قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "لري ⟨دی⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "بغاوي"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "سرکښ"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "په شا شول"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "او ولاړل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:17.881052176Z",
+  "model": "glm-5.3"
+}

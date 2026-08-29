@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "د موسیقۍ د رهبر لپاره، د یاهوه د بنده، د داوېد لپاره.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "د بنده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:30.175715374Z",
+  "model": "glm-5.3"
+}

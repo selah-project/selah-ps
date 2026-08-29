@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "یاهوه خپل مخ دې ته پورته کړي، او دې ته شالوم وګرځوي.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "پورته کړي (پاڅوي)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "او وګرځوي (کږي)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شالوم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:46.296919995Z",
+  "model": "glm-5.3"
+}

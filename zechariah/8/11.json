@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "خو اوس زه نه یم لکه پېرېدنې ورځې د دې ولس پاتېو ته — د یاهوه د لښکرو وينا.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "خو اوس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "لکه ورځې"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "د پېرېدنې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه یم"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "پاتېو ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د ولس"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د لښکرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:24.876483332Z",
+  "model": "glm-5.3"
+}

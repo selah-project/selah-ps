@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 7:9",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "داسې وویل د لښکرو یاهوه: ریښتینې قضا قضاوت وکړئ، او خېسېد او رحم وکړئ، هر سړی ⟨את⟩ د خپل ورور.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د لښکرو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "قضا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ریښتینې"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "قضاوت وکړئ"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "او خېسېد"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "او رحم"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "وکړئ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د خپل ورور"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د خپل ورور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:20.312459862Z",
+  "model": "glm-5.3"
+}

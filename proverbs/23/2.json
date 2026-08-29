@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او خنجر خپلې ستوني ته کېږده، که د ډېرې اشتهال خاوند يې",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "او کېږده"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "خنجر"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ستوني ته دې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "خاوند"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "اشتها"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:59.101800899Z",
+  "model": "glm-5.3"
+}

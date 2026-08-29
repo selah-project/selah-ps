@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 30:36",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او یې د درې ورځو مزل خپل ځان او یعقوب ترمنځ کېښود، او یعقوب ⟨את⟩ د لابان پاتې ګلې څروله.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "او... کېښود"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "مزل"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "د درې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "خپل ځان ترمنځ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او... ترمنځ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "او یعقوب"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "څروله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګله"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ګله"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "הנותרת",
+      "gloss": "پاتې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:18.002322061Z",
+  "model": "glm-5.3"
+}

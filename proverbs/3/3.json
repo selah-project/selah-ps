@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "خېسېد او رښتینولي دې پرېنږدي؛ دا په ستا غاړه وتړه او پر ستا د زړه لوحه وليکه.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "او رښتینولي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه\/پرېنږدي"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "دې پرېنږدي"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "وتړه دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "ستا غاړه"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ولیکه دا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "لوحه"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ستا زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:31.359907905Z",
+  "model": "glm-5.3"
+}

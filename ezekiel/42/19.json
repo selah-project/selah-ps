@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "د بحر خوا ته وګرځېد او ومېده، پنځه سوه قامې، په د اندازه کولو قامه.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "وګرځېد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "הים",
+      "gloss": "د بحر"
+    },
+    {
+      "surface": "مדד",
+      "gloss": "ومېده"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قامې"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "په قامه"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "د اندازه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:37.892224447Z",
+  "model": "glm-5.3"
+}

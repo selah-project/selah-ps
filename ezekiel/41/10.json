@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او د خونو ترمنځ د شلو ګزونو پلنوالی و، چې چاپېر يې کور و — چاپېر، چاپېر.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "او ... ترمنځ"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "خونو"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پلنوالی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شلو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ګزونو"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:22.302341868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او دوی د حشمنې له مېشته ووتل او په موسیروت کې يې خېمې ټېبلې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "د حشمنې له"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خېمې يې ټېبلې"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "په موسیروت کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:12.938149391Z",
+  "model": "glm-5.3"
+}

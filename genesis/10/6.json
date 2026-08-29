@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د حام زامن: کوش، او مِتسرایم (مصر)، او پوت، او کنعان وو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "او مِتسرایم (مصر)"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "او پوت"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "او کنعان"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:20.238174872Z",
+  "model": "glm-5.3"
+}

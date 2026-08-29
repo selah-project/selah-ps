@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او ⟨את⟩ د هغې دوه زامن، چې د يوه نوم يې ګېرشوم و، ځکه چې يې ويل: مېلمه (پردي) وم په يوه پرده ځمکه کې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دوه زامن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "دامنه يې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "د يوه"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ګېرشوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مېلمه (پردی)"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "وم"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "پرده"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:09.776260801Z",
+  "model": "glm-5.3"
+}

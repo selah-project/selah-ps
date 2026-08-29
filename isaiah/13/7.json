@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د همدې لپاره ټولې لاسونه سستې شي، او د هر فاني سړي زړه وېلی شي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "لاسونه"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "سستې شي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او د هر"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فاني سړي"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "وېلی شي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:53.693346808Z",
+  "model": "glm-5.3"
+}

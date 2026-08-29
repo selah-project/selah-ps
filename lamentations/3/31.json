@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه ادونای به د تل لپاره نه ردوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "به ردوي"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:56.474790607Z",
+  "model": "glm-5.3"
+}

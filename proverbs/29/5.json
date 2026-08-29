@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "هغه سړی چې پر خپل ملګري نرمې خبرې (چپلې) کوي، د هغه د ګامانو لپاره جال خېروي.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "نرمې خبرې (چپلې) کوي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "خپل ملګري"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "جال"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "خېروي"
+    },
+    {
+      "surface": "על",
+      "gloss": "د ... لپاره"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "د هغه د ګامانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:23.254233243Z",
+  "model": "glm-5.3"
+}

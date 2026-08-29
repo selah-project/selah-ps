@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 128,
+  "translation": "او د خپلو زامنو زامن دې وګورې — پر اسرائیل سلامتي!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "او دې وګورې"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "لבניך",
+      "gloss": "د خپلو زامنو"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:11.208278046Z",
+  "model": "glm-5.3"
+}

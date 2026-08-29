@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د بېبای زامن — شپږ سوه شل او درې.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "بېبای"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "او درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:59.058666532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او هغه نه پېژني چې رفایم ⟨هلته⟩ دي، په د شیول په ژورو کې د هغې بلل شوي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "په ژورو کې"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "د هغې بلل شوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:28.421790596Z",
+  "model": "glm-5.3"
+}

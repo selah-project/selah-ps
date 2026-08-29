@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 18:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "خو دوی وویل: «هېله نشته، ځکه موږ به خپلو طرحو پسې ځو، او هر ⟨man⟩ به د خپل بد زړه سخت سرسختي وکړو.»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "او دوی وویل"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "هېله نشته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "پسې"
+    },
+    {
+      "surface": "מחשבותינו",
+      "gloss": "خپلو طرحو"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ځو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "سخت سرسختی"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "د خپل زړه"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "وکړو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:35:58.647101501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه ما په تلخيو ډک کړ، ما يې له افسنتين څخه سير کړ.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "ډک\/سير يې کړم"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "په تلخيو"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "ما يې سير کړ"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "افسنتين"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:37.761069361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ځکه زړه دې ډېر ځله دا پېژني چې ته هم نورو ته لعنت ویلی دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "پעמים",
+      "gloss": "ځله"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "زړه دې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "את",
+      "gloss": "ته"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "لعنت ویلی دی"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "نور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:02.087628996Z",
+  "model": "glm-5.3"
+}

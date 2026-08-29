@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د نادان خوله د هغه ړنګېده ده، او د هغه شونډې د هغه د مېرګ <-jon'>یانې<\/-jon'> لپاره ډال دي.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ړنګېده"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "او د هغه شونډې"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ډال"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "د هغه د نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:12.645877750Z",
+  "model": "glm-5.3"
+}

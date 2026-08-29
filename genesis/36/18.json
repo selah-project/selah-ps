@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 36:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او دا د اهولیبامه، د عیسو د ښځې، زامن دي: مشر یعوش، مشر یعلم، مشر قورح؛ دا د اهولیبامه، د عنه لور، د عیسو د ښځې، مشران دي.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "اهولیبامه"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "یعوش"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "یعلم"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "د اهولیبامه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "د عنه"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:11.717538232Z",
+  "model": "glm-5.3"
+}

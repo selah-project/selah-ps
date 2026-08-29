@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "غوږونه لري او نه اوري؛ پوزه لري او بوی نه اخلي.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "غوږونه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لري"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "אף",
+      "gloss": "پوزه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لري"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "بوی اخلي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:54.205136825Z",
+  "model": "glm-5.3"
+}

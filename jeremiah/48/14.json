@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "څنګه وایاست: «زموږ اتلان یو، او د جګړې سپتاني سړي؟»",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "وایاست"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "اتلان"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "زموږ... یو"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "او سړي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سپتا\/زور"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "د جګړې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:45.909063949Z",
+  "model": "glm-5.3"
+}

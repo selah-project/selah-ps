@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه الوهیم هغه پړوون چې له آدم څخه يې اخیستی و، ⟨הֵם⟩ يې په ښځه جوړ کړ، او هغه يې نږدې آدم ته راوسته.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "جوړ کړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه پړوون"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "پړوون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "اخیستی و"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "په ښځه"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "راوسته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:37.166528871Z",
+  "model": "glm-5.3"
+}

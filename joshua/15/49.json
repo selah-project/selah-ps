@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او دَنّه، او قیریات-سَنّه — همدا ⟨هغه⟩ دِبیر دی.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "او دَنّه"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "او قیریات-"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "سَنّه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه\/همدا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دِبیر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:43.108761588Z",
+  "model": "glm-5.3"
+}

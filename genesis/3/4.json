@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او مار ښځې ته وویل: “هېڅکله به مړه نه شئ —”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "مار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړه"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "به شئ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:12.663743429Z",
+  "model": "glm-5.3"
+}

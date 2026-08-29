@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "بلکې ⟨את⟩ هغه چې نن دلته زموږ سره د ياهوه زموږ الوهيم ⟨پر وړاندې⟩ ولاړ ⟨دی⟩، او ⟨את⟩ هغه چې نن دلته زموږ سره نشته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه چې دلته ولاړ دى"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "شتون لري"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "زموږ سره"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهيم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "هغه چې نشته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "زموږ سره"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:06.116104563Z",
+  "model": "glm-5.3"
+}

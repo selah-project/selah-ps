@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "کاهنان: د یدعیه زامن، د یشوعه د کورنیې، نهه سوه اویا او درې.",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یدعیه"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کورنیې"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یشوعه"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "او درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:02.519809634Z",
+  "model": "glm-5.3"
+}

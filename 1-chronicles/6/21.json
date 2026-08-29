@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د الکاناه زوی، د یوایل زوی، د عزریاه زوی، د تسفانیاه زوی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "الکاناه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "یوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "تسفانیاه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:13.068846132Z",
+  "model": "glm-5.3"
+}

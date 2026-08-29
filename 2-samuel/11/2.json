@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 11:2",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او د ماښام په وخت داوېد له خپلې بستره پاڅېد او د پاچا د کور پر بام وګرځېد، او له بامه يې یوه ښځه ولېدله چې غسل يې کاوه؛ او هغه ښځه دSeen ډېره ښکلې وه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "په وخت"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "د ماښام"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "پاڅېد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "خپلې بستره"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "وګرځېد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بام"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ولېدله"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یوه ښځه"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "غسل کاوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "بامه"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "او هغه ښځه"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "ښکلې"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دSeen پهlook"
+    },
+    {
+      "surface": "مאד",
+      "gloss": "ډېره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:25.854413360Z",
+  "model": "glm-5.3"
+}

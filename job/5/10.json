@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "چې باران پر د ځمکې مخ اوري او اوبه پر د کوڅو مخ بېرې لېږي.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "چې اوري"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "او لېږي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "کوڅو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:46.365716174Z",
+  "model": "glm-5.3"
+}

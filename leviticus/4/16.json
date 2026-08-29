@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او مښتی شوی کاهن له غوایي وینې د لیدنې خیمې ته راوړي،",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "او راوړي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مښتی شوی"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "له وینې"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "غوایي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "د لیدنې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:34:39.478411126Z",
+  "model": "glm-5.3"
+}

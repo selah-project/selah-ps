@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او په هغه ورځ به داسې وشي: رڼا به نه وي — ګرانې\/روښانه رڼاوې به کلکې ⟨کنګل⟩ شي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به داسې وشي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ګرانې\/روښانه"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "به کلکې شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:23:14.962411922Z",
+  "model": "glm-5.3"
+}

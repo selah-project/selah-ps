@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او هغه ته اوه زامن او درې لورګانې وې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "او درې"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لورګانې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:23.583434732Z",
+  "model": "glm-5.3"
+}

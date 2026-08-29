@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د یاهوه فرمانونه سمه دي، زړه خوشحالوي؛ د یاهوه حکم پاک ⟨دی⟩، سترګې روښانوي.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "فرمانونه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سمه دي"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "خوشحالوي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "روښانوي"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "سترګې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:47.437590253Z",
+  "model": "glm-5.3"
+}

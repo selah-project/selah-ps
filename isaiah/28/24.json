@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ایا کرنې په ټوله ورځ کرې پلوه کوي؟ ایا خپله ځمکه پرانیزي او هګړوي يې؟",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "پلوه کوي"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "کرنې"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "کرې"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "پرانیزي"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "او هګړوي"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "خپله ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:29:11.875718943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "په خوښۍ او شادۍ به راولېږل شي؛ د پاچا ماڼۍ ته به ننوتل شي.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "راولېږل شي"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "په خوښۍ"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "او شادۍ"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "ننوتل شي"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ماڼۍ ته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:19.570955574Z",
+  "model": "glm-5.3"
+}

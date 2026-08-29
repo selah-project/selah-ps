@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د شوبال، د قریَت-یعارِم د پلار، زامن وو: هاروعِه، د مَنوحوت نیمایي.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "د شوبال"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "د … پلار"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قریَت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعارِم"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "هاروعِه"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمایي"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "مَنوحوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:45.242077519Z",
+  "model": "glm-5.3"
+}

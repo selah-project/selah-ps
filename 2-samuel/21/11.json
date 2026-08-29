@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او داوېد ته وويل شو ⟨את⟩ هغه څه چې رېتصفه د ایا لور، د شاول پیلېګېش (ساتلې ښځه)، کړي وو.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وويل شو"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوېد ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کړي وو"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "رېتصفه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "איה",
+      "gloss": "د ایا"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "پیلېګېش"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "د شاول"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:26.144829386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او د هغه د هغې خور لپاره چې نږدې ورته ده، پېغله چې يوه سړي ته نه ده شوې — د هغې لپاره ناولېږي.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "او د هغه خور"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "پېغله"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "شوې"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "سړي ته"
+    },
+    {
+      "surface": "לה",
+      "gloss": "د هغې لپاره"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناولېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:01.941296948Z",
+  "model": "glm-5.3"
+}

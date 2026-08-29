@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "حَدَد، او تِیما، یَتور، نَفیش، او قِدمه.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "حَدَد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "او تِیما"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "یَتور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نَفیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "او قِدمه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:31.398524108Z",
+  "model": "glm-5.3"
+}

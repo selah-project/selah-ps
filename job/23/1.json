@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "بیا ایوب ځواب ووايه او ویې ويل:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ځواب ووايه"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ويل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:27.890548054Z",
+  "model": "glm-5.3"
+}

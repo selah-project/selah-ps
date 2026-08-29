@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او هغه ⟨את⟩ هغه (څاه) شِبعا ونوموله؛ همدغه لامل دی چې د ښار نوم بېرشِبعا دی تر دې ورځې.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ونوموله"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (څاه)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "شِبعا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدغه لامل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بېر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبعا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دې ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:44.132059715Z",
+  "model": "glm-5.3"
+}

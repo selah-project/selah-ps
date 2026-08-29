@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او ربکه خپلې سترګې پورته کړې او ⟨את⟩ یتساک يې وګوره، او له شتره څخه راکوزه شوه.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "پورته کړې"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ربکه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپلې سترګې"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "خپلې سترګې"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یتساک"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یتساک"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "راکوزه شوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له څخه"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "شتره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:24.278539450Z",
+  "model": "glm-5.3"
+}

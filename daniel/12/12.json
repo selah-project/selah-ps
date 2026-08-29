@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "خوښي ده هغه چا ته چې انتظار کوي او هغو ورځو ته رسي — یو زر درې سوه پنځه دېرش.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوښي ده"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "چې انتظار کوي"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "او رسي"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ورځو ته"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "یو زر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "او پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:34:57.655702417Z",
+  "model": "glm-5.3"
+}

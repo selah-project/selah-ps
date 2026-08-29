@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 85,
+  "translation": "د رهبر لپاره، د قورح د زامنو لپاره، يو مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو لپاره"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:38.106815536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "لږ لږ به يې له ستا له مخې وشړم، تر هغه چې زېاته شې او ⟨את⟩ ځمکه په ميراث ونيې.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "به يې وشړم"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "له ستا له مخې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "תפרه",
+      "gloss": "زېاته شې"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "او په ميراث به ونيې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:21.245029950Z",
+  "model": "glm-5.3"
+}

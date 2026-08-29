@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او غوښه چې له هرې ناپاکې شي سره ولوېږي، خوړل به نه شي — په اور کې به وسوځول شي؛ او غوښه — هر پاک کس دې غوښه وخوري.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "او غوښه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "له هرې"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاکې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوړل شي"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور کې"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "سوځول شي"
+    },
+    {
+      "surface": "והבששר",
+      "gloss": "او غوښه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "وخوري"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:34:58.052706759Z",
+  "model": "glm-5.3"
+}

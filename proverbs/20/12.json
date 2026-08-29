@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "غوږ چې اوري او سترګه چې ویني — یاهوه دواړه جوړ کړي دي.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "چې اوري"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "او سترګه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "چې ویني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړي دي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "دواړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:29.138778804Z",
+  "model": "glm-5.3"
+}

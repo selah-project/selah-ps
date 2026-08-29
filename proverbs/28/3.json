@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "غریب سړی چې بېوزله ځپي، لکه تاوتبخه باران دی چې هېڅ خواړه نه پریږدي.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "چې ځپي"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "بېوزله"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "باران"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "تاوتبخه (پراوړونکی)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:08.953822405Z",
+  "model": "glm-5.3"
+}

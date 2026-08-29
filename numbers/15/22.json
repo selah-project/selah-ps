@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او که تاسو په غلطۍ واوړئ او ⟨את⟩ ټولې دې حکمونه ونه کړئ چې یاهوه موشې ته وویل،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "په غلطۍ واوړئ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ونه کړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې دې حکمونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حکمونه"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:08.502425245Z",
+  "model": "glm-5.3"
+}

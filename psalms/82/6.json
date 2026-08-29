@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 82,
+  "translation": "ما وویل: تاسو الوهیم یاست، او ټول د عِلیون زامنه یاست.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "زه (ما)"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو یاست"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامنه"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "د عِلیون"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "ټول"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:07.875397680Z",
+  "model": "glm-5.3"
+}

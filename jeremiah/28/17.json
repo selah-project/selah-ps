@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او حَنَنْیاه نبي په هغه کال کې، په اومه مياشت کې مړ شو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حَنَنْیاه"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "په کال کې"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "په مياشت کې"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "اومه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:44.089432340Z",
+  "model": "glm-5.3"
+}

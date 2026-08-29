@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "خوله يې له لعنت او فریب او ظلم ډکه ده؛ د هغه د ژبې لاندې زیانمني او گناه ده.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "خوله يې"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډکه ده"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "او فریب"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "او ظلم"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "لשונו",
+      "gloss": "د هغه د ژبې"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زیانمني"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "او گناه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:55.068338461Z",
+  "model": "glm-5.3"
+}

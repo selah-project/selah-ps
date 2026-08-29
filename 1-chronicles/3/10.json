@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د شلومو زوی رحبعام و؛ ابیا ⟨زوی يې⟩، اسا ⟨زوی يې⟩، یهوشافات ⟨زوی يې⟩.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "او زوی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "رحبعام"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافات"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:45.897262453Z",
+  "model": "glm-5.3"
+}

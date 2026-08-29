@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د شریرانو خبرې د وینې په کمین دي، خو د نیکو خوله هغوی ژغوري.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شریرانو"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "کمین"
+    },
+    {
+      "surface": "דם",
+      "gloss": "وینې"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "خو … خوله"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "د نیکو"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "هغوی ژغوري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:36.367654803Z",
+  "model": "glm-5.3"
+}

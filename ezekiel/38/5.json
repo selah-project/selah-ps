@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "پارس، کوش او پوت ⟨אתם⟩ سره — ټول يې سپر او خولۍ [لري].",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "پارس"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کوش"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "او پوت"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "سره"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول يې"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "سپر"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "او خولۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:04:46.406620462Z",
+  "model": "glm-5.3"
+}

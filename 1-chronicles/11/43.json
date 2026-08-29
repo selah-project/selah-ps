@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "حنان زوی د معکه، او یوشافات هَمِتني،",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "د معکه"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "او یوشافات"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "هَمِتني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:24.793458099Z",
+  "model": "glm-5.3"
+}

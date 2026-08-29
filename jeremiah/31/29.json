@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 31:29",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "په هغو ورځو به نور نه وايي: “پلرونو ترش انګور خوړلي او د زامنو غاښونه لنده شوي دي.”",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "په هغو ورځو"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "هغو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "به وايي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پلرونو"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "خوړلي"
+    },
+    {
+      "surface": "בסר",
+      "gloss": "ترش انګور"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "او د غاښونو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "لنده شوي دي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:41:04.938615929Z",
+  "model": "glm-5.3"
+}

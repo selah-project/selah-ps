@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د هغه تړون د تل لپاره په یاد وساتئ — هغه فرمان چې تر زر پښو یې وکړ.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "په یاد وساتئ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "د هغه تړون"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "چې یې وکړ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "تر زر"
+    },
+    {
+      "surface": "דור",
+      "gloss": "پښو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:23.431784021Z",
+  "model": "glm-5.3"
+}

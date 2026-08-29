@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او اناکه، او کواح، او لطاوه، او حومت، او تنشمت.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "او اناکه"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "او کواح"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "او لطاوه"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "او حومت"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "او تنشمت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:39:19.202333281Z",
+  "model": "glm-5.3"
+}

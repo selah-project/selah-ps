@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "خو زه ژوندی یم، او ټوله ⟨את⟩ ځمکه به د یاهوه جلال ډکه کړي.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "ډکه کړي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټوله ځمکه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:44.662983855Z",
+  "model": "glm-5.3"
+}

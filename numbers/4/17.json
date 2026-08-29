@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه له موشې او له اهرون سره خبرې وکړې، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "خبرې یې وکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او له"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:24.579985331Z",
+  "model": "glm-5.3"
+}

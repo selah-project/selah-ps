@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او دا هم یوه سخته ناروغي ده: په ټولو ټکو کې لکه څنګه چې راغلی، همداسې به ځي، او څه ګټه لري چې د باد لپاره زحمت کوي؟",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "د ناروغې په شان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "په ټکو کې"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "چې راغلی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "به ځي"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لري"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "چې زحمت کوي"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "د باد لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:14.411917830Z",
+  "model": "glm-5.3"
+}

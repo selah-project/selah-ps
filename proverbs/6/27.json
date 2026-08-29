@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ایا سړی اور په خپله غېږ کې اخیستلای شي، او د هغه کالي دې و نه سوځول شي؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "ایا … اخیستلای شي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "په خپله غېږ کې"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "او د هغه کالي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "و سوځول شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:54.181061298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "که په ډاډ سره پړه شي، شاهد به يې راوړي؛ د پړ شوي تاوان به نه ورکوي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "په ډاډ سره"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "پړه شي"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "شاهد به يې راوړي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "د پړ شوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "تاوان به ورکوي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:07.943092911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "ښه ⟨ه⟩ څرګنده نیوکه ده، له پټې مینې.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "نیوکه"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "څرګنده"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "له مینې"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "پټې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:43.416657849Z",
+  "model": "glm-5.3"
+}

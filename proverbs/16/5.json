@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د یاهوه کرغېړنه ⟨ه⟩ هر لوړ-زړه دی؛ لاس ⟨ه⟩ په لاس — هغه به بې-سزا نه پاتې شي.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "کرغېړنه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بې-سزا پاتې شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:11.520204796Z",
+  "model": "glm-5.3"
+}

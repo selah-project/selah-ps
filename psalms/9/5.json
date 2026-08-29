@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ځکه چې ته زما حکم او زما دعوه ترسره کړې؛ ته پر تخت کښېناستې، د عدالت قاضي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ترسره کړې"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "زما حکم"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "او زما دعوه"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "کښېناستې"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "پر تخت"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "قاضي"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "د عدالت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:14.886274502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د بې-ارزښته شاهد پر عدالت ملنډې وهي، او د بدکارانو خوله بدي قاب کوي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بې-ارزښته"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ملنډې وهي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "او خوله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "قاب کوي"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:07.895007816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "یاهوه زموږ الوهیم له حوریب څخه پر موږ خبرې وکړې، چې ووايي: دا چې په دغه غره کې اوسېدل ستاسو لپاره ډېر شوی دی —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې وکړې"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "پر موږ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "په حوریب"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "چې ووايي"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "اوسېدل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دغه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:33.477362122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یوه د زرو لوروینه ده سلو ← یوه د زرو کاسه ده شلو شېکلو وزن، ډکه له بخور څخه.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کاسه"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "עשרه",
+      "gloss": "شلو"
+    },
+    {
+      "surface": "זהب",
+      "gloss": "د زرو"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکه"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "له بخور څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:26.016351086Z",
+  "model": "glm-5.3"
+}

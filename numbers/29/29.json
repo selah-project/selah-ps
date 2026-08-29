@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 29:29",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او په شپږمه ورځ اته غوايان، دوه قوچونه، څوارلس ورې په یوه کال بې عیبه وي:",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "او په ورځ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "شپږمه"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "غوايان"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اته"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "قوچونه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ورې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زیات"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څوارلس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بې عیبه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:47.290042111Z",
+  "model": "glm-5.3"
+}

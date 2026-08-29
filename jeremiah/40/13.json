@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 40:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او یوحنان زوی قَرِعَح او ټول د هغو پوځي مشرانو چې په ډګر کې وو، گدلیا ته راغلل مِتسپا ته.",
+  "tokens": [
+    {
+      "surface": "ויוחנן",
+      "gloss": "او یوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قَرِعَح"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "مشرانو"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "پوځي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په ډګر کې"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "گدلیا"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "مِتسپا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:35:06.523831303Z",
+  "model": "glm-5.3"
+}

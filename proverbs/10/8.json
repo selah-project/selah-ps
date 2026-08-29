@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د زړه هوښیار فرمانونه مني، خو د شونډو احمق به ړنګېږي.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "مني"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمانونه"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "خو… احمق"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "د شونډو"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "به ړنګېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:09.302650990Z",
+  "model": "glm-5.3"
+}

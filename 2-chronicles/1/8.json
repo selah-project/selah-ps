@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او شلومو الوهیم ته وویل: «تا زما پلار داوېد سره لوی خېسېد کړی، او ما دې د هغه پر ځای پاچا کړی.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوهیم ته"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "کړی دی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "زما پلار"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "او ما دې پاچا کړی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "د هغه پر ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:28.208515275Z",
+  "model": "glm-5.3"
+}

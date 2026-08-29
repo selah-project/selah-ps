@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "نو یاهوه ⟨את⟩ کوشیان د آسا او د یهودا مخې ته ووهل، او کوشیان وتښتېدل.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "ووهل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوشیان"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "کوشیان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "د آسا"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "او مخې ته"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "وتښتېدل"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "کوشیان"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:02.604342402Z",
+  "model": "glm-5.3"
+}

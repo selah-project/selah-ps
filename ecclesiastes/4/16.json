@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د ټول ولس لپاره ⟨پای⟩ نه و، ټولو هغو چې تر دوی مخکې وو؛ خو وروستي هم پرې خوښ نه شي، ځکه چې دا هم بې‌پایه والی او د روح هڅان ده.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نه شته"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پای"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ولس"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "تر دوی مخکې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "خو هم"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "وروستي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوښ شي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بې‌پایه والی"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "او هڅان"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "د روح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:59.912278650Z",
+  "model": "glm-5.3"
+}

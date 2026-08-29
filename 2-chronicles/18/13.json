@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او میکایاهو وویل: د یاهوه په ژوند، چې ⟨את⟩ هغه څه چې زما الوهیم وايي، ⟨אתו⟩ همغه به ووایم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میکایاهو"
+    },
+    {
+      "surface": "חי",
+      "gloss": "په ژوند"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه څه چې"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "همغه"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "به ووایم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:19.386706019Z",
+  "model": "glm-5.3"
+}

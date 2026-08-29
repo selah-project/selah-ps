@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او الیهو (الیاهو) بیا وغږېد او ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "بیا وغږېد"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "الیهو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:18.402702060Z",
+  "model": "glm-5.3"
+}

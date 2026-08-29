@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او که تاسو په دې هم زما غوږ ونیسئ نه، بلکې له ما سره په سرکشي لاړ شئ،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "په دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "غوږ ونیسئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "لاړ شئ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "له ما سره"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "په سرکشي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:15.059123996Z",
+  "model": "glm-5.3"
+}

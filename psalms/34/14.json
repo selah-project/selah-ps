@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "خپله ژبه له بدۍ وساتئه، او خپلې شونډې له دې چې درغلې ووايي.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "وساتئه"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "خپله ژبه"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "له بدۍ"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "او خپلې شونډې"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "له ویلو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "درغلې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:31.748194868Z",
+  "model": "glm-5.3"
+}

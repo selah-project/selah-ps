@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او بیا په یسراییل کې داسې نبي ونه درېدی لکه موشې، چې یاهوه هغه پېژانده مخ ⟨is⟩ پر مخ،",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ودرېدی"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په یسراییل کې"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "لکه موشې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پېژانده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:22.328563654Z",
+  "model": "glm-5.3"
+}

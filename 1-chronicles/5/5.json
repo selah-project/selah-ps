@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "میکاه د هغه زوی، رِعایاه د هغه زوی، بَعَل د هغه زوی.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "میکاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِعایاه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:29.801280696Z",
+  "model": "glm-5.3"
+}

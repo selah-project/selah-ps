@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "خو زما لپاره، زه به הلاکه وکړم او ایل ته، او الوهیم ته زما خبره وړاندې کړم.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "هلاکه وکړم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ... ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "وړاندې کړم"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "زما خبره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:44.177750357Z",
+  "model": "glm-5.3"
+}

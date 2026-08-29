@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او هغه وویل: «ستا ورور په درغلي راغی او ستا برکت يې واخیست.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ستا ورور"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "په درغلي"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "واخیست"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ستا برکت"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:25.254292080Z",
+  "model": "glm-5.3"
+}

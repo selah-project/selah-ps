@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د حِلقیا [لپاره] حَشَبْیاه؛ د یدعیا [لپاره] نَتانائیل.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "د حِلقیا"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبْیاه"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "د یدعیا"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتانائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:44.921052114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ځکه چې حکم پر حکم، حکم پر حکم، کرښه پر کرښه، کرښه پر کرښه، لږ دلته، لږ هلته.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "پر حکم"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "پر حکم"
+    },
+    {
+      "surface": "קו",
+      "gloss": "کرښه"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "پر کرښه"
+    },
+    {
+      "surface": "קו",
+      "gloss": "کرښه"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "پر کرښه"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:31.400739597Z",
+  "model": "glm-5.3"
+}

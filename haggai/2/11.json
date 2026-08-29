@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "دا وايي یاهوه تصباوت: له کاهنانو ⟨את⟩ د تورات پوښتنه وکړه، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאوت",
+      "gloss": "تصباوت"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پوښتنه وکړه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاهنانو"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "له کاهنانو"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "د تورات"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:19.099295234Z",
+  "model": "glm-5.3"
+}

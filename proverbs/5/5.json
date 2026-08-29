@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د هغې پښې مرګ ته ښکته کېږي؛ شیول د هغې ګامونه نیسي.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "د هغې پښې"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ښکته کېږي"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرګ ته"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "د هغې ګامونه"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "نیسي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:52.867699612Z",
+  "model": "glm-5.3"
+}

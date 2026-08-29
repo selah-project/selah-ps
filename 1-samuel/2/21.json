@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 2:21",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه حنا ته وکتل نو هغه席位 وه او درې زامن يې وزېږول او دوه لوڼې؛ او ځوان شمویل د یاهوه سره لوی شو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "او"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "وکتل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حنا"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "حنا"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "نو هغه席位 وه"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لوڼې"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "لوی شو"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ځوان"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمویل"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:24:03.477065709Z",
+  "model": "glm-5.3"
+}

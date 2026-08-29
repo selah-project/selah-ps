@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او نیکي به نه وي د بدکار لپاره، او نه به اوږدې کړي ورځې لکه سیوری، هغه چې هغه نه دی وېرېدونکی د الوهیم له مخې.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "او نیکي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "د بدکار لپاره"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "به اوږدې کړي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "لکه سیوری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نه دی"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "وېرېدونکی"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:04.163268724Z",
+  "model": "glm-5.3"
+}

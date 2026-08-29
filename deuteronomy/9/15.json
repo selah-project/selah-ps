@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "نو بېرته وګرځېدم او له غره راکوز شوم، او غره په اور بلېده، او د تړون دوه لوحې پر دوه لاسونو زما وې.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "نو بېرته وګرځېدم"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "او راکوز شوم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "او غره"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بلېده"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحې"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "د تړون"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "لاسونو زما"
+    }
+  ],
+  "timestamp": "2026-08-29T02:20:58.376378668Z",
+  "model": "glm-5.3"
+}

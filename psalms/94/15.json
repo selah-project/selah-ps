@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "ځکه چې محکمه به پر انصاف بېرته وګرځي، او تر هغه وروسته ټول سپین زړه وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بېرته وګرځي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "محکمه"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "او تر هغه وروسته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سپین زړه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:30.059046121Z",
+  "model": "glm-5.3"
+}

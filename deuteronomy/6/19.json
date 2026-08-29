@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د دا لپاره چې ټول ستا دښمنان ستا له مخې وشړی، لکه څنګه چې یاهوه ویلي دي.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "د وشړلو لپاره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا دښمنان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ستا دښمنان"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ستا له مخې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویلي دي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:13.683209279Z",
+  "model": "glm-5.3"
+}

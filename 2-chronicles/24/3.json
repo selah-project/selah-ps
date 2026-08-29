@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او یهویاداع د هغه لپاره دوه ښځې ونیولې؛ نو هغه زامن او لوڼې وزېږول.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "او ونیولې\/واخیستې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه لپاره"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یهویاداع"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "او لوڼې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:05:55.413497868Z",
+  "model": "glm-5.3"
+}

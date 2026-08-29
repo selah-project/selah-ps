@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه چې هغې د زېږۍ دروازې ونه ټومبلې، او رنځ يې زما له سترګو پټ نه کړ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ونه ټومبلې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "בטני",
+      "gloss": "د زېږۍ"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "او پټ نه کړ يې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "עמل",
+      "gloss": "رنځ"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "زما له سترګو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:31.196202361Z",
+  "model": "glm-5.3"
+}

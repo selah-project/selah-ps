@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 109,
+  "translation": "او پوه شي چې دا ستا لاس دی — تۀ يې، ای یاهوه، کړی يې.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "او پوه شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تۀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "کړی يې يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:12.408211913Z",
+  "model": "glm-5.3"
+}

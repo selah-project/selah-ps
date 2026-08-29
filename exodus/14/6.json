@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او هغه خپله ګاډي 🚫 په نښه کړه او ⟨את⟩ خپل قوم يې له ځان سره واخیست.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "او په نښه يې کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله ګاډي"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "خپله ګاډي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خپل قوم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "واخیست"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "له ځان سره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:13.911626544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "زویه مې، د دوی ⟨את⟩ په لار کې مه ځه، خپله پښه د دوی له لارې څخه بندوله.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زویه مې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ځه"
+    },
+    {
+      "surface": "بדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ د دوی سره",
+      "marks": "د دوی سره"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "بندوله"
+    },
+    {
+      "surface": "رגלך",
+      "gloss": "خپله پښه"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "د دوی له لارې څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:53.781072581Z",
+  "model": "glm-5.3"
+}

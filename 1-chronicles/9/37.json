@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ګېدور، او اخیو، او زکریا، او مکلوث.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "او ګېدور"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او اخیو"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "او زکریا"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "او مکلوث"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:38.443372959Z",
+  "model": "glm-5.3"
+}

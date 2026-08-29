@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او صفنیا ׁکاهن دا لیک د یرمیاهو ⟨⟨נביא⟩⟩ په غوږونو کې ولوست.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "او ولوست"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "صفنیا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لیک"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "لیک"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "په غوږونو کې"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:40:23.059294807Z",
+  "model": "glm-5.3"
+}

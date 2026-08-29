@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او موشې او ايلعزار ⟨the⟩ کاهن له دوی څخه ⟨את⟩ زر درانه ټول واخیستل، هر جوړ-شوی اسباب.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیستل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "او ايلعزار"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زر"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "له دوی څخه ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اسباب"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "جوړ-شوی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:20:09.264793538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "«زما د حکم په بابه به دروغ وایم؟ زما تېر مرګون دی، بې له بغاوت.»",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "په بابه"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "زما حکم"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "دروغ وایم"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "مرګون"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "زما تېر"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "بغاوت"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:17.899830260Z",
+  "model": "glm-5.3"
+}

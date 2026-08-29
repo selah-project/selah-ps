@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "نو پاچا وویل، او دوی یو صندوق جوړ كړ او د یاهوه د كور په دروازه كې، بهران، كېښود.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "המلך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "جوړ كړ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "كېښود"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "په دروازه كې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د كور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "بهران"
+    }
+  ],
+  "timestamp": "2026-08-29T02:06:05.054537646Z",
+  "model": "glm-5.3"
+}

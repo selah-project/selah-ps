@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه چې حکمت له قیمتي ډبرو ښه دی، او ټول خوښ شوي شیان له دې سره برابر نه دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "له قیمتي ډبرو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "خوښ شوي شیان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "برابر دي"
+    },
+    {
+      "surface": "בה",
+      "gloss": "له دې سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:45.798067141Z",
+  "model": "glm-5.3"
+}

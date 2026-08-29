@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زوی د الکانا، زوی د یروحام، زوی د الیایل، زوی د تواح.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "الکانا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروحام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "الیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "تواح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:18.064538046Z",
+  "model": "glm-5.3"
+}

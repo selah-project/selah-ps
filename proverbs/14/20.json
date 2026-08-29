@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "حتیً خپل ګاونډي هم فقیر کرهله کوي، خو د شتمن مینان ډېر دي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتیً"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "خپل ګاونډي ته"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "کرکهل کوي"
+    },
+    {
+      "surface": "רש",
+      "gloss": "فقیر"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "او مینان"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "د شتمن"
+    },
+    {
+      "surface": "رבים",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:42.607616096Z",
+  "model": "glm-5.3"
+}

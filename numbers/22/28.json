@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او یاهوه ⟨את⟩ د خرې خلا پرانيست، او هغې بلعم ته وويل: «ما تا ته څه کړي دي چې تا ما دا درې ځله وهلې ده؟»",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "پرانيست"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د خرې خلا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خلا"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "د خرې"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "وويل يې"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "بلعم ته"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کړي دي ما"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "وهلې ده ما"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ځله"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:33.543994296Z",
+  "model": "glm-5.3"
+}

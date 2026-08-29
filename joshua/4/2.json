@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "«ځان لپاره له قوم څخه دولس سړي واخلئ، یو سړی — یو سړی له هرې قبیلې،",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "واخلئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ځان لپاره"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(لس)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "مשבט",
+      "gloss": "له قبیلې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:40.994739198Z",
+  "model": "glm-5.3"
+}

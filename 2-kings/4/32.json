@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او الیشع کور ته دننه شو او وګورئ چې هلک مړ و، پر خپله بستره پروت و.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "دننه شو"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "الیشع"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "کور ته"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او وګورئ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "هلک"
+    },
+    {
+      "surface": "مת",
+      "gloss": "مړ و"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "پروت و"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "خپله بستره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:02:38.247786755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او مِشوباب، او یَملېک، او یوشا د اَمَصیا زوی.",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "او مِشوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "او یَملېک"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "او یوشا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "اَمَصیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:06.884916151Z",
+  "model": "glm-5.3"
+}

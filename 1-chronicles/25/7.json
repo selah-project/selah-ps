@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 25:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او د دوی شمېر د دوی د وروڼو سره — د یاهوه د سندرې زده کړي، ټول پوه — دوې سوه اتیا او اته وو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "د دوی شمېر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "אחיהم",
+      "gloss": "د دوی وروڼو"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "زده کړي"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندرې"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوې سوه"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اتیا"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "او اته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:22.709767134Z",
+  "model": "glm-5.3"
+}

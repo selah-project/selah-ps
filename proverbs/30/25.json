@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "مېږیان یو قوم دی چې زور نه لري، خو په اوړي کې خپل خواړه چمتو کوي.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "مېږیان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "چمتو کوي"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "په اوړي کې"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "خپل خواړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:05.135458574Z",
+  "model": "glm-5.3"
+}

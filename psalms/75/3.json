@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 75,
+  "translation": "«چې کله زه ټاکلی وخت واخلم، زه پخپله په مياشتې\/سمه توګه قضاوت کوم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "زه واخلم"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ټاکلی وخت"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه پخپله"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "په سمه توګه"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "قضاوت کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:46.294658284Z",
+  "model": "glm-5.3"
+}

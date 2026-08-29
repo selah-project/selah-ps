@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د سړي سامان به پر ښځه نه وي، او سړی به د ښځې جامې نه اغوندي، ځکه چې ټول هغه څوک چې دا کارونه کوي، د یاهوه ستا الوهیم لپاره کرغېړن کار دی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وی"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "اغوندي"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "کرغېړن کار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوونکی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:34.776047275Z",
+  "model": "glm-5.3"
+}

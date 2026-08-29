@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او دوی د پاچا له فرمانه ونه وتل — د کاهنانو او لویانو لپاره، هر چار ته او خزانو ته.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ونه وتل"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "له فرمانه"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "او لویانو"
+    },
+    {
+      "surface": "لכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "او خزانو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:03.640391978Z",
+  "model": "glm-5.3"
+}

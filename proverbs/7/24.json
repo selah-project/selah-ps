@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "اوس نو زامنو، ما واورئ، او زما د خولې په ويناوو غوږ ونیسئ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اوس نو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما"
+    },
+    {
+      "surface": "והקשיבو",
+      "gloss": "غوږ ونیسئ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "په ويناوو"
+    },
+    {
+      "surface": "פי",
+      "gloss": "زما د خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:17.718252128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "يوه ککړ خالص زر به هغه ⟨את⟩ جوړ کړي، ⟨את⟩ دا ټول سامان.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ککړ (د وزن واحد)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "زر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "جوړ به کړي"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (منوره)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ټول سامان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "سامان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:26.424895203Z",
+  "model": "glm-5.3"
+}

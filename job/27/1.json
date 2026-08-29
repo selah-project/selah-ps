@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او ایوب خپل مَثَل نور پورته کړ او ویې ویل:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "نور يې زیات کړ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "پورته کړ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "خپل مَثَل"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:35.905135120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "چې زما لاس به له هغه سره ټینګ ولاړ وي؛ بلکې زما بغل به یې پیاوړی کړي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "زما لاس"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ټینګ ولاړ وي"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "له هغه سره"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "زما بغل"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "یې پیاوړی کړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:20.249869470Z",
+  "model": "glm-5.3"
+}

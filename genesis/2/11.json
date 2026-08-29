@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د لومړي نوم پېشون دی؛ هغه ⟨⟨هغه⟩⟩ چې ⟨את⟩ ټول د حویله خاوره چاپېروي — هغه ځای چې هلته زر یايې.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "لومړي"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "پېشون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "چې چاپېروي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول د حویله خاوره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "خاوره"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "حویله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زر"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:55.103838515Z",
+  "model": "glm-5.3"
+}

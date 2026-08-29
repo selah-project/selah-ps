@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 20:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "یوازې له دې ملتونو له ښارونو، چې یاهوه ستا الوهیم تا ته په میراث درکوي، به هېڅ نفس ژوندی نه پرېږدې.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "له ښارونو"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "د دې ملتونو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "په میراث"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ژوندی به پرېږدې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هېڅ"
+    },
+    {
+      "surface": "נשמه",
+      "gloss": "نفس"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:48.491548484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 38:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ته چېرته وې چې زه د ځمکې بنسټ ایښود؟ ووایه، که دې پوهه لرې.",
+  "tokens": [
+    {
+      "surface": "איפה",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وې"
+    },
+    {
+      "surface": "ביסדי",
+      "gloss": "د بنسټ په ایښودلو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پوهېږې"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:02.264686748Z",
+  "model": "glm-5.3"
+}

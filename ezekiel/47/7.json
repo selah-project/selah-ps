@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "کله چې راستون شوم، نو کتله — د نهر پر غاړه ډېرې ډېرې وڼې وې، له دې خوا او له هغې خوا.",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "کله چې راستون شوم"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "نو کتله"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "غاړه"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "د نهر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "وڼې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېرې"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "له دې خوا"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "او له هغې خوا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:19.963887955Z",
+  "model": "glm-5.3"
+}

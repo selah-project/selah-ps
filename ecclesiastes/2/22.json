@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې ⟨نېغ⟩ څه پاتې کېږي ⟨سړي⟩ ته له ټول زحمت او د زړه له رنځونه، چې هغه يې لاندې لمر تر لاندې کوي؟ — دا چې هغه يې لاندې لمر کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "پاتې کېږي"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "سړي ته"
+    },
+    {
+      "surface": "بכל",
+      "gloss": "له ټول"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "زحمت"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "او له رنځونه"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "چې هغه"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:54.526324106Z",
+  "model": "glm-5.3"
+}

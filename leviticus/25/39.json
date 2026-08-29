@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او کله چې ستا ورور درسره بېوزله شي او دې ته وپلورل شي، د مزدور د غلام په شان خدمت به پرې نه کوې.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او کله چې"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "بېوزله شي"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ستا ورور"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "درسره"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "او وپلورل شي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "به خدمت پرې کوې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "د غلام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:13.912116461Z",
+  "model": "glm-5.3"
+}

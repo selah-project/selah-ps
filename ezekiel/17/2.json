@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "د آدم زویه، معما ووايه او د بیت یِسرایل کور ته مثل ووهه:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "ووايه"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "معما"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "او ووهه"
+    },
+    {
+      "surface": "משל",
+      "gloss": "مثل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:35:45.929035409Z",
+  "model": "glm-5.3"
+}

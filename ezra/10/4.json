@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "پاڅېږه، ځکه خبره پر تا ده، او موږ له تا سره یو؛ زړور شه او و يې کړه.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "او موږ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "زړور شه"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "او و يې کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:39:44.320382288Z",
+  "model": "glm-5.3"
+}

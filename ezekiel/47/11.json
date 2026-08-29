@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "خو د هغه لجنونه او غډګوڼې به نه روغې شي؛ دوۍ به مالوچ ته ورکړل شي.",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "د هغه لجنونه"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "او غډګوڼې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ירפאו",
+      "gloss": "روغې شي"
+    },
+    {
+      "surface": "למלח",
+      "gloss": "مالوچ ته"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ورکړل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:45.250327413Z",
+  "model": "glm-5.3"
+}

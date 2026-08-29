@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 93,
+  "translation": "ستا تخت له هغه وختونه ټینګ دی، له پېړیو څخه ته يې.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ټینګ دی"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ستا تخت"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "له هغه وختونه"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "له پېړیو څخه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته يې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:04.161365064Z",
+  "model": "glm-5.3"
+}

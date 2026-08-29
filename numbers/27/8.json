@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او د یس rausایل زامنو ته به وايې، چې: که يو سړی ومري او زوی يې نه وي لروی، نو تاسو به ⟨את⟩ د هغه ميراث تېروئ لور ته يې.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "او… ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یس rausایل"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "وايې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "يو سړی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ومري"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "او زوی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه وي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لروی… يې"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "تاسو به… تېروئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه ميراث"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "د هغه ميراث"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "لور ته يې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:20:16.119995468Z",
+  "model": "glm-5.3"
+}

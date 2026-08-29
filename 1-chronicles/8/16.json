@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او میخائیل، او یِشپه، او یوها — د بَرییه زامن.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "او میخائیل"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "او یِشپه"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "او یوها"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بَرییه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:48.213228487Z",
+  "model": "glm-5.3"
+}

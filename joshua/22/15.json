@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 22:15",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "نو دوی د رائوبن زامنو ته، او د ګاد زامنو ته، او د منشه د قبیلې نیمې ته، د ګلعاد په ځمکه کې راغلل، او ⟨את⟩ دوی سره یې وویل چې:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رائوبن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او…ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او…ته"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نیمې"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ګلعاد"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:21:41.788643319Z",
+  "model": "glm-5.3"
+}

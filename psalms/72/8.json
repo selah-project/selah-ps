@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 72,
+  "translation": "او به واک وچلوي له سمندر څخه تر سمندره، او له سيند څخه تر د ځمکې د پایونو.",
+  "tokens": [
+    {
+      "surface": "ורד",
+      "gloss": "او به واک وچلوي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "له سمندر څخه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندره"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "او له سيند څخه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "د پایونو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:50.522544937Z",
+  "model": "glm-5.3"
+}

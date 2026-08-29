@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او ته به بېرته وګرځې او د یاهوه غږ به واورې، او ټولې هغه لارښوونې به وکړې چې زه يې نن تا ته حکم کوم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "بېرته به وګرځې"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "غږ به واورې"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "به وکړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې هغه لارښوونې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "لارښوونې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "حکم کوم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:14.170877235Z",
+  "model": "glm-5.3"
+}

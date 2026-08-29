@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "کله چې خپل انګور باغ ټولوې، وروسته يې نه راغونډوې؛ دا دې د بهرني، د بې پلاره او د کونډې لپاره وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "ټولوې"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "خپل انګور باغ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "راغونډوې"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "وروسته يې"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "د بهرني"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "د بې پلاره"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "او د کونډې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:37.266185398Z",
+  "model": "glm-5.3"
+}

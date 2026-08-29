@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "که وېېستې، ونه وېرېږې؛ بلکې وېېستې، او ستا خوب به خوږ وي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "وېېستې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תפחد",
+      "gloss": "ونه وېرېږې"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "او وېېستې"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "خوږ وي"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ستا خوب"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:20.010494970Z",
+  "model": "glm-5.3"
+}

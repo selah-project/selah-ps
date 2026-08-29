@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او لېاه بیا امېندواره شوه، او یعقوب ته يې شپږم زوی وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "او امېندواره شوه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لېاه"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "او وزېږاوه يې"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "شپږم"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یعقوب ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:04.155150727Z",
+  "model": "glm-5.3"
+}

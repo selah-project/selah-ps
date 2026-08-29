@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یو غوایِ د مېښو زوی، یوه نارینه ورسته، یوه لړه د خپل کال زوی، د سوځولو قربانۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "غوایِ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د مېښو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "نارینه ورسته"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لړه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "د خپل کال"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځولو قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:26.016526640Z",
+  "model": "glm-5.3"
+}

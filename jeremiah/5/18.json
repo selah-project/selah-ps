@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او بیا هم په هغو ورځو کې — د یاهوه خبره — زه به ⟨את⟩ تاسو سره بشپړه پای نه راولم.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او بیا هم"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "په ورځو"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "هغو کې"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د … خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "زه به … راولم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تاسو"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "بشپړه پای"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:00.345936128Z",
+  "model": "glm-5.3"
+}

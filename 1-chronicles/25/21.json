@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د څوارلسم لپاره مَتَتیاهو، د هغه زامن او وروڼه، دولس:",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "مَتَتیاهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:59.724685295Z",
+  "model": "glm-5.3"
+}

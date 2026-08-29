@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او پاچا ⟨את⟩ زرين عصا اېستر ته وغځوله، نو اېستر راپاوهېده او د پاچا مخې ته ودرېده.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "وغځوله"
+    },
+    {
+      "surface": "המلک",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "لאסתר",
+      "gloss": "اېستر ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زرين عصا"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "زرين"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "راپاوهېده"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اېستر"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ودرېده"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:28:37.352349654Z",
+  "model": "glm-5.3"
+}

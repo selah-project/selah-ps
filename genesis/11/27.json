@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او دا د تِراخ نسلونه دي: تِراخ ⟨את⟩ ابرام، ⟨את⟩ ناحور او ⟨את⟩ هاران وزېږول؛ او هاران ⟨את⟩ لوط وزېږوه.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلونه"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "د تِراخ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِراخ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ابرام"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناحور"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هاران"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "او هاران"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوط"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوط"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:56.364594446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "کوچنی یم او سپک شوی، خو ستا فرمانونه نه دي هېر شوي.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "کوچنی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "یم"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "او سپک شوی"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ستا فرمانونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "هېر شوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:36.338233038Z",
+  "model": "glm-5.3"
+}

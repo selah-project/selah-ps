@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "نو پیغاموال ولاړ، راغی او داوېد ته يې ⟨את⟩ ټول هغه وويل چې یوآب پرې استولی و.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "نو ولاړ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "پیغاموال"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوېد ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "استولی و"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:45.669846846Z",
+  "model": "glm-5.3"
+}

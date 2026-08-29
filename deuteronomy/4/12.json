@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه له تاسو سره د اور له منځه وینا وکړه — د خبرو غږ تاسو اورید، خو هیڅ بڼه تاسو نه لیدله؛ یوازې غږ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وینا وکړه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "له تاسو سره"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "له منځه"
+    },
+    {
+      "surface": "האש",
+      "gloss": "د اور"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "د خبرو"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "اورید"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "خو بڼه"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "لیدله"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:42.199552890Z",
+  "model": "glm-5.3"
+}

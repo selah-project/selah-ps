@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او د انسانانو د نفسونو شپاړس زره،",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "د نفسونو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانانو"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:18.065162067Z",
+  "model": "glm-5.3"
+}

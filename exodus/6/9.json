@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "موشې داسې د اسرائیلو زامنو ته وویل، خو هغوی د روح له ماتوالي او له سختې غلامۍ موشې ته غوږ ونه نیول.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسرائیلو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "غوږ ونه نیول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "له ماتوالي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "د روح"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "او له غلامۍ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سختې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:52.176807586Z",
+  "model": "glm-5.3"
+}

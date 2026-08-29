@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او کوش ⟨את⟩ نمرود وزېږاوه؛ هغه په ځمکه کې د غښتلي کېدلو پیل وکړ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "او کوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "החל",
+      "gloss": "پیل وکړ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "د ... کېدلو"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "غښتلی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:46.663507753Z",
+  "model": "glm-5.3"
+}

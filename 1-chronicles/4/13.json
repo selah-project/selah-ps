@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د قناز زامن: عثنیل او سرایه؛ او د عثنیل زامن: حتات.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قناز"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عثنیل"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "سرایه"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "عثنیل"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "حتات"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:24.093473168Z",
+  "model": "glm-5.3"
+}

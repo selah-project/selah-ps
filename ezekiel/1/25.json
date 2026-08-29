@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او له گنبده، چې پر سر يې و، غږ وشو — کله چې ودريدل، خپلې وزې يې راښکته کړې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشو"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له...څخه"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "گنبد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "سر"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "کله چې ودريدل"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "راښکته کړې"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "وزې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:50:40.400516984Z",
+  "model": "glm-5.3"
+}

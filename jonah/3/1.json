@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د یاهوه خبره دویم ځل یوناه ته ورسېده، ویل یې:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ورسېده"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یوناه"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دویم ځل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل یې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:16:08.379824962Z",
+  "model": "glm-5.3"
+}

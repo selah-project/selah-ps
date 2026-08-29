@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "نو به په الوهیم او د انسانانو په سترګو کې توف او ښه پوهه ومومې.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "نو به ومونې"
+    },
+    {
+      "surface": "חן",
+      "gloss": "توف"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "او انسانانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:31.360020114Z",
+  "model": "glm-5.3"
+}

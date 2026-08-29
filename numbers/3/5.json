@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او یاهوه وویل موشې ته، ووايه:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې (موسیٰ)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ووايه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:52.187716976Z",
+  "model": "glm-5.3"
+}

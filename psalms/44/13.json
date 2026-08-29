@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "ته خپل قوم بې ⟨له⟩ ماله پلوری، او د دوی په بیه نه زیاتېږې.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "ته پلوری"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ماله"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "زیاتېږې"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "د دوی په بیه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:49.945981536Z",
+  "model": "glm-5.3"
+}

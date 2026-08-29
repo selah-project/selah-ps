@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "په ګت کې يې مه وایاست، مه يې ژاړئ؛ په بیت-لعفره کې په غبار کې ځان رول کړئ.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "په ګت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "وایاست"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "ژاړئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ژاړئ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په بیت"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "لعفره"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "غبار"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ځان رول کړئ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:16:49.557959136Z",
+  "model": "glm-5.3"
+}

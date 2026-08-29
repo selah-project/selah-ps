@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او د داوېد قهر پر دغه سړي ډېر وتو، او هغه ناتان ته وویل: «یاهوه ژوندی دی، چې دا کار کوونکی سړی ⟨د⟩ مرګ زوی دی.»",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "وتو"
+    },
+    {
+      "surface": "אף",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "پر دغه سړي"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرګ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "کوونکی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:45:48.342584381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او یبْهار او اېلیشوع او نېفِګ او یافِیع.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "او یبْهار"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "او اېلیشوع"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "او نېفِګ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "او یافِیع"
+    }
+  ],
+  "timestamp": "2026-08-28T22:43:10.825008040Z",
+  "model": "glm-5.3"
+}

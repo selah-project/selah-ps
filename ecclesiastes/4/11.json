@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "همداراز که دواړه يو ځای وڅمېستل شي، ګرمي لري؛ خو يو يوازې څنګه ګرم شي؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همداراز"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "وڅمېستل شي"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دواړه"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ګرمي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لري"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "خو يو يوازې"
+    },
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ګرم شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:41.412033990Z",
+  "model": "glm-5.3"
+}

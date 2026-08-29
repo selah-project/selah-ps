@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "مه اوسه د شرابو د څښونکو او د غوښې د ډېرو خوړونکو په منځ کې — د دوی د خوړو په بدل کې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "اوسه"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "د څښونکو په منځ کې"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شرابو"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "د ډېرو خوړونکو"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښې"
+    },
+    {
+      "surface": "למו",
+      "gloss": "د دوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:44.476104911Z",
+  "model": "glm-5.3"
+}

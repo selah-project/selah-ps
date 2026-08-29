@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د دوی کښېناستل او د دوی پاڅېدل — وګوره؛ زه د دوی سوټېر يم.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "د دوی کښېناستل"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "او د دوی پاڅېدل"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "د دوی سوټېر يم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:34.258472411Z",
+  "model": "glm-5.3"
+}

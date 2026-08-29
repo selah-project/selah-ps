@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 25:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "نو څنګه انسان له اِل سره نیک ثابته شي؟ او څنګه د ښځې زېږېدلی پاک وي؟",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "نو څنګه"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "نیک ثابته شي"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له... سره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څنګه"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "پاک وي"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "زېږېدلی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د ښځې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:40.610390744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 15:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د الیصپان د زامنو ⟨له ډلې⟩ شمعیه مشر ⟨و⟩، او د هغه وروڼه دوه سله ⟨وو⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "الیصپان"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شمعیه"
+    },
+    {
+      "surface": "השר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دوه سله"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:45.074840918Z",
+  "model": "glm-5.3"
+}

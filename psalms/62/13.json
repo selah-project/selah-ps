@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "او ستا ده، اې ادونای، خېسېد، ځکه ته چا ته د هغه د کړنې له مخې بښنه ورکوې.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "او ستا ده"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "بښنه ورکوې"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "چا ته"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "د هغه د کړنې له مخې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:13.780501190Z",
+  "model": "glm-5.3"
+}

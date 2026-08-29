@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او شِلِمیاه، او ناتان، او عَدَیاه،",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "او شِلِمیاه"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "او ناتان"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "او عَدَیاه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:39:06.737987709Z",
+  "model": "glm-5.3"
+}

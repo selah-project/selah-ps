@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې که تېرېتوب ته غږ وکړې، او پوهېې ته خپل غږ پورته کړې،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "تېرېتوب ته"
+    },
+    {
+      "surface": "תקرא",
+      "gloss": "غږ وکړې"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "پوهې ته"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "پورته کړې"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "خپل غږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:13.074147575Z",
+  "model": "glm-5.3"
+}

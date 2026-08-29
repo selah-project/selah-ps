@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "مِشمانه څلورم، یِرمیا پنځم.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "مِشمانه"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "څلورم"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "یِرمیا"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "پنځم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:14.101179127Z",
+  "model": "glm-5.3"
+}

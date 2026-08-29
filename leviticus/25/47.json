@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 25:47",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او که ⟨the⟩ یو پردي یا مېشتی چې ستا سره دی لاس پر ګټه ورسېږي، او ستا ورور چې د هغه سره دی غريب شي، او ځان د هغه پردie یا مېشتي ته چې ستا سره دی وپلوري، یا د ⟨the⟩ پردie د کورنۍ ريښې ته،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ورسېږي"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پردie"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "یا مېشتی"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "ומך",
+      "gloss": "غريب شي"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ستا ورور"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "د هغه سره"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "او وپلوري"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "پردie ته"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "مېشتي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לעקר",
+      "gloss": "د ريښې ته"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "د کورنۍ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "پردie"
+    }
+  ],
+  "timestamp": "2026-08-28T21:48:48.877166277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "هر ډول خزنده وزېږې چې پر څلورو [پښو] ګرځي — دا تاسو ته نجس (شېقِتس) دی.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر ډول"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "وزېږې"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "چې ګرځي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو [پښو]"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "نجس (شېقِتس)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:30.696785838Z",
+  "model": "glm-5.3"
+}

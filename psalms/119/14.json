@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د خپلو ګواهیو په لار کې مې خوشحالي کړې، لکه د ټول مال په څېر.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "د خپلو ګواهیو"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "مې خوشحالي کړې"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "لکه په"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:08.257304462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ستا شهادتونه حیرانوونکي دي؛ نو زما نفس دوی ساتي.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "حیرانوونکي"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ستا شهادتونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "כן",
+      "gloss": "دېbase سبب"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:25.596777608Z",
+  "model": "glm-5.3"
+}

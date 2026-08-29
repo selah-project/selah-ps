@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "چې زیان په وینو جوړوي او یروشلایم په ظلم.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زیان"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "په وینو"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "او یروشلایم"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "په ظلم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:17:20.321106257Z",
+  "model": "glm-5.3"
+}

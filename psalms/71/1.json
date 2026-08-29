@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 71,
+  "translation": "په تا کې، ای یاهوه، ما پناه اخیستې ده؛ هېڅکله مې مه شرمېوه، تر ⟨پایه⟩.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "په تا کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ما پناه اخیستې ده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "شرمېږم"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تر پایه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:13.558267698Z",
+  "model": "glm-5.3"
+}

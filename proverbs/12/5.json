@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د صادقانو اندونه عدالت دی، خو د شریرانو تدبیرونه درغل دي.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "اندونه"
+    },
+    {
+      "surface": " צדיקים",
+      "gloss": "د صادقانو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "تدبیرونه"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شریرانو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "درغل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:36.367438710Z",
+  "model": "glm-5.3"
+}

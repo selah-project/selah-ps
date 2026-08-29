@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "عیرا دی یِتریتي، ګاریب دی یِتریتي.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "هיתרי",
+      "gloss": "دی یِتریتي"
+    },
+    {
+      "surface": "گרב",
+      "gloss": "ګاریب"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "دی یِتریتي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:36.512523152Z",
+  "model": "glm-5.3"
+}

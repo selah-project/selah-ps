@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او ګدالیاهو زوی اهیقام یوحانان زوی کاریح ته وویل: دا کار دې مه کوي ⟨את⟩ دا خبره، ځکه چې ته د یِشماعیل په اړه دروغ وایې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "ګدالیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "اهیقام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "کاریح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا خبره"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وایې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د… په اړه"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشماعیل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:35:40.774315123Z",
+  "model": "glm-5.3"
+}

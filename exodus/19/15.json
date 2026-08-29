@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او قوم ته يې وويل: «درې ورځې چمتو اوسئ؛ ښځې ته مه نږدې کېږئ.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "اوسئ"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "چمتو"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "نږدې کېږئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:22.601180602Z",
+  "model": "glm-5.3"
+}

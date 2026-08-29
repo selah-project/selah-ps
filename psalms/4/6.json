@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د عدالت قربانۍ قرباني کړئ او پر ياهوه توکل وکړئ.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "قرباني کړئ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانۍ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "د عدالت"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "او توکل وکړئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:37.343923786Z",
+  "model": "glm-5.3"
+}

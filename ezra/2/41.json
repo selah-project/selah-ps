@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "سندرغاړي: د آساف زامن، سل شل اته.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "سندرغاړي"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "او اته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:36.376877435Z",
+  "model": "glm-5.3"
+}

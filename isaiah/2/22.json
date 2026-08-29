@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "بندېږئ! له هغه انسان څخه ډډه وکړئ چې په پوزې کې يې ساه ده، ځکه هغه په څه حسابېږي؟",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "بندېږئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ساه"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "په پوزې کې يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "במה",
+      "gloss": "په څه"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "حسابېږي"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:10:41.544908347Z",
+  "model": "glm-5.3"
+}

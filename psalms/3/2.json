@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "یاهوه، څومره زيات شول زما ستونزمنوونکي! ډېر دي چې پر ما راپاڅېدلي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "زيات شول"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "زما ستونزمنوونکي"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر دي"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "راپاڅېدلي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:13.107474205Z",
+  "model": "glm-5.3"
+}

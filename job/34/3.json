@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "ځکه چې غوږ خبرې ازمويي، او د خولې تال د خوړلو لپاره ذوق کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "ازمويي"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "او د خولې تال"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "ذوق کوي"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "د خوړلو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:49.292342123Z",
+  "model": "glm-5.3"
+}

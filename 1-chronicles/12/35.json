@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او له نفتالي، زره مشران، او له دوی سره د تورو او نېزو په درلودلو اته دېرش زره.",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "او له نفتالي"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "او له دوی سره"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "د تورو سره"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "او نېزو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "او اوه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:31.127207533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ويې ویل: لعنت وکړل شي کنعان؛ د خپلو وروڼو غلامانو غلام به وي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ویل"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "لعنت وکړل شي"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامانو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "د خپلو وروڼو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:50.733298610Z",
+  "model": "glm-5.3"
+}

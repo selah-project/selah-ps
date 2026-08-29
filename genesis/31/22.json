@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او په درېیمه ورځ لابان ته وویل شول چې یعقوب تښتېدلی دی.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "وویل شول"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "لابان ته"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "درېیمه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "تښتېدلی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:36.269444371Z",
+  "model": "glm-5.3"
+}

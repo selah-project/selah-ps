@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "عجیبې ښکارندې د حام په ځمکه کې، او وېرونکي کارونه پر د سوف سمندر.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "عجیبې ښکارندې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "وېروونکي کارونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:57.622579901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 19:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او بهر شه غاړي ته د زوی د هینوم چې د خټې دروازې خوا ته دی، او هلته اعلان کړه ⟨את⟩ هغه خبرې چې زه به درته وایم.",
+  "tokens": [
+    {
+      "surface": "ויצאת",
+      "gloss": "او بهر شه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "غاړي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د زوی"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "د هینوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "خوا ته"
+    },
+    {
+      "surface": "שער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "החרסות",
+      "gloss": "د خټې"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "او اعلان کړه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه خبرې"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "هغه خبرې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "زه به وایم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "درته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:36:25.686242057Z",
+  "model": "glm-5.3"
+}

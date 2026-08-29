@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او داوېد په کلا کې مېشت شو؛ له همدې امله هغه ته يې «د داوېد ښار» ووايه.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "او مېشت شو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "په کلا کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "د … په سبب"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "يې ووايه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:40.287814235Z",
+  "model": "glm-5.3"
+}

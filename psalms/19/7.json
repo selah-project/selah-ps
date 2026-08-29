@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "له پای"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "د هغه وتل"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "او د هغه ګرځېدنه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تر"
+    },
+    {
+      "surface": "קצות׮",
+      "gloss": "د هغوی پایونو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "پټ"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "له هغه له تودوخې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:46.701578179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د شریرانو قرباني کرغېړنه ده — نور هغه وخت هم چې په شرارت سره یې ⟨مشرۍ ته⟩ وړي.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شریرانو"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "کرغېړنه ده"
+    },
+    {
+      "surface": "אף",
+      "gloss": "نور هم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "هغه وخت چې"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "په شرارت"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "یې وړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.719223488Z",
+  "model": "glm-5.3"
+}

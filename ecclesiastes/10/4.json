@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "که د واکمن روده ستا په وړاندې پورته شي، خپل ځای مه پرېږده، ځکه نرمی لویې گناهونه اراموي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روده"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "واکمن"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "پورته شي"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ستا په وړاندې"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "خپل ځای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "پرېږده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "نرمی"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "اراموي"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناهونه"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "لویې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:43.990956738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "عمونی او موابی د یاهوه په قوم کې نه ننوزي؛ همدارنګه لسم نسل يې هم د یاهوه په قوم کې نه ننوزي، تر تل لپاره.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوزي"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "عمونی"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "او موابی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په قوم کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همدارنګه"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوزي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "يې (د هغوی لپاره)"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په قوم کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:38.392102941Z",
+  "model": "glm-5.3"
+}

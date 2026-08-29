@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او بیا وروسته له دې، ناحاش د بني امون پاچا ومړ، او د هغه زوی د هغه پر ځای واکمن شو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او بیا وشول"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته له"
+    },
+    {
+      "surface": "כן",
+      "gloss": "دې"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ومړ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ناحاش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د بني"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "امون"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "واکمن شو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "د هغه پر ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:41.576351764Z",
+  "model": "glm-5.3"
+}

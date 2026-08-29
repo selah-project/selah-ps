@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "نو ⟨هغه> ورڅخه لاس واخېست. هغه وخت ېې ويل: “د وينو زوم — د ختنې په اړه.”",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "لاس واخېست"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ورڅخه"
+    },
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "زوم"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "د وينو"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "د ختنې په اړه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:15:27.909522491Z",
+  "model": "glm-5.3"
+}

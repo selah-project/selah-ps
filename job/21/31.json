@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 21:31",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "څوک به يې لار پر مخ ورته ووايي؟ او هغه چې ⟨هغه⟩ کړی يې دی، څوک به يې ورته ورکوي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "به ووايي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "لار"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړی يې دی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "به ورته ورکوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:05.250940648Z",
+  "model": "glm-5.3"
+}

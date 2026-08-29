@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 31:24",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او تاسو به خپل جامې په اومه ورځ وینځئ او پاک شئ، او وروسته به کمپ ته دننه شئ.",
+  "tokens": [
+    {
+      "surface": "וכבסתם",
+      "gloss": "او وینځئ"
+    },
+    {
+      "surface": "בגדיכם",
+      "gloss": "خپل جامې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "اومه"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "او پاک شئ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "او وروسته"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "دننه شئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "کمپ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:15.297294435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او کله چې ماښام وګرځي، په اوبو به ځان وینځي؛ او لمر چې ښکته شي، د لښکرګاه منځ ته به ننوځي.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او کله چې"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "وګرځي"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ځان وینځي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "ښکته شي"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "منځ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "د لښکرګاه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:07.206372033Z",
+  "model": "glm-5.3"
+}

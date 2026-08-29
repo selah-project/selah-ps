@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "لړزه ⟨هغوی⟩ ونیوله چې ⟨هلته⟩ — د زیږون درد، لکه ږغړې ښځې.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "لړزه"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "هغوی يې ونیول"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "د زیږون درد"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "لکه ږغړې ښځې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:29.642218252Z",
+  "model": "glm-5.3"
+}

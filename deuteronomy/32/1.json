@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "اوزېږئ اې اسمانونه، زه به ووایم، او اورې وکړه ځمکه د زما د خولې ویونې.",
+  "tokens": [
+    {
+      "surface": "האזינو",
+      "gloss": "اوزېږئ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "زه به ووایم"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "او اورې وکړه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ویونې"
+    },
+    {
+      "surface": "פי",
+      "gloss": "د زما خولې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:55.155650426Z",
+  "model": "glm-5.3"
+}

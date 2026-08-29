@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ټول يې توره نيولې، د جګړې روزل شوي، هر يو خپله توره پر ران ⟨دي⟩، د شپې له وېرې.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "نيولې"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "روزل شوي"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر يو"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "خپله توره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ران"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "له وېرې"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "د شپې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:39.127682793Z",
+  "model": "glm-5.3"
+}

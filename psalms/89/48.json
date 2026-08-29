@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "په یاد ولره چې زه څه يې — لنډ فاني ژوند؛ په کوم بې‌ځایه والي ټول د آدم زامن پیدا کړي؟",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "په یاد ولره"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "חלد",
+      "gloss": "لنډ فاني ژوند"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر\/له امله"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "بې‌ځایه والي"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "پیدا کړي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:43.901688561Z",
+  "model": "glm-5.3"
+}

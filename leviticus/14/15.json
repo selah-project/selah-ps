@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او کاهن به د لوګ د تېلو څخه واخلي او پر کاهن د کیڼ لاس په ورغوي به يې توی کړي.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "او به واخلي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "د لوګ څخه"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "د تېلو"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "او به يې توی کړي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "په ورغوي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "د کاهن"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "کیڼ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:07.996180059Z",
+  "model": "glm-5.3"
+}

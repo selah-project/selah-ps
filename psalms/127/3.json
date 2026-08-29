@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 127,
+  "translation": "واراثت د یاهوه ⟨ه⟩ زامن دي؛ اجر د هېږدې مېوه ده.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "واراثت"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "واراثت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "مېوه"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "د هېږدې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:55.628776142Z",
+  "model": "glm-5.3"
+}

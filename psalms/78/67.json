@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او د یوسف خیمه يې رد کړه، او د افرایم قبيله يې ونه ټاکله.",
+  "tokens": [
+    {
+      "surface": "וימאس",
+      "gloss": "او رد کړه يې"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمه"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "او قبيله"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ټاکل يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:26.822346305Z",
+  "model": "glm-5.3"
+}

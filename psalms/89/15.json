@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "انصاف او پرېکړه د ستا تخت بنسټ ⟨دی⟩؛ خېسېد او امانت ستا مخ ته مخکې ځي.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او پرېکړه"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "بنسټ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "د ستا تخت"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "او امانت"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "مخکې ځي"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:22.568789470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 118,
+  "translation": "زما لپاره د عدالت دروازې خلاصې کړئ، به يې ننوځم، یاه به ستایم.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "خلاصې کړئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "د ... دروازې"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ننوځم"
+    },
+    {
+      "surface": "بם",
+      "gloss": "پرې\/به يې"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ستایم"
+    },
+    {
+      "surface": "יاه",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:14.490485294Z",
+  "model": "glm-5.3"
+}

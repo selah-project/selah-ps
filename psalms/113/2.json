@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 113,
+  "translation": "وي ⟨د⟩ نوم د یاهوه مبارک، له دې وختونه تر غټګوري.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "له دې وختونه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "غټګوري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:17.235273219Z",
+  "model": "glm-5.3"
+}

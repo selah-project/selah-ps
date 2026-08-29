@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 86,
+  "translation": "ځکه ته لوی يې او اعجوبې کوي، ته يوازې الوهیم يې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "اعجوبې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "يوازې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:15.293519114Z",
+  "model": "glm-5.3"
+}

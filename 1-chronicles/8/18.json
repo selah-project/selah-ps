@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او یِشمَرای، او یِزلیاه، او یوباب — د اِلپَعال زامن.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "او یِشمَرای"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "او یِزلیاه"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "او یوباب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "د اِلپَعال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:31.038466137Z",
+  "model": "glm-5.3"
+}

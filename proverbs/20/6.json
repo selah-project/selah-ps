@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "ډېر خلک خپل خېسېد اعلانوي، خو د امانت انسان څوک پیداکوي؟",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "اعلانوي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خپل خېسېد"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "خو انسان"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "د امانت"
+    },
+    {
+      "surface": "مי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پیداکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:30.405011539Z",
+  "model": "glm-5.3"
+}

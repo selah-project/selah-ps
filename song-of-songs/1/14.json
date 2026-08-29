@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "زما خویندغار ⟨هو⟩ زما لپاره د حنا د غوټیو ټولګه ده، د عین-ګِدي په انګورو کې.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "د غوټیو ټولګه"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "د حنا"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "زما خویندغار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "په انګورو کې"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ګِدي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:35.088181634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 29:9",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "تر دوی چې لا يې خبرې کولې، رحیل د خپل پلار ⟨د⟩ مېږو سره راغله، ځکه چې هغه څړکار وه.",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "تر دوی چې لا"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "خبرې کولې"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "سره يې"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "او رحیل"
+    },
+    {
+      "surface": "באה",
+      "gloss": "راغله"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مېږې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "د هغې پلار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "څړکار (روزونکې)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:05:48.600685681Z",
+  "model": "glm-5.3"
+}

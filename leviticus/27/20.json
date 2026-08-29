@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او که مزرعه ⟨את⟩ بېرته و نه اخلي، او که مزرعه ⟨את⟩ بل سړي ته وپلوري، بيا به هېڅکله بېرته ونه اخیستل شي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "بېرته واخلي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مزرعه"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "مزرعه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "وپلوري"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مزرعه"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "مزرعه"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "سړي ته"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "بېرته واخیستل شي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "هېڅکله بيا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:26.769674021Z",
+  "model": "glm-5.3"
+}

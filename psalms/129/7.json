@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 129,
+  "translation": "چې د درويونکي لاس يې ډک نه کړی، نه د غوشمولو والا خوله\/غوښ.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "چې نه"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډک نه کړی"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "د درويونکي"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "نه خوله\/غوښ يې"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "د غوشمولو والا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:23.430478023Z",
+  "model": "glm-5.3"
+}

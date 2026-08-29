@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "ملامتيا په پوه ننوځي، له هغه ډېره چې سوه ټکې په نادان.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ننوځي"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ملامتيا"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "په پوه"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "له ټکو"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:30.334013991Z",
+  "model": "glm-5.3"
+}

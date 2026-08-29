@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 99,
+  "translation": "په ورېځې-تېره کې هغه له دوی سره خبرې کولې — دوی به د هغه ګواهۍ ساتل، او هغه chwok ورکړ هغوی ته.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "په تېره کې"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ورېځې"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "خبرې کولې"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "له دوی سره"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ساتل"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "د هغه ګواهۍ"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "او حکم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "هغوی ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:23.403737167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه چې پر د بد کار حکم ژر نه صادر کېږي، نو ځکه د انسان د زامنو زړه په دې کې ډک دی چې بد وکړي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "صادر کېږي"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "د بد"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ژر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "نو ځکه"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډک دی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په دې کې"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې وکړي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:26.138342770Z",
+  "model": "glm-5.3"
+}

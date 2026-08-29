@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "مه دې پرېږدې چې له ستا د سترګو مخې واوړي؛ دا په ستا د زړه ترمنځ وساته.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "واوړي"
+    },
+    {
+      "surface": "مעיניך",
+      "gloss": "له ستا د سترګو مخې"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "وساته"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ترمنځ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ستا د زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:30.848157108Z",
+  "model": "glm-5.3"
+}

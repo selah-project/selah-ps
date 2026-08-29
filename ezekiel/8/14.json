@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 8:14",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه ⟨את⟩ زه د یاهوه د کور د دروازې خولې ته راوست، چې شمال لور ته وه؛ او ګوره چې هلته ښځې ناستې وې، د تموز ⟨את⟩ ژاولې.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راوست"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ زه",
+      "marks": "زه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "שער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "لور"
+    },
+    {
+      "surface": "הצפונה",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ګوره"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "ناستې وې"
+    },
+    {
+      "surface": "מבכות",
+      "gloss": "ژاولې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د تموز"
+    },
+    {
+      "surface": "התמוז",
+      "gloss": "تموز"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:34.034745563Z",
+  "model": "glm-5.3"
+}

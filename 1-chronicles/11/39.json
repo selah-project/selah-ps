@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "تسِلِک هعموني، نَحْراي هبِروتي، د يوآب زوی د تسرویه د وسلو وړونکی",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "تسِلِک"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "هعموني"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "نَحْراي"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "هبِروتي"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "وړونکی"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "وسایل"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تسرويه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:25.119429135Z",
+  "model": "glm-5.3"
+}

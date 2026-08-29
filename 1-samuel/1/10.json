@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او هغه په نافس کې ترخه وه، او د یاهوهign له مخې يې لمونځ وکړ او ډېرې ژاړې يې وکړې.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ترخه"
+    },
+    {
+      "surface": "نפש",
+      "gloss": "نافس"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "لمونځ يې وکړ"
+    },
+    {
+      "surface": "על",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "او ژړا"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "ژړل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:30:58.590322262Z",
+  "model": "glm-5.3"
+}

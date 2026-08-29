@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زه د ټول زما ولس د خندا په توګه شوم، د دوی نغمه ټوله ورځ.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "شوم"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "د خندا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما ولس"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "د دوی نغمه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:37.760946881Z",
+  "model": "glm-5.3"
+}

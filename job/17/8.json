@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 17:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "مستقیم کسان به پر دې حیران شي، او پاک به پر منافق راویږي شي.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "حیران شي"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "مستقیم کسان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "او پاک"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "منافق"
+    },
+    {
+      "surface": "יתערר",
+      "gloss": "راویږي شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:20.468896236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د مَګبِش زامن، سل پنځوس او شپږ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "مَګبِش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "او شپږ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:07.745491389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د پنځلسم لپاره يریموت، د هغه زامن او وروڼه، دولس:",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "يریموت"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامن"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:59.724918250Z",
+  "model": "glm-5.3"
+}

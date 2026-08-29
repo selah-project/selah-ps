@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "غلام خپل بادار ته مه سپاره چې له خپل باداره ستا ته پناه اخلي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "مه سپاره"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "خپل بادار"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "پناه اخلي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ستا ته"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "له"
+    },
+    {
+      "surface": "אדניو",
+      "gloss": "خپل بادار"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:06.161123820Z",
+  "model": "glm-5.3"
+}

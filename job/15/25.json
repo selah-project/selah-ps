@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "ځکه چې هغه خپل لاس پر ایل غځولی، او پر شدای يې ځان غالب ښودلی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "غځولی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "ځان غالب ښودلی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:22.466291111Z",
+  "model": "glm-5.3"
+}

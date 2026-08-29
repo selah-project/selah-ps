@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "لعنتي دی هغه چې ړوندی په لار کې بې لارې کوي؛ او ټول خلک ووایي: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتي دی"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "بې لارې کوي"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ړوندی"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او ووایي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:49.422350061Z",
+  "model": "glm-5.3"
+}

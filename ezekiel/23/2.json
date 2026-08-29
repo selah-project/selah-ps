@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د آدم زویه، دوه ښځې وې، د یوې مور لوڼې.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لوڼې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مور"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:24.198990001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 88,
+  "translation": "ته ما د ټیټ بور کې، په تیارو کې، په ژورو کې کېښود.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "کېښودې ما"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "بور کې"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ټیټ"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "په تیارو کې"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "په ژورو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:38.747532033Z",
+  "model": "glm-5.3"
+}

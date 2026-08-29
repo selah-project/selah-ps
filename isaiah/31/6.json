@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "راستون شئ هغه (څخه) چې ترې ژور بغاوت کړی دی، د یېسرایل زامنه!",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "راستون شئ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "ژور يې کړی دی"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "بغاوت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنه"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یېسرایل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:20.321144739Z",
+  "model": "glm-5.3"
+}

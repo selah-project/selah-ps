@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او موشې وویل: «دا هغه خبر دی چې یاهوه یې حکم کړی — وکړئ يې، او د یاهوه جلال به تاسو ته څرګند شي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "وکړئ يې"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "به څرګند شي"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:23.503243591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زه پوهېږم چې هېڅ ښېگنه په دوی کې نشته، مګر دا چې خوښ شي او د خپل ژوند په اوږدو کې ښېگنه وکړي.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "هېڅ … نشته"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښېگنه"
+    },
+    {
+      "surface": "בם",
+      "gloss": "په دوی کې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مګر چې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "دا چې"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "خوښ شي"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "او وکړي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښېگنه"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "د خپل ژوند په اوږدو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:28.596928517Z",
+  "model": "glm-5.3"
+}

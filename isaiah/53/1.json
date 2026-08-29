@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 53,
+  "translation": "څوک پر زموږ د اورېدلو خبر يې باور وکړ؟ او د یاهوه بازو پر چا ښکاره شو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "باور وکړ"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "زموږ د اورېدلو خبر"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "او بازو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "چا"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "ښکاره شو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:24:58.746973481Z",
+  "model": "glm-5.3"
+}

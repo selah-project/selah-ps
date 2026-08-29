@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "یاهوه پاچا دی ⟨د⟩ تل لپاره او تر پایه؛ ملتونه د هغه له ځمکې هېک شوي دي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "تل"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تر پایه"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "هېک شوي دي"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "د هغه له ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:34.167301095Z",
+  "model": "glm-5.3"
+}

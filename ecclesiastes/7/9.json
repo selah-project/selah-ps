@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "په خپله روح کې مه وارخطا کېږه چې قهر وکړې، ځکه چې قهر د نادانانو په غېږه کې ارامېږي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "وارخطا کېږه"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "په خپله روح کې"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "چې قهر وکړې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "قهر"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "په غېږه کې"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "د نادانانو"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ارامېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:17.312233987Z",
+  "model": "glm-5.3"
+}

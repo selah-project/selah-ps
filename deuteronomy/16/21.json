@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "له ځان لپاره دې اشېره (مېوه-ونه) د هرې ونې نه غږوې، د یاهوه د ⟨د⟩ قربانګاه خوا ته چې د دې لپاره جوړوې چې هغه ستا الوهیم دی.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "غږوې (نه کرې)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "له ځان لپاره"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "اشېرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "خوا ته"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربانګاه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "جوړوې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "د دې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:04.862989900Z",
+  "model": "glm-5.3"
+}

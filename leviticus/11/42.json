@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "هر څه چې پر خېټه ګرځي، او هر څه چې پر څلورو [پښو] ګرځي، تر هر څه چې ډېرې پښې لري، ټول هغه خزنده چې پر ځمکه خزېږي — هغه مه یې خورئ، ځکه چې کرغېړن دي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "خېټه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر څه"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "ډېرې لري"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پښې"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "خزنده"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "خزېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "مه یې خورئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:39:12.602208371Z",
+  "model": "glm-5.3"
+}

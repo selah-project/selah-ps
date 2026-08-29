@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او دا کار ګناه وشو، او خلک د یو ⟨تیلې⟩ مخې ته تر دان پورې تلل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "تلل"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:56:41.305517540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او د یاهوه خبرله راته راغی، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "له … راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:36.824713078Z",
+  "model": "glm-5.3"
+}

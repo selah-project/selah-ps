@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د پاچا یاربعام د واکمنۍ اتلسم کال و، او ابیا پر یهودا واکمن شو.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "د … کال"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اتلسم"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس (اتلس)"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یاربعام"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "واکمن شو"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:12.438342471Z",
+  "model": "glm-5.3"
+}

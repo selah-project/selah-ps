@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "چې پر هغه ځمکه باران واوروي چې پکې هېڅ سړی نه دی؛ پر هغه بېديه چې هېڅ انسان پکې نه دی؛",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "چې باران واوروي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بېديه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:12.261539114Z",
+  "model": "glm-5.3"
+}

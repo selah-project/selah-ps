@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 27:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "که ⟨تُو⟩ احمق د هاون په منځ کې، د غلو په منځ کې، د سوک سره ووهې، بیا به هم احمقټوب له هغه ونه ګرځي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תכתוש",
+      "gloss": "وهې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "احمق"
+    },
+    {
+      "surface": "האויל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "بמכתש",
+      "gloss": "د هاون په منځ کې"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "הריפות",
+      "gloss": "د غلو"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "د سوک سره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "ونه ګرځي"
+    },
+    {
+      "surface": "מעליو",
+      "gloss": "له هغه"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "احمقټوب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:59.034782917Z",
+  "model": "glm-5.3"
+}

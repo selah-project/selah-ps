@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 19:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او سړيو لوټ ته وويل: “هلته لا دې څوک دی؟ لږی، زامن او لوڼې، او هر څوک چې په ښار کې دې دی — له دې ځایه يې وباسه.”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "او وويل يې"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "سړيو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لوټ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "لا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "פה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "لږی"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "او لوڼې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر څوک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "په ښار کې"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "وباسه"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "دې ځایه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:16.672638568Z",
+  "model": "glm-5.3"
+}

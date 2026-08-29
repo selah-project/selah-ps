@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "دروغجن شاهد به هلاک شي، خو اورېدونکی سړی به تل خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "به هلاک شي"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "خو سړی"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "اورېدونکی"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تل"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "به خبرې کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.719353452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "چا چې احمق وزېږاوه، دا يې خپل غم دی، او د نابال پلار به شادي ونه کړي.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "زېږوي"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "غم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "شادي کوي"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:00.945964247Z",
+  "model": "glm-5.3"
+}

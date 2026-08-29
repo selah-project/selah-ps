@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "هره کونډه او پلار-مور نه لرونکی (یتیم) به نه ځوروئ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "کونډه"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "او یتیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ځوروئ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:11.283703125Z",
+  "model": "glm-5.3"
+}

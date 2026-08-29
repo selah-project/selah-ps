@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "پارعو پر خپلو غلامانو قهر شو او ما یې د آشپزو د مشر د کور په بند کې کېښود — ما او ⟨את⟩ د وړو مشر.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "پارعو"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "قهر شو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "خپلو غلامانو"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "او کېښود"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ما"
+    },
+    {
+      "surface": "במשמر",
+      "gloss": "په بند کې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "د آشپزو"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ او"
+    },
+    {
+      "surface": "שר",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "د وړو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:06.481822755Z",
+  "model": "glm-5.3"
+}

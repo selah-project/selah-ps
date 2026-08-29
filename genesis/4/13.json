@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او قابیل وویل: «زما ګناه له دې څخه لویه ده چې زغمل یې شم».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قابیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لویه ده"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "زما ګناه"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "له زغملو څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:19.308398073Z",
+  "model": "glm-5.3"
+}

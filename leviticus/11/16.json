@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او ⟨את⟩ د يَعَنې لور، ⟨את⟩ تَحمِس، ⟨את⟩ شَحَف او ⟨את⟩ نېز — د هغه د خپل نوعې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د يَعَنې لور"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "يَعَنَه (شترمرغ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تَحمِس"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "تَحمِس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شَحَف"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "شَحَف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نېز"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "نېز"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "د هغه د خپل نوعې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:32.158255365Z",
+  "model": "glm-5.3"
+}

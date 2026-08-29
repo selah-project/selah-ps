@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او کله چې دا راشي — ها، راتلونکې ده — نو پوه به شي چې یو نبي په منځ کې يې ⟨و⟩",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "او کله چې دا راشي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "באה",
+      "gloss": "راتلونکې ده"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "نو پوه به شي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "په منځ کې يې ⟨و⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T00:01:35.685151952Z",
+  "model": "glm-5.3"
+}

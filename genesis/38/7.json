@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او عیر، د یهودا لومړی زوی، د یاهوه په سترګو کې بد ؤ؛ او یاهوه هغه مړ کړ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ؤ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "لومړی زوی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "וימתהو",
+      "gloss": "او هغه یې مړ کړ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:10:49.089487019Z",
+  "model": "glm-5.3"
+}

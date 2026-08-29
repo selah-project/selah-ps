@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "تاحت زوی يې، اوریایل زوی يې، عُزّیا زوی يې، او شاؤل زوی يې.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تاحت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اوریایل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "عُزّیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "او شاؤل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:51.029220751Z",
+  "model": "glm-5.3"
+}

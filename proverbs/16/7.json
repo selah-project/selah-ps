@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "کله چې د یاهوه خوښېدل د سړي لارې وي، بیا یې دښمنان هم ⟨את⟩ هغه سره سولوي.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "کله چې ... خوښېدل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "دښمنان"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "سولوي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ... سره",
+      "marks": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:11.520626541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د یاهوه ده ⟨هغه⟩ خلاصون؛ ستا برکت دی ستا پر قوم. سېلاه.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "خلاصون"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا پر قوم"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "ستا برکت"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:27.070123133Z",
+  "model": "glm-5.3"
+}

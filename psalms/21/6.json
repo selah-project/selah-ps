@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د هغه درناوی په ستا ژغورنه کې ستر دی؛ عزت او شوکت پر هغه ږدې.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "د هغه درناوی"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "په ستا ژغورنه کې"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "او شوکت"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ږدې"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:02.489133226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ایا ستا چینې به بهر وڅېڅل شي، په کوڅو کې د اوبو جوي بهېدل؟",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "وڅېڅل شي"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "ستا چینې"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "په کوڅو کې"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "جوي"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:11.296939398Z",
+  "model": "glm-5.3"
+}

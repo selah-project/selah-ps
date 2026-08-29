@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "یوځای پر دوړو پرېوږي او چنجي ⟨پر دوی⟩ پوښي.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "دوړو"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "پرېوږي"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "او چنجي"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "پوښي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر دوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:39.333042802Z",
+  "model": "glm-5.3"
+}

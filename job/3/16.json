@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 3:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "یا لکه پټ سقط شوی ماشوم، هېڅ نه وای شوی؛ لکه هغه ماشومان چې رڼا يې نه ده لیدلې.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כנפל",
+      "gloss": "لکه سقط شوی"
+    },
+    {
+      "surface": "טמון",
+      "gloss": "پټ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "وای شوی"
+    },
+    {
+      "surface": "כעללים",
+      "gloss": "لکه ماشومان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "لیدلې ده"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:22.949780334Z",
+  "model": "glm-5.3"
+}

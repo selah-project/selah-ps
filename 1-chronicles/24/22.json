@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د یصهريانو لپاره: شلموت؛ د شلموت د زامنو لپاره: یحت.",
+  "tokens": [
+    {
+      "surface": "لיצהרי",
+      "gloss": "د یصهريانو لپاره"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شلموت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو لپاره"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شلموت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یحت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:20.351177640Z",
+  "model": "glm-5.3"
+}

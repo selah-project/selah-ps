@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د شمعون زامن: نَمُوایل، او یامین، یاریب، زَرَح، او شاؤل.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "نמואל",
+      "gloss": "نَمُوایل"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "او یامین"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "یاریب"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:58.842540033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ما زما په زړه کې د آدم د زامنو په باب وویل چې الوهیم ⟨دوی⟩ سچوي، تر څو ښکاره شي چې دا ځانله څاروي دي.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "په باب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د آدم"
+    },
+    {
+      "surface": "לברם",
+      "gloss": "سچوي یې"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "او تر څو ښکاره شي"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "چې دا"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ځانله"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دوی ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:34.175090347Z",
+  "model": "glm-5.3"
+}

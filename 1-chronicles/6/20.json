@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زوی د تسیف، زوی د الکانا، زوی د محت، زوی د عماسای.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "تسیف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "الکانا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "محت"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عماسای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:18.064660766Z",
+  "model": "glm-5.3"
+}

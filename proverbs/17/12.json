@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 17:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "غوره ده چې سړی د بچیو بېوېږېدلې خرسره مخ شي، نه دا چې نادان پر خپله نادانۍ.",
+  "tokens": [
+    {
+      "surface": "פגוש",
+      "gloss": "مخ شي"
+    },
+    {
+      "surface": "דב",
+      "gloss": "خرس"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "بچیو بېوېږېدلې"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "پر خپله نادانۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:30.334240234Z",
+  "model": "glm-5.3"
+}

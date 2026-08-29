@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ⟨את⟩ یعوص او ⟨את⟩ شکیه او ⟨את⟩ میرمه؛ دا د هغه زامن وو، د کورنیو مشران.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "یعوص"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "یعوص"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "شکیه"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "شکیه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "میرمه"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "میرمه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "د هغه زامن"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "د کورنیو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:35.179695979Z",
+  "model": "glm-5.3"
+}

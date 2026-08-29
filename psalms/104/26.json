@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "هلته بېړۍ ګرځي؛ لویاتان — دا دې جوړ کړی چې په کې لوبې وکړي",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "بېړۍ"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "لویاتان"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "جوړ کړی دې"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "چې لوبې وکړي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:16.736539418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "غرونه د یاهوه له مخې وېېل شول، همدا سینای، د یاهوه له مخې، د اسرائیل د الوهیم.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "وېېل شول"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سینای"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:23:44.141453229Z",
+  "model": "glm-5.3"
+}

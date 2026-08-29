@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او کوش ⟨את⟩ نمرود وزېږاوه؛ هغه په ځمکه کې د غټ‌والي پیل کړ.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "او کوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نمرود"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "החל",
+      "gloss": "پیل کړ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "د … کېدو"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "غټ‌والي (جګړه مېړنی)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:20.238588098Z",
+  "model": "glm-5.3"
+}

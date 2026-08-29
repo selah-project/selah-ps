@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "د نادانۍ ښځه غوغا کوي؛ هغه ساده-لوسه ده او نه پوهېږي څه.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "د نادانۍ"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "غوغا کوي"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "ساده-لوسه"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:03.719704985Z",
+  "model": "glm-5.3"
+}

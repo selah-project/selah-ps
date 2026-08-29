@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او وروسته له ټولې بدۍ دې، وي وي پر تا — د ادونای یاهوه د خبرې له خوا.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته له"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "بدۍ دې"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د خبرې له خوا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:54:22.451959766Z",
+  "model": "glm-5.3"
+}

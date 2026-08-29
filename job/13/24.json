@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 13:24",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "ولې خپل مخ پټوې، او مې د خپل دښمن په توګه شمېرې؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "پټوې"
+    },
+    {
+      "surface": "ותחשבני",
+      "gloss": "او مې شمېرې"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "د دښمن په توګه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:18.518515751Z",
+  "model": "glm-5.3"
+}

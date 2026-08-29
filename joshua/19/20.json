@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او هَرَبیت، او قِشیون، او عَبِص.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "هَرَبیت"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "قِشیون"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "عَبِص"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:33.483998958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 36:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "داسې وايي ادونای یاهوه: ځکه چې دښمن پر تاسو وويل: هه! د پخوانیو لوړو ډډو زموږ میراث شوې.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "האויב",
+      "gloss": "دښمن"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "پر تاسو"
+    },
+    {
+      "surface": "האח",
+      "gloss": "هه!"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "او لوړې ډډې"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "پخواني"
+    },
+    {
+      "surface": "למורשה",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "شوې"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "زموږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:04:32.189586899Z",
+  "model": "glm-5.3"
+}

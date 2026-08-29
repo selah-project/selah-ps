@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "پر خاوره يې مورچل نشته — هغه په دې توګه جوړ شوی چې هېڅ وېره ونلري.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاوره"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "يې مورچل"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "جوړ شوی"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "په دې چې نه"
+    },
+    {
+      "surface": "חת",
+      "gloss": "وېره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:13.840943480Z",
+  "model": "glm-5.3"
+}

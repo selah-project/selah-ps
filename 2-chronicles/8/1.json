@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه وخت راغی چې د شلو کلو په پای کې شلوموه ⟨את⟩ د یاهوه کور او ⟨את⟩ د هغه خپل کور جوړ کړ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او هغه وخت راغی"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "په پای کې"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شلو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کلونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "جوړ کړ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلوموه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه کور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د هغه خپل کور"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "د هغه کور"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:01.961920972Z",
+  "model": "glm-5.3"
+}

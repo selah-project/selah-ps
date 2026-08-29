@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د صديق یادښت د برکت لپاره دی، خو د شریرانو نوم شيباستي کېږي.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یادښت"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صديق"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "د برکت لپله"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "خو… نوم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شریرانو"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "شيباستي کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:09.302538289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دوی به زما نوم ⟨את⟩ پر د یسراییل زامنو کېږدي، او زه به يې و blessing کړم — زه به يې برکت ورکړم.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "او کېږدي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما نوم"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "زما نوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د ... زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "به يې برکت ورکړم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:51:46.297055209Z",
+  "model": "glm-5.3"
+}

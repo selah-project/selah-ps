@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "څوک دا چې وايي او بيshi ה پېښېږي، که ادونای يې فرمان نه وي کړی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "او پېښېږي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان کړی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:16.990185966Z",
+  "model": "glm-5.3"
+}

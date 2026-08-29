@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "لکه اور چې ځنګل سوځوي، او لکه لمبه چې غرونه بلوي.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "لکه اور"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "سوځوي"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ځنګل"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "او لکه لمبه"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "بلوي"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:31.362657806Z",
+  "model": "glm-5.3"
+}

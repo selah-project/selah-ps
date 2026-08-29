@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او رَآه، او ⟨את⟩ ایه، او دیه لد خپل ډول.",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "او رَآه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ایه"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ایه"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "او دیه"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "لد خپل ډول"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:52.948605915Z",
+  "model": "glm-5.3"
+}

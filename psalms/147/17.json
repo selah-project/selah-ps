@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 147,
+  "translation": "خپل یخ د ټوټو په څېر غورځوي؛ د ⟨هغه⟩ ساړه مخې ته څوک درېدلی شي؟",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "غورځوي"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "خپل یخ"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "د ټوټو په څېر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "د هغه ساړه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "درېدلی شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:32.096983133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "یاهوه الوهیم، د خپل ماشیاخ مخ مه شړه؛ د خپل غلام داوېد خېسېدونه په یاد کړه.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "مه شړه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "ستا ماشیاخ"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "په یاد کړه"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "خېسېدونه"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا غلام"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:35.688885659Z",
+  "model": "glm-5.3"
+}

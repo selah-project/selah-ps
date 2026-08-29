@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "او پر هغوی يې مان څېښلو ته وروښکېلاوه، او د اسمان غله يې ورکړه،",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "وروښکېلاوه يې"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "مان"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "څېښلو ته"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "او غله"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "د اسمان"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړه يې"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:05.158882639Z",
+  "model": "glm-5.3"
+}

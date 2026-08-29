@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "زما مخ له ژړا وژړېد، او پر زما غړو کې د مرګ سيوری پروت دی.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "زما مخ"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "وژړېد"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ژړا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "زما غړو"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "د مرګ سيوری"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:20.039302321Z",
+  "model": "glm-5.3"
+}

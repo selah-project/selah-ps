@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "هغه وخت ومې ویل: «ګوره، راغلم — د کتاب په لړ کې زما په اړه لیکل شوي دي.»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ومې ویل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "راغلم"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "د لړ په"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "لیکل شوي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما په اړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:21.860474234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د اوراخ زامن، اوه سوه پنځه او اویا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "اوراخ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "او اویا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:35:40.346045182Z",
+  "model": "glm-5.3"
+}

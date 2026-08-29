@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او شلومو په یروشلایم کې پر ټول اسرائیل څلوېښت کاله واکمني وکړه.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "واکمني يې وکړه"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "په یروشلایم کې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:11.706579301Z",
+  "model": "glm-5.3"
+}

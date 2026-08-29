@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "هم بابل وو چې د یسرایل ټولو وژل شویو ته راوغورځول؛ هم په بابل کې د ټولې ځمکې ټول وژل شوي راوغورځېدل.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "راوغورځول"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "وژل شوي"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "په بابل کې"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "راوغورځېدل"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "وژل شوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:49:01.360093163Z",
+  "model": "glm-5.3"
+}

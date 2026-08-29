@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ⟨את⟩ دېدان او ⟨את⟩ تېما او ⟨את⟩ بوز او ⟨את⟩ ټول هغه چې د ږیرې څنګې پرې کوي",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "دېدان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "دېدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "تېما"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "تېما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ټول قصاصي په‌ي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "پرې کوونکي"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "څنګه (د ويښتانو\/ږیرې)"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:16.239508026Z",
+  "model": "glm-5.3"
+}

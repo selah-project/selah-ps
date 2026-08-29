@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د مِراري زامنو خپلو وروڼو ته په کیڼ اړخ کې (مقابل وو): ایتان زوی کیشي، زوی عَبدی، زوی مالوخ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامنو"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراري"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "خپلو وروڼو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "کیڼ اړخ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ایتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "کیشي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عَبدی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مالوخ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:14.197619987Z",
+  "model": "glm-5.3"
+}

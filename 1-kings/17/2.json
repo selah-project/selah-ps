@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او د یاهوه خبره ورته راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او-و"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې-ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:57:52.308016451Z",
+  "model": "glm-5.3"
+}

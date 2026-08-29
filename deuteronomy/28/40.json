@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "زیتون به دې په ټولو پولو کې وي، خو به يې غوړ نه مڼې، ځکه چې ستا زیتون به راغورځي.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "زیتون"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "پولو کې"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "خو غوړ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "به مڼې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "به راغورځي"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "ستا زیتون"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:03.621666971Z",
+  "model": "glm-5.3"
+}

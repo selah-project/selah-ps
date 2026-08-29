@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 23:28",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "هو، هغه لکه غلاگر کمین نیسي، او د خلکو ترمنځ د خیانتګرو شمېر ډېروي.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "هو"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "כחתף",
+      "gloss": "لکه غلاگر"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "کمین نیسي"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "او د خیانتګرو"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "د خلکو ترمنځ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ډېروي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:50.696869451Z",
+  "model": "glm-5.3"
+}

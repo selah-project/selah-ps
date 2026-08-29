@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "د سپین ږیرو تاج د زامنو زامنه دي، او د زامنو ښکلا د هغوی پلرونه دي.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "د سپین ږیرو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامنه"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "او ښکلا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "د هغوی پلرونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:57.210777821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او ياد کړه چې ته په مِتسرایم کې ⟨the⟩ مزدور ⟨وو⟩؛ د همدې لپاره زه دې دا کار ته چې ⟨את⟩ دا څيز کوي حکم کوم.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "او ياد کړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עבد",
+      "gloss": "مزدور"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "د ... لپاره"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "دې حکم کوم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ته کوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا څيز"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا څيز"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:37.266490595Z",
+  "model": "glm-5.3"
+}

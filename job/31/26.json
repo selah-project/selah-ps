@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "که زه رڼا وینم چې ځلېږي، او سپوږمۍ چې په ښکلا ګرځي،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "زه وینم"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "ځلېږي"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "او سپوږمۍ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "په ښکلا"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ګرځي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:25.816488785Z",
+  "model": "glm-5.3"
+}

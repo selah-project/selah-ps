@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 34:24",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "هغه زغملي ماتوي بې له پلټنې، او نور د دوی پر ځای درولي.",
+  "tokens": [
+    {
+      "surface": "ירע",
+      "gloss": "ماتوي"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "زغملي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "پلټنې"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "او درولي"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "نور"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "د دوی پر ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:38.426203481Z",
+  "model": "glm-5.3"
+}

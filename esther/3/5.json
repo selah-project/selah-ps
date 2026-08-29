@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هامان وليدل چې مورداخاي نه ټيټېږي او نه ورته سجده کوي، نو هامان له غوسې ډک شو.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وليدل"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مورداخاي"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "ټيټېږي"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "او سجده کوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "نو ډک شو"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هامان"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "له غوسې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:27:44.322625637Z",
+  "model": "glm-5.3"
+}

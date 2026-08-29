@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه ټولې ورځې يې دردونه دي او د هغه کار خفګان دی؛ هم په شپه کې زړه يې نه غېږي — همدا هېبل دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ورځې يې"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "دردونه"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "او خفګان"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "کار يې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "په شپه کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "غېږي"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه يې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېبل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:11.027905496Z",
+  "model": "glm-5.3"
+}

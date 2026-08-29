@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "عیسو وویل یعقوب ته: «ما ته يې ورکه، لطفاً د دې سور پخلي څخه، ځکه چې زه ستړی یم.» ډېر ځله د هغه نوم ادوم شو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "ما ته يې ورکه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "لطفاً"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "سور"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "سور"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ستړی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همد اساس"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ونومول شو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:47.937208942Z",
+  "model": "glm-5.3"
+}

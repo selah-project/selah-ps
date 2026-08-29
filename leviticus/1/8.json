@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د اهرون زامنو، کاهنانو، به ⟨את⟩ ټوټې، ⟨את⟩ سر او ⟨את⟩ غوړ پر هغو لرګيو چې پر اور دي، چې پر مذبح دی، پرتې کړلې.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "پرتې کړلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټوټې"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ټوټې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "غوړ"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "لرګيو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبح"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:41.633896889Z",
+  "model": "glm-5.3"
+}

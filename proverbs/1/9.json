@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ځکه دوی ستا پر سر د ورښتۍ تاج دې، او ستا د غاړې زنګانې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ورښتي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ستا پر سر"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "او زنګانې"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "ستا د غاړې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:53.347669374Z",
+  "model": "glm-5.3"
+}

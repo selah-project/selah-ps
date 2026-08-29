@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ټول ګران مال به ومومو، به خپلو کورونو د غنیمت سره ډکوو.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ګران"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "به ومومو"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "به ډکوو"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "خپلو کورونو"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "د غنیمت سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:53.780691606Z",
+  "model": "glm-5.3"
+}

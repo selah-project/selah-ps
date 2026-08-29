@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 95,
+  "translation": "چې ستاسو پلرونو ما وازمویلم، ما وڅېړلم، او خو یې زما کار وليد.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "ما وازمویلم"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ستاسو پلرونو"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ما وڅېړلم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "وليد"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "زما کار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:10.375563322Z",
+  "model": "glm-5.3"
+}

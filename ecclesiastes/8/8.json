@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "هېڅ انسان پر روح واکمن نه دی چې ⟨את⟩ روح ونیسي، او د مرګ په ورځ واک نشته، او په جګړه کې خوشېدنه نشته، او شر ⟨את⟩ خپل بادار نه ژغوري.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "واکمن"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "پر روح"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "چې ونیسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روح"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "واک"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "د مرګ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "خوشېدنه"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "په جګړه کې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ژغوري"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل بادار"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "خپل بادار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:24.433706149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او ادمه، او رامه، او حَصور،",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "او ادمه"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "او رامه"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "او حَصور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:21:05.008804925Z",
+  "model": "glm-5.3"
+}

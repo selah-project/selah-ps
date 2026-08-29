@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 45:19",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "او کاهن به د ګناه قربانۍ له وینې واخلي او پر د کور د دروازې تېرګي او پر د مذبح د صحن څلورو ګوټونو او پر د دننه صحن د دروازې تېرګي کېږدي.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "او به واخې"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "له وینې"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "د ګناه قربانۍ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "او به کېږدي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "تېرګي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلورو"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "ګوټونو"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "د صحن"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "د مذbrowse -- placeholder"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "تېرګي"
+    },
+    {
+      "surface": "שער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "د صحن"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "دننه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:20.032947523Z",
+  "model": "glm-5.3"
+}

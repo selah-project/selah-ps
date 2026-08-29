@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او روح ووتل او د یاهوه په وړاندې ودرېد او ویې ویل: «زه به هغه تېر باسم.» او یاهوه ورته وویل: «په څه؟»",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ودرېد"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "تېر باسم"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "במה",
+      "gloss": "په څه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:04.734443851Z",
+  "model": "glm-5.3"
+}

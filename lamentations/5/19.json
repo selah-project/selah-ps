@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "ته ای یاهوه، تر تلکه ⟨ناست⟩ یې، ستا تخت تر نسله او نسله ⟨پاتې دی⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تر تلکه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ناست یې"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ستا تخت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "تر نسله"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "او نسله"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:16.283835988Z",
+  "model": "glm-5.3"
+}

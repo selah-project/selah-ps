@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د لېوي زامن: گېرشون، قِهات او مِراري.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لېوي"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گېرشون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "مِراري"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:58.652834326Z",
+  "model": "glm-5.3"
+}

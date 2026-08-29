@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د اشیر د زامنو د قبیلې لپاره ⟨هغه⟩ مشر، احیهود د شلومي زوی.",
+  "tokens": [
+    {
+      "surface": "وלמטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اشیر"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "احیهود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "شلومي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:07.981630899Z",
+  "model": "glm-5.3"
+}

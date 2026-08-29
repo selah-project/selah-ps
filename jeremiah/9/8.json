@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "آيا پر دې به نه زيارت کړم په دوی؟ د یاهوه وينا؛ که پر يو ملت چې داسې دی، زما نفس به انتقام ونه اخلي؟",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "آيا پر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "به زيارت کړم"
+    },
+    {
+      "surface": "בם",
+      "gloss": "په دوی"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "پر يو ملت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "به انتقام واخلي"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:56.294698655Z",
+  "model": "glm-5.3"
+}

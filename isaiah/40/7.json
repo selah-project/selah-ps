@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "وچېږي واښه، مړاوې کېږي ګل، ځکه چې د یاهوه رڼه پرې ولګېده؛ بېشکه خلک واښه دي.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "وچېږي"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "واښه"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "مړاوې کېږي"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ګل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رڼه\/باد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "ولګېده"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "بېشکه"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "واښه"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    }
+  ],
+  "timestamp": "2026-08-28T23:21:03.530644690Z",
+  "model": "glm-5.3"
+}

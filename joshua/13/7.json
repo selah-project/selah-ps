@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او اوس دا ځمکه ⟨את⟩ په میراث د نهو قبیلو او د مناسه د نیمې قبیلې لپاره ووېشه.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ووېشه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "په میراث"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "د نهو"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "قبیلو"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "او نیم"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "مناسه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:56.058444522Z",
+  "model": "glm-5.3"
+}

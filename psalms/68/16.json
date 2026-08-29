@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 68,
+  "translation": "د الوهیم غر — د بشان غر! د لوړو څوکو غر — د بشان غر!",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "د بشان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "د لوړو څوکو"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "د بشان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:34.038847526Z",
+  "model": "glm-5.3"
+}

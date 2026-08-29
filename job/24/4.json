@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 24:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "بېوزلي له لارې بېلوي، د ځمکې غریب ټول پټ شوي دي.",
+  "tokens": [
+    {
+      "surface": "יטו",
+      "gloss": "بېلوي"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "بېوزلي"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "له لارې"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חבאو",
+      "gloss": "پټ شوي دي"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:51.086018327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او پاچا ورته وویل: تر څو ځله دې قسم وکړم چې ما ته د یاهوه په نوم پرته له حقیقته بل څه نه وایې؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "څو"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ځله"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "دې قسم وکړم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "وایې"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "רק",
+      "gloss": "پرته له"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "حقیقته"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:19.387119478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 109,
+  "translation": "د هغه ورځې دې لږې وي، او د هغه دنده دې بل څوک واخلي.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "دې وي"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "د هغه ورځې"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "لږې"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "د هغه دنده"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "دې واخلي"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل څوک"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:29.347555018Z",
+  "model": "glm-5.3"
+}

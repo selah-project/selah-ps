@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 1:31",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "نو د دوی د لارې مېوه به وخوري او له خپلو مشورو به ملاتړ شي.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "نو... وخوري"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "د مېوه"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "د دوی لارې"
+    },
+    {
+      "surface": "וממעצתיהם",
+      "gloss": "او له خپلو مشورو"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "مالاتړ شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:03.369412502Z",
+  "model": "glm-5.3"
+}

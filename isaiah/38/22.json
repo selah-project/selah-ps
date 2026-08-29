@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 38:22",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او حزقیاهو وویل: «کومه نښه ده چې زه به د یاهوه ⟨د⟩ کور ته پورته شم؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاهو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کومه"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نښه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "زه به پورته شم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:19:46.374341635Z",
+  "model": "glm-5.3"
+}

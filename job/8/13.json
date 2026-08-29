@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 8:13",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "همداسې دي د لارې د ټولو هغو چې ایل هېروي، او د بدکار تمه هلاکه کېږي.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "هېروي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "او تمه"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "هلاکه کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:38.642523261Z",
+  "model": "glm-5.3"
+}

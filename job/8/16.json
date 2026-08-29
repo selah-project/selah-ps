@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "هغه د لمر تر مخې تازه-شین دی، او پر خپل باغ يې نودې راوزي.",
+  "tokens": [
+    {
+      "surface": "רטوب",
+      "gloss": "تازه-شین"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "تر مخې"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "خپل باغ"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "نودې"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "راوزي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:38.642976903Z",
+  "model": "glm-5.3"
+}

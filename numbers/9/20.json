@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 9:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او کله به چې ورېجه څو ورځې پر مشرکه وه، د یاهوه په خوله به خیمې ودرولې او د یاهوه په خوله به روان شول.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "او کله به چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ورېجه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "څو (شمېر)"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مشرکه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "خیمې ودرولې"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "روان شول"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:05.650592427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 19:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "دا لس ځله ما ته رسواي راولئ، شرم نه یئ چې ما سره پردي کېږئ.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ځله"
+    },
+    {
+      "surface": "תכלימוני",
+      "gloss": "ما ته رسواي راولئ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "شرم یئ"
+    },
+    {
+      "surface": "תהכרו",
+      "gloss": "پردي کېږئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:50.961099676Z",
+  "model": "glm-5.3"
+}

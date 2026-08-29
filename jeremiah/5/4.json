@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 5:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "خو زه مې وویل: دا یوازې بېوسه دي، نادان شوي؛ ځکه د یاهوه لار، د دوی د الوهیم حکم نه پېژني.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "خو زه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مې وویل"
+    },
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "بېوسه"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دي"
+    },
+    {
+      "surface": "נואלו",
+      "gloss": "نادان شوي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "د دوی د الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:26.941497365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "په خپله غوړۍ کې بند شوي دي؛ خولې یې په غرور خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "په خپله غوړۍ"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "بند شوي"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "خولې یې"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "په غرور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:44.433147818Z",
+  "model": "glm-5.3"
+}

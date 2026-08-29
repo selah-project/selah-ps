@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "مې ویل: به يې وشلم، به يې د انسانانو له منځه د دوی یادونه درومه کړم.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "مې ویل"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "به يې وشلم"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "به يې درومه کړم"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "له انسانانو"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "د دوی یادونه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:48.080210746Z",
+  "model": "glm-5.3"
+}

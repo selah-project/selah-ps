@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 60,
+  "translation": "پاڅېږه، روښانه شه، ځکه چې ستا رڼا راغلې ده، او د یاهوه جلال پر تا راخېژي.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "روښانه شه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلې ده"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ستا رڼا"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "او د … جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "راخېژي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:26:42.737132939Z",
+  "model": "glm-5.3"
+}

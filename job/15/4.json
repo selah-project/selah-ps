@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "بلکې تا وېره باطله کړې، او تفکر کم کړی د ایل ⟨(ایles)⟩ پر وړاندې.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "باطله کوې"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "او کموې"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "تفکر"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د ایل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:10.860513599Z",
+  "model": "glm-5.3"
+}

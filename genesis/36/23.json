@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او دا د شووال زامن وو: علوان، او منحت، او عیبال، شفو او اونام.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شووال"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "علوان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "او منحت"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "او عیبال"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "شفو"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "او اونام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:25.586559547Z",
+  "model": "glm-5.3"
+}

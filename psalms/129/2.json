@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 129,
+  "translation": "ډېر ځله يې له زلمۍ څخه راټېټ کړم، خو پر ما يې ونه شول کولی.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ډېر ځله"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "يې راټېټ کړم"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "له زلمۍ څخه"
+    },
+    {
+      "surface": "גם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "يې ونه شول کولی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پر ما"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:17.113214421Z",
+  "model": "glm-5.3"
+}

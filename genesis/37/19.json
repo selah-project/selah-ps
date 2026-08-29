@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او هر یو بل ته یې وویل: «ګورئ، د خوابونو څښتن راروان دی!»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "بل ته \/ خپل ورور ته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګورئ"
+    },
+    {
+      "surface": "بעל",
+      "gloss": "څښتن"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "د خوابونو"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راروان دی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:44.625461129Z",
+  "model": "glm-5.3"
+}

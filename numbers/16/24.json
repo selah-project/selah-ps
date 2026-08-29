@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "«له ټولنې سره ووايه چې: د قورح، داتان او اويرام د استوګنې شاوخوا څخه پورته کېږئ».",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ووايه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ټولنې سره"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "پورته کېږئ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "شاوخوا"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "د استوګنې"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "او اويرام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:57.750615948Z",
+  "model": "glm-5.3"
+}

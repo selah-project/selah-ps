@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ستا دنګه د خرمانڅې د یوې قاچې په څېر ده، له خپل پردې وروسته.",
+  "tokens": [
+    {
+      "surface": "کפלח",
+      "gloss": "د یوې قاچې په څېر"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "خرمانڅې"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ستا دنګه"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "له وروسته"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ستا د پردې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:47.121853117Z",
+  "model": "glm-5.3"
+}

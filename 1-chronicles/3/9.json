@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "دا ټول د داوېد زامن وو، د کنیزانو د زامنو پرته، او د دوی خور تامار.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "پرته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "کنیزانو"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "او تامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "د دوی خور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:45.897040218Z",
+  "model": "glm-5.3"
+}

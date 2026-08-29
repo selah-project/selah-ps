@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او سغوب ⟨את⟩ یایر وزیږوه، او د هغه په ګیعاد زمکه کې شل او درې ښارونه وو.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "او سغوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یایر"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یایر"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "او درې"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په زمکه کې"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ګیعاد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:53.188587984Z",
+  "model": "glm-5.3"
+}

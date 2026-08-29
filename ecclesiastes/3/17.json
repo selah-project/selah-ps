@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ما زما په زړه کې وویل چې الوهیم به ⟨את⟩ نیک او ⟨את⟩ بد قضا کوي، ځکه چې د هرې خوښې لپاره وخت دی، او پر هر کار ⟨هلته⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیک"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "بد"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "قضا کوي"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د هر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوښې"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:34.174842282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "د ځمکې ټول خلک به د یسرایل د مشر (ناسي) لپاره دې نذرې ته ونډه واچوي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به واچوي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "نذرې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "د مشر (ناسي) لپاره"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په یسرایل کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:07:49.996381897Z",
+  "model": "glm-5.3"
+}

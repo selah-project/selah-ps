@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 24:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "په تیاره کې کورونه سور کوي؛ په ورځ کې ځان بندوي — دوی رڼا نه پېژني.",
+  "tokens": [
+    {
+      "surface": "חתר",
+      "gloss": "سور کوي"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "په تیاره کې"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "کورونه"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "په ورځ کې"
+    },
+    {
+      "surface": "חתמו",
+      "gloss": "بندوي"
+    },
+    {
+      "surface": "למו",
+      "gloss": "خپل ځان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:52.689439804Z",
+  "model": "glm-5.3"
+}

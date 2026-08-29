@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "زما الوهيم! دوی د تړلي ګرګډ په څېر کړه، د باد د مخې د وښو په شان.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "يې کړه"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "د تړلي ګرګډ په څېر"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "د وښو په شان"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:31.362536709Z",
+  "model": "glm-5.3"
+}

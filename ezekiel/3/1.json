@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او هغه راته وویل: د انسان زویه، هغه څه چې مومې يې وخوره، دا مكړه ⟨את⟩ وخوره او لاړ شه، د یزرائیل ⟨the⟩ کور ته خبر ووايه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه چې مومې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "مومې"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "خوره"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "وخوره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا مكړه"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "مكړه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "او لاړ شه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر ووايه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یزرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:38.590752812Z",
+  "model": "glm-5.3"
+}

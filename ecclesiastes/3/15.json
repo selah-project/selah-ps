@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه څه چې وو، مخکې نه همغسې دي؛ او هغه څه چې به کېږي، مخکې نه وو؛ او الوهيم ⟨את⟩ تعقيبېدونکی پلټي.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "هغه څه چې"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "مخکې نه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "همغسې دي"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "او هغه څه چې"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "به کېږي"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "مخکې نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "او الوهيم"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "پلټي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تعقيبېدونکی"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "تعقيبېدونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:32.925538096Z",
+  "model": "glm-5.3"
+}

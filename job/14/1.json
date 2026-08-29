@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "انسان، چې له ښځې زېږېدلی، لنډې ورځې لري او له ګډوډۍ ډک دی.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "زېږېدلی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "له ښځې"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "لنډې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "او ډک"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "له ګډوډۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:07:15.739165445Z",
+  "model": "glm-5.3"
+}

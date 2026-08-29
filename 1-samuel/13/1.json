@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "یو کلن شا‌ئول و چې پاچا شو، او دوه کاله يې پر اسراییل واکمني وکړه.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "یو کلن"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کلن"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شا‌ئول"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "چې پاچا شو"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "واکمني وکړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:34:30.684661293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 24:25",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او که همدا اوس نه وي، څوک مې درواغګر کړي او زما خبره لمنځه یوسي؟",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "مې درواغګر کړي"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "او یوسي"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لمنځه"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "زما خبره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:21.803708693Z",
+  "model": "glm-5.3"
+}

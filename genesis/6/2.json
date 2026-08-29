@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "نو د الوهیم زامنو د انسانانو لوڼې ولیدلې چې ښې دي، او هغوی ⟨את⟩ ښځې واخیستلې له ټولو هغو چې يې وټاکلې.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ولیدلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د انسانانو لوڼې"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لوڼې"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسانانو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "ښې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دي"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "واخیستلې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغو چې"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "وټاکلې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:37.162255233Z",
+  "model": "glm-5.3"
+}

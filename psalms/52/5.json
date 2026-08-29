@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "ته بدي له نېکۍ زياته مینه لرې، دروغ له ⟨د⟩ حق ویلو زياتې مینې يې. سېلاه.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "مینه لرې"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "له نېکۍ زياته"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "له ویلو زيات"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "حق"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:05.004430553Z",
+  "model": "glm-5.3"
+}

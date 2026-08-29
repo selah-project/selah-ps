@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او وروسته قوم له حصروت څخه وخوځېد، او د فاران په بیابان کې يې پوهډ وه.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "او وروسته"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "وخوځېد"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "له حصروت"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "پوهډ وه"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بیابان کې"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "فاران"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:21.907457909Z",
+  "model": "glm-5.3"
+}

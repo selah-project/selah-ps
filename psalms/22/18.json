@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "زه ټول زما هډوکي شمېرلی شم؛ هغوی ګوري او زما ته ډېر ډېر ګوري.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "زه شمېرلی شم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "زما هډوکي"
+    },
+    {
+      "surface": "המה",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ګوري"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ډېر ډېر ګوري"
+    },
+    {
+      "surface": "בי",
+      "gloss": "زما ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:24.644823087Z",
+  "model": "glm-5.3"
+}

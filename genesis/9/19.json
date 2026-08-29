@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "درې تنه دا د نوح زامن وو، او له دوی څخه ټوله ځمکه خپره شوه.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "درې تنه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "נח",
+      "gloss": "د نوح"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "او له دوی څخه"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "خپره شوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:59.766999091Z",
+  "model": "glm-5.3"
+}

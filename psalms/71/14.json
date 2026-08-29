@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 71,
+  "translation": "خو زه به په تل کې هیلې وکړم، او پر ټولو ستا د ستایلو به زیاتونه وکړم.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "خو زه"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "په تل کې"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "هیلې وکړم"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "او زیاتونه وکړم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ستا د ستایلو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:32.454236958Z",
+  "model": "glm-5.3"
+}

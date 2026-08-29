@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او عِبرون، رِخُوب، خَمون او قاناه — تر لوی تسیدون پورې.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "او عِبرون"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "رِخُوب"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "خَمون"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "قاناه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر...پورې"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "تسیدون"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:53.647071319Z",
+  "model": "glm-5.3"
+}

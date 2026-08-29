@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زما دود ځلېدونکی او سورګلابی دی، د لس زره له منځه بیرغ-ښکاره دی.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "زما دود"
+    },
+    {
+      "surface": "צח",
+      "gloss": "ځلېدونکی"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "او سورګلابی"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "بیرغ-ښکاره"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "د لس زره له منځه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:15.061846470Z",
+  "model": "glm-5.3"
+}

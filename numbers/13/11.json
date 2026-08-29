@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د یوسف د قبیلې لپاره — د مَنَشّې د قبیلې لپاره: گَدّي د سوسي زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّې"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گَدّي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "سوسي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:02.473869359Z",
+  "model": "glm-5.3"
+}

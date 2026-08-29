@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 28:18",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "ځکه چې تا د یاهوه غږ ونه اورېد او د هغه د غوسې اور د عمالق پر وړاندې و نه پېژانده؛ نو دا خبره یاهوه نن ستا په حق کې وکړه.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ونه اورېدې"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "و نه کړې"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "د غوسې اور"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "د هغه د غوسې"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "پر عمالق"
+    },
+    {
+      "surface": "על",
+      "gloss": "نو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا په حق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:40:16.895267329Z",
+  "model": "glm-5.3"
+}

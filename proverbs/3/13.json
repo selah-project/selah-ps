@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ښاغلی دی هغه سړی چې حکمت مومي، او هغه سړی چې پوهه ترلاسه کوي.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ښه-بخت دی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "سړی چې"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "مومي"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "او هغه سړی چې"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ترلاسه کوي"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:28.972427219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 56,
+  "translation": "د اون له مخې به يې خلاصون وي؟ په خپله غوسه کې دې قومونه راکوز کړه، اے الوهیم.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د ... له مخې"
+    },
+    {
+      "surface": "און",
+      "gloss": "اون"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "خلاصون"
+    },
+    {
+      "surface": "למו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "באף",
+      "gloss": "په غوسه کې"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومونه"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "راکوز کړه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:49.832020106Z",
+  "model": "glm-5.3"
+}

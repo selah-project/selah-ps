@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "هغه چې خپلې خبرې راټولوي، پوهه لري؛ او د پوهې سړی د ارام روح خاوند دی.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "راټولوي\/نیسي"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "خپلې خبرې"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پوهه لري"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "او ارام"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "پوهې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:06.555566707Z",
+  "model": "glm-5.3"
+}

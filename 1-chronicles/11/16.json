@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او داوېد هغه مهال په کلا کې و، او د پلشتیمانو پوسته هم هغه مهال په بیت-لحم کې وه.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "او داوېد"
+    },
+    {
+      "surface": "אז",
+      "gloss": "هغه مهال"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "په کلا کې"
+    },
+    {
+      "surface": "وנציב",
+      "gloss": "او پوسته"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "د پلشتیمانو"
+    },
+    {
+      "surface": "אז",
+      "gloss": "هغه مهال"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:08.640909235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ⟨את⟩ دوه ګردې، او ⟨את⟩ هغه غوړ چې پرې دی چې پر مرۍ دی، او ⟨אت⟩ د جګر هغه زېږلی غوږ پر ګردو سره به لرې کړي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دوه ګردې"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ګردې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هغه غوړ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "غوړ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "مرۍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د جګر هغه زېږلی غوږ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "زېږلی غوږ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جګر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ګردو"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "لرې يې کړي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:32:17.619241223Z",
+  "model": "glm-5.3"
+}

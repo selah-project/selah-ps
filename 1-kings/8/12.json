@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "آن ویل شولو: «یاهوه ویلي دي چې هغه به په توره ورېځ کې اوسیږي.»",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "آن"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویل شولو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویلي دي"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "چې اوسیږي"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "په توره ورېځ کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:54:02.636572039Z",
+  "model": "glm-5.3"
+}

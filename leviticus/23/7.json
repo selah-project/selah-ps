@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "په لومړي ورځ به د تاسو لپاره د بلنې سپېڅلې غونډه وي؛ ټول کار — خدمت — به نه کوئ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړي"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "د بلنې غونډه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "سپېڅلې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "د تاسو لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "به کوئ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:12.073222732Z",
+  "model": "glm-5.3"
+}

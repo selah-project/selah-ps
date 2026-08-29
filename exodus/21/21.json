@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "خو که تر یوه ورځ یا دوه ورځو ودرېږي، انتقام نه اخیستل کېږي، ځکه چې دا د هغه ⟨هغه⟩ سپینزر دی.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יום",
+      "gloss": "تر یوه ورځ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "دوه ورځو"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ودرېږي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "انتقام اخیستل کېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "د هغه سپینزر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:07.012990652Z",
+  "model": "glm-5.3"
+}

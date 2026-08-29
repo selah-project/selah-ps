@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "موږ سرغړونه وکړه او سرکشي وکړه؛ خو ته نه دې بخښلي.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "سرغړونه وکړه"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "او سرکشي وکړه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "دې بخښلي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:20.581089244Z",
+  "model": "glm-5.3"
+}

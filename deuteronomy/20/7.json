@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او کوم سړی چې ښځه يې منګه کړې او تر اوسه يې نه وي اخستې؟ دې لاړ شي او خپل کور ته ستون شي، دا چې په جګړه کې نه مړ شي او بل سړی يې واخلي.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "او کوم"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "منګه کړې"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "اخستې وي"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "لاړ شي"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "او ستون شي"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "خپل کور ته"
+    },
+    {
+      "surface": "פן",
+      "gloss": "دا چې نه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مړ شي"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "په جګړه کې"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "او بل سړی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "واخلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:11.187589519Z",
+  "model": "glm-5.3"
+}

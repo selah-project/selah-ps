@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "داسې وویل ادونای یاهوه: یوه بدي، یوه یوازینۍ بدي — وګوره، راروانه ده.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "באה",
+      "gloss": "راروانه ده"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:25.513249968Z",
+  "model": "glm-5.3"
+}

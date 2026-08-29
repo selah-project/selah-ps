@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "هغه د سیند اوبه لکه ⟨د⟩ ټېو غونډوي، ژوراوي په خپلو خزانو کې اېښي.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "غونډوي"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "لکه ټېو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "הים",
+      "gloss": "د سیند"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "اېښي"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "په خزانو"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ژوراوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.660686801Z",
+  "model": "glm-5.3"
+}

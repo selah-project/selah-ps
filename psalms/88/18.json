@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 88,
+  "translation": "لکه اوبو ټول ورځ ما چاپېر کړم؛ دوی یوځای پر ما راټول شول.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ما چاپېر کړم"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "لکه اوبو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "הקיפو",
+      "gloss": "راټول شول"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یوځای"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:13.607954791Z",
+  "model": "glm-5.3"
+}

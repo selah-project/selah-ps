@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "څوک چې خپله غوږ د کمزوري له چیغې بندوي، هغه به هم چیغه وکړي او ځواب به ورنه کړل شي.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "بندوي"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "خپله غوږ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "له چیغې"
+    },
+    {
+      "surface": "דל",
+      "gloss": "د کمزوري"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "چیغه وکړي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ځواب کړل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:05.521338407Z",
+  "model": "glm-5.3"
+}

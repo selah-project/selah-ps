@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د سړي د ژوند تاوان د ده زېرمه ده، خو فقیر ګواښ نه اوري.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "تاوان"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "زېرمه یې"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "خو فقیر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ګواښ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:40.724645634Z",
+  "model": "glm-5.3"
+}

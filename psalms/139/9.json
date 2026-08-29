@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 139,
+  "translation": "د سهار وزوونه واخلم، د سمندر په وروستیو کې استوګنه وکړم —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "واخلم"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "د سهار وزوونه"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "استوګنه وکړم"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "په وروستیو کې"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:49.631156706Z",
+  "model": "glm-5.3"
+}

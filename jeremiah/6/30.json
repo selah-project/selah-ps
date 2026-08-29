@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "رد-شوی سپين زر يې بولي، ځکه چې یاهوه ⟨هغوی⟩ رد کړي دي.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "سپين زر"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "رد-شوی"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "بولي\/نوموي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "رد کړي دي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "هغوی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:58.202954075Z",
+  "model": "glm-5.3"
+}

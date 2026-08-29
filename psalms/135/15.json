@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 135,
+  "translation": "د ملتونو بتان سپين زر او سره زر دي، د انسانانو د لاسونو جوړه شوی.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "بتان"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "د ملتونو"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپين زر"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "او سره زر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "جوړه شوی"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "د لاسونو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسانانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:58.442383397Z",
+  "model": "glm-5.3"
+}

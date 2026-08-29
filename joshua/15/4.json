@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 15:4",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او عَصمونه ته واوړېد ⟨او⟩ د مِتسرایم نهر ته ووتل، او د پولې وتلوEtsubmitted 西 sea سمندر ته ورسېدل؛ دا به ستاسو د سویل پوله وي.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "او واوړېد"
+    },
+    {
+      "surface": "עצמונה",
+      "gloss": "عَصمونه"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "او ووتل"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نهر"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "او ⟨وشو⟩"
+    },
+    {
+      "surface": "תצאות",
+      "gloss": "وتلو"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "د پولې"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "سمندر ته"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "سویل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:57:44.560352141Z",
+  "model": "glm-5.3"
+}

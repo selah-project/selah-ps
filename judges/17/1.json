@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او د اپرایم له غره يو سړی ⟨و⟩، او د هغه نوم میکایاهو ⟨و⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ... و"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "له غره"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپرایم"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "او د نوم يې"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "میکایاهو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:28:57.026290497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د دوی شمېرل شوي د ګاد د قبیلې لپاره پنځه څلوېښت زره او شپږ سوه او پنځوس وو.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "د دوی شمېرل شوي"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "پنځوس"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:08.158326058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "لعنتي دی هغه چې د خپل پلار له ښځې سره څملاست کوي، ځکه چې د خپل پلار چادر يې سپک کړی؛ او ټول خلک ووایي: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتي دی"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "څملاست کوي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "سپک کړی"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "چادر"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او ووایي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:49.422656828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 63,
+  "translation": "ځکه چې ستا خېسېد له ژونده غوره دی؛ زما شونډې به تا ستاینې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ستا خېسېد"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "له ژونده"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما شونډې"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "به تا ستاینې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:49.877045254Z",
+  "model": "glm-5.3"
+}

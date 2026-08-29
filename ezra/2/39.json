@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د حارم زامن — زر او اولس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زر"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "او"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "اولس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:09.160244264Z",
+  "model": "glm-5.3"
+}

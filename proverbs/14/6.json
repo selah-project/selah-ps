@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ټوکه کوونکی حکمت لټوي خو ⟨هغه⟩ نشته، او پوهه د پوهېدونکي لپاره اسانه ده.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "لټوي"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ټوکه کوونکی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نشته"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "د پوهېدونکي لپاره"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "اسانه ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:46.043015237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او هدد مړ شو، او سمله د مسریکا له ځایه د هغه پر ځای واکمن شو.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هدد"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "او واکمن شو"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "د هغه پر ځای"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "سمله"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "د مسریکا له ځایه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:10.230780584Z",
+  "model": "glm-5.3"
+}

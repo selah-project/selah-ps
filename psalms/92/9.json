@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 92,
+  "translation": "خو ته، ای یاهوه، تر ټولو لوړ يې د تل لپاره.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "خو ته"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "تر ټولو لوړ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:05.110884467Z",
+  "model": "glm-5.3"
+}

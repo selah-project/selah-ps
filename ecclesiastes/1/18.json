@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ځکه چې په ډېر حکمت کې ډېر خفګان دی، او څوک چې پوهه زياتوي، هغه درد زياتوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "په ډېر… کې"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "خفګان"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "او څوک چې زياتوي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "زياتوي"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "درد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:28.895345456Z",
+  "model": "glm-5.3"
+}

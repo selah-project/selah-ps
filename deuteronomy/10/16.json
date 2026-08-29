@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ⟨את⟩ د ستاسو د زړه ختنه-پرده پرې کړئ، او خپلې غاړې نور سختې مه کړئ.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "پرې کړئ (ختنه)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ختنه-پرده"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "ختنه-پرده"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ستاسو زړه"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "ستاسو غاړې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سختې کړئ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:51.337046409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "دروغجن ده زړه راکاږنه او بې پايه ده ښکلا، خو هغه ښځه چې یاهوه وېرېږي — هغه به وستایل شي.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "החן",
+      "gloss": "زړه راکاږنه"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "او بې پايه"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "ښکلا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "وېرېږي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "وستایل شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:23.277185812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 24:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د هغه خبره چې د ایل خبرې اوري، چې د شدای لیدنه لېدي، څوک چې غورځېدلی خو سترګې يې پرانیستې دي.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "د هغه خبره"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د ایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "لیدنه"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "د شدای"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "لېدي"
+    },
+    {
+      "surface": "نפל",
+      "gloss": "غورځېدلی"
+    },
+    {
+      "surface": "וגלוי",
+      "gloss": "خو پرانیستې"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "سترګې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:59:09.759562339Z",
+  "model": "glm-5.3"
+}

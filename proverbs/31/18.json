@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "هغې څېستلې چې د هغې سوداګري ښه ده؛ د هغې څراغ د شپې نه مړیږي.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "هغې څېستلې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "د هغې سوداګري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכבه",
+      "gloss": "مړیږي"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "د شپې"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "د هغې څراغ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:03.570097903Z",
+  "model": "glm-5.3"
+}

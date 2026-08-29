@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "لسم شِمْعِي ته — هغه، زامن يې او وروڼه يې، دولس کېدل.",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "لسم"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمْعِي"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:16.891162843Z",
+  "model": "glm-5.3"
+}

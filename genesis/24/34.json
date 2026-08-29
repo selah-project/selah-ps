@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "نو ⟨هغه⟩ وويل: «زه د ابراهام غلام يم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "د ابراهام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه يم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:35.045693407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "کله چې خپله زیتونه وټکوې، شاخونه وروسته دې مه څېړه؛ د پردۍ، یتیم او کونډې دې وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "وټکوې"
+    },
+    {
+      "surface": "زיתך",
+      "gloss": "خپله زیتونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "مه څېړه"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "وروسته دې"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "د پردۍ"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "او کونډې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "دې وي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:32.704974221Z",
+  "model": "glm-5.3"
+}

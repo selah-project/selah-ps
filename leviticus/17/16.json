@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او که يې ونه وینځي او خپله غوښه ونه لامبي، نو خپله ګناه به وغړوي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "وینځي"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "خپله غوښه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "لامبي"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "وغړوي"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "خپله ګناه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:34.060930849Z",
+  "model": "glm-5.3"
+}

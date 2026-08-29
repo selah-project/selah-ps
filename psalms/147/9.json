@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 147,
+  "translation": "הغه چې خپله خوراک ورکوي ځناور ته، د زاغانو بچیو ته چې غواړي (چې غاړه کوي).",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ځناور ته"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "خپله خوراک"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بچیو ته"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "د زاغانو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "غواړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:12.470507857Z",
+  "model": "glm-5.3"
+}

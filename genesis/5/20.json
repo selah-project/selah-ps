@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "نو ټول د یارد ورځې دوې او شپېته کالونه او نهه سوه کالونه شوې، او هغه مړ شو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "شوې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د … ورځې"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یارد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوې"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالونه"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "او نهه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالونه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:39.639994383Z",
+  "model": "glm-5.3"
+}

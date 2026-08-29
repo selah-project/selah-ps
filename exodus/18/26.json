@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او هغوی به هر وخت ⟨את⟩ قوم ته قضاوت کاوه؛ سخت matter به يې موشې ته وړاندې کاوه، خو هر کوچنی matter به هغوی پخپله قضاوت کاوه.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "قضاوت به يې کاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سخت matter"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "وړاندې به يې کاوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "خو هر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "matter"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "کوچنی"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "قضاوت به يې کاوه"
+    },
+    {
+      "surface": "הם",
+      "gloss": "پخپله هغوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:45.306668867Z",
+  "model": "glm-5.3"
+}

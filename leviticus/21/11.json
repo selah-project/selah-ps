@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او پر هر مړي دې نه ننوزي؛ خپل پلار او خپلې مور ته دې نه کثيفیږي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "مړي"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مړ شوي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ننوزي"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "خپل پلار ته"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "او خپلې مور ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "کثيفیږي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:28.631474634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "یاهوه به تر پایه او د تل لپاره پاچاهي کوي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "به پاچاهي کوي"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "تر پایه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او د تل لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:28.521938852Z",
+  "model": "glm-5.3"
+}

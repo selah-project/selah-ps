@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او يو سړی چې له هغه د ناستې تخم ووځي، نو هغه به په اوبو کې ⟨את⟩ خپل ټول بدن وينځي، او تر ماښامه پورې ناپاک دی.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او يو سړی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ووځي"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "د ناستې"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "او وينځي"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو کې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل ټول بدن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "خپل بدن"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "او ناپاک دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ماښامه پورې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:16:27.066197042Z",
+  "model": "glm-5.3"
+}

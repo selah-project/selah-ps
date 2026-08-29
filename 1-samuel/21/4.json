@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او اوس ستا د لاس لاندې څه شته؟ پنځه ډوډۍ زما په لاس کې راکړه، یا هغه څه چې پيدا شي.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا د لاس"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "راکړه"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "زما په لاس کې"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "هغه چې پيدا شي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:38:10.949814292Z",
+  "model": "glm-5.3"
+}

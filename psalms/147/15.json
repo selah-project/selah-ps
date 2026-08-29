@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 147,
+  "translation": "هغه چې خپله حکم-وينا ځمکې ته لېږي، ډېر ژر يې خبره منډه وهي.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "هغه چې لېږي"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "خپله حکم-وينا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې ته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ډېر ژر"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "منډه وهي"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "يې خبره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:28.562235710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او د دروازې د خولې پراخوالی يې اند کړه، لس اَمه؛ د دروازې اوږدوالی دیارلس اَمه.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "او اند کړه يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پراخوالی"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پراخوالی"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "השער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اوږدوالی"
+    },
+    {
+      "surface": "השער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس (ديارلس)"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "اَمه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:36.091749340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ټوله ښایسته يې، زما ياره، او په تا کې هېڅ عيب نشته.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ښایسته"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "زما ياره"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "او ... عيب"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:30.958315588Z",
+  "model": "glm-5.3"
+}

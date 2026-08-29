@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 7:19",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "تر کله به له ما نه ګورې؟ به مې نه پرېږدې چې زما لاړې په خوله کې وتلم؟",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "تر کله"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ګورې"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרפני",
+      "gloss": "به مې پرېږدې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בלעي",
+      "gloss": "وتلم"
+    },
+    {
+      "surface": "רקי",
+      "gloss": "زما لاړې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:36.287209682Z",
+  "model": "glm-5.3"
+}

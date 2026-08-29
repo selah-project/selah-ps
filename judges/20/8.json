@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او ټول خلک لکه یو سړی پاوتل، دا ویې ویل: به هېڅ سړی خپلې خیمې ته نه ځو او به هېڅ سړی خپل کور ته نه ګرځو.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "او پاوتل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "لکه سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دا ویې ویل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ځو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هېڅ سړی"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "خپلې خیمې ته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "ګرځو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "خپل کور ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:30:00.909047384Z",
+  "model": "glm-5.3"
+}

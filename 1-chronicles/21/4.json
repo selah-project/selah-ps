@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "خو د پاچا خبره پر یوآب ټینګه شوه، او یوآب ووتل او په ټول یسرایل کې وګرځېد او یروشلایم ته راننوت.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "خو د… خبره"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ټینګه شوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "وګرځېد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راننوت"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:40.288870982Z",
+  "model": "glm-5.3"
+}

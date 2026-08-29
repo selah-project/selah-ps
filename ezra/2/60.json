@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د دِلایا زامن، د توویا زامن، د نِقودا زامن — شپږ سوه دېرش او دوه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دِلایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "توویا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقودا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:20.729380098Z",
+  "model": "glm-5.3"
+}

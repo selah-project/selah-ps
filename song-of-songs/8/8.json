@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "موږ یوه کوچنۍ خور لرو، او سینې يې نشته؛ زموږ د خور لپاره به څه وکړو په هغه ورځ چې خبرې پرې وشي؟",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "خور"
+    },
+    {
+      "surface": "لנו",
+      "gloss": "موږ ... لرو"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "کوچنۍ"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "او سینې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לה",
+      "gloss": "يې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "وکړو"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "زموږ د خور لپاره"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "چې خبرې"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:55.138184961Z",
+  "model": "glm-5.3"
+}

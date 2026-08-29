@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د هر هغه رېندېدونکي شی بڼه چې په خاوره کې، د هر هغه مچۍ بڼه چې په اوبو کې، د ځمکې لاندې،",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "بڼه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رېندېدونکی شی"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "په خاوره کې"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "بڼه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "مچۍ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو کې"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:35.422465341Z",
+  "model": "glm-5.3"
+}

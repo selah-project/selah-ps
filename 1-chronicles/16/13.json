@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 16:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د یسراییل نسل، د هغه بنده! د یعقوب زامن، د هغه ټاکل شوي!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "د هغه بنده"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "د هغه ټاکل شوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:23.431445029Z",
+  "model": "glm-5.3"
+}

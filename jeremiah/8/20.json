@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ریبونې وتېرېده، اوړۍ پای ته ورسېده، خو موږ و نه ژغورل شوو.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "وتېرېده"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ریبونې"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "پای ته ورسېده"
+    },
+    {
+      "surface": "کיْص",
+      "gloss": "اوړۍ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "خو موږ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "و ژغورل شوو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:57.386431785Z",
+  "model": "glm-5.3"
+}

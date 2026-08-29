@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او اهرون او د هغه زامنو ⟨את⟩ ټول هغه خبرونه وکړل چې یاهوه د موشې ⟨په لاس⟩ حکم کړي وو.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "او د هغه زامنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول خبرونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړي وو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "د موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:37:54.949574427Z",
+  "model": "glm-5.3"
+}

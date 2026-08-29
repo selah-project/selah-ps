@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او د یاهوه خبره راته راغله، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او… وشوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:35:50.077410056Z",
+  "model": "glm-5.3"
+}

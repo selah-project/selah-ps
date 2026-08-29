@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "خو اې ایوب، زموږ خبرو ته غوږ ونیسه، او ټولې زما خبرې واوره.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "غوږ ونیسه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اې"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "زموږ خبرو ته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټولې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "زما خبرې"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "واوره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:16.454652700Z",
+  "model": "glm-5.3"
+}

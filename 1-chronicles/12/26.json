@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د شمعون له زامنو څخه، د زور مېړني جنګیالي، د پوځ لپاره، اوه زره او یو سل وو.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له … څخه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامنو"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "مېړني"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "د پوځ لپاره"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "او یو سل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:46.836339020Z",
+  "model": "glm-5.3"
+}

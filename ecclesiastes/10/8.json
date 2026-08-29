@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "څوک چې کنده کېندلې، ⟨هلته⟩ به پکې لوېږي؛ او څوک چې دیوال بېدرېږي، مار به يې چېچي.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "څوک چې کېندلې"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "کنده"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "به لوېږي"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "او څوک چې بېدرېږي"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "دیوال"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "به يې چېچي"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مار"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:55.626196928Z",
+  "model": "glm-5.3"
+}

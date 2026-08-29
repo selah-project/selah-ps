@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او ⟨את⟩ موآب يې وواهه، او موآب د داوېد غلامان شول، چې ډالۍ يې وړي.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "وواهه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موآب"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "شول"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلامان"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "چې وړي"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ډالۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:24.906782510Z",
+  "model": "glm-5.3"
+}

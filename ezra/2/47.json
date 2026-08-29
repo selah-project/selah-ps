@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د ګِدِّل زامن، د ګَحَر زامن، د رِايا زامن،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "د ګِدِّل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "د ګَحَر"
+    },
+    {
+      "surface": "بני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "د رِايا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:32.180151625Z",
+  "model": "glm-5.3"
+}

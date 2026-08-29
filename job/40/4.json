@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 40:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "وایې، ما سپک کړی یم؛ تا ته څه ځواب درکړم؟ زما لاس مې پر خوله کېښود.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "وایې"
+    },
+    {
+      "surface": "קלתי",
+      "gloss": "سپک مې کړی یم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "تا ته ځواب درکړم"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "زما لاس"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "مې کېښود"
+    },
+    {
+      "surface": "למו",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:26.594315075Z",
+  "model": "glm-5.3"
+}

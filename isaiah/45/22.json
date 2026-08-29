@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "زما لوري ته وګرځئ او وژغورل شئ، د ځمکې ټولې غاړې؛ ځکه زه ایل يم او بل نشته.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "وګرځئ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما لوري ته"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "او وژغورل شئ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "غاړې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:23:11.439490705Z",
+  "model": "glm-5.3"
+}

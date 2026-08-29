@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 21:30",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او مور يې وويشل — حشبون هلاک شو تر دیبون، او وران يې کړل تر نوفح، چې تر میډبا رسېږي.",
+  "tokens": [
+    {
+      "surface": "ונירם",
+      "gloss": "مور يې وويشل"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "هلاک شو"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دیبون"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "وران يې کړل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "نوفح"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "میډبا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:05.997145624Z",
+  "model": "glm-5.3"
+}

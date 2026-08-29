@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زه په ځمکه کې پردې یم؛ خپلې م厥ې له ما نه پټوې.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "پردې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "پټوې"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "خپلې م厥ې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:18.008278128Z",
+  "model": "glm-5.3"
+}

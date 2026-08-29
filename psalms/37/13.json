@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "ادونای پر هغه خاندي، ځکه چې ⟨هغه⟩ لیدلي چې ⟨د هغه⟩ ورځ راځي.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "خاندي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "لیدلي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "د هغه ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:47.405254683Z",
+  "model": "glm-5.3"
+}

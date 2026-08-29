@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د دَلایا زامن، د تُوبیا زامن، د نَقودا زامن — شپږ سوه دوه څلوېښت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "د دَلایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "د تُوبیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "د نَقودا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "دوه څلوېښت"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:57.791571167Z",
+  "model": "glm-5.3"
+}

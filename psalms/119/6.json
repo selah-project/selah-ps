@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "هغه وخت به زه شرمېږم نه، کله چې زه د ستا ټولو فرمانونو ته وګورم.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "شرمېږم"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "کله چې وګورم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ستا فرمانونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:23.672560802Z",
+  "model": "glm-5.3"
+}

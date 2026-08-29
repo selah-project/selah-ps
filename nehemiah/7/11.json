@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 7:11",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د پَحَت-مواب زامن، د ییشوع او یوآب د زامنو له ډلې، دوه زره او اته سوه اتلس.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَحَت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مواب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو له ډلې"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ییشوع"
+    },
+    {
+      "surface": "ואואב",
+      "gloss": "او یوآب"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دوه زره"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "او اته"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "اته"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لسن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:04.033827956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ښه نوم د ښه بوی مسحو له غوره تېلو څخه غوره دی، او د مرګ ورځ د زوکړې له ورځې څخه.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "له مسحو تېلو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "او د ورځې"
+    },
+    {
+      "surface": "המות",
+      "gloss": "مرګ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "له ورځې"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "زوکړې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:46.240331695Z",
+  "model": "glm-5.3"
+}

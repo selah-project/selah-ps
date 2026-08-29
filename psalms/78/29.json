@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 78,
+  "translation": "نو ⟨هغوی⟩ وخوړل او ډېرې مړې شوې، او د دوی مینه يې د دوی لپاره راوړه.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "وخوړل"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "مړې شوې"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "د دوی مینه"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "راوړه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د دوی لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:06.607077161Z",
+  "model": "glm-5.3"
+}

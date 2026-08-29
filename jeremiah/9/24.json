@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 9:24",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ورت، ورځې راروانې دي، د یاهوه اعلان، او زه به د ختنه شويو ټولو ته پر ناختنه سزا وکرم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ورت"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "באים",
+      "gloss": "راروانې دي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "او زه به سزا وکرم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ختنه شوی"
+    },
+    {
+      "surface": "בערלה",
+      "gloss": "پر ناختنه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:32:39.628366487Z",
+  "model": "glm-5.3"
+}

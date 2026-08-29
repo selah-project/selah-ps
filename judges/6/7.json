@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او دا وچېده چې کله د اسرایل زامو د مادیان له امله یاهوه ته چیغه ووهله،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او پدې وچېده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "چیغه ووهوله"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "د … له امله"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مادیان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:24:35.019201835Z",
+  "model": "glm-5.3"
+}

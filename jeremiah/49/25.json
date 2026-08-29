@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "څنګه نه ده پرېښودل شوې د ستایلو ښار، زما د خوښۍ ښار!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "پرېښودل شوې"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "د ستایلو"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "زما د خوښۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:52.422937352Z",
+  "model": "glm-5.3"
+}

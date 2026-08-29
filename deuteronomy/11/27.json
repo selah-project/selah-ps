@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "⟨دا⟩ برکت — که د یاهوه ستاسو الوهیم فرمانونو غوږ ونیسئ، هغه چې زه نن ⟨את⟩ تاسو ته يې حکم کوم.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "که"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "غوږ ونیسئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "فرمانونو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ستاسو الوهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم کوم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تاسو ته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:05.665132571Z",
+  "model": "glm-5.3"
+}

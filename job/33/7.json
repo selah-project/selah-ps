@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 33:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ها، زما وېره دې نه وېروه کا، او زما فشار دې پر تا دروند نه دی.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "زما وېره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבעתך",
+      "gloss": "دې وېروه کا"
+    },
+    {
+      "surface": "ואכפי",
+      "gloss": "او زما فشار"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "دروند دی"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:10.813860374Z",
+  "model": "glm-5.3"
+}

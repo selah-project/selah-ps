@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د یاهوه غږ ⟨د⟩ اوبو دي، د ویاړ ایل غرمې کوي — یاهوه ⟨د⟩ ډېرو اوبو پر سر.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "د ویاړ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "غرمې کوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:25.256439022Z",
+  "model": "glm-5.3"
+}

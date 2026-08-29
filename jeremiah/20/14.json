@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "لعنتي دې وي هغه ورځ چې زه په کې وزېږېدم، هغه ورځ چې مور مې زه وزېږېدم، ويې نه بختوره!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنتي دې وي"
+    },
+    {
+      "surface": "היום",
+      "gloss": "هغه ورځ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "وزېږېدم"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "زه وزېږېدم"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "مور مې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "بختوره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:36:11.044061614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "همدغه شپه بېلشَتسار، د کَلديانو پاچا، ووژل شو.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "همدغه"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "ووژل شو"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "بېلشَتسار"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "کَلدیانو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:31:49.735313112Z",
+  "model": "glm-5.3"
+}

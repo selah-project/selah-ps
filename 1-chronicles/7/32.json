@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او حېبېر پیدا کړل ⟨את⟩ یَفلېت او ⟨את⟩ شومېر او ⟨את⟩ حوتام او ⟨את⟩ شوعا د هغوی خور.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "او حېبېر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَفلېت"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یَفلېت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "شومېر"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "شومېر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حوتام"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "شوعا"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "شوعا"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "د هغوی خور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:55.866251357Z",
+  "model": "glm-5.3"
+}

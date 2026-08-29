@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "په ټوټو يې کوه ⟨את⟩ ټوټې، او پرې تېل وtowه — دا منچه ده.",
+  "tokens": [
+    {
+      "surface": "پתות",
+      "gloss": "په ټوټو کوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ټوټې"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ټوټې"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "او towwه"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تېل"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "منچه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:16.589875478Z",
+  "model": "glm-5.3"
+}

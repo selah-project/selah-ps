@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وا چې هغه بغاوتوونکې او ملوثه ده، هغه ښار چې ظلم کوي!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "وا"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "بغاوتوونکې"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "او ملوثه"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ظلم کوونکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:27.646633203Z",
+  "model": "glm-5.3"
+}

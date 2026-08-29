@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "درې ښارونه دې ځان لپاره بېل کړې، د خپلې ځمکې په منځ کې چې یاهوه الوهیم دې تا ته درکوي چې يې ونیسې،",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "بېل کړې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ځان لپاره"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "د خپلې ځمکې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "الوهیم دې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "چې يې ونیسې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:25.732554169Z",
+  "model": "glm-5.3"
+}

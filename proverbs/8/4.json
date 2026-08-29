@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "تاسو ته، ای نارینه، زه غږ کوم، او زما غږ د آدم د زامنو ته دی",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "تاسو ته"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "ای نارینه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "زه غږ کوم"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "او زما غږ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:25.313567485Z",
+  "model": "glm-5.3"
+}

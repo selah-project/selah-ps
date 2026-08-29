@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 33:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "کتنه! هغه پر ما پلمې پیدا کوي، ماته د دښمن په سترګو ګوري.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "کتنه!"
+    },
+    {
+      "surface": "תנואות",
+      "gloss": "پلمې"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پیدا کوي"
+    },
+    {
+      "surface": "יחשבני",
+      "gloss": "ماته ګوري"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "د دښمن"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:57.289343769Z",
+  "model": "glm-5.3"
+}

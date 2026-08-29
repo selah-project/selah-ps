@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "malachi 2:15",
+  "book": "malachi",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او ⟨نه⟩ یو یې جوړ کړ، او د روح پاتې برخه ورسره ده؛ او یو څه غواړي؟ د الوهیم نسل. نو مه ByteArrayInputStream — خپل روح وساتئ، او د ځوانۍ د ښځې په باب خیانت مه کوه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړ"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "او پاتې برخه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "غواړي"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "وساتئ"
+    },
+    {
+      "surface": "ברוחכם",
+      "gloss": "خپل روح"
+    },
+    {
+      "surface": "ובאשת",
+      "gloss": "او د ښځې"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "د ځوانۍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "יבגד",
+      "gloss": "خیانت کوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:01.625319978Z",
+  "model": "glm-5.3"
+}

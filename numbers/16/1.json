@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 16:1",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "قورح د یتصهار زوی، د قهات زوی، د لوی زوی، واخیست، او داتن او ابیرام، د ایلیاب زامن، او عون د پلث زوی، د رئوبن زامن،",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخیست"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د … زوی"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یتصهار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د … زوی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د … زوی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ודתן",
+      "gloss": "او داتن"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "او ابیرام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ایلیاب"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "او عون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د … زوی"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "پلث"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبن"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:23.372965784Z",
+  "model": "glm-5.3"
+}

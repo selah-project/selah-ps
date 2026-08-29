@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "زه به ستا له کوره غوا و نه خلم، نه به ستا له بارګړو نر وزې.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "زه به ... و نه خلم"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ستا له کوره"
+    },
+    {
+      "surface": "פר",
+      "gloss": "غوا"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "ستا له بارګړو"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "نر وزې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:45.709198322Z",
+  "model": "glm-5.3"
+}

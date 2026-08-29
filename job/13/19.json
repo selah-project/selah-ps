@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 13:19",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "څوک هغه دی چې به له ما سره محاکمه وکړي؟ ځکه اوس که خدا م پورې کړم، وم.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه دی"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "محاکمه وکړي"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "له ما سره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "خدا م پورې کړم"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "او وم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:53.053735Z",
+  "model": "glm-5.3"
+}

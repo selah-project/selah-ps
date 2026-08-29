@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "ټوپ وهونکی هغه څوک نه مڼې چې پرې نيوکه وکړي؛ هوښیارو ته نه ځي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "مینه کوي"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ټوپ وهونکی"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "هغه چې نيوکه کوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "هوښیارو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ځي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:31.518838891Z",
+  "model": "glm-5.3"
+}

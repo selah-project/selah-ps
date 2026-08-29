@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او پرې تېل وېږه، او پرې لوبان کېږده — مېنځ ⟨هغه⟩ ده.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "او وېږه"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تېل"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "او کېږده"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لوبان"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مېنځ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هغه⟩ ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:32:16.271163337Z",
+  "model": "glm-5.3"
+}

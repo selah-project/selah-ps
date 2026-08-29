@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "دا هغه خبره وه چې د یاهوه له لوري یِرمیاهو ته د وچکیو د حالتونو په اړه ورغله.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره\/د خبرې لفظ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "د حالتونو"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "وچکۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:19.678082674Z",
+  "model": "glm-5.3"
+}

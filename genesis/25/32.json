@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "عیسو وویل: «ګوره، زه د مړینې په لور روان یم، نو دا زوې حق ماته څه ته دی؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "روان"
+    },
+    {
+      "surface": "למות",
+      "gloss": "د مړینې په لور"
+    },
+    {
+      "surface": "ו",
+      "gloss": "او"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "د زوې حق"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:47.937536830Z",
+  "model": "glm-5.3"
+}

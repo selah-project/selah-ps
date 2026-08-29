@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "نه پوهېدم — زما نفس ما د زما د قوم د سخي (امي-نادیب) کوچیو ته کېښود.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "پوهېدم"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "ما کېښود"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "کوچیو ته"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "د زما قوم"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "د سخي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:18:08.328134250Z",
+  "model": "glm-5.3"
+}

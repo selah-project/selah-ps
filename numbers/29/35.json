@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "په اتمه ورځ به ستاسو لپاره ټولګه (عید-ركاود) وي؛ هر کار چې خدمت وي يې مه کوئ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اتمه"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ټولګه (عید-ركاود)"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه \/ نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کوئ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:55.103675918Z",
+  "model": "glm-5.3"
+}

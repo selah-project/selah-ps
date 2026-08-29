@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 2:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او تر هغه لاندې د منشه قبيله، او د منشه زامنو مشر ګملیایل د پدهتصور زوی دی.",
+  "tokens": [
+    {
+      "surface": "ועליו",
+      "gloss": "او تر هغه لاندې"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيله"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "او مشر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د ... زامنو"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ګملیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "پدهتصور"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:36.041093336Z",
+  "model": "glm-5.3"
+}

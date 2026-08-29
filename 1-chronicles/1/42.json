@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د اېصېر زامو: بلهان او زعوان او یعقان؛ دا د دیشون زامو دي؛ عوص او اران.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامو"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "اېصېر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بلهان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "او زعوان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یعقان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامو"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "او اران"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:11.261249947Z",
+  "model": "glm-5.3"
+}

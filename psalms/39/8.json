@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او اوس څه ته هیلې پاتې یم؟ ادونای — زما هیلې ته پورې ده.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه ته"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "هیلې پاتې یم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "تוחלתי",
+      "gloss": "زما هیلې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته پورې"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:32:05.861450868Z",
+  "model": "glm-5.3"
+}

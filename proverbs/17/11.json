@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "بېشکه سرکښ بدې لټوي، او بېرحمه استازی به پرې ولېږل شي.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بېشکه"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "سرکښ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "لټوي"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدې"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "او استازی"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "بېرحمه"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "به ولېږل شي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:30.334126431Z",
+  "model": "glm-5.3"
+}

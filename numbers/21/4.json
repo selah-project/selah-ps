@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او هغوی د هور غره څخه د سور سمندر په لار روان شول، چې ⟨את⟩ د ادوم ځمکه وڅرخوي؛ او د قوم نفس په لار کې لنډ شو.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "روان شول"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "له غره"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سور"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "چې وڅرخوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ادوم ځمکه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "لنډ شو"
+    },
+    {
+      "surface": "نפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "هעם",
+      "gloss": "د قوم"
+    },
+    {
+      "surface": "בדرך",
+      "gloss": "په لار کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:44.350103118Z",
+  "model": "glm-5.3"
+}

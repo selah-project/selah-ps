@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "یاهوه هر کار د خپل موخې لپاره کړی دی، او حتی بدکار هم د بدۍ د ورځې لپاره.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "د خپل موخې لپاره"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او حتی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "د ورځې لپاره"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "د بدۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:37.909161383Z",
+  "model": "glm-5.3"
+}

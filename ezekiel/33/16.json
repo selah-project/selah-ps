@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 33:16",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "ټولې ګناهې چې يې کړې دي، نه ورته شی یادېدلای — حق او عدالت يې کړی دی، ژوند به پکې وکړي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ګناهې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "کړې دي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "شی یادېدلای"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "او عدالت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړی دی"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "به وکړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:10.402572121Z",
+  "model": "glm-5.3"
+}

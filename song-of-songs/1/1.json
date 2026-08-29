@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "سندرو سندره، چې د شلومو (سلیمان) ده.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "سندره"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "سندرو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "د شلومو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:15.629011898Z",
+  "model": "glm-5.3"
+}

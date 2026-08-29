@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 85,
+  "translation": "ایا به تل پر مو غضب کوې؟ ایا به ستا غوسه له نسله تر نسل راکښې؟",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "ایا به تل"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "غضب کوې"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "پر مو"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "راکښې"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ستا غوسه"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "له نسله"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "تر نسل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:48.058250457Z",
+  "model": "glm-5.3"
+}

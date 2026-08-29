@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د سړي لار اړه-واړه او بېګانه ده؛ خو د پاک عمل سمه ده.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "اړه-واړه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "او بېګانه"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "خو د پاک"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سمه"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "عمل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.001791898Z",
+  "model": "glm-5.3"
+}

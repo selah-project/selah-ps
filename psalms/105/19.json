@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "تر هغه وخت چې د هغه کلام رانغی، د یاهوه وینا هغه و ازمویه کړ.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "رانغی"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "د هغه کلام"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "وینا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "هغه و ازمویه کړ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:08.138381642Z",
+  "model": "glm-5.3"
+}

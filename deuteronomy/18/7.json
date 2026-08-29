@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 18:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او د خپل الوهیم یاهوه په نوم خدمت وکړي، لکه ټول د هغه وروڼه لاویان چې هلته د یاهوه مخې ته ولاړ وي.",
+  "tokens": [
+    {
+      "surface": "ושרת",
+      "gloss": "او خدمت وکړي"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "خپل الوهیم"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "لکه ټول"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "د هغه وروڼه"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "چې ولاړ وي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:14.788145169Z",
+  "model": "glm-5.3"
+}

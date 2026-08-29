@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او د هپود مېړlain جامه يې جوړه کړه — د اوبدلو کار، ټوله د آسماني رنګ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "جوړه کړه يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مېړlain جامه"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "مېړlain جامه"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "هپود د"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار د"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "اوبدلو"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "آسماني رنګ د"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:14.491749562Z",
+  "model": "glm-5.3"
+}

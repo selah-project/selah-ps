@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او ⟨את⟩ حوقوق او ⟨את⟩ د هغې څړدښتې، ⟨את⟩ رحوو او ⟨את⟩ د هغې څړدښتې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حوقوق"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "حوقوق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د هغې څړدښتې"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "د هغې څړدښتې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "رحوو"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "رحوو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د هغې څړدښتې"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "د هغې څړدښتې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:14.252711927Z",
+  "model": "glm-5.3"
+}

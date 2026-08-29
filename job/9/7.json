@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "چې لمر ته وايي او هغه نه راخېژي، او ستورو ته مهر لګوي.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "لمر ته"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "راخېژي"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "او د"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "ستورو"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "مهر لګوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:30.731879574Z",
+  "model": "glm-5.3"
+}

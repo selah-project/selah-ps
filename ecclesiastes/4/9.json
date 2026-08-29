@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "دوې د يو څخه غوره دي، ځکه چې دوی د خپلې مزدورۍ ښه اجر لري.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "غوره دي"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "دوې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له … څخه"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יש",
+      "gloss": "شته"
+    },
+    {
+      "surface": "להם",
+      "gloss": "دوی ته"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "د خپلې مزدورۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:41.411556114Z",
+  "model": "glm-5.3"
+}

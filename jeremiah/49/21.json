@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "د دوی د لوېدو له غږه ځمکه وړانده شوه؛ چیغه — په سوف سمندر کې د هغې غږ واورېد شو.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "له غږه"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "د دوی د لوېدو"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "وړانده شوه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "چیغه"
+    },
+    {
+      "surface": "בים",
+      "gloss": "په سمندر کې"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "واورېد شو"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "د هغې غږ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:35:13.902139869Z",
+  "model": "glm-5.3"
+}

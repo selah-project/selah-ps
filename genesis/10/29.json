@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ⟨את⟩ اوفیر او ⟨את⟩ خویلا او ⟨את⟩ یوباب؛ ټول دا د یقطان زامن وو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اوفیر"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "اوفیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خویلا"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "خویلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یوباب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوباب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یقطان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:05.243902019Z",
+  "model": "glm-5.3"
+}

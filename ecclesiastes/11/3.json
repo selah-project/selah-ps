@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "که ورېځې ډکې شي، باران پر ځمکه تويوي؛ او که ونه په سهيل کې ولوېږي او که په شمال کې — هلته چې ونه لوېږي، هلته ⟨هغه⟩ وي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ډکې شي"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ورېځې"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "تويوي"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "په سهيل کې"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "په شمال کې"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "چې لوېږي"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "وي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:31.515578213Z",
+  "model": "glm-5.3"
+}

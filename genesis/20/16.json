@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 20:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او سارې ته يې وویل: نن زما د ورور thousand زرو سکې درکړل؛ نن دا ستا د سترګو پوښ دی د ټولو هغو چې ⟨את⟩ راسره دي، او له ټولو سره — او تا پېژندل شوه.",
+  "tokens": [
+    {
+      "surface": "ולשרה",
+      "gloss": "او سارې ته"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "يې وویل"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "نن"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "درکړل"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زرو"
+    },
+    {
+      "surface": "کסף",
+      "gloss": "سکې"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ستا ورور ته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "نن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "لך",
+      "gloss": "ستا"
+    },
+    {
+      "surface": "کסות",
+      "gloss": "پوښ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "د سترګو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "אشر",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ راسره"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ונכחת",
+      "gloss": "او تا پېژندل شوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:02:54.208861310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨את⟩ غوښه او ⟨את⟩ پوستکې يې په اور کې د پوځ د لېږد څخه بهر وسوزولې.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "غوښه"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "پوستکې"
+    },
+    {
+      "surface": "העור",
+      "gloss": "پوستکې"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "وسوزولې"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور کې"
+    },
+    {
+      "surface": "مחוץ",
+      "gloss": "بهردې"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "د پوځ د لېږد څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:44.780889540Z",
+  "model": "glm-5.3"
+}

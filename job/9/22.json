@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "یوه خبره ده، نو ما وویل: ⟨هغه⟩ بې-ګناه او بدکار تباهوي.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدلته"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ما وویل"
+    },
+    {
+      "surface": "תם",
+      "gloss": "بې-ګناه"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "او بدکار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "تباهوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:08.062673094Z",
+  "model": "glm-5.3"
+}

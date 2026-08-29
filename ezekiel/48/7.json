@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او پر د برخې سرحد چې د روبن دی، له ختيځې خوا څخه بېرته تر لويديځې خوا پورې — يهودا ته يوه ⟨برخه⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "روبن"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له خوا څخه"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ختيځې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر ... پورې"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "خوا"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لويديځې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:52.229039807Z",
+  "model": "glm-5.3"
+}

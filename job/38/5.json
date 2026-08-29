@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "د چا د هغې اندازې ټاکلې، که ته پوهېږې؟ یا د چا پرې ليکه وکهښچه؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "د چا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ټاکلې"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "د هغې اندازې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ته پوهېږې"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "د چا"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "وکهښچه"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ليکه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:15.965044632Z",
+  "model": "glm-5.3"
+}

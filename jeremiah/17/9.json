@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "زيات درغلی دی زړی له ټولو څخه او بې-درملا دی هغه — څوک يې پېژندلی شي؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "درغلی"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "زړی"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو څخه"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "او بې-درملا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "يې پېژندلی شي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:33:27.619062544Z",
+  "model": "glm-5.3"
+}

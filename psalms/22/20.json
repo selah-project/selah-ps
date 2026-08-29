@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "خو ته، ای یاهوه، لرې مه اوسه؛ زما ځواکه! زما مرستې ته چټک شه.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "خو تا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "لرې مه اوسه"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "زما ځواکه"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "زما مرستې ته"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "چټک شه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:24.645069309Z",
+  "model": "glm-5.3"
+}

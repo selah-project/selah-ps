@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ⟨את⟩ کفورې به د تابوټ پر سر کېنې، او تابوټ ته به ⟨את⟩ هغه ګواهي ورکوې چې زه به تا ته وروبښم.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "به کېنې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفورې"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفورې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "تابوټ"
+    },
+    {
+      "surface": "مלמעלה",
+      "gloss": "د سر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او…ته"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "تابوټ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "به ورکوې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ګواهي"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ګواهي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "زه به وروبښم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:29.114492522Z",
+  "model": "glm-5.3"
+}

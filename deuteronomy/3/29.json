@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "نو موږ د بیت-پعور په مقابل کې په دره کې مېشت شوو.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "مېشت شوو"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "په دره کې"
+    },
+    {
+      "surface": "مול",
+      "gloss": "په مقابل کې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "پعور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:07.821673105Z",
+  "model": "glm-5.3"
+}

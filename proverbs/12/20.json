@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "درغلۍ د بدۍ د پلټونکو په زړه کې ده، خو د سولې مشوره ورکوونکو ته خوښي ده.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "درغلۍ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "د پلټونکو"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "خو ... مشوره ورکوونکو ته"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "د سولې"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوښي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:03.481135492Z",
+  "model": "glm-5.3"
+}

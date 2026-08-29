@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 38:31",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "ایې کولای شې د كیمه تارونه وتړې، یا د كسیل تارونه خلاص کړې؟",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "ایې وتړې"
+    },
+    {
+      "surface": "מעדנות",
+      "gloss": "تارونه"
+    },
+    {
+      "surface": "כימה",
+      "gloss": "كیمه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "משכות",
+      "gloss": "تارونه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "كسیل"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "خلاص کړې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:23.358007031Z",
+  "model": "glm-5.3"
+}

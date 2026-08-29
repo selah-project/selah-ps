@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "مې مینه لروله چې یاهوه زما غږ، زما لینډې اecomې واورېدې",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "مې مینه لروله"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "واورېدې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما غږ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "زما لینډې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:10.118893180Z",
+  "model": "glm-5.3"
+}

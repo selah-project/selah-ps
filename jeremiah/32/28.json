@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 32:28",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "له دې امله داسې وايي یاهوه: اِن didSelectLo، زه ⟨את⟩ دا ښار د کَشديانو او د بابل د پاچا نبوکدراصّر په لاس ورکوم، او هغه به يې ونیسي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "له دې امله"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "اِن didSelectLo، زه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ښار"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "کَشديانو"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "او په لاس"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "نبوکدراصّر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "او هغه به يې ونیسي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:41:19.670574901Z",
+  "model": "glm-5.3"
+}

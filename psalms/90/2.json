@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 90,
+  "translation": "له دمخه چې غرونه وزېږول شي، او ته ځمکه او نړۍ وزېږولې، له عولامه تر عولامه، ته ایل يې.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "له دمخه"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "وزېږول شي"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "او وزېږولې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "او نړۍ"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "له عولامه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "عولام"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:47.507218636Z",
+  "model": "glm-5.3"
+}

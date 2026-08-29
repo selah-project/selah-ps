@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "یاهوه د شریرانو چوغی مات کړه، د واکمنانو عصا.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "مات کړه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "چوغی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شریرانو"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "د واکمنانو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:29:38.704957974Z",
+  "model": "glm-5.3"
+}

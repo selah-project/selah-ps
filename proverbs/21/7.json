@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د شریرانو تاوتريخوې دوی ځان ته راکاږي، ځکه دوی انصاف کولو ته پرېنښول.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "تاوتريخوې"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شریرانو"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "دوی راکاږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "دوی پرېنښول"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کولو ته"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.001629961Z",
+  "model": "glm-5.3"
+}

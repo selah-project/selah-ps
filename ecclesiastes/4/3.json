@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او له دواړو غوره دی هغه ⟨את⟩ چې تر اوسه نه دی پېښ شوی، چې نه دی لیدلی ⟨את⟩ هغه بد کار چې شوی لاندې ⟨the⟩ لمر.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "او غوره دی"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "له دواړو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه چې تر اوسه نه دی پېښ شوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "تر اوسه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "دی پېښ شوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دی لیدلی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه بد کار"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "شوی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:52.525283578Z",
+  "model": "glm-5.3"
+}

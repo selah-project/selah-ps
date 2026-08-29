@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "زخم او شرم به پرې راکښل شي، او د هغه توهین به هېڅکله نه پاکېږي.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "او شرم"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "به پرې راکښل شي"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "او د هغه توهین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "پاکېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:14.889150122Z",
+  "model": "glm-5.3"
+}

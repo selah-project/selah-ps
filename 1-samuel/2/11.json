@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او القنه رامه ته، خپل کور ته ولاړ، او هلک د ادونای د خدمت کار کاوه ⟨את⟩، د عيلي کاهن په وړاندې.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "القنه"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "رامه ته"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "خپل کور"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "او هلک"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "د خدمت کار کاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د عيلي مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عيلي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:31:03.679808376Z",
+  "model": "glm-5.3"
+}

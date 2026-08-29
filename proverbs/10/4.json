@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د سپکلاسه لاس کار کوونکی وزګار کېږي، خو د زیارکښو لاس شتمنوي.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "وزګار کېږي"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار کوونکی"
+    },
+    {
+      "surface": "כף",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سپکلاسه"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "خو لاس"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "د زیارکښو"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "شتمنوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:10.839945845Z",
+  "model": "glm-5.3"
+}

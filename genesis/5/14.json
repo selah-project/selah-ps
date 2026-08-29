@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "نو ټول د کینان ورځې نوه سوه او لس کاله شوې، او هغه ومړ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "نو شوې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د … ورځې"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "کینان"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "او نوه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او هغه ومړ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:55.456921882Z",
+  "model": "glm-5.3"
+}

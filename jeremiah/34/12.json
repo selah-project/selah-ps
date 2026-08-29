@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د یاهوه خبره له ⟨את⟩ یاهوه له خوا یرمیاهو ته ورسېده، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ورسېده"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "له ⟨את⟩ له خوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:17.432444872Z",
+  "model": "glm-5.3"
+}

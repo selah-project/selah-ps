@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 14:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ساده-لوڼو احمقي میراث کړې، او هوښیاران د پوهې تاج اغوندي.",
+  "tokens": [
+    {
+      "surface": "נחלו",
+      "gloss": "میراث کړې"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ساده-لوڼي"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "احمقي"
+    },
+    {
+      "surface": "וערומים",
+      "gloss": "او هوښیاران"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "تاج اغوندي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:42.607365215Z",
+  "model": "glm-5.3"
+}

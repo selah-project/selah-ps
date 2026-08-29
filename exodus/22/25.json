@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "که د خپل ملګري جامې په ګرو ونیوې، د لمر د لوېدو په وخت کې يې هغه ته بېرته ورکړه.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "په ګرو"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "وانیوې"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "د خپل ملګري"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "בא",
+      "gloss": "د لوېدو"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "بېرته ورکړه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:06.757942353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د عیسو زامن: اِلیفاز، رِعوایل، او یِعوش، او یَعلام، او قورح.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رِعوایل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "او یِعوش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "او یَعلام"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "او قورح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:01.311427906Z",
+  "model": "glm-5.3"
+}

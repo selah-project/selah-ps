@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او پاچا وویل یواب ته: “ګوره چې اوس، زما دا خبره وکړه؛ نو ځړه، ځوان اوشلوم بېرته راولې.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یواب"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "وکړه مې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خبره"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "نو ځړه"
+    },
+    {
+      "surface": "השב",
+      "gloss": "بېرته راوله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځوان"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ځوان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوشلوم"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اوشلوم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:46:19.209086398Z",
+  "model": "glm-5.3"
+}

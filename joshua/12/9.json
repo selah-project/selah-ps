@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د یریحو پاچا یو؛ د هاعي ⟨⟨the⟩⟩ پاچا، چې د بیت-ایل ⟨⟨the⟩⟩ څنډې ته دی، یو؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "העי",
+      "gloss": "هاعي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "څنډې ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:07.531475266Z",
+  "model": "glm-5.3"
+}

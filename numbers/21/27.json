@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 21:27",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "همدا لپاره متل-ویونکي وايي: “راشئ حشبون، جوړه شي او ټینګه شي د سیحون ښار.”",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدا"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ویايي"
+    },
+    {
+      "surface": "המשלים",
+      "gloss": "متل-ویونکي"
+    },
+    {
+      "surface": "באו",
+      "gloss": "راشئ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "جوړه شي"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "او ټینګه شي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "د سیحون"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:15.328034227Z",
+  "model": "glm-5.3"
+}

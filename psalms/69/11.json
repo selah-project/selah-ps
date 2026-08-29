@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "او ژړلم په روژه کې زما نفس، او دا زما لپاره سپکاوي وګرځېده.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "او ژړلم"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "په روژه کې"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "او ګرځېده"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "سپکاوي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:40.398821665Z",
+  "model": "glm-5.3"
+}

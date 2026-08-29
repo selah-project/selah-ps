@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "او پاچا به ستا ښکلا ته مينه وکړي، ځکه هغه ستا مالک دی؛ نو سجده ورته وکړه.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "به مينه وکړي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ستا ښکلا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ستا مالک"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "او سجده وکړه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:02.483759115Z",
+  "model": "glm-5.3"
+}

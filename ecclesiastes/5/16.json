@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "همدارنګه ټول ورځې يې په تیاره کې خوړل کوي، او ډېر غوسه او د ناروغۍ او قهر سره.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همدارنګه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ورځې يې"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "په تیاره کې"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوړل کوي"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "او غوسه"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "او د ناروغۍ"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "او قهر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:14.412056101Z",
+  "model": "glm-5.3"
+}

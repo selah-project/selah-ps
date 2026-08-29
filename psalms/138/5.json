@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 138,
+  "translation": "او د یاهوه په لارو کې به سندرې وايي، ځکه چې د یاهوه جلال لوی دی.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "او سندرې وايي"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "په لارو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:39.280861868Z",
+  "model": "glm-5.3"
+}

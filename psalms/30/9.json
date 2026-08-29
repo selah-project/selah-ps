@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ستا ته، اې یاهوه، زاړم، او ادونای ته لاس له لمنې گورم چې رحم وکړي.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ستا ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "زاړم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او …… ته"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "لاس له لمنې گورم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:09.764962422Z",
+  "model": "glm-5.3"
+}

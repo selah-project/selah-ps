@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "بې‌عیبه به له یاهوه، له خپل الوهیم سره وې.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "بې‌عیبه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "خپل الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:28.747055062Z",
+  "model": "glm-5.3"
+}

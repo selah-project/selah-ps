@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د یاهوه وېره ورځې زياتوي، خو د ناوړو کالونه لنډېږي.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "زياتوي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "خو ... کالونه"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د ناوړو"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "لنډېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:42.507227529Z",
+  "model": "glm-5.3"
+}

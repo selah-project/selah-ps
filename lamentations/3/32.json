@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه که يې غم هم ورساوه، خو بيا يې رحم کوي، د خپل خېسېد د فراوت سره سم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "غم ورساوه"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "خو بيا يې رحم کوي"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "د فراوت سره سم"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خپل خېسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:56.474934930Z",
+  "model": "glm-5.3"
+}

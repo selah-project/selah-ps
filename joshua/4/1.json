@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او کله چې ټول قوم د یاردن ⟨את⟩ د تېرېدو کار بشپړ کړ، نو یاهوه یهوشوع ته وویل، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او کله چې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "بشپړ کړ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "د تېرېدو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یاردن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:40.994503283Z",
+  "model": "glm-5.3"
+}

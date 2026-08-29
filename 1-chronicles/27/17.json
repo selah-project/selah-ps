@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د لاویانو پر قبیلې حشبیا د کموئیل زوی؛ د اهرون پر کورنۍ صادوق.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "د لاویانو پر قبیلې"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حشبیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "د … زوی"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کموئیل"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "د اهرون پر کورنۍ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:18.686926870Z",
+  "model": "glm-5.3"
+}

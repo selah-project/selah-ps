@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "هر هغه څه چې د ژوندې روح ساه په پوزو کې وه، له هغه ټوله چې په وچه کې وه، مړه شول.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه…چې"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ساه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوندې"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "په پوزو کې"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټوله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه…چې"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "په وچه کې"
+    },
+    {
+      "surface": "مתו",
+      "gloss": "مړه شول"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:28.527417826Z",
+  "model": "glm-5.3"
+}

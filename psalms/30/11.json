@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "واوره، اې یاهوه، او رحم راباندې وکړه؛ یاهوه، زما مرستندوی اوسه.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "او رحم راباندې وکړه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "اوسه"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "مرستندوی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:55.069192204Z",
+  "model": "glm-5.3"
+}

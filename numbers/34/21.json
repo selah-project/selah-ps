@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "د بنيامين د قبیلې لپاره: ايليداد د کېسلون زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامين"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ايليداد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "کېسلون"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:19.489265882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "اوبه به توی کړي، تکړه غږ به وکړي، ټول شرارت کوونکي به تور وځانوي.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "اوبه به توی کړي"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "غږ به وکړي"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "تکړه"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "تور به وځانوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کوونکي"
+    },
+    {
+      "surface": "און",
+      "gloss": "شرارت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:31.243650809Z",
+  "model": "glm-5.3"
+}

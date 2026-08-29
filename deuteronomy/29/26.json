@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "نو د یاهوه غوسه پر هغې ځمکې وبلله شوه تر څو پرې ⟨את⟩ ټول هغه لعنت راولي چې په دې کتاب کې لیکل شوی دی.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "وبلله شوه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غوسه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "پر ځمکه"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغې"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "تر څو راولي"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه لعنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "لیکل شوی"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "په کتاب کې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:54.233111487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او تر دې چې هغوی شيده شي، هغه يې خوا ته پر بام وخېژه.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "او هغوی"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "تر دې چې \/ لا نه"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "شيده شي"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "وخېژه"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "يې خوا ته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "بام"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:28.510867012Z",
+  "model": "glm-5.3"
+}

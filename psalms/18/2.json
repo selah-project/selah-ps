@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او هغه وويل: زه دې مینه کوم، ای زما د پناه ځواکمنه ستنه یاهوه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وويل"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "زه دې مینه کوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "زما پناه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:27:08.996680310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د بَنای د زامنو څخه: مَعَدای، عَمرام، او اُوایِل —",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "د زامنو څخه"
+    },
+    {
+      "surface": "بני",
+      "gloss": "بَنای"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "مَعَدای"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عَمرام"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "او اُوایِل"
+    }
+  ],
+  "timestamp": "2026-08-29T01:39:49.642985430Z",
+  "model": "glm-5.3"
+}

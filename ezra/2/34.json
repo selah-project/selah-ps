@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د یریحو زامن، درې سوه پنځه او څلوېښت.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یریحو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "او پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:02.519564476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "له خپلې ځمکې واوړه لکه سیند، د تارشیش لوره — نور تسمه نشته.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "واوړه"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "له خپلې ځمکې"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "لکه سیند"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تارشیش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "تسمه"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:32.063739191Z",
+  "model": "glm-5.3"
+}

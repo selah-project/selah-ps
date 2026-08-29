@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "پوه غلام د شرمېدونکي زوی مشري کوي، او د وروڼو په منځ کې میراث وېشي.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "مشري کوي"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "پر زوی"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرمېدونکي"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "او په منځ کې"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "د وروڼو"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "وېشي"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "میراث"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:51.235459438Z",
+  "model": "glm-5.3"
+}

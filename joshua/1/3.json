@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "هر ځای چې د ستاسو د پښې تلونه پرې وځي، زما درکړی دی — لکه څنګه چې مې له موشې سره ویل.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تلونه"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "د ستاسو پښې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "زما درکړی دی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "مې ویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:26.069612683Z",
+  "model": "glm-5.3"
+}

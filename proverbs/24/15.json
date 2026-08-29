@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 24:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "بدکارې! د صالح په استوګنګاه کې کمین مه نیسه، د هغه د اړېدو ځای مه ورانه کوه",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "کمین مه نیسه"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکارې"
+    },
+    {
+      "surface": "לנוה",
+      "gloss": "په استوګنګاه کې"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صالح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשדד",
+      "gloss": "مه ورانه کوه"
+    },
+    {
+      "surface": "רבצו",
+      "gloss": "د هغه د اړېدو ځای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:15.787778008Z",
+  "model": "glm-5.3"
+}

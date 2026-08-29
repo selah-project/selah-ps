@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 23:29",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ایا زما وینا داسې نه ده لکه اور، د یاهوه اعلان، او لکه چکوش چې ډبره ماتوي؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "زما وینا"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "لکه اور"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וכפטיש",
+      "gloss": "او لکه چکوش"
+    },
+    {
+      "surface": "יפצץ",
+      "gloss": "ماتوي"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ډبره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:37:55.467907301Z",
+  "model": "glm-5.3"
+}

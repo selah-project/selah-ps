@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "حورای د ګَعَش د دروالیو څخه، اَبِیایل عَرَباتي.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "حورای"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "د دروالیو"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ګَعَش"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اَبِیایل"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "عَرَباتي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:26.265966681Z",
+  "model": "glm-5.3"
+}

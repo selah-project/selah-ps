@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او د داوېد نوم ټولو هېوادونو ته ووت، او یاهوه ⟨את⟩ د هغه وېره پر ټولو ملتونو وګذاره.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "هېوادونو ته"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "او یاهوه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "وګذاره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه وېره"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "د هغه وېره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:04.214811802Z",
+  "model": "glm-5.3"
+}

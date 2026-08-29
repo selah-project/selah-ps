@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او پاچا وويل: ته يې وپوښته، د کوم زوی دی دا ځوان!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "وپوښته"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "د کوم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ځوان"
+    }
+  ],
+  "timestamp": "2026-08-28T22:36:29.346680122Z",
+  "model": "glm-5.3"
+}

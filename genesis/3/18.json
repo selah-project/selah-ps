@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او دې ته به غوټې او خارونه وټوکوي، او ته به ⟨את⟩ د میدان بوټي وخوړې.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "او غوټې"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "او خارونه"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "به وټوکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "او ته به وخوړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د میدان بوټي"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "بوټي"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د میدان"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:00.092404756Z",
+  "model": "glm-5.3"
+}

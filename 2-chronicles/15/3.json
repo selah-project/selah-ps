@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او ډېر ورځې پر اسرایل وې: بې له ریښتیني الوهیم، او بې له ښوونکي کاهن، او بې له تورات.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "او ډېر ورځې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "پر اسرایل"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ریښتیني"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "او بې له"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ښوونکی"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "او بې له"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:15.460413686Z",
+  "model": "glm-5.3"
+}

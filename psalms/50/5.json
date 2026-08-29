@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "“زما خېسېدوانه راته راټول کړئ — هغه چا چې زما تړون پر قربانې پرې کړ.”",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "راټول کړئ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "زما خېسېدوانه"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "چې پرې کړی"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "زما تړون"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:54.911439790Z",
+  "model": "glm-5.3"
+}

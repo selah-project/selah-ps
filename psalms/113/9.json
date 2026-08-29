@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 113,
+  "translation": "مېشته کوونکی بې-زړې ⟨د⟩ کور، مور د زامنو خوښه — ستایئ یاه!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "مېشته کوونکی"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "بې-زړې"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مور"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوښه"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستایئ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:57.680999292Z",
+  "model": "glm-5.3"
+}

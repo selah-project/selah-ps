@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او شلمون ⟨את⟩ بوغز پیدا کړ، او بوغز ⟨את⟩ عوبېد پیدا کړ.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "او شلمون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوغز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوغز"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "او بوغز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوبېد"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوبېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:53.026155164Z",
+  "model": "glm-5.3"
+}

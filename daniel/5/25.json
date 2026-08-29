@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او دا ⟨هغه⟩ ليکل شوی ليک دی: مَنې، مَنې، تِقِل او پَرېسين.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ليک"
+    },
+    {
+      "surface": "די",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ليکل شوی"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مَنې"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مَنې"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "تِقِل"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "او پَرېسين"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:13.961571887Z",
+  "model": "glm-5.3"
+}

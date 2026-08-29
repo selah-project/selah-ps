@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د ګومر زامن: اشکناز او دیفَت او توګرمه.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او … زامن"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ګومر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اشکناز"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "او دیفَت"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "او توګرمه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:34.895638720Z",
+  "model": "glm-5.3"
+}

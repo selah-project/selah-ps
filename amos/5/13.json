@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "نو په هغه وخت کې هوښیار چاواته ږغ کوي، ځکه چې دا ⟨هغه⟩ بد وخت دی.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "په وخت کې"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ږغ کوي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا\/هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:15:00.732493027Z",
+  "model": "glm-5.3"
+}

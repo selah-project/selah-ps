@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 71,
+  "translation": "زما خوله به ستا رښتینولي بیانوي، ټوله ورځ ستا خلاصون، ځکه زه يې شمېرې نه پېژنم.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "زما خوله"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "بیانوي"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ستا رښتینولي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ستا خلاصون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "پېژنم"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "شمېرې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:19.137801931Z",
+  "model": "glm-5.3"
+}

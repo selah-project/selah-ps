@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "رشوت د ګرښت ډبره ده د هغه د خاوندانو په سترګو کې؛ هر چېرته چې وګرځي، بریالی کېږي.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ګرښت"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "د هغه د خاوندانو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "وګرځي"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "بریالی کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:57.211047669Z",
+  "model": "glm-5.3"
+}

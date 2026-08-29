@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ادونای، زما شونډې پرانیزه، او زما خوله ستا ستاینه بیانوي.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "زما شونډې"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "پرانیزه"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "او زما خوله"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "بیانوي"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ستا ستاینه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:18.984506012Z",
+  "model": "glm-5.3"
+}

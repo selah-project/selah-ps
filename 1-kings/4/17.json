@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "یهوشافاط د پارواح زوی، په یِساخر کې و.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافاط"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "پרוח",
+      "gloss": "پارواح"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "په یِساخر کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:52:20.480084789Z",
+  "model": "glm-5.3"
+}

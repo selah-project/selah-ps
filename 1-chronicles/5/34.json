@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او اخیټوب ⟨את⟩ څادوق وړې کړ، او څادوق ⟨את⟩ اخیماعص یې وړې کړ.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "او اخیټوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وړې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "څادوق"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "څادوق"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "او څادوق"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وړې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخیماعص"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "اخیماعص"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:18.281967076Z",
+  "model": "glm-5.3"
+}

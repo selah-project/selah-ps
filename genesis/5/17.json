@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "نو ټول د مهللیل ورځې پنځه او نوي کالونه او اته سوه کالونه شوې، او هغه مړ شو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "شوې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د … ورځې"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مهللیل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "او نوي"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالونه"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "او اته"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالونه"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:39.639177309Z",
+  "model": "glm-5.3"
+}

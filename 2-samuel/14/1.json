@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د تصرویاه زوی یواب پوه شو چې د ⟨پاچا⟩ زړه پر اوشالوم دی.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "پوه شو"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یواب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "تصرویاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اوشالوم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:46:03.282285149Z",
+  "model": "glm-5.3"
+}

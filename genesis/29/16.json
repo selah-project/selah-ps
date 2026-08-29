@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او لابان دوه لورګانې درلودې؛ د مشرې نوم لېاه وو او د کشرې نوم راحیل.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "او لابان"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لورګانې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "د مشرې"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لېاه"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "او... نوم"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "د کشرې"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:17.353070517Z",
+  "model": "glm-5.3"
+}

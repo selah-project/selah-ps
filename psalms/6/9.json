@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "له ما څخه وګرځئ، ټول د اوبه کار کوونکي، ځکه چې یاهوه د زما د ژړا غږ واورېد.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "وګرځئ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له ما څخه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کار کوونکي"
+    },
+    {
+      "surface": "און",
+      "gloss": "د اوبه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واورېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "د زما د ژړا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:40.481041979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "یاهوه! زما لمونځ واوره، او زما چیغه دې تا ته ورسېږي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "زما لمونځ"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "او زما چیغه"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ورسېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:58.483033454Z",
+  "model": "glm-5.3"
+}

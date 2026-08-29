@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "⟨את⟩ صندوق د ګواهۍ، او ⟨את>> د هغه لښتی، او ⟨את>> کفورټ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق د ګواهۍ"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "د ګواهۍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د هغه لښتی"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "د هغه لښتی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "کفورټ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفورټ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:13.816270493Z",
+  "model": "glm-5.3"
+}

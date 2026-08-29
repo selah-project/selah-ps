@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "دوی پکې ⟨دوی⟩ د هغه د نښو خبرې کېښودلې، او ګونګوزې د حام په ځمکه کې.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "کېښودلې"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "د هغه د نښو"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "او ګونګوزې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:43.154389341Z",
+  "model": "glm-5.3"
+}

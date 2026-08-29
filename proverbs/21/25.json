@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د سستېړ هیلې ⟨هغه⟩ وژني، ځکه چې د هغه لاسونه کار کولو ته نه درېږي.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "هیلې"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سستېړ"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "وژني یې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "نه مني"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "لاسونه یې"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کار کولو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.718858083Z",
+  "model": "glm-5.3"
+}

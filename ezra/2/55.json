@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "ezra 2:55",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د شلومو خادمانو زامن: د سوتای زامن، د هصوفرت زامن، د پرودا زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "خادمانو"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "סטי",
+      "gloss": "سوتای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "הספרת",
+      "gloss": "هصوفرت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "פרודא",
+      "gloss": "پرودا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:33.391239910Z",
+  "model": "glm-5.3"
+}

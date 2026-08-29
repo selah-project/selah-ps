@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او ویې ویل: نجونې به وغواړو او د هغې ⟨את⟩ خوله به وپوښتو.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "به وغواړو"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "نجونې"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "او به وپوښتو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغې خوله"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "د هغې خوله"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:14.128785273Z",
+  "model": "glm-5.3"
+}

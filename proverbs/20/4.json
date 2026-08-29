@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د ژمي له امله سستي نه قلم کوي؛ په رېبلو کې به غوښتنه وکړي، او هېڅ به نه وي.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "د ژمي له امله"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "سستي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "قلم کوي"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "غوښتنه به وکړي"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "په رېبلو کې"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او هېڅ به نه وي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:55.620077477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "دا د سعیر حوري، د ځمکې د اوسېدونکو، زامن دي: لوتان، او شوبل، او صبعون، او عنه.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "د سعیر"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوري"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "او شوبل"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "او صبعون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "او عنه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:11.717968618Z",
+  "model": "glm-5.3"
+}

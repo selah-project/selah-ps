@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 120,
+  "translation": "يواهوه، زما نفس له دروغجنو شونډو او له چلند ژبې وژغوره.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "وژغوره"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما نفس"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "له شونډو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغجنو"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "له ژبې"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "چلند"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:55.774228504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او یاهوه وویل: ما د ستا د خبر له مخې بخښنه کړې ده.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "ما بخښنه کړې ده"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "د ستا د خبر له مخې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:42.197579093Z",
+  "model": "glm-5.3"
+}

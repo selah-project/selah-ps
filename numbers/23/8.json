@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "څنګه لعنت وکړم هغه چې ایل نه دی لعنتی کړی؟ او څنګه سپکاوی وکړم هغه چې یاهوه نه دی سپکاوی کړی؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "لعنت وکړم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "لعنتی کړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څنګه"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "سپکاوی وکړم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "سپکاوی کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:19:49.937948183Z",
+  "model": "glm-5.3"
+}

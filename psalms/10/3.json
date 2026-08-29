@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "ځکه چې بدکار د خپلې نفسې خواهش فخر کوي، او ګټه‌پال برکت وايي، یاهوه يې سپکاوی کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "فخر کوي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "خواهش"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "خپلې نفسې"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "او ګټه‌پال"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت وايي"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "سپکاوی کوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:34.768419825Z",
+  "model": "glm-5.3"
+}

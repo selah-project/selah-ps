@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د زمزمې مشر ته؛ د داوېد زمزمه.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د زمزمې مشر ته"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "زمزمه"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:48.720549592Z",
+  "model": "glm-5.3"
+}

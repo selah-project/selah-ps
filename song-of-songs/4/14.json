@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 4:14",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "نارد او زعفران، قصار او دارچین، د ټولو لبانو ونو سره؛ مور او عود، د ټولو مخکښو عطرونو سره.",
+  "tokens": [
+    {
+      "surface": "נרד",
+      "gloss": "نارد"
+    },
+    {
+      "surface": "וכרכם",
+      "gloss": "او زعفران"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "قصار"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "او دارچین"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ونې"
+    },
+    {
+      "surface": "לבונה",
+      "gloss": "لبان"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مور"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "او عود"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مخکښ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "عطرونه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:16.269648218Z",
+  "model": "glm-5.3"
+}

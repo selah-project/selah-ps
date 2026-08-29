@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "جو ⟨عش⟩، ⟨کسيل⟩، ⟨کيمه⟩ او د سويل خونې جوړوي",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "עש",
+      "gloss": "⟨عش⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "⟨کسيل⟩"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "او ⟨کيمه⟩"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "او … خونې"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "د سويل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:41.940961592Z",
+  "model": "glm-5.3"
+}

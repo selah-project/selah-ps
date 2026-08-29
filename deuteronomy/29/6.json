@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 29:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او تاسو دې ځای ته راغلئ، نو سیحون، د حشبون پاچا، او عوګ، د باشان پاچا، زموږ پر وړاندې جګړې ته راووتل، او موږ هغوی مات کړل.",
+  "tokens": [
+    {
+      "surface": "ותבאו",
+      "gloss": "راغلئ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "راووتل"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سیحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حشبون"
+    },
+    {
+      "surface": "ועוג",
+      "gloss": "عوګ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "زموږ پر وړاندې"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جګړې ته"
+    },
+    {
+      "surface": "ונכם",
+      "gloss": "مات کړل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:33.139178156Z",
+  "model": "glm-5.3"
+}

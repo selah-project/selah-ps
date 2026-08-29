@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 118,
+  "translation": "نه مروم، بلکې ژوند به کوم، او د یاه کړنې به بیانوم.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "مروم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکې\/ځکه"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ژوند به کوم"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "او به یې بیانوم"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "کړنې"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:14.490083849Z",
+  "model": "glm-5.3"
+}

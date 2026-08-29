@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د اونام زامن شَمّای او یادَع وو؛ او د شَمّای زامن نَداب او اویشور وو.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "اونام"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شَمّای"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "او یادَع"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شَمّای"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "نَداب"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "او اویشور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:33.847899747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 110,
+  "translation": "د لارې پر سر به له ويي څښي؛ همدغه سبب به خپل سر لوړ کړي.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "له ويي"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "د لارې پر سر"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "به څښي"
+    },
+    {
+      "surface": "عל",
+      "gloss": "همدغه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "سبب"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "به لوړ کړي"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "خپل سر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:34.699625406Z",
+  "model": "glm-5.3"
+}

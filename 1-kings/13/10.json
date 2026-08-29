@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "نو ⟨هغه⟩ په بله لاره ولاړ، او بېرته نه شو په هغه لاره چې پرې بیت-ایل ته راغلی و.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لاره"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بله"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שב",
+      "gloss": "بېرته شو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لاره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغلی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:56:26.823205905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او یهویاداع یو تړون وکړ — د هغه ترمنځ او د ټول خلکو او د پاچا — چې دوی د یاهوه خلک وي.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "وکړ (پرې کړ)"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یهویاداع"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "د هغه ترمنځ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او … ترمنځ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او … ترمنځ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "چې وي"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه (لپاره)"
+    }
+  ],
+  "timestamp": "2026-08-29T02:06:30.765820661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 120,
+  "translation": "افسوس پر مادې، ځکه چې زه په مِشېک کې پردې اوسم، د قېدار په خیمو کې سره اوسم.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "افسوس"
+    },
+    {
+      "surface": "לי",
+      "gloss": "پر مادې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "پردې اوسم"
+    },
+    {
+      "surface": "משך",
+      "gloss": "په مِشېک کې"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "سره اوسم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "د"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "په خیمو کې"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "قېدار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:54.497473273Z",
+  "model": "glm-5.3"
+}

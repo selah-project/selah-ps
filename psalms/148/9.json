@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 148,
+  "translation": "غرونه او ټولې ټیټې غونډۍ، د مېوو ونه‌ګانې او ټول سروڼه،",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټولې"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ټیټې غونډۍ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه‌ګانې"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "د مېوو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "سروڼه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:13.465893171Z",
+  "model": "glm-5.3"
+}

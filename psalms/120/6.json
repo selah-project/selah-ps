@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 120,
+  "translation": "ډېره وخت شوی چې زما نَفَش له سولې سره کرکه کوونکي سره اوسېدلې.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ډېره وخت"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "اوسېدلې"
+    },
+    {
+      "surface": "לה",
+      "gloss": "زما"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "کرکه کوونکي"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "د سولې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:54.497710838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او شلومو ⟨את⟩ ټولې د هغې خبرې ورته بيان کړې، او له شلومو څخه هېڅ خبره پټه پاتې نه شوه چې هغه يې ورته ونه وايي.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "او بيان کړې يې"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې د هغې خبرې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "د هغې خبرې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "پټه شوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "له شلومو څخه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "وايي يې"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:32.835437661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هاران د خپل پلار تِراخ پر مخ کې مړ شو، د خپل زېږېدني په ځمکه کې، په اور کَشدیم کې.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "هاران"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "پני نہ راځي",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِراخ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د خپل پلار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "د خپل زېږېدني"
+    },
+    {
+      "surface": "באור",
+      "gloss": "په اور"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کَشدیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:56.364788575Z",
+  "model": "glm-5.3"
+}

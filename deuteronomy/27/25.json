@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "لعنت وې چې چا شخد (رشوت) واخېست ⟨د⟩ معصوم ویني د یوې نفس وهلو لپاره، او ټول قوم وویل: آمین.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "لعنت وې"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "واخېست"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "شخد (رشوت)"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "وهلو لپاره"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "معصوم"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:42.863292465Z",
+  "model": "glm-5.3"
+}

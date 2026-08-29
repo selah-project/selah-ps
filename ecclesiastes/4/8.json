@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 4:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "يو کسشته دی، دویم يې نشته؛ نه زوی لري نه ورور، خو د هغه د ټول زحمت ته پای نشته؛ سترګې يې د مال نه مړېږي. «زه د چا لپاره زحمت کوم او خپلې ⟨את⟩ نفس ته ښېګڼه نه ورکوم؟» دا هم باطل او يو بد کار دی.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "شته دی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو (کس)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نه (هم)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "وאח",
+      "gloss": "نه ورور"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه (لپاره)"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پای"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "زحمت ته"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "عיניו",
+      "gloss": "سترګې يې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "مړېږي"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "د مال"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "او د چا لپاره"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زحمت کوم"
+    },
+    {
+      "surface": "ומחסר",
+      "gloss": "او محروموم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نفس"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "خپلې نفس ته"
+    },
+    {
+      "surface": "מטובה",
+      "gloss": "له ښېګڼې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "زה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "וענין",
+      "gloss": "او کار"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:51.089572752Z",
+  "model": "glm-5.3"
+}

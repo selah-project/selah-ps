@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او دوی په ګلیل کې، د نفتلي په غره کې قدش، او د افرایم په غره کې شکیم، او کرېت-اربع — هغه حبرون — د یهودا په غره کېSpeech dedicat کړل (په نوم ونومول).",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": " dedicat کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قدش"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدش"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "په ګلیل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتلي"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکیم"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "کرېت"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "اربع"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:21:30.407282146Z",
+  "model": "glm-5.3"
+}

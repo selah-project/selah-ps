@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 27:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "ستا پولې د سندرو په زړه کې دي؛ ستا جوړوونکو ستا ښکلا بشپړه کړې.",
+  "tokens": [
+    {
+      "surface": "בלב",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "د سندرو"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "ستا پولې"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ستا جوړوونکو"
+    },
+    {
+      "surface": "כללו",
+      "gloss": "بشپړه کړې"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ستا ښکلا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:00:32.304739814Z",
+  "model": "glm-5.3"
+}

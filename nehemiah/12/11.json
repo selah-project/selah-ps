@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او یویاداع ⟨את⟩ یوناتان وزیږاوه، او یوناتان ⟨את⟩ یدوع وزیږاوه.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "او یویاداع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوناتان"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "او یوناتان"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یدوع"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "یدوع"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:31.418892016Z",
+  "model": "glm-5.3"
+}

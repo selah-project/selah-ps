@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د شريرانو بېلول د پوه پاچا کار دی، او بيا پرې د خرمن څرخ ګرځوي.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "بېلول\/کوشل کول"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شريرانو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "پوه"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "او بيا ګرځوي\/برګرږوي"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "د خرمن څرخ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:43.053641416Z",
+  "model": "glm-5.3"
+}

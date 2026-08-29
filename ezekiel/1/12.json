@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او هر یو د خپل مخ په لوري تلله — چېرې چې روح و غوښتل تللي، هلته به تلل؛ د دوی په تللو کې به يې نه ګرځېدل.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "او هر یو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په لوري"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "لوري"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "د خپل مخ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "تلله"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چېرې چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "د تللو"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "تلل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "ګرځېدل"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "په تللو کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:50:07.226529601Z",
+  "model": "glm-5.3"
+}

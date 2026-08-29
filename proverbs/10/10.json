@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "چې سترګه په شر سره وړی کاږي، غم راولي؛ او شونډې لرونکی نادان به راپرزېږي.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "چې وړی کاږي"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "راولي"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "غم"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "او نادان"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "شونډې لرونکی"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "به راپرزېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:32.514477505Z",
+  "model": "glm-5.3"
+}

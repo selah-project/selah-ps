@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "اِن didSelectLo، زه یاهوه یم، د ټولې غوښې الوهیم — آیا له ما څخه کومه خبره عجیبه ګرزي؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "اِن didSelectLo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولې"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښې"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "له ما څخه"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "عجیبه ګرزي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کومه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:41:19.670407203Z",
+  "model": "glm-5.3"
+}

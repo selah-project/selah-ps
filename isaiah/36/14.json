@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "داسې وايي پاچا: مه پرېږدئ چې حزقیاهو تاسو درغلي، ځکه هغه به نشي کولی ⟨את⟩ تاسو وژغوري.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "درغلي"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاهو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "نشي کولی"
+    },
+    {
+      "surface": "لהציל",
+      "gloss": "وژغوري"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تاسو",
+      "marks": "تاسو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:19:45.389159065Z",
+  "model": "glm-5.3"
+}

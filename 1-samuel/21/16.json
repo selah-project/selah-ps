@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "آ زه له ليونیو کمښت لرم، چې دا يې راوړی دی چې زما مخکې ليونی وسي؟ آ دا به زما کور ته راشي؟»",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "کمښت لرم"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "له ليونیو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "راوړی دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "لהשתגע",
+      "gloss": "ليونی وسي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما مخکې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "زما کور"
+    }
+  ],
+  "timestamp": "2026-08-28T22:38:31.218684771Z",
+  "model": "glm-5.3"
+}

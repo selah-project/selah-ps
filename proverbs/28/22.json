@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د مالدارۍ لپاره په اندېښنه کې دی د بدې سترګې سړی، او نه پوهېږي چې کمبښت پرې راځي.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "په اندېښنه\/بیړه کې دی"
+    },
+    {
+      "surface": "להון",
+      "gloss": "د مالدارۍ لپاره"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کمبښت"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "پرې راځي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:34.248253685Z",
+  "model": "glm-5.3"
+}

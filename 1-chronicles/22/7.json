@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 22:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او داوېد شلومو زوی ته وویل: زویه ما، زما په زړه کې دا وه چې د زما د الوهیم د یاهوه د نوم لپاره کور جوړ کړم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "لשלמה",
+      "gloss": "شلومو ته"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ما"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "לבבي",
+      "gloss": "زما په زړه کې"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "جوړ کړم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "د نوم لپاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما د الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:58.292706340Z",
+  "model": "glm-5.3"
+}

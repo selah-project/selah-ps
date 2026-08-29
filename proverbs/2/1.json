@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زوی می، که زما خبرې واخلې او زما حکمونه له ځان سره پټې کړې،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زوی می"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "واخلې"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "زما خبرې"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "او زما حکمونه"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "پټې کړې"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "له ځان سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:13.073863208Z",
+  "model": "glm-5.3"
+}

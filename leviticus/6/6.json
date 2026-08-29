@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "اور، دايمي، پر مذبه به بلېږي، نه به مړه شي.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "دايمي"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "به بلېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "مذبه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "به مړه شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:04.696539959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "غوره ده د يوه کار پای د پيل پر خلاف؛ غوره ده د روح اوږدوالی د روح له لوړتيانه.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "پای"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کار"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "د پيل پر خلاف"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اوږدوالی"
+    },
+    {
+      "surface": "روח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "له لوړتيانه"
+    },
+    {
+      "surface": "روח",
+      "gloss": "روح"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:03.959104449Z",
+  "model": "glm-5.3"
+}

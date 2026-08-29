@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "حېلېز پلتی، عیرا د عیکش زوی، تکوعی،",
+  "tokens": [
+    {
+      "surface": "חֶלֶץ",
+      "gloss": "حېلېز"
+    },
+    {
+      "surface": "הַפַּלְטִי",
+      "gloss": "پلتی"
+    },
+    {
+      "surface": "עִירָא",
+      "gloss": "عیرا"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עִקֵּשׁ",
+      "gloss": "عیکش"
+    },
+    {
+      "surface": "הַתְּקוֹעִי",
+      "gloss": "تکوعی"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:40.638806104Z",
+  "model": "glm-5.3"
+}

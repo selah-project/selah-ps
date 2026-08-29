@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 8:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ای کاش زما سر اوبه وایې او زما سترګې د اوښکو یوه چینه، چې به د ورځې او شپې د خپل قوم د لور ⟨את⟩ زخمونه ژاړم!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "چې...وایې"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "زما سر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "او زما سترګې"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چینه"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "د اوښکو"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "او ژاړم"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "او شپې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زخمونه"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "زخمونه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما قوم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:59.660032072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او شېشان ته زامن نه وو، خو لورګانې وې. او شېشان یو مِتسرایي غلام درلود، او د هغه نوم یَرْحاع و.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "شېشان ته"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لورګانې"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "او شېشان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "مِتسرایي"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "او د هغه نوم"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "یَرْحاع"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:18.973308767Z",
+  "model": "glm-5.3"
+}

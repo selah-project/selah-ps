@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "اپفرایم له بتانو سره تړلی دی؛ هغه دې پرېښودل شي.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "تړلی"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "له بتانو سره"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپفرایم"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "دې پرېښودل شي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:09:11.294363915Z",
+  "model": "glm-5.3"
+}

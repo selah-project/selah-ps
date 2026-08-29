@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "مه وایه چې څه وو چې لومړني ورځې له دې ښه وې؟ ځکه چې ته په دې اړوند له حکمته نه پوښتې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "وایه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "چې ... ورځې"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "لومړني"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وې"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "له دې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "له حکمته"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "پوښتې"
+    },
+    {
+      "surface": "על",
+      "gloss": "په ... اړوند"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:17.312482885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "نو یعقوب لوز ته ورسېد، چې د کنعان په ځمکه کې دی — هغه بیت-ایل دی — هغه او ټول قوم چې ورسره وو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ورسېد"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لوز ته"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه (دی)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه (دی)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:24.232025842Z",
+  "model": "glm-5.3"
+}

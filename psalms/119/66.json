@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "زه cowardly ټیکاو مه کړه",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "تمیز"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "او پوهه"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "زما روزنه وکړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "ستا په فرمانونو"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "زه باور وکړم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:51.692178146Z",
+  "model": "glm-5.3"
+}

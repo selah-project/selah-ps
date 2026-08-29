@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "پنځه لسوېښته بېغه له برېره پورته اوبو برلاسي وکړه، او غرونه پټ کړل.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "بېغه"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "له برېره پورته"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "برلاسي وکړه"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "پټ کړل"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "غرونه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:28.568523072Z",
+  "model": "glm-5.3"
+}

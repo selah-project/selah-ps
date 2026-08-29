@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "ماعون، کرمل، زیف او یوطه.",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "ماعون"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "کرمل"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "یوطه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:49.154916141Z",
+  "model": "glm-5.3"
+}

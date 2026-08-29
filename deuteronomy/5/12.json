@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د شبات ورځ ⟨את⟩ وساته چې يې پاک وساتې، لکه څنګه چې یاهوه ستا الوهیم تا ته امر کړی.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "وساته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د شبات ورځ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "د شبات"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "چې يې پاک وساتې"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "امر کړی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:36.293693039Z",
+  "model": "glm-5.3"
+}

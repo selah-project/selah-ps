@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "اووه کاله زوی ؤ یِهواش د پاچا کېدو ⟨پر⟩ مهال.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اووه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یِهواش"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "د پاچا کېدو مهال"
+    }
+  ],
+  "timestamp": "2026-08-28T23:05:49.285642604Z",
+  "model": "glm-5.3"
+}

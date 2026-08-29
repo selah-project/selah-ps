@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د زَرَحیا زوی، د عُزي زوی، د بُکي زوی،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زَرَحیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُکي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:37:55.924042050Z",
+  "model": "glm-5.3"
+}

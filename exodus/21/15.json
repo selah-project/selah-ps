@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او هغه چې خپل پلار يا خپله مور ووهي، مړينې به مړ شي.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "هغه چې ... ووهي"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "يا خپله مور"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړينې"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "به مړ شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:00.078307772Z",
+  "model": "glm-5.3"
+}

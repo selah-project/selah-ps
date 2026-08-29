@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د هوښیار حکمت دا دی چې خپله لار وپېژني، خو د احمقانو ناپوهۍ درغلي ده.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "د هوښیار"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "وپېژني"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "خپله لار"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "خو ناپوهۍ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "د احمقانو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "درغلي ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:46.043276247Z",
+  "model": "glm-5.3"
+}

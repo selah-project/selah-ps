@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "د شاهدانو لاس به پرې لومړی وي ⟨چې⟩ هغه مړ کړي، او د ټول قوم لاس وروسته؛ او ⟨دا⟩ به شر له ستا منځه لرې کړې.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "د شاهدانو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "لومړی"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "چې مړ يې کړي"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "او لاس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "او لرې به کړې"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "شر"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "له ستا منځه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:13.709062437Z",
+  "model": "glm-5.3"
+}

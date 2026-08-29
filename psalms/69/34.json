@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "ځکه چې یاهوه غریبو ته غوږ نیسي، او ⟨את⟩ د هغه بنديان نه سپکوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "غوږ نیسي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "غریبو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه بنديان"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "د هغه بنديان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "سپکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:46.665410806Z",
+  "model": "glm-5.3"
+}

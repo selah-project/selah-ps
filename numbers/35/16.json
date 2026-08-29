@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او که د اوسپنې په سامان یې ووهي او مړ شو، قاتل دی؛ قاتل به په مړینه ووژل شي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "په سامان"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "د اوسپنې"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "یې ووهي"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "מות",
+      "gloss": "په مړینه"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "به ووژل شي"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:52.837938201Z",
+  "model": "glm-5.3"
+}

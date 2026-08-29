@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 22:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او د ځمکې ټول ملتونه به په زراعت دې برکتمن کیږي، ځکه چې ته زما غږ ته غوږ نیولې دې.",
+  "tokens": [
+    {
+      "surface": "והתברכו",
+      "gloss": "به برکتمن کیږي"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "په زراعت دې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "עקب",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "غوږ نیولې"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "زما غږ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:03:29.358392922Z",
+  "model": "glm-5.3"
+}

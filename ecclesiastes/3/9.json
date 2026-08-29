@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "څه ګټه لري ⟨هغه⟩ چې کار کوي، په هغه څه کې چې هغه پکې زحمت کاوي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "چې کار کوي"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "په هغه څه کې چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زحمت کاوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:28.596397738Z",
+  "model": "glm-5.3"
+}

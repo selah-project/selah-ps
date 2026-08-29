@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او په حتصر-شوعال، او په بئر-شبع او د هغې په کليو کې،",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "او په حتصر"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "شوعال"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "او په بئر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شبع"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "او د هغې په کليو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:03.437250823Z",
+  "model": "glm-5.3"
+}

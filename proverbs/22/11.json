@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "چې د زړه پاکوالي سره مينه لري، د دوی د شونډو خوږې خبرې — د پاچا ملګری دی.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "چې مينه لري"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکوالي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خوږې خبرې (خوښي)"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "د دوی د شونډو"
+    },
+    {
+      "surface": "רעהو",
+      "gloss": "ملګری"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:17.315659584Z",
+  "model": "glm-5.3"
+}

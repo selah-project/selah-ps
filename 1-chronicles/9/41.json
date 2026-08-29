@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "د مِیکاه زامن: پیتون، مِلِخ او تاحرِعا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "د … زامن"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیکاه"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "پیتون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "مِلِخ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "تاحرِعا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:29.445315716Z",
+  "model": "glm-5.3"
+}

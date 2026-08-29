@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 2:3",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "پلټئ ⟨את⟩ یاهوه، ای د ځمکې ټول زغموالو، چې ⟨who⟩ د هغه حکم يې عملي کړی؛ پلټئ عدالت، پلټئ زغم، ښايي تاسو په د ياهوه د غضب په ورځ پټ کړای شئ.",
+  "tokens": [
+    {
+      "surface": "בקשו",
+      "gloss": "پلټئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "زغموال"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "د هغه حکم"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "عملي کړی"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "پلټئ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "پلټئ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "زغم"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ښايي"
+    },
+    {
+      "surface": "תסתרו",
+      "gloss": "پټ کړای شئ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په... ورځ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "د غضب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:48.776730512Z",
+  "model": "glm-5.3"
+}

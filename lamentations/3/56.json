@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "زما غږ مې واورېد؛ خپله غوږ مه پټوه د زما ساه، د زما چيغې پر وخت.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "واورېد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעלم",
+      "gloss": "پټوه"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "خپله غوږ"
+    },
+    {
+      "surface": "لרוחתי",
+      "gloss": "د زما ساه"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "د زما چيغې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:57.041796348Z",
+  "model": "glm-5.3"
+}

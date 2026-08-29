@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د هغوی شمېرل شوی، د منشه د قبیلې لپاره، دوه دېرش زره او دوه سوه وو.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "د هغوی شمېرل شوی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "منشه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "او دوه سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:45.403528363Z",
+  "model": "glm-5.3"
+}

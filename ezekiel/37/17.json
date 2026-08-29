@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "او ⟨את⟩ دوی به یو له بل سره نږدې کړې — ستا لپاره یوې ونې ته — او دوی به په ستا لاس کې یو شي.",
+  "tokens": [
+    {
+      "surface": "וקרב",
+      "gloss": "نږدې کړې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له بل سره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "بل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "یوې ونې ته"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "او دوی به شي"
+    },
+    {
+      "surface": "לאחדים",
+      "gloss": "یو"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "په ستا لاس کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:04:38.989521168Z",
+  "model": "glm-5.3"
+}

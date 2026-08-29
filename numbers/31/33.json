@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او غواوې دوه او اویه زره،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "او غواوې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "او اویه"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:28.140537665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "د شفتیا زامن، د خطیل زامن، د پوخرت-هصوییم زامن، د آمون زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شفتیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "خطیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "پوخرت"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "هصوییم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:48.169408892Z",
+  "model": "glm-5.3"
+}

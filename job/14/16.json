@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ځکه اوس زما ګامه شمېرې، خو زما ګناه به نه ګورې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "زما ګامه"
+    },
+    {
+      "surface": "תספור",
+      "gloss": "شمېرې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "به ګورې\/ساتې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "زما ګناه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:07:56.923294352Z",
+  "model": "glm-5.3"
+}

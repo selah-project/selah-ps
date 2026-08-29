@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "ستري دي اسمانونه، ستره ده ځمکه هم؛ نړی او ډکېدنه يې — ته د هغو بنسټ ایښی يې.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ستري دي"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستره ده"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "نړی"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "او ډکېدنه يې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "بنسټ ایښی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:43.293225158Z",
+  "model": "glm-5.3"
+}

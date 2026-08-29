@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "لس اَمّه د اوږدوالي په اندازه د ⟨the⟩ تخته وه، او یوه اَمّه او نیم ⟨امّه⟩ د ⟨the⟩ يوې تخټې پلنوالی.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "د اوږدوالي"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "او یوه اَمّه"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "او نیم"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "اَمّه"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "پلنوالی"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تخته"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "يوې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:29.433615406Z",
+  "model": "glm-5.3"
+}

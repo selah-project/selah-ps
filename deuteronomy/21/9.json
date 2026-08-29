@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "نو ته به ⟨את⟩ بې-ګناه وینه له خپل منځه وباسې، ځکه چې ته هغه څه کوې چې د یاهوه په سترګو نېغ دي.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "نو ته"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "وباسې"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "بې-ګناه"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "له خپل منځه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کوې"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "نېغ (هغه څه)"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:01.861129476Z",
+  "model": "glm-5.3"
+}

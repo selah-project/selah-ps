@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "هوښیار بدۍ ویني او پټېږي؛ ساده کسان تېرېږي او جزا ته اچول کېږي.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ویني"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "پټېږي"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ساده کسان"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "تېرېږي"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "جزا ته اچول کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:32.485907194Z",
+  "model": "glm-5.3"
+}

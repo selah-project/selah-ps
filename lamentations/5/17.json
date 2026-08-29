@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "پر دې زموږ زړه ناروغ شو، پر دې ⟨شي⟩ زموږ سترګې تورې شوې.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "شو"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ناروغ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "زموږ زړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دې ⟨شي⟩"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "تورې شوې"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "زموږ سترګې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:16.283479179Z",
+  "model": "glm-5.3"
+}

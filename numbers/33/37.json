@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 33:37",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د قادش څخه و خوځېدل، او د هور غره ته يې خېمې ودرول، د ادوم د ځمکې په څنډه کې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "و خوځېدل"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "د قادش څخه"
+    },
+    {
+      "surface": "ויחנو",
+      "gloss": "خېمې يې ودرول"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "په غره"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "د هور"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "په څنډه کې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:14.532579290Z",
+  "model": "glm-5.3"
+}

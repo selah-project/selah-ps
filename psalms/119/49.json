@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "د خپل بنده لپاره خبره یاده کړه، هغه چې په هغې دې ماته امېد راکړی.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "یاده کړه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "د خپل بنده لپاره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "ماته دې امېد راکړی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:01.798718236Z",
+  "model": "glm-5.3"
+}

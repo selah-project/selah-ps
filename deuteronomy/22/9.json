@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "خپل کرم دې په کِلایم (دوه ډوله تخم) مه کري، ګنې هغه ډوډۍ چې کرلی دې او د کرم حاصل ټول ⟨به⟩ مقدس شي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "کري"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "خپل کرم"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "په کِلایم (دوه ډوله)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ګنې"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "مقدس شي"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "هغه تخم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "کرلی دې"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "او حاصل"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "د کرم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:14.690322432Z",
+  "model": "glm-5.3"
+}

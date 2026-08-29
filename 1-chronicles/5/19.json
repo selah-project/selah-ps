@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او دوی د هګریانو، د یطور، نافیش او نوداب سره جګړه وکړه.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "او دوی وکړه"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جګړه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "د هګریانو"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "د یطور"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "او نافیش"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "او نوداب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:50.140166809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او د قهات د زامنو له کورنیو څخه د دوی د پولو ښارونه د افرایم له قبیلې وو.",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "او له کورنیو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وو"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "د دوی د پولو"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "له قبیلې"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:39.427372978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "خو اوس هغه مې ستوموه کړم؛ ته ټول زما ټولګی ویجاړ کړ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "خو"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "مې ستوموه کړم"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "ویجاړ کړ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "زما ټولګی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:46.276693350Z",
+  "model": "glm-5.3"
+}

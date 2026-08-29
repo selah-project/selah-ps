@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "خو په انسان کې روح ⟨دی⟩ او د شدای ساه دوی پوهوي.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "خو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دی"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "په انسان کې"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "او ساه"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "د شدای"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "دوی پوهوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:12:55.372503496Z",
+  "model": "glm-5.3"
+}

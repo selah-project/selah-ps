@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "نو د یسرایل پاچا يوه همايي ورو blasted وغوښت او ويې ويل: «ژر میکاهو زوی د یملا راولې.»",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "وغوښت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "همايي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ويې ویل"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ژر"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "میکاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "یملا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:50.778805629Z",
+  "model": "glm-5.3"
+}

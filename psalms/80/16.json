@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 80,
+  "translation": "او دا ټال چې ستا ښي لاس کېنولی، او دا زوی چې د ځان لپاره دې پیاوړی کړ.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "او دا ټال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "کېنولی"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ستا ښي لاس"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "پیاوړی کړی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "د ځان لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:31.534689619Z",
+  "model": "glm-5.3"
+}

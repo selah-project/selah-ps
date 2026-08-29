@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "هغه به بې له روزنې مړ شي، او د خپلې احمقۍ په ډېروالي به ورک شي.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "به مړ شي"
+    },
+    {
+      "surface": "באין",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "روزنې"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "او په ډېروالي"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "د خپلې احمقۍ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "به ورک شي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:59.713388228Z",
+  "model": "glm-5.3"
+}

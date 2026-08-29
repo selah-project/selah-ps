@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او پِنوایل د ګِدور پلار و، او عِزِر د حوشاه پلار و. دا د حور زامن دي، د افراته لومړی زوی، د بیت لحم پلار.",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "او پِنوایل"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ګِدور"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "او عِزِر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "حوشاه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "لومړی زوی"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "افراته"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لحم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:39.827065428Z",
+  "model": "glm-5.3"
+}

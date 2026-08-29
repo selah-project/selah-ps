@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "په یاهوه کې به ټول د یسرائیل نسل نیک وګرځي او ویاړ وکړي.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه کې"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "نیک به وګرځي"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "او ویاړ به وکړي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:32:07.740600044Z",
+  "model": "glm-5.3"
+}

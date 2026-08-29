@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د کاهنانو له ډلې: یِدَعیه، یِهویارِېب او یاکِین.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاهنانو"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یِدَعیه"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "یِهویارِېب"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "یاکِین"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:26.175012564Z",
+  "model": "glm-5.3"
+}

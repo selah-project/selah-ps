@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 95,
+  "translation": "نو ما په خپل غوسه کې لوړه وکړه چې دوی به زما ارامې ته نه ننوزي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "نو"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ما لوړه وکړه"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "په خپل غوسه کې"
+    },
+    {
+      "surface": "אם",
+      "gloss": "چې… نه"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ننوزي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "زما ارامې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:10.376114932Z",
+  "model": "glm-5.3"
+}

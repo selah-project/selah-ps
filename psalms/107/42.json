@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "نیکړي به یې ویني او څرګندېږي، او هره ظلم به خپله خوله بنده کړي.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "به ویني"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "نیکړي"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "او څرګندېږي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هره"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "بنده کړي"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "خپله خوله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:41.120122992Z",
+  "model": "glm-5.3"
+}

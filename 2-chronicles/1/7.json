@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "په هماغه شپه الوهیم شلومو ته ښکاره شو، او ورته يې وویل: «غوښتنه وکړه — څه درکړم؟»",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "په شپه"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هماغه"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ښکاره شو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شلومو ته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل يې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "غوښتنه وکړه"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "درکړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:28.208371704Z",
+  "model": "glm-5.3"
+}

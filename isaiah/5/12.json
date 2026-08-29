@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او کitar، تنبور، ډهول او شپېلی او شراب د دوی د مېلو کې وي؛ خو ⟨את⟩ د یاهوه کار نه گوري، او د هغه د لاسونو صنايع نه ویني.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او ... وي"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کitar"
+    },
+    {
+      "surface": "ונבل",
+      "gloss": "تنبور"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ډهول"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "او شپېلی"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "او شراب"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "د دوی د مېلو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه کار"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "گوري"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "او صنايع"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "د هغه د لاسونو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ویني"
+    }
+  ],
+  "timestamp": "2026-08-28T23:12:05.509698924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د نفتلي د زامنو د قبیلې د لښکر مشر اهیراع د عینان زوی وو.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتلي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اهیراع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عینان"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:38.730024372Z",
+  "model": "glm-5.3"
+}

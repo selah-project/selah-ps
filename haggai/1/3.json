@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د یاهوه ویی د لاس له لارې د حگي پیغمبر دا ویل:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او شو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ویی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "د لاس له لارې"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "حگي"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "پیغمبر"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دا ویل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:27.162242510Z",
+  "model": "glm-5.3"
+}

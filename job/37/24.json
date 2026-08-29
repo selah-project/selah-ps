@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 37:24",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "نو ځکه خلک يې وېره کوي؛ د زړه ټولو هوښیارانو ته هغه پام نه کوي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو ځکه"
+    },
+    {
+      "surface": "יראוהו",
+      "gloss": "يې وېره کوي"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "پام کوي"
+    },
+    {
+      "surface": "کל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "هوښیارانو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:47.024448427Z",
+  "model": "glm-5.3"
+}

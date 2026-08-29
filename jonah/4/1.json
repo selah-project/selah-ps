@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یونس ته دا ډېره لویه بدي ورسېده، او ⟨هغه⟩ پر ⟨خپله⟩ خپله غوسه شو.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ورسېده-بده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونس"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدي"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "لویه"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "او-غوسه-شو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨خپله⟩"
+    }
+  ],
+  "timestamp": "2026-08-29T00:16:19.043295890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ⟨את⟩ اوفیر او ⟨את⟩ حویله او ⟨את⟩ یوباب؛ دا ټول د یقطان زامن وو.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "اوفیر"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "اوفیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حویله"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "حویله"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "یوباب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یوباب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یقطان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:31.242872005Z",
+  "model": "glm-5.3"
+}

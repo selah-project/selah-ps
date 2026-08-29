@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "بلکه ستا ګواهۍ زما خوښۍ دي، د زما د مشورې سړي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بلکه"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ستا ګواهۍ"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "زما خوښۍ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "زما د مشورې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:39.343734580Z",
+  "model": "glm-5.3"
+}

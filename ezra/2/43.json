@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "نتینیم (معبد خدمتګار): د صیحا زامن، د حصوفا زامن، د طبعوت زامن،",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "نتینیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "صیحا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "حصوفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "طبعوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:36.377210966Z",
+  "model": "glm-5.3"
+}

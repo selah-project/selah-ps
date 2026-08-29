@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "وګورئ! د شلومو تخت، شپېته اتلان چاپېر ⟨له⟩ هغه، د یسرایل له اتلانو.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګورئ!"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "د هغه تخت"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "د شلومو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شپېته"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "اتلان"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    },
+    {
+      "surface": "לה",
+      "gloss": "له هغه"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "له اتلانو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:39.127424978Z",
+  "model": "glm-5.3"
+}

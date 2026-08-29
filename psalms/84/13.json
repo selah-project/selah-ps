@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 84,
+  "translation": "یاهوه څواکه! خوښې ده هغه انسان چې ⟨پر⟩ تا باوري وي.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "څواکه"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوښې ده"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "باوري وي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "پر تا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:18.301082375Z",
+  "model": "glm-5.3"
+}

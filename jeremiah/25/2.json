@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "چې یرمیاهو نبي د یهودا ټول قوم ته او د یروشلایم ټولو اوسېدونکو ته وویل:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یرمیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او … ته"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل:"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:35.527625533Z",
+  "model": "glm-5.3"
+}

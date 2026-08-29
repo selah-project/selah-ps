@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او که ⟨هغه⟩ لور نه لري، نو تاسو به ⟨את⟩ د هغه ميراث د هغه وروڼو ته ورکړی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه لري"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "نو تاسو به ورکړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه ميراث"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "د هغه ميراث"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "د هغه وروڼو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:07.005529516Z",
+  "model": "glm-5.3"
+}

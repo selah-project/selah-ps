@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او هغې ورته وويل: نه، زما وروره، ما مه رېبوه، ځکه داسې (کار) په اسراییل کې نه کېږي؛ دا نا‌ ako عمل مه کوه ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او هغې ... وويل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "زما وروره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ما مه رېبوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کېږي"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "په اسراییل کې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا ناکو عمل"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "ناکو عمل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:56.867661102Z",
+  "model": "glm-5.3"
+}

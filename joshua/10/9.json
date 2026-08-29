@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "نو یوشواع ناڅاپي پر هغوی راغی — ټول شپه يې له ګلګل څخه پورته روان وو.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یوشواع"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناڅاپي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پورته روان وو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له … څخه"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ګلګل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:00.184001906Z",
+  "model": "glm-5.3"
+}

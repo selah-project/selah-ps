@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ټول یوه ځای ته ځي؛ ټول له خاورو وو؛ او ټول بېرته خاورو ته ګرځي.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "یوه ځای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خاورو"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "שב",
+      "gloss": "بېرته ګرځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خاورو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:34.175413811Z",
+  "model": "glm-5.3"
+}

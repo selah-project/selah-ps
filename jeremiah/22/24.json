@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 22:24",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "زه ژوندی يم — د یاهوه وينا — که څه هم کُنیاهو، د یهویاقیم زوی، د یهودا پاچا، زما پر ښي لاس انګشتر وای، بيا به يې له هغه ځایه رابېلې.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ژوندی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "وينا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که څه هم"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وای"
+    },
+    {
+      "surface": "כניהו",
+      "gloss": "کُنیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "د یهویاقیم"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "انګشتر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ښي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بيا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "אתקנך",
+      "gloss": "رابېلې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:37:06.704549907Z",
+  "model": "glm-5.3"
+}

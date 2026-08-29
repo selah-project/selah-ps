@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د شېم زامن: عېلام، اشور، ارفکشاد، لود او ارام.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عېلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "او اشور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "او ارفکشاد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "او لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "او ارام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:00:13.719095358Z",
+  "model": "glm-5.3"
+}

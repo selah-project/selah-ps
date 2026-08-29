@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "دا مجسمه — د هغه سر د غوره طلا و، د هغه سینه او بازوویې سپين زر وو، د هغه نس او رانګانې مس وو.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "مجسمه"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "د هغه سر"
+    },
+    {
+      "surface": "די",
+      "gloss": "د"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "טב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "د هغه سینه"
+    },
+    {
+      "surface": "ודרעוהي",
+      "gloss": "او بازوویې"
+    },
+    {
+      "surface": "די",
+      "gloss": "د"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "سپين زر"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "د هغه نس"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "او رانګانې"
+    },
+    {
+      "surface": "די",
+      "gloss": "د"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "مس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:30:30.491132321Z",
+  "model": "glm-5.3"
+}

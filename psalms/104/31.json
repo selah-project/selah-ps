@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "د یاهوه جلال دې تر پایه وي؛ یاهوه دې په خپلو کړنو کې خوشحال شي.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تر پایه"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحال شي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "په خپلو کړنو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:35.804340507Z",
+  "model": "glm-5.3"
+}

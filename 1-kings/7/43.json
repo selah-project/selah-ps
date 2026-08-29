@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او ⟨את⟩ لسې بنسټونه، او ⟨את⟩ لس لړمونه پر بنسټونو؛",
+  "tokens": [
+    {
+      "surface": "وאת",
+      "gloss": "⟨את⟩ او ⟨אات⟩",
+      "marks": "بنسټونه"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنسټونه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ او ⟨אات⟩",
+      "marks": "لړمونه"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "لړمونه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "بنسټونو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:53:19.579710542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "لکه هغه چې په لیونتوب وړاندې کوي — د اور شرکې، غشې او مرګ.",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "لکه لیونی"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "ورغورځوي \/ وړاندې کوي"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "د اور شرکې"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "غشې"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "او مرګ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:05.975019074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "کتئ! ټولې ښځې… ټول نَفَسه زما دي؛ لکه د پلار نَفَس، همداسې د زوی نَفَس زما دی؛ هغه نَفَس چې ګناه کوي، هغه به مري.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "کتئ!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "نَفَسه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما دي"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دي"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "لکه نَفَس"
+    },
+    {
+      "surface": "האב",
+      "gloss": "د پلار"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "او لکه نَفَس"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "د زوی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما دی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دی"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نَفَس"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ګناه کوونکی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مري"
+    }
+  ],
+  "timestamp": "2026-08-28T23:55:52.094625149Z",
+  "model": "glm-5.3"
+}

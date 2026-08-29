@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او دا د عَناه زامن وو: دیشون او اهُولیبامه د عَناه لور.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَناه"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "او اهُولیبامه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَناه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:07.391577761Z",
+  "model": "glm-5.3"
+}

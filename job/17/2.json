@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 17:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "آیا له ما سره ټګمار نه دي؟ او زما سترګه پر دوی بښه کوي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "התלים",
+      "gloss": "ټګمار"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "له ما سره"
+    },
+    {
+      "surface": "ובהמרותם",
+      "gloss": "پر دوی بښه"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "زما سترګه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:46.432340675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 21:15",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د ذبح کولو لپاره تېره شوې، د دې لپاره چې ځلېدنه ولري صیقل شوې — یا چې شادي وکړو؟ — د زوی د زرې پر وړاندې، چې هره ونه ردوي.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "د … لپاره"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "ذبح کول"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "ذبح"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "تېره شوې"
+    },
+    {
+      "surface": "למען",
+      "gloss": "د … لپاره"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لره"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ځلېدنه"
+    },
+    {
+      "surface": "מרטה",
+      "gloss": "صیقل شوې"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "נשיש",
+      "gloss": "شادي وکړو"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "زره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "ردوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هره"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:57:04.045512309Z",
+  "model": "glm-5.3"
+}

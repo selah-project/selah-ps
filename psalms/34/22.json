@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "بدۍ به شریر وژني، او د صالح دښمنان به مجرم وګرځي.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "به وژني"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "او دښمنان"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صالح"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "به مجرم وګرځي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:04.922618789Z",
+  "model": "glm-5.3"
+}

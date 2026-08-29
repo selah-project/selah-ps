@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 75,
+  "translation": "مه پورته کوئ ستاسو ښکر لوړو ته، او مه خبرې کوئ په غاړه ⟨د⟩ بېحیايي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "پورته کوئ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "لوړو ته"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ستاسو ښکر"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "خبرې کوئ"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "په غاړه"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "بېحیايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:43.198583655Z",
+  "model": "glm-5.3"
+}

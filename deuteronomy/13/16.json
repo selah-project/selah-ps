@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "هرومرو ووژنې ⟨את⟩ د هغه ښار اوسېدونکي د تورې په خول؛ حرام يې کړه ⟨את⟩ هغه او ⟨את⟩ هر څه چې په کې دي، او ⟨את⟩ څاروي يې د تورې په خول.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "هرومرو"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "ووژنې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه ښار اوسېدونکي"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکي"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "په خول"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تورې"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "حرام يې کړه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "هر څه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "څاروي"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "څاروي"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "په خول"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تورې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:33.046324564Z",
+  "model": "glm-5.3"
+}

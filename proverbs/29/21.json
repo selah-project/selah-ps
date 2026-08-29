@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "چا چې خپل غلام له ماشومتوبه نازوي، د هغه پای به دا وي چې ښاغلی به ترې جوړ شي.",
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "نازوي"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "له ماشومتوبه"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خپل غلام"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "او د هغه پای"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "ښاغلی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:48.021583412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ځکه چې په هغه ځای کې چې هغه يې تبعید کړ ⟨את⟩، همالته به مري، او ⟨את⟩ دا ځمکه به بيا ونه ویني.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "په هغه ځای کې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "هغه يې تبعید کړ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "همالته"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "به مري"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دا ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "دا ځمکه"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "به وويني"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بيا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:37:08.208185096Z",
+  "model": "glm-5.3"
+}

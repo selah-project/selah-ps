@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "عَیین رِمون، او عِتېر، او عَشان — څلور ښارونه او د هغو کلي.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "عَیین"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رِمون"
+    },
+    {
+      "surface": "وעתר",
+      "gloss": "او عِتېر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "او عَشان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ښارونه"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "او د هغو کلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:30.279336497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "«اهرون او د هغه زوی اېلعزار واخله او دوی هور غره ته پورته کړه»،",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "واخله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اهرون"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "اېلعزار"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اېلعزار"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "او پورته کړه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:44.901359782Z",
+  "model": "glm-5.3"
+}

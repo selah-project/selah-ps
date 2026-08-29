@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او که تاسو خپل همزولي ته څه وپلورئ یا د خپل همزولي له لاسه واخلئ، مه یې ظلموئ چې سړی ⟨את⟩ خپل ورور.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "وپلورئ"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "پلورل"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "ستاسو همزولي ته"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "واخلئ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاسه"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ستاسو همزولي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ظلموئ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل ورور"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "خپل ورور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:57.226396040Z",
+  "model": "glm-5.3"
+}

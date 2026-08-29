@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د کالِب بن یفونه زامن: عیرو، ایله او نعام؛ او د ایله زامن: قناز.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یفونه"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "عیرو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایله"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "نعام"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایله"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "قناز"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:24.093848892Z",
+  "model": "glm-5.3"
+}

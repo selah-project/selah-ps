@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او دا د نوح د زامنو نسلونه دي — شېم، حام او یافت — او د طوفان وروسته يې زامن ورته وزېږېدل.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلونه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "او یافت"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "وزېږېدل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "طوفان"
+    }
+  ],
+  "timestamp": "2026-08-28T20:59:38.224112350Z",
+  "model": "glm-5.3"
+}

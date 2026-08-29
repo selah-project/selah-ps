@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او دا به وشي: لکه څنګه چې مې د هغوی د کولو نيت کړی و، همدا به تاسو ته وکړم.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او دا به وشي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "مې نيت کړی و"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "د کولو"
+    },
+    {
+      "surface": "להם",
+      "gloss": "د هغوی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "به وکړم"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تاسو ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:50.864100966Z",
+  "model": "glm-5.3"
+}

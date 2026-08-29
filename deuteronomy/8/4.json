@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ستا جامې دې نه وې زړې شوي له دې چې پر تا يې واغوستې وای، او ستا پښه نه وه پړسوبلې — دا څلوېښت کاله.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ستا جامې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "زړې شوي وې"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "له دې چې پر تا"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "او ستا پښه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "پړسوبلې وه"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "څلوېښت"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:25.883144611Z",
+  "model": "glm-5.3"
+}

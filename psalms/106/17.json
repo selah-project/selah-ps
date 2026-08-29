@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "زمکه وخلاسته او داتن يې ولوېدا، او پر د ابیرام په ټولنه يې پټ کړ.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "وخلاسته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمکه"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "او ولوېدا يې"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتن"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "او پټ يې کړ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "په ټولنه"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "ابیرام"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:31.443320618Z",
+  "model": "glm-5.3"
+}

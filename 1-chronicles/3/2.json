@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "درېیم اَبشالوم، د مَعکه زوی، د ګَشور پاچا تَلمای لور؛ څلورم اَدونیا، د حَګیت زوی.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "درېیم"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "اَبشالوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعکه"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "تَلمای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ګَشور"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "څلورم"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "اَدونیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "حَګیت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:03.141758942Z",
+  "model": "glm-5.3"
+}

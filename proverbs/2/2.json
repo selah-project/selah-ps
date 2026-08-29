@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "چې خپل غوږ ⟨د⟩ حکمت ته مائل کړې، خپل زړه ⟨د⟩ پوهېې ته弯 کړې،",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "چې مائل کړې"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "⟨د⟩ حکمت ته"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "خپل غوږ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "弯 کړې"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "خپل زړه"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "⟨د⟩ پوهې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:13.074043591Z",
+  "model": "glm-5.3"
+}

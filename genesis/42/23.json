@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او هغوی نه پوهېدل چې یوسف ⟨يې⟩ اوري، ځکه چې ژباړن ⟨و⟩ د دوی ترمنځ و.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "او هغوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پوهېدل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ژباړن"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "د دوی ترمنځ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:48.875316873Z",
+  "model": "glm-5.3"
+}

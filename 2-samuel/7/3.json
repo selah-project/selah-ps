@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او ناتن پاچا ته وویل: هر څه چې ستا په زړه کې دي، لاړ شه او يې کړه، ځکه چې یاهوه ستا سره دی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ستا په زړه کې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لاړ شه"
+    },
+    {
+      "surface": "عשה",
+      "gloss": "يې کړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:44:17.412273184Z",
+  "model": "glm-5.3"
+}

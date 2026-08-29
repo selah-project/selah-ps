@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "عِزېر ⟨the⟩ مشر، عُوبَدْیا دویم، اِلِیاب درېیم.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "عِزېر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عُوبَدْیا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلِیاب"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "درېیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:14.101046527Z",
+  "model": "glm-5.3"
+}

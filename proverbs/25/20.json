@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "لنډې د یخې په ورځ داسې دي لکه سره پر سوډا اچول، او د هغه چا په څېر چې پر خوږ زړه سندرې وايي — د هغه زړه به ورانوي.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "لنډې"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "د جامې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "د یخې"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "سره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "سوډا"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "او سندرې وايي"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "سندرې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "רע",
+      "gloss": "خوږ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:31.454400198Z",
+  "model": "glm-5.3"
+}

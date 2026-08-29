@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "په همدې ورځ دې وخوړل شي؛ تر سهاره يې هیڅ پرېږدئ نه — زه یاهم یاهوه يم.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په ... ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "دې وخوړل شي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "پرېږدئ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه څخه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سهاره"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:51.933176281Z",
+  "model": "glm-5.3"
+}

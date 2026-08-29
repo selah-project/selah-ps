@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د هغې د ماښامني يې ستوري تور شي؛ د رڼا تمه وکړي خو ⟨هېڅ⟩ وي، او د سهار د پړوونو لوري و نه ويني.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "تور شي"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ستوري"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "د هغې د ماښامني"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "יקו",
+      "gloss": "تمه وکړي"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "לאור",
+      "gloss": "د رڼا"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو هېڅ وي"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "יראה",
+      "gloss": "و نه ويني"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "د پړوونو"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "שחר",
+      "gloss": "د سهار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:31.195923192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او له هغوی له یوې څخه یوه وړوکې ښکر ووتله، او ⟨یې⟩ ډېره لویه شوه — سوی ته، ختیځ ته او د ښکلي ځمکې ته.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "یوې څخه"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "له هغوی"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ووتله"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ښکر"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "وړوکې"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "او لویه شوه"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "سوی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "ختیځ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "ښکلي ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:33:31.834347380Z",
+  "model": "glm-5.3"
+}

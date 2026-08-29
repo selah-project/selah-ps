@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 7:3",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او څلور سړي وو چې جزامي شوي وو، د دروازې ⟨the⟩ خوله کې؛ او يو بل ته يې وویل: ولې دلته کښېنو تر دې چې مړه شو؟",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "מצרעים",
+      "gloss": "جزامي شوي"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "خوله کې"
+    },
+    {
+      "surface": "השער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "يو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "خپل ملګري"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "کښېنو"
+    },
+    {
+      "surface": "په",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מתנו",
+      "gloss": "مړه شو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:03:20.592654910Z",
+  "model": "glm-5.3"
+}

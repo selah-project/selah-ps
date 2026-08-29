@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 80,
+  "translation": "هغه خپلې ډنډرې تر بحره لېږلې، او خپلې لاړې تر لوی سیند پورې.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "لېږلې یې"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "خپلې ډنډرې\/ښاخونه"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او تر"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "لوی سیند"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "د هغې لاړې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:39:55.019388276Z",
+  "model": "glm-5.3"
+}

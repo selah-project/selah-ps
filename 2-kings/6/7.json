@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "هغه وویل: پورته یې کړه. نو هغه خپله لاس وغځاوه او واخیست یې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "پورته یې کړه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "وغځاوه"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "واخیست یې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:02:35.580571156Z",
+  "model": "glm-5.3"
+}

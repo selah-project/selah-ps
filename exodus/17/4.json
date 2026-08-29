@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "نو موشې یاهوه ته چیغه ووهله، ويې ويل: «د دا ولس سره څه وکړم؟ لا ډېر لږ پاتې دی چې زویې راتې کړم.»",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "چیغه يې ووهله"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ويې ويل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "وکړم"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "د ولس سره"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا"
+    },
+    {
+      "surface": "مעט",
+      "gloss": "ډېر لږ"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "زویې راتې کړم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:00.344775380Z",
+  "model": "glm-5.3"
+}

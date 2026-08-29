@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "امصیاهو ⟨زوی يې⟩، عزریه ⟨زوی يې⟩، یوتام ⟨زوی يې⟩.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "امصیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریه"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یوتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "زوی يې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:45.897473786Z",
+  "model": "glm-5.3"
+}

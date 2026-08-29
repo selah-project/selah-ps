@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او د سهار په مهال د یاهوه خبره راته راغله، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ... وشوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "د سهار په مهال"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:49.786532104Z",
+  "model": "glm-5.3"
+}

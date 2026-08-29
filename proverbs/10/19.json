@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "په ډېرو خبرو کې سرکشي نه درېږي، خو هغه چې خپلې شونډې نیولي، هوښیار دی.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "په ډېرو"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "خبرو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "درېږي"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "سرکشي"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "او نیوونکی"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "خپلې شونډې"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "هوښیار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:38.928937416Z",
+  "model": "glm-5.3"
+}

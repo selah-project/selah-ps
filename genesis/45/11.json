@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "او ⟨את⟩ له تا هلته روزم، ځکه چې لا پنځه کاله لوږه پاتې دي — داسې نه چې ته، ستا کور او هر څه چې ستا دي، بېوزله شې.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "روزم"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "له تا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "لوږه"
+    },
+    {
+      "surface": "פן",
+      "gloss": "داسې نه چې"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "بېوزله شې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "ستا کور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا دي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:13:21.993702700Z",
+  "model": "glm-5.3"
+}

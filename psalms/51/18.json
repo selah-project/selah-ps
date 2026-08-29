@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ځکه چې ته قرباني نه غواړې — که غواړې يې وړاندې کوم؛ سوځول شوې قرباني نه خوښوې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "غواړې"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "که وړاندې کوم"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "سوځول شوې قرباني"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "خوښوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:18.984772814Z",
+  "model": "glm-5.3"
+}

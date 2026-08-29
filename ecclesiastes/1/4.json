@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "یو نسل ځي او بل نسل راځي، خو ځمکه ⟨دی⟩ د تل لپاره ولاړه.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "یو نسل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ځي"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "او بل نسل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "خو ځمکه"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ولاړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:57.159069649Z",
+  "model": "glm-5.3"
+}

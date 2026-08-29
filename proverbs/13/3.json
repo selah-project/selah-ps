@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "څوک چې خوله ساتي، خپل ځان ساتي؛ څوک چې شونډې پرانیزي، ړنګیدا ورته ده.",
+  "tokens": [
+    {
+      "surface": "נצر",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ځان"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "پرانیزي"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ړنګیدا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:44.392951086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "چې په کې تور آسبان دي، د شمال پر لور ځمکې ته وځي؛ سپین آسبان يې له شا وځي؛ او داغدار آسبان د سویل پر ځمکه وځي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "آسبان"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "تور"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې ته"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "او سپین"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "د دوی له شا"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "او داغدار"
+    },
+    {
+      "surface": "יצאو",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې ته"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "سویل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:00.385440842Z",
+  "model": "glm-5.3"
+}

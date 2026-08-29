@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 62,
+  "translation": "یوازې هغه زما ډبره او زما ژغورنه ده، زما لوړه کلا — نه به وښورېږم",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "زما ډبره"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "او زما ژغورنه"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "زما لوړه کلا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "به وښورېږم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:42.232896754Z",
+  "model": "glm-5.3"
+}

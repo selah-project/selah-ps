@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "له پاکې څارویو او له هغې څارویو چې پاکې نه دي، او له الوتونکو، او له هر هغه څه چې پر ځمکه خزېږي.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "څارویو"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاکې"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "هغې څارویو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "نه دي"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاکې"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "الوتونکو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "خزېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:09.863054543Z",
+  "model": "glm-5.3"
+}

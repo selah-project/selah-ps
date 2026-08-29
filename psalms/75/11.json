@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 75,
+  "translation": "او ټولې شېبې چې بدکارانو وي غوڅولې به کړم، د نیک شېبې به لوړې شي.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټولې"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "شېبې"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکارانو"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "غوڅولې به کړم"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "لوړې شي"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "شېبې"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د نیک"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:14.740488277Z",
+  "model": "glm-5.3"
+}

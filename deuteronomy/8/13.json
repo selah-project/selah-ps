@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 8:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او ستا غویان او ستا مېږې ډېرې شي، او سپین زر او سور زر دې ډېر شي، او هر څه چې دې لرل ډېر شي،",
+  "tokens": [
+    {
+      "surface": "ובקרך",
+      "gloss": "او ستا غویان"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "او ستا مېږې"
+    },
+    {
+      "surface": "ירבין",
+      "gloss": "ډېرې شي"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "او سپین زر"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "او سور زر"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ډېر شي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې لرل"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ډېر شي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:25.064948306Z",
+  "model": "glm-5.3"
+}

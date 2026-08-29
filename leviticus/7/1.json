@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او دا د گناه قربانۍ قانون دی — ⟨دا⟩ د سپېڅلیو سپېڅلی ده.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "قانون"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "د گناه قربانۍ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "د سپېڅلیو"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "سپېڅلی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨دا⟩ ده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:19.928708124Z",
+  "model": "glm-5.3"
+}

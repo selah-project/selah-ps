@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او نبوي به باد شي، او کلام په هغوی کې نشته — داسې به ورسره وشي.",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "او نبوي"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "به شي"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "او کلام"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په هغوی کې"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "به وشي"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:55.490095515Z",
+  "model": "glm-5.3"
+}

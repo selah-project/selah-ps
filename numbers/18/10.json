@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "په قدس القدس کې به يې خوړې؛ هر نارینه به يې ⟨את⟩ وخوري؛ قدس به ستا وي.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "په قدس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "القدس کې"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "به يې وخوړې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نارینه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "قدس (هغه څه چې خول کېږي)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قدس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:29.101190299Z",
+  "model": "glm-5.3"
+}

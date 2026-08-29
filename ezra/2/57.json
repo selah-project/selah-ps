@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "ezra 2:57",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د شِفَطیاه زامن، د حَتیل زامن، د پوکِرېث-هَصِواییم زامن، د آمي زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفَطیاه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "حَتیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "پوکِرېث"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "هَصِواییم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "آمي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:32.473812394Z",
+  "model": "glm-5.3"
+}

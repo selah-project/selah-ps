@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 21:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": " غوږ ونیسئ او زما خبره واورئ، او دا دې ستاسو تسلیت وي.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "غوږ ونیسئ"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "زما خبره"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "وی"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תנחומתיכם",
+      "gloss": "ستاسو تسلیت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:39.512305110Z",
+  "model": "glm-5.3"
+}

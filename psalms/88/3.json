@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 88,
+  "translation": "زما لمناوې دې ستا مخ ته راشي؛ خپله غوږ دې زما فرياد ته ماته کړې.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ستا مخ ته"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "زما لمناوې"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ماته کړې"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "خپله غوږ"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "زما فرياد ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:55.400045801Z",
+  "model": "glm-5.3"
+}

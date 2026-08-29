@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د هغې خيانتونو ستړي کړل ⟨he⟩، خو هغه ترېنه نه وځي؛ د هغې زنګ ډېر دی — په اور کې د هغې زنګ ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "خيانتونه"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "ستړي کړل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "وځي"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ترېنه"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "زنګ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "زنګ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:15.477331802Z",
+  "model": "glm-5.3"
+}

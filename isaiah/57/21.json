@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 57,
+  "translation": "\"شلوم نشته، زما الوهیم وايي، د بدکارانو لپاره.\"",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "د بدکارانو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T23:25:38.193296332Z",
+  "model": "glm-5.3"
+}

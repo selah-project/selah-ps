@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او یهوشوع عمالق او د هغه قوم د تورې د خولې ⟨את⟩ ⟨את⟩ کمزوري کړل.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "کمزوري يې کړل"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشوع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عمالق"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عماق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه قوم"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "د هغه قوم"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:55.290711439Z",
+  "model": "glm-5.3"
+}

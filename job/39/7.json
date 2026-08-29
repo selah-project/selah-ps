@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "د ښار په غوغا يې خاندي، د پړسيونکي چيغو ته غوږ نه ښيي.",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "خاندي"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "په غوغا"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "چيغو"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "پړسيونکي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "غوږ نه ښيي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:51.132081234Z",
+  "model": "glm-5.3"
+}

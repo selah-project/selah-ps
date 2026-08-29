@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 13:22",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او پاتې د ابیاوه خبرې او لارې يې او وینا يې، ليکل شوي دي په میدرش کې د نبي عیدو.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "پاتې"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیاوه"
+    },
+    {
+      "surface": "ודרכיו",
+      "gloss": "لارې يې"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "وینا يې"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ليکل شوي دي"
+    },
+    {
+      "surface": "במדרש",
+      "gloss": "په میدرش کې"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "د نبي"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عیدو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:09.197669040Z",
+  "model": "glm-5.3"
+}

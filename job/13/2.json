@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "هغه څه چې تاسو پوهېږئ، زه هم پوهېږم؛ زه له تاسو نه لوېږم.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "لکه د تاسو پوهه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پوهېږم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "لوېږم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "له تاسو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:44.845202606Z",
+  "model": "glm-5.3"
+}

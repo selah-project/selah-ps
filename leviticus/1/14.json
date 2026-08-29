@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 1:14",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او که د هغه نذر ياهوه ته د مرغيو سوځونې قرباني وي، نو د هغه نذر دې له تورتنو يا له کوټرو بچو څخه ⟨את⟩ نږدې کړي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرغيو"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "سوځونې قرباني"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "د هغه نذر"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه ته"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "نږدې کړي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "تورتنو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بچو"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کوټرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه نذر"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "د هغه نذر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:51.825776154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 35:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "که ګناه وکړې، څه پر هغه اثر کوې؟ او که ستا سرغړونې ډېرې شي، څه ورته کوې؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ګناه وکړې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "اثر کوې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "او ډېرې شي"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "ستا سرغړونې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ورته کوې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:05.685083445Z",
+  "model": "glm-5.3"
+}

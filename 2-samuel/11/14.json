@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او سهار وشو، او داوېد يو لیک ولیکه، چې د يوآو لپاره و، او د اوریاه په لاس يې ولېږه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشو"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ولیکه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "لیک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د…لپاره"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "يوآو"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ولېږه"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "د اوریاه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:25:05.367492803Z",
+  "model": "glm-5.3"
+}

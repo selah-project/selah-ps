@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زما مینهوال زما دی او زه د هغه یمه — هغه چې په غنچو کې څروي.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "زما مینهوال"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما دی"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د هغه یمه"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "هغه چې څروي"
+    },
+    {
+      "surface": "بשושנים",
+      "gloss": "په غنچو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:37.439191298Z",
+  "model": "glm-5.3"
+}

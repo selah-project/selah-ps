@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 24:29",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او ربکې يو ورور درلود او د هغه نوم لابان و؛ او لابان سړي ته بهر، د چينې پر سر وودانګه.",
+  "tokens": [
+    {
+      "surface": "ולרבקה",
+      "gloss": "او ربکې"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ورور"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "او د هغه نوم"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "ودانګه"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "העין",
+      "gloss": "چينې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:43.569497270Z",
+  "model": "glm-5.3"
+}

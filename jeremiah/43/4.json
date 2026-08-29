@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 43:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او یوحنان د قاریح زوی او ټول د پوځونو مشران او ټول قوم د یاهوه غږ ونه اورېده، چې د یهوداه په ځمکه کې میشت شي.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واورېد"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوحنان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قاریح"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "د پوځونو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "د میشت کېدو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهوداه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:32.679093912Z",
+  "model": "glm-5.3"
+}

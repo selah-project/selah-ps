@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او دوی د مِتقه له مېشته ووتل او په حشمنه کې يې خېمې ټېبلې.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "د مِتقه له"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "خېمې يې ټېبلې"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "په حشمنه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:12.937914813Z",
+  "model": "glm-5.3"
+}

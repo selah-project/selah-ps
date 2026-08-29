@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "مړسېدلې نفس شاهد د شاتو له څاڅکو؛ خو وږې نفس هرڅه خوږوي چې تلخ وي.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "مړسېدلې"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "د شاتو له څاڅکو"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "خو نفس"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "وږې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هرڅه"
+    },
+    {
+      "surface": "מר",
+      "gloss": "چې تلخ وي"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "خوږوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:43.416987314Z",
+  "model": "glm-5.3"
+}

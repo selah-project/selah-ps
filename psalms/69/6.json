@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "الوهیم! ته پوهېږې زما ناپوهۍ ته، او زما ګناهونه له تا پټ نه دي شوي.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پوهېږې"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "زما ناپوهۍ ته"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "او زما ګناهونه"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له تا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "پټ شوي دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:08.310278559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او که له نذر کولو لاس واخلې، تا کې به ګناه نه وي.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "لاس واخلې"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "له نذر کولو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تا کې"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ګناه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:45.683957154Z",
+  "model": "glm-5.3"
+}

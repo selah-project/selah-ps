@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او دا د رعوایل زامن وو: نحات او زراح، شمّه او مِزّه؛ دا د بشمات، د عیسو د ښځې زامن وو.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "نحات"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "او زراح"
+    },
+    {
+      "surface": "شמה",
+      "gloss": "شمّه"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "او مِزّه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بشمات"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:09.520890423Z",
+  "model": "glm-5.3"
+}

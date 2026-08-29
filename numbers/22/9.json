@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "الوهیم بیلام ته راغی او ویې ویل: دا کوم سړي دي چې له تا سره دي؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بیلام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:18.302333147Z",
+  "model": "glm-5.3"
+}

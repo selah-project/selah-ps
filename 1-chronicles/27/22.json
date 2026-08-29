@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د دان پر عزرایل د یروحام زوی و. دا د اسرائیلو د قبیلو مشران وو.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "د دان"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "عزرایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یروحام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "د قبیلو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:28.765492074Z",
+  "model": "glm-5.3"
+}

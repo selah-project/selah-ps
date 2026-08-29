@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د ټولنو ټولنه دې تا چاپېره کړي، او د هغې پر سر لوړ شه.",
+  "tokens": [
+    {
+      "surface": "ועדت",
+      "gloss": "او ټولنه"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "د ټولنو"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "دې تا چاپېره کړي"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "او د هغې پر"
+    },
+    {
+      "surface": "למרوم",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "شه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:17.867930918Z",
+  "model": "glm-5.3"
+}

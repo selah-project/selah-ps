@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 19:22",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "ولې زما پسې ځئ لکه ایل، او زما له غوښې نه خړوږئ؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "תרדפני",
+      "gloss": "زما پسې ځئ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "لکه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ומבשרי",
+      "gloss": "او زما له غوښې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "خړوږئ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:15.801816053Z",
+  "model": "glm-5.3"
+}

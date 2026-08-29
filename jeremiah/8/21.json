@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 8:21",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "د زخم له امله — د خپل قوم د لور — مې زړه مات شو؛ تور شوم، وحشت راباندې کلک ونیو.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "د...له امله"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما قوم"
+    },
+    {
+      "surface": "השברתי",
+      "gloss": "زړه مې مات شو"
+    },
+    {
+      "surface": "קדרתי",
+      "gloss": "تور شوم"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وحشت"
+    },
+    {
+      "surface": "החזיקתני",
+      "gloss": "راباندې کلک ونیو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:31:59.659357294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "شمالي باد باران راولي، او غوسه ناک مخونه پټه ژبه (شوره کوي).",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمالي"
+    },
+    {
+      "surface": "תחولל",
+      "gloss": "راولي"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "باران"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "او مخونه"
+    },
+    {
+      "surface": "נזעمים",
+      "gloss": "غوسه ناک"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبه"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "پټه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:31.367957797Z",
+  "model": "glm-5.3"
+}

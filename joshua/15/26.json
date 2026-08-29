@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "امام، او شمع، او مولاده،",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "امام"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "او شمع"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "او مولاده"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:40.012359008Z",
+  "model": "glm-5.3"
+}

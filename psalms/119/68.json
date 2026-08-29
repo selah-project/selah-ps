@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ته ښه يې او ښېګڼه کوې؛ زما دې ستا فريضې ښوولې.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "او ښېګڼه کوې"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "زما دې ښوولې"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ستا فريضې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:41.785343804Z",
+  "model": "glm-5.3"
+}

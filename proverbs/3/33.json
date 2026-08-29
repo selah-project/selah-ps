@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 3:33",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د یاهوه لعنت د شرور په کور کې دی، خو د عدالتخوالو استوګنځای هغه برکتوي.",
+  "tokens": [
+    {
+      "surface": "מארת",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شرور"
+    },
+    {
+      "surface": "ונוה",
+      "gloss": "خو استوګنځای"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د عدالتخوالو"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکتوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:06.588954156Z",
+  "model": "glm-5.3"
+}

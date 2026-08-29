@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "څوک چې نځره خوښوي، پوهه خوښوي؛ خو چا چې ملامتي کرغېږنې ده، هغه څاروي-سخته دی.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "خوښوي"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "نځره"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "خوښوي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "خو کرغېږنې ده"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ملامتي"
+    },
+    {
+      "surface": "בער",
+      "gloss": "څاروي-سخته دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:53.291399468Z",
+  "model": "glm-5.3"
+}

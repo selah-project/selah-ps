@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "په برکت د رښتينو ښار لوړېږي، خو په خوله د شريرانو ړنګېږي.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "په برکت"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "د رښتينو"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "لوړېږي"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "خو په خوله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د شريرانو"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "ړنګېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:57.916878809Z",
+  "model": "glm-5.3"
+}

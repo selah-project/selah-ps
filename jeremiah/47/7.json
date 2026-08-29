@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 47:7",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "څنګه به ارام شي، حال دا چې یاهوه ورته حکم کړی — پر ایشقلون او پر سمندرغاړې؟ همالته يې ټاکلې ده.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ارام شي"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "چې یاهوه"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "ایشقلون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "سمندرغاړې"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "שם",
+      "gloss": "همالته"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "ټاکلې ده"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:49.072199210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "وګوره اوس، ځکه یاهوه تا وټاکه چې د مقدس ځای لپاره کور جوړ کړې؛ غښتلی اوسه او ترسره يې کړه.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "وټاکه"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تا"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "چې جوړ کړې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "لמקדש",
+      "gloss": "د مقدس ځای لپاره"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "غښتلی اوسه"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "او ترسره يې کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:57:01.636183721Z",
+  "model": "glm-5.3"
+}

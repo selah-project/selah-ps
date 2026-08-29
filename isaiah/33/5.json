@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "لوړ شوی دی یاهوه، ځکه چې ⟨هغه⟩ په لوړو کې اوسي؛ زایون يې د عدالت او صداقت څخه ډک کړ.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "لوړ شوی دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "اوسي"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "په لوړو کې"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ډک کړ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "زایون"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "صداقت"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:53.415570675Z",
+  "model": "glm-5.3"
+}

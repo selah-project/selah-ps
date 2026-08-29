@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او درېیم کتار: لِشېم، شِوو او اَحلاماه.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "او کتار"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "درېیم"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لِشېم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شِوو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "او اَحلاماه"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:21.352211211Z",
+  "model": "glm-5.3"
+}

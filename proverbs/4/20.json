@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "زما زویه! زما خبرو ته غوږ ونیسه؛ زما ویینو ته خپله غوږ کږه کړه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زما زویه"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "زما خبرو ته"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "غوږ ونیسه"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "زما ویینو ته"
+    },
+    {
+      "surface": "הט",
+      "gloss": "کږه کړه"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "خپله غوږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:57.680225086Z",
+  "model": "glm-5.3"
+}

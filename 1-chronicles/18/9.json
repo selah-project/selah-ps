@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او تُعو، د حَمات پاچا، واورېدل چې داوېد ⟨את⟩ ټول لښکر د هدد-عزر، د صوبه د پاچا، وهلي وو.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "او واورېدل"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "تُعو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "د حَمات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "وهلي وو"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول لښکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "هدد-عزر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صوبه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:53:56.944162617Z",
+  "model": "glm-5.3"
+}

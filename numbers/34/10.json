@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او ستاسو لپاره به د ختیځ پول وټاکئ — له ختسر-عینان څخه تر شېفام پورې.",
+  "tokens": [
+    {
+      "surface": "והתאوיתם",
+      "gloss": "وټاکئ"
+    },
+    {
+      "surface": "لכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "پول"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ختیځ"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "له ختسر"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عینان څخه"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "شېفام"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:29.827359054Z",
+  "model": "glm-5.3"
+}

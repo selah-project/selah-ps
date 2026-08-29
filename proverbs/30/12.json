@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "یوه نسل ⟨«هغه⟩ په خپلو سترګو کې پاک دی، خو له خپل چټلتیا څخه نه دی پاک شوی.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "په خپلو سترګو کې"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "او له خپل چټلتیا څخه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "پاک شوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:26.553889995Z",
+  "model": "glm-5.3"
+}

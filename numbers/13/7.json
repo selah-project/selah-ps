@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د یِساخار د قبیلې له خوا: یِګال د یوسف زوی.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې له خوا"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِساخار"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "یِګال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:20.261121795Z",
+  "model": "glm-5.3"
+}

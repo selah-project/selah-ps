@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او یاهوه و موشې سره خبرې وکړې، ویې ویل:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او … خبرې وکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویې ویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:24:35.254111400Z",
+  "model": "glm-5.3"
+}

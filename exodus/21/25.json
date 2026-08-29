@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "سوزونه پر ځای د سوزونې، ټپ پر ځای د ټپ، ورو پر ځای د ورو.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "سوزونه"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "سوزونې"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ټپ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ټپ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ورو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "پر ځای"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ورو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:19.544908469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "اوو ته برخه ورکړه او هم اتهو ته، ځکه نه پېژنې چې ځمکې پر مخ به څه شر شي.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ورکړه"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "لשבעה",
+      "gloss": "اوو ته"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "لשמונה",
+      "gloss": "اتهو ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "شي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "شر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:31.515418360Z",
+  "model": "glm-5.3"
+}

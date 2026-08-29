@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "مټه وکړئ او وګورئ چې یاهوه ښه دی؛ هغه سړی خوښې وړ دی چې ⟨هغه⟩ په هغه کې پناه اخلي.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "مټه وکړئ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "او وګورئ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "خوښې وړ دی"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "هغه سړی چې"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "پناه اخلي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:21.348686569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 2:9",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زما محبوب د غوښۍ یا د هوسرې د بچی غوندې دی؛ اوسېدلی دی زموږ د دیوال شاته، له کړکیو څخه ګوري، د ټکړمېزو له خوا راته ښکاري.",
+  "tokens": [
+    {
+      "surface": "דומה",
+      "gloss": "غوندې دی"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "زما محبوب"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "د غوښۍ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "د بچی"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "د هوسرې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اوسېدلی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ولاړ دی"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "شاته"
+    },
+    {
+      "surface": "כתלנו",
+      "gloss": "زموږ د دیوال"
+    },
+    {
+      "surface": "משגיח",
+      "gloss": "ګوري"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "החלנות",
+      "gloss": "کړکیو"
+    },
+    {
+      "surface": "מציץ",
+      "gloss": "ښکاري"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "החרכים",
+      "gloss": "ټکړمېزو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:16:30.885175253Z",
+  "model": "glm-5.3"
+}

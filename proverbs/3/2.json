@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ځکه چې ⟨دا⟩ به ستا لپاره د ورځو اوږدوالی، د ژوند کلونه او سلامتي زیاته کړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اوږدوالی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "او کلونه"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "او سلامتي"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "زیاته کړي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:31.359737471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "خو که ژوندۍ غوښه بېرته راوګرځي او سپينه شي، نو هغه به نزدې کاهن ته راشي.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "خو که"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "بېرته راوګرځي"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "غوښه"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ژوندۍ"
+    },
+    {
+      "surface": "وנהפך",
+      "gloss": "او…شي"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "سپينه"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "نو…به راشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نزدې…ته"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:23.933398841Z",
+  "model": "glm-5.3"
+}

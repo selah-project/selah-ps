@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او ټولې ټولنې وویل چې داسې وکړو، ځکه خبره د ټول وګړو په سترګو کې سمه وه.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "وویل يې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ټولنې"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "وکړو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "ישر",
+      "gloss": "سمه وه"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העם",
+      "gloss": "وګړو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:30.411320966Z",
+  "model": "glm-5.3"
+}

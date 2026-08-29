@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 18:13",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "که مې ⟨ה⟩ دروغ په خپل نفس کې کړي وای — هره خبره له پاچا نه پټېږي — او ته به ځانې مخامخ درولی وای.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "که"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کړمې وای"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "په خپل نفس"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יכחד",
+      "gloss": "پټېږي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "תתיצב",
+      "gloss": "ځان دروي"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "مخامخ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:47:52.652337041Z",
+  "model": "glm-5.3"
+}

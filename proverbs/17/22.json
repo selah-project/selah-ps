@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "شاده زړه درمل ښه کوي، خو ماتې روح هډوکي وچوي.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "شاده"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ښه کوي"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "درمل"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "خو روح"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ماتې"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "وچوي"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "هډوکي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:00.946197594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "که ځمکه وکړې ⟨את⟩، نو نور به دې خپل ځواک درنه نکړي؛ بې‌سیمه او بې‌پلانه به په ځمکه کې وې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "که\/کله چې"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "وکړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "نور به نکړي"
+    },
+    {
+      "surface": "תת",
+      "gloss": "درکړي"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "خپل ځواک"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נע",
+      "gloss": "بې‌سیمه"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "بې‌پلانه"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:56.379822141Z",
+  "model": "glm-5.3"
+}

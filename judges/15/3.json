@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 15:3",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او شمشون ورته وويل: دا ځل زه له پلشتیمزانو بې-گناه يم، ځکه چې زه ورسره بدې کوم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شمشون"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "بې-گناه يم"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "دا ځل"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "له پلشتیمزانو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:59.596981208Z",
+  "model": "glm-5.3"
+}

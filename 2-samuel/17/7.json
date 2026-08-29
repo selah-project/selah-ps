@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او حوشي وويل ابشالوم ته: نه ښه ده هغه مشوره چې احيتوپل يې مشوره کړې په دې ځل کې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وويل"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ته"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ابشالوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ښه ده"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "هغه مشوره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "مشوره کړې"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "احيتوپل"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "په…ځل کې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:47:14.781540913Z",
+  "model": "glm-5.3"
+}

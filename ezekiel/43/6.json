@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او مې واورېدل چې یو ⟨زما⟩ له کوره راته خبرې کوي، او يو سړی زما ته ولاړ و.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "او مې واورېدل"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "خبرې کوونکی"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "له کوره"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "او يو سړی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "زما ته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:50.063747930Z",
+  "model": "glm-5.3"
+}

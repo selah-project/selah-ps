@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "هر ⟨سړی⟩ د خپل لاس د ډالۍ سره سم، د خپل الوهیم یاهوه د برکت سره سم چې هغه يې تا ته ورکړي ده.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "د ډالۍ سره سم"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "د خپل لاس"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "د برکت سره سم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "خپل الوهیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړي ده"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:52.176943838Z",
+  "model": "glm-5.3"
+}

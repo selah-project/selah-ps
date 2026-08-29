@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "او الوهیم د هغه شپه داسې وکړل؛ او پر ګزه يوازې وچوالی وشو، او پر ټولې ځمکې شبنم و.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او وکړل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "د هغه شپه"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وشو"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "وچوالی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ګزه"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:24:39.160332039Z",
+  "model": "glm-5.3"
+}

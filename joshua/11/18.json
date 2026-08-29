@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "ډېرې ورځې يهوشع ⟨את⟩ د دې ټولو پاچاهانو سره جګړه وکړه.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړه"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جګړه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:49.619750889Z",
+  "model": "glm-5.3"
+}

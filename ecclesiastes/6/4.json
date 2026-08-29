@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه چې په هېبل کې راځي او په تیارته کې ځي، او په تیارته کې یې نوم پټ وي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "په هېبل کې"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "او په تیارته کې"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ځي"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "او په تیارته کې"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "یې نوم"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "پټ وي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:20.839119944Z",
+  "model": "glm-5.3"
+}

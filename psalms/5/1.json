@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د رهبر لپاره، په نیحیلوت ⟨אל⟩ — د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د رهبر لپاره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په نیحیلوت ⟨אل⟩"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "نیحیلوت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:20.945032362Z",
+  "model": "glm-5.3"
+}

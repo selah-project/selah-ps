@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او د ورځو ⟨په⟩ پای کې وشول چې قایین د ځمکې له ميو څخه ياهوه ته قرباني راوړله.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "وشول"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "د پای"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راوړله"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "له ميو"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ياهوه ته"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:12.989772149Z",
+  "model": "glm-5.3"
+}

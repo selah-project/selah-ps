@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 135,
+  "translation": "چې ډېری ملتونه يې ووهل او زورور پاچاهان يې ووژل،",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "چې ووهل يې"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېری"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "او ووژل يې"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "زورور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:54.860573515Z",
+  "model": "glm-5.3"
+}

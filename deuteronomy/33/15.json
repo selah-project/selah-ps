@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د ختیځو غرونو له سره، او د تلپاتې غونډیو له غوره څیزونو،",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "او له سره"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "د غرونو"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ختیځو"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "او له غوره څیزونو"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "د غونډیو"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "تلپاتې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:34.886247554Z",
+  "model": "glm-5.3"
+}

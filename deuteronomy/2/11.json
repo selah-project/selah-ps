@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "رِفاعیم شمېرل کېږي هغوی هم، د عَناقیانو په څېر؛ خو مُوآبیانو هغوی ته اِمیم ویل.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "رِفاعیم"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "شمېرل کېږي"
+    },
+    {
+      "surface": "אף",
+      "gloss": "هم"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هغوی"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "د عَناقیانو په څېر"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "خو مُوآبیانو"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "להם",
+      "gloss": "هغوی ته"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "اِمیم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:58.477738850Z",
+  "model": "glm-5.3"
+}

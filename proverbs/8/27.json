@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "کله چې هغه اسمانونه تیار کړل، زه همالره وم؛ کله چې هغه پر ژوروالي پر مخ یو ګرد وښوده.",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "په تیار کولو کې یې"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "همالره"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "په خط کولو کې یې"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "ګرد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…مخ"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ژوروالي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:13.269856412Z",
+  "model": "glm-5.3"
+}

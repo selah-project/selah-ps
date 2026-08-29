@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او دا بیا په تلخه نفس مري او هېڅکله په ښه‌والي کې نه خوري.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مري"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "په نفس"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "په ښه‌والي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:39.332863280Z",
+  "model": "glm-5.3"
+}

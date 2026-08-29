@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او حَشُباه، او اُهِل، او بِرِکْیاه، او حَسدْیاه، یُوشاب-خِسېد — پنځه.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "او حَشُباه"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "او اُهِل"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "او بِرِکْیاه"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "او حَسدْیاه"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "یُوشاب"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خِسېد"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:53.558067366Z",
+  "model": "glm-5.3"
+}

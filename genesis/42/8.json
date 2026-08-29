@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 42,
+  "translation": "او یوسف ⟨את⟩ خپل وروڼه پېژندل، خو هغوی هغه ونه پېژانده.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "پېژندل"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپل وروڼه"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "خپل وروڼه"
+    },
+    {
+      "surface": "והם",
+      "gloss": "خو هغوی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "هغه ونه پېژانده"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:44.693423413Z",
+  "model": "glm-5.3"
+}

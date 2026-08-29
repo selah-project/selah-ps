@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "مه دې زړه په ګناهګارانو حسد وکړي، بلکې ټول ورځ په د یاهوه په وېره کې اوس.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "حسد وکړي"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "زړه دې"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "په ګناهګارانو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "په وېره کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:44.475508114Z",
+  "model": "glm-5.3"
+}

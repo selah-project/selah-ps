@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "د دوو شاهدانو يا درېو شاهدانو په خوله به هغه مړېدونکی ⟨هغه⟩ مړ کړل شي؛ د يو شاهد په خوله به هغه مړ نه کړل شي.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "د دوو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدانو"
+    },
+    {
+      "surface": "או",
+      "gloss": "يا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درېو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "شاهدانو"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مړ کړل شي"
+    },
+    {
+      "surface": "המת",
+      "gloss": "هغه مړېدونکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مړ کړل شي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "עד",
+      "gloss": "شاهد"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:13.708904819Z",
+  "model": "glm-5.3"
+}

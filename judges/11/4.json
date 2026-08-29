@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او وروسته له څو ورځو، د عمون زامنو له اسرائیل سره جګړه پیل کړه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وروسته"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "له څو ورځو"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "جګړه یې پیل کړه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له… سره"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:26:58.428976054Z",
+  "model": "glm-5.3"
+}

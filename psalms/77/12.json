@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 77,
+  "translation": "زه د یاه کړنې یادوم؛ ځکه زه د پخوا ستا معجزې په یاد لرم.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "زه یادوم"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "کړنې"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "زه په یاد لرم"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "د پخوا"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ستا معجزې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:41.429105352Z",
+  "model": "glm-5.3"
+}

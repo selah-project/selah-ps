@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "یاهوه به دې د ليونتوب، د ړندوالي او د زړه د حېرانتيا وېبې ووهي.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "به دې ووهي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "د ليونتوب"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "د ړندوالي"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "د حېرانتيا"
+    },
+    {
+      "surface": "لבב",
+      "gloss": "زړه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:03.050385386Z",
+  "model": "glm-5.3"
+}

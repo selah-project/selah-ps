@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "خو یاهوه ستاسو له پاره پر ما قهراند شو او زما یې ونه اورېدل؛ نو یاهوه راته وویل: «دې ته بس ده، د دې خبر په اړه نور راسره خبرې مه کوه.»",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "قهراند شو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "ستاسو له پاره"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اورېدل"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل یې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "نور زیاتوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې کوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راسره"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "په خبر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:20.581014910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 74,
+  "translation": "ته په خپل ځواک ⟨את⟩ سمندر مات کړ؛ د اوبو پر سر د تنینونو سره دې وشکول.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "مات کړ"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "په خپل ځواک"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "وشکول"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سره"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "تنینونو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המים",
+      "gloss": "د اوبو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:50.771217628Z",
+  "model": "glm-5.3"
+}

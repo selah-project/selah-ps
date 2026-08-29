@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "په ټیټه ځمکه کې: اشتعول، او صوره، او اشنه.",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "په ټیټه ځمکه کې"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "اشتعول"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "او صُوره"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "او اشنه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:42.619649408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د شلومو (سليمان) مترلې نظرې. هوښیار زوی پلار خوشحالوي، خو د ناپوه زوی مور ته غم دی.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مترلې نظرې"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "د شلومو (سليمان)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحالوي"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "خو زوی"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ناپوه"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "غم"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "مور ته يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:10.839492348Z",
+  "model": "glm-5.3"
+}

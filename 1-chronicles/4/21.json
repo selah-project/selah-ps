@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 4:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د شېلا زامن، د یهودا ⟨زوی⟩: عیر، د لېکاه پلار، او لَعداه، د مارېشاه پلار؛ او د کتان د کار د کور کورنۍ — د اَشبِعاه کور ته اړوند.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "شېلا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "لېکاه"
+    },
+    {
+      "surface": "وלעדה",
+      "gloss": "او لَعداه"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "مارېشاه"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "او کورنۍ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "הבץ",
+      "gloss": "کتان"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "کور ته"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "اَشبِعاه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:57.915029620Z",
+  "model": "glm-5.3"
+}

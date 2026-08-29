@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 90,
+  "translation": "ستا کار ستا خدمتګارو ته ښکاره شي، او ستا ځلا د دوی د زامنو پر سر وي.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ښکاره شي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ستا خدمتګارو"
+    },
+    {
+      "surface": "فעלך",
+      "gloss": "ستا کار"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ستا ځلا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "د دوی زامنو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:37.033513293Z",
+  "model": "glm-5.3"
+}

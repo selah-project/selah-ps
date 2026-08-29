@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 135,
+  "translation": "چې زه پوهېږم چې یاهوه لوی دی، او زموږ ادونای د ټولو الوهیمو څخه لوړ دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "او زموږ ادونای"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "د ټولو څخه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیمو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:55.621436217Z",
+  "model": "glm-5.3"
+}

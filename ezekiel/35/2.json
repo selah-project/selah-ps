@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "د آدم زویه، خپل مخ پر سعیر غره کېږده او پر هغه وڅرګنده",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کېږده"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "او وڅرګنده"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:03:36.825013275Z",
+  "model": "glm-5.3"
+}

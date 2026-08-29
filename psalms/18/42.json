@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "غږ کوي خو خپوونکی نه شته؛ یاهوه ته يې غږ وکړ، خو هغه ورته ځواب ورنکړ.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "غږ کوي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نه شته"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "خپوونکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ورته ځواب ورکړ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:02.519955070Z",
+  "model": "glm-5.3"
+}

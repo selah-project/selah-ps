@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "غوره ده چې د بام په ګوټ کې کښېناستې وي، له هغه ښځې چې شخګر ده او له ⟨د⟩ پراخ کور سره.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "چې کښېناستې وي"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ګوټ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بام"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "له هغه ښځې"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "چې شخګر ده"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او له کور"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "شراکت"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:37.162268545Z",
+  "model": "glm-5.3"
+}

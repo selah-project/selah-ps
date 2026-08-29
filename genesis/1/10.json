@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او الوهیم وګڼله ⟨את⟩ وچه ځمکه، او ⟨את⟩ د اوبو ټولګه يې یمونه وګڼله؛ او الوهیم وليدل چې ښه دي.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "وګڼله"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "وچه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "او د ټولګه"
+    },
+    {
+      "surface": "המים",
+      "gloss": "اوبو"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "وګڼله"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "یمونه"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "وليدل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه دي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:39.039771121Z",
+  "model": "glm-5.3"
+}

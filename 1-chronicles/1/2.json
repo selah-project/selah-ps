@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "قېنان، mahalal-El، Yared،",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "قېنان"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مهللایل"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "يارېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:27.516561968Z",
+  "model": "glm-5.3"
+}

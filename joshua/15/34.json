@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او زانوح، او عین ګنیم، تاپوح، او هعینام.",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "او زانوح"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "او عین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ګنیم"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "تاپوح"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "او هعینام"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:42.619836927Z",
+  "model": "glm-5.3"
+}

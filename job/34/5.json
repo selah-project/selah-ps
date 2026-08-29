@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "ځکه چې ایوب ویلي: «زه رښتیا یم، او ایل زما حکم لېرې کړی دی.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویلي"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "زه رښتیا یم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ایل"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "لېرې کړی دی"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "زما حکم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:17.899562124Z",
+  "model": "glm-5.3"
+}

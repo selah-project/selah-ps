@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او بقبکر، حریش او ګلال، او متنیا زوی میخا، زوی زکري، زوی اساف.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "او بقبکر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "حریش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "او ګلال"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "او متنیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "میخا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زکري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "اساف"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:08.814314220Z",
+  "model": "glm-5.3"
+}

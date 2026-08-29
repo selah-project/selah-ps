@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د اسرائیلو ټولو سړيو د پاچا پر وړاندې په عيد کې راټولې وکړه — هغه ⟨د⟩ اوم مياشت ده.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "راټولېدل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیلو"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "په عيد کې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "مياشت"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "اوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:58:21.655864196Z",
+  "model": "glm-5.3"
+}

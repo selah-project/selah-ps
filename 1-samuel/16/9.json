@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او ییشای شمّاه (مخې ته) تېر کړ، او ویې ویل: «په دې هم نه دی ټاکلی یاهوه.»",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "تېر کړ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ییشای"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شمّاه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "په دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ټاکلی دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:35:52.217544424Z",
+  "model": "glm-5.3"
+}

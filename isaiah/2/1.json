@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "هغه خبره چې یِشعیهو (ایشعیا) زوی اموص ولیده، پر یهودا او یروشلایم (بیت المقدس).",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "هغه خبره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ولیده"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشعیهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اموص"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "او یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:20.143993773Z",
+  "model": "glm-5.3"
+}

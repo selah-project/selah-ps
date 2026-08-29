@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او رِمِت، او عین ګنیم، او عین حدَه، او بیت پَصیص.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "او رِمِت"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "او عین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ګنیم"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "او عین"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "حدَه"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "او بیت"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "پَصیص"
+    }
+  ],
+  "timestamp": "2026-08-28T22:20:39.091377950Z",
+  "model": "glm-5.3"
+}

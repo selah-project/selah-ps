@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "نږدې وه چې په ټوله بدمرغۍ کې واقع شم، د ټولګي او ټولنې په منځ کې.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "نږدې وه چې"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "واقع شم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټوله"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدمرغۍ کې"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ټولګي"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "او ټولنې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:11.296671544Z",
+  "model": "glm-5.3"
+}

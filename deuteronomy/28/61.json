@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "همدارنګه هر ناروغي او هر ټپ چې په دې د تورات په کتاب کې نه دی لیکل شوی، یاهوه به دا پر تا راولي، تر هغه چې تېر شې.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همدارنګه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "ناروغي"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ټپ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "لیکل شوی"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "په کتاب"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "د تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "به راولي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "چې تېر شې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:59.615087990Z",
+  "model": "glm-5.3"
+}

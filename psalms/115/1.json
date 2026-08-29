@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "نه موږ ته، ای یاهوه، نه موږ ته، بلکې ستا نوم ته جلال ورکړه — ستا د خېسېد له امله، ستا د امانت له امله.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "موږ ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "موږ ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ستا نوم ته"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ورکړه"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "על",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ستا د خېسېد"
+    },
+    {
+      "surface": "על",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ستا د امانت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:48.030501887Z",
+  "model": "glm-5.3"
+}

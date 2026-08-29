@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ابیاتار داوېد ته وويل چې شاول ⟨את⟩ د یاهوه کاهنان ووژلې.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "او … وويل"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ابیاتار"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوېد ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "ووژلې"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه کاهنان"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "کاهنان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:23:56.379621110Z",
+  "model": "glm-5.3"
+}

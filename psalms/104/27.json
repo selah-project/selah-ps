@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "ټول ⟨دا⟩ ستا په لور ارادې کوي، چې په خپل وخت خواړه ورکوې",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ستا په لور"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "ارادې\/تمه کوي"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "چې ورکوې"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "په خپل وخت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:16.736653541Z",
+  "model": "glm-5.3"
+}

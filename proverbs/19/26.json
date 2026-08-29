@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "پلار ځپونکی، مور تېښتې ته اړونکی — زوی چې شرم راولي او رسوا کوي.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "ځپونکی"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "تېښتې ته اړوي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "مور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرم راوړونکی"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "او رسوا کوونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:07.894763688Z",
+  "model": "glm-5.3"
+}

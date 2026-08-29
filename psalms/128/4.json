@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 128,
+  "translation": "وګوره! هومره وړاندې وي چې داسې به برکت پرېوځي پر هغه سړي چې یاهوه وارځي.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګوره!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "به برکت پرېوځي"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "وارځي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:21.292895175Z",
+  "model": "glm-5.3"
+}

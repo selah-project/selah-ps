@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د دیارلسم لپاره شُبَائِل، ⟨دى⟩، زامن يې او وروڼه يې — دولس.",
+  "tokens": [
+    {
+      "surface": "לשלوشה",
+      "gloss": "د درېيم"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دیارلسم (لس + درې)"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "شُبَائِل"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن يې"
+    },
+    {
+      "surface": "וואחיו",
+      "gloss": "او وروڼه يې"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولس (لس + دوه)"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:56.619406615Z",
+  "model": "glm-5.3"
+}

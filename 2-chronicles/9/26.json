@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨هغه⟩ واکمن و ټولو پاچایانو پر، له سیند څخه تر د فلسطیانو د ځمکې او تر د مِتسرایم (مصر) د پولې.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "واکمن"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پر ټولو"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "پاچایانو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "سیند"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فلسطیانو"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "د پولې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "د مِتسرایم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:00:44.530337468Z",
+  "model": "glm-5.3"
+}

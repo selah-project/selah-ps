@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "هېڅ خبرې نشته او هېڅ الفاظ نشته؛ بې له دې چې د دوی غږ واورېدل شي.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او ... نشته"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "الفاظ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بې له"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "واورېدل شي"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "د دوی غږ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:47.531712592Z",
+  "model": "glm-5.3"
+}

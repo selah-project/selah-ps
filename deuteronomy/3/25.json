@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "اېردنه کوم چې تېر شم او ⟨את⟩ ښه ځمکه ووینم چې د اردن په هغه غاړه کې ده، دا ښه غر او لېبنون.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "تېر شم"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اېردنه کوم"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "او ووینم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ښه ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "په هغه غاړه"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "د اردن"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غر"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "او لېبنون"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:20.580659996Z",
+  "model": "glm-5.3"
+}

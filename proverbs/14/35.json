@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 14:35",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د پاچا خوښي د هوښیار خدمتګر پر وړاندې وي، خو سپکاوی يې پر شرمونکي ⟨کیږي⟩.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "خدمتګر ته"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "خو خشم يې"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرمونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:16.563400650Z",
+  "model": "glm-5.3"
+}

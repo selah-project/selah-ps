@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او نه يوازې له تاسو سره ⟨את⟩ زه دا تړون ⟨את⟩ او دا قسم ⟨את⟩ تړم.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "له تاسو سره ⟨את⟩"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "يوازې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "تړم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا تړون"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "دا قسم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "قسم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T22:13:06.115844940Z",
+  "model": "glm-5.3"
+}

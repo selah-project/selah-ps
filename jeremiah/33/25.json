@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "داسې وايي یاهوه: که زما تړون د ورځې او شپې له خوا نه وي، که می د اسمانونو او ځمکې حدود نه وي ټاکلي —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "زما تړون"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "او شپې"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "حدود"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "او ځمکې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ټاکلي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:41:25.228917337Z",
+  "model": "glm-5.3"
+}

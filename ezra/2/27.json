@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د مخماس سپېڅلي سړي — سل شل او دوه.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "د مخماس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سل"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:07.883870134Z",
+  "model": "glm-5.3"
+}

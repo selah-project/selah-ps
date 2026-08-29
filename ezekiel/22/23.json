@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او د یاهوه خبرړه راته وشوه، وېیل يې:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشوه"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرړه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "وېیل يې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:08.770421414Z",
+  "model": "glm-5.3"
+}

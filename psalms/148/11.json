@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 148,
+  "translation": "د ځمکې پاچاهان او ټول قومونه، مشران او د ځمکې ټول قاضي‌ګان،",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومونه"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "مشرات"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "قاضي‌ګان"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:13.466310197Z",
+  "model": "glm-5.3"
+}

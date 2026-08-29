@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او هغوی او زامن یې د یاهوه د کور — د خیمې د کور — پر دروازو د پولیوګانو له مخې وو.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "او هغوی"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "او زامن یې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازو"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "د پولیوګانو له مخې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:45.935179325Z",
+  "model": "glm-5.3"
+}

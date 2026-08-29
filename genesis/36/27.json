@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "دا د عِتسِر زامن وو: بِلحان او زَعوان او عَکان.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "عِتسِر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بِلحان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "او زَعوان"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "او عَکان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:09:07.392023046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "او هغوی لږ شول او ځمکې ته وخوړل — له ظلم، له بدۍ او له غم څخه.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "او لږ شول"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "ځمکې ته وخوړل"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "له ظلم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "له بدۍ"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "او له غم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:44.841629067Z",
+  "model": "glm-5.3"
+}

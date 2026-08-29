@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او که دا په پوستکي کې خپره شي، نو کاهن به هغه ناپاک وبولي — دا ⟨את⟩ زیان دی.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "پשה",
+      "gloss": "خپره شي"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "دې خپرولي"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "په پوستکي کې"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ناپاک وبولي"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (زیان لرونکى)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "زیان\/ټپ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا دی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:53.082142822Z",
+  "model": "glm-5.3"
+}

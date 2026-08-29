@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 66,
+  "translation": "که مې اویل په زړه کې لیدلی وای، ادونای به يې نه اورېده.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "اویل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "لیدلی مې وای"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "به اورېده"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:36:19.988509687Z",
+  "model": "glm-5.3"
+}

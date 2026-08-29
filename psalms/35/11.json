@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "د ظلم شاهدان راپاڅي؛ هغه څه چې زه پوهېدم نه، له ما پوښتنه راکوي.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "راپاڅي"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "شاهدان"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "د ظلم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه څه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پوهېدم"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "له ما پوښتنه راکوي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.833806840Z",
+  "model": "glm-5.3"
+}

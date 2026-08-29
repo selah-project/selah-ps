@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "ستا لپاره ⟨دی⟩ زراع چې له ځواکه سره ده؛ قوي ⟨دی⟩ ستا لاس، لوړ ⟨دی⟩ ستا ښیې لاس.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "زراع"
+    },
+    {
+      "surface": "עם",
+      "gloss": "چې سره"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "له ځواکه"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "لوړ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ستا ښیې لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:22.568641571Z",
+  "model": "glm-5.3"
+}

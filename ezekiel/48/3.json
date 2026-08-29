@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او د آشِر په پوله، له ختیځې څنډې څخه تر لوېدیځې څنډې پورې — نَفتالي یوه برخه.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "د آشِر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "له څنډې"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ختیځې"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "او تر"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "څنډې"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "لوېدیځې"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفتالي"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:31.060688184Z",
+  "model": "glm-5.3"
+}

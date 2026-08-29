@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "چې د یتیم او مظلوم قضا وکړې، د ځمکې انسان نور وېره نه پېښوي.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "چې قضا وکړې"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "د یتیم"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "او مظلوم"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "زیاتوي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "وېره پېښوي"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:04.898303861Z",
+  "model": "glm-5.3"
+}

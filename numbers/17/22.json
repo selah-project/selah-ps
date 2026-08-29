@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "موشې ⟨את⟩ عصاګانې د یاهوه مخې ته، د شاهدۍ په خیمه کې کېښودلې.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "کېښودلې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عصاګانې"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "عصاګانې"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "په خیمه کې"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "د شاهدۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:20.143102883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 23:16",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او ایل زما زړه نرم کړ، او شدای مې وارخطا کړ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "او ایل"
+    },
+    {
+      "surface": "הרך",
+      "gloss": "نرم کړ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "او شدای"
+    },
+    {
+      "surface": "הבהילני",
+      "gloss": "مې وارخطا کړ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:41.285366722Z",
+  "model": "glm-5.3"
+}

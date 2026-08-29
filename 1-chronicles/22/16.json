@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د زرو، سپينو زرو، مسو او اوسپنې شمېر نشته؛ پاڅېږه او وکړه، او یاهوه دې سره وي!",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "د زرو"
+    },
+    {
+      "surface": "لכסף",
+      "gloss": "سپينو زرو"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "مسو"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "او اوسپنې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    },
+    {
+      "surface": "קום",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "او وکړه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "دې سره"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:46.145699251Z",
+  "model": "glm-5.3"
+}

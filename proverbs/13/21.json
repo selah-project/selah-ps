@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "ګناهکارانې د بدۍ په څېر تعقيبوي، خو ←⟨את⟩ صالحان ته ←ښه بېرته ورکول کېږي.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "ګناهکاران"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "تعقيبوي"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "صالحان"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحان"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بېرته ورکوي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:55.828294316Z",
+  "model": "glm-5.3"
+}

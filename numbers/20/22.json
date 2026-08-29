@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 20:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او له قادش څخه وخوځېدل، او د یسرائیل زامنو، ټولې ټولنې، د هور ⟨⟨the⟩⟩ غره ته راغلل.",
+  "tokens": [
+    {
+      "surface": "ויסעو",
+      "gloss": "وخوځېدل"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "قادش"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "راغلل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ټولنې"
+    },
+    {
+      "surface": "הר",
+      "gloss": "هور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "غره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:28.235122076Z",
+  "model": "glm-5.3"
+}

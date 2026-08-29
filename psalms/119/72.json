@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "ستا د خولې شریعت زما لپاره له زرګونو سره زرو او سرو څخه غوره دی.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره دی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "د خولې دې"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "له زرګونو"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سره زر"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "او سرو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:13.541877830Z",
+  "model": "glm-5.3"
+}

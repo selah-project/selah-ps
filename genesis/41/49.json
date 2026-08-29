@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "genesis 41:49",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او یوسف د سمندر د شګو په څېر ډېر زیات غله راټوله کړه، تر هغه چې شمېرنه يې بندوله کړه، ځکه چې شمېر يې نه وو.",
+  "tokens": [
+    {
+      "surface": "ויצבר",
+      "gloss": "راټوله کړه"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בר",
+      "gloss": "غله"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "د شګو په څېر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زیات"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر هغه چې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "بندوله کړه"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "شمېرنه يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه وو"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    }
+  ],
+  "timestamp": "2026-08-29T02:57:49.936459696Z",
+  "model": "glm-5.3"
+}

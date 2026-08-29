@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او هغه سړي داسې وکړل لکه څنګه چې یوسف وویل، او هغه سړي ⟨את⟩ سړي د یوسف کور ته راوستل.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وکړل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "هغه سړي"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راوستل"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "هغه سړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سړي"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "کور ته"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "د یوسف"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:06.426566406Z",
+  "model": "glm-5.3"
+}

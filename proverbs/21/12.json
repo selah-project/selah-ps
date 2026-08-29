@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "نیک کس د بدکس کور ⟨غور کوي⟩؛ بدان د بدۍ لپاره ړنګوي ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "غور کوي"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک کس"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د...کور"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکس"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "ړنګوي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدان"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "د بدۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:33.678386703Z",
+  "model": "glm-5.3"
+}

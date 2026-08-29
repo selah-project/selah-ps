@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "پښه ⟨به⟩ هغه وړي — د غریبو پښې، د کمزوریو ګامه.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "وړي"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پښه"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پښې"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریبو"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ګامه"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "کمزوریو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:17:03.906451366Z",
+  "model": "glm-5.3"
+}

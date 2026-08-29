@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د نِعریاه زامن: اِلیوهوعینای او حِزقیاه او عَزریقم — درې.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "نِعریاه"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "اِلیوهوعینای"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "اوحِزقیاه"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "اوعَزریقم"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:50.535781478Z",
+  "model": "glm-5.3"
+}

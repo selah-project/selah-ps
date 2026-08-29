@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 99,
+  "translation": "دې ستا نوم ستایلی دی — ستر او وېروونکی؛ سپېڅلی دی هغه.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ستایلی دی"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "او وېروونکی"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "سپېڅلی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:16.392483016Z",
+  "model": "glm-5.3"
+}

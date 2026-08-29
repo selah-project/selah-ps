@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 46:17",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "هلته يې وغږېدل: پرهعه، د مِتسرایم پاچا، يو شور دی؛ ⟨هغه⟩ ټاکل شوی وخت تېر کړ.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "وغږېدل"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پرهعه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "شور"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "تېر کړ"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "ټاکل شوی وخت"
+    }
+  ],
+  "timestamp": "2026-08-28T23:46:41.869629222Z",
+  "model": "glm-5.3"
+}

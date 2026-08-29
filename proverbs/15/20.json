@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "زویِ هوښیار پلار خوشحالوي، خو ساده انسان خپله مور سپکوي.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "هوښیار"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحالوي"
+    },
+    {
+      "surface": "אב",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "خو ساده"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "سپکوي"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "خپله مور"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:10.016559609Z",
+  "model": "glm-5.3"
+}

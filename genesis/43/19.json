@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 43:19",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "نو دوی هغه سړي ته نږدې شول چې د یوسف د کور مشر و، او د کور په دروازه کې ورسره خبرې وکړې.",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "نږدې شول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "هغه سړي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر…مشر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "د یوسف"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "خبرې وکړې"
+    },
+    {
+      "surface": "אליو",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "په دروازه کې"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "د کور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:12:06.427077298Z",
+  "model": "glm-5.3"
+}

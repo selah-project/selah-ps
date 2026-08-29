@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "مړي یاه نه ستایي، نه هغه چې د چوپتیا ښکته لوري ته ورځي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مړي"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ستایي"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر هغه"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ورځي (ښکته)"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "چوپتیا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:47.956435216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او دا د هغوی نومونه وو: د رئوبین د قبیلې لپاره — شموع، د زکور زوی.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "د هغوی نومونه"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې لپاره"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبین"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شموع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زکور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:54:35.567406650Z",
+  "model": "glm-5.3"
+}

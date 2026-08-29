@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "2-samuel 22:45",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "بهDigite د بهرنیو زامنو تر مې زړه تېر کړي؛ د غوږ په اورېدو به ماته غاړه کېږدي.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "د … زامنو"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "بهرنیو"
+    },
+    {
+      "surface": "יתכחשו",
+      "gloss": "تر مې زړه تېر کړي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "לשמוע",
+      "gloss": "د … اورېدو"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "غاړه کېږدي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:32.320654580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 77,
+  "translation": "ته ⟨هغه⟩ ایل یې چې معجزې کوي؛ ته په قومونو کې خپل زور ښکاره کړ.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "پלא",
+      "gloss": "معجزې"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "ښکاره کړې"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "په قومونو کې"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "خپل زور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:45.596663534Z",
+  "model": "glm-5.3"
+}

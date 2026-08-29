@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "⟨את⟩ دا يې خوړل کېږي، له هر هغه څه چې په اوبو کې وي: هر هغه څه چې پرې کښې (لنډې) او فلسونه وي، خوړل يې کوئ.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خوړل يې کوئ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "במים",
+      "gloss": "په اوبو کې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "لري"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "کښې (لنډې)"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "او فلسونه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خوړل يې کوئ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:36.871775808Z",
+  "model": "glm-5.3"
+}

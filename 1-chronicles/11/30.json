@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "مَهَرای نَطوفاتي، حېلِد زوی د بَعَناه نَطوفاتي.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "مَهَرای"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "نَطوفاتي"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "حېلِد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "بَعَناه"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "نَطوفاتي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:26.265610605Z",
+  "model": "glm-5.3"
+}

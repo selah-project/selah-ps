@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "راوُبن ژوندی دې وي او مړ نه دې شي، او د هغه سړو شمېر وي.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ژوندی وي"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "راوُبن"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "مړ شي"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او وي"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "د هغه سړي"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمېر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:34.130469079Z",
+  "model": "glm-5.3"
+}

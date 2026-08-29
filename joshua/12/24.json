@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د تیرتسا پاچا یو؛ ټول پاچاهان دېرش ⟨او⟩ یو (یو دېرش) وو.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تیرتسا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاچاهان"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "او یو"
+    }
+  ],
+  "timestamp": "2026-08-29T02:22:31.331980780Z",
+  "model": "glm-5.3"
+}

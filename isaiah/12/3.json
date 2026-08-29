@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او به په شادۍ اوبه راوباسئ د ژغورنې له چینو څخه.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "او به راوباسئ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "په شادۍ"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "له چینو څخه"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "د ژغورنې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:32.342743734Z",
+  "model": "glm-5.3"
+}

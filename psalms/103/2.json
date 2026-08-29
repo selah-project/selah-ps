@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 103,
+  "translation": "برکت ووايه، ای زما روح، ⟨את⟩ یاهوه، او د هغه ټولې ښېګڼې مه هېروې.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "برکت ووايه"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ای زما روح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "هېروې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "د هغه ښېګڼې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:09.714055335Z",
+  "model": "glm-5.3"
+}

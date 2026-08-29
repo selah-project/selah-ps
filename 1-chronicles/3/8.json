@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او الیشمع او الیاداع او الیفَلَت — نُه.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "او الیشمع"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "او الیاداع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "او الیفَلَت"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نُه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:44.640689356Z",
+  "model": "glm-5.3"
+}

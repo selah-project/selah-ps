@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "نوبوزرادان، د ځلندو مشر، ⟨את⟩ هغه واخېستل او ⟨אت⟩ د بابل د پاچا ته يې بوتلل ربلتا ته.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "واخېستل"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (بنديان)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "نوبوزرادان"
+    },
+    {
+      "surface": "רב",
+      "gloss": "د مشر"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ځلندو"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "بوتلل"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ هغه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "ربلتا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:49:51.704242125Z",
+  "model": "glm-5.3"
+}

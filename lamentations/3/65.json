@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ته به ورته د زړه سختوالۍ ورکوې، ستا لعنت به پر دوى وي.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ته به ... ورکوې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "سختوالۍ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "ستا لعنت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "پر دوى"
+    }
+  ],
+  "timestamp": "2026-08-29T01:19:45.857096940Z",
+  "model": "glm-5.3"
+}

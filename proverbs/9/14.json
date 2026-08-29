@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او هغه د خپل کور په دروازه کښېنېدلې، پر یوه څوکۍ د ښار په لوړو ځایونو کې.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "او کښېنېدلې"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "په دروازه"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "د خپل کور"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "یوه څوکۍ"
+    },
+    {
+      "surface": "مרמי",
+      "gloss": "لوړو ځایونو"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ښار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:03.719943452Z",
+  "model": "glm-5.3"
+}

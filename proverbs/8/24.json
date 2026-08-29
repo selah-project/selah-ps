@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "کله چې تهورې نه وې، زيږېدلې وم؛ کله چې د اوبو درنې چينې نه وې.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "کله چې... نه وې"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "تهورې"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "زيږېدلې وم"
+    },
+    {
+      "surface": "באין",
+      "gloss": "کله چې... نه وې"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "چينې"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "درنې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:37.298571939Z",
+  "model": "glm-5.3"
+}

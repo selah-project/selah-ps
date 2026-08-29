@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او له هغه ځایه څخه لږ شمېر واخله او هغه ⟨את⟩ په خپلو چولو کې وتړه.",
+  "tokens": [
+    {
+      "surface": "وלקחת",
+      "gloss": "او واخله"
+    },
+    {
+      "surface": "مשם",
+      "gloss": "له هغه ځایه"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "په شمېر"
+    },
+    {
+      "surface": "وצרת",
+      "gloss": "وتړه"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "په خپلو چولو کې"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "په خپلو چولو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:06.943910968Z",
+  "model": "glm-5.3"
+}

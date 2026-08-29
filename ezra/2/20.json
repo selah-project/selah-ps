@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د ګیبار زامن نوي پنځه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ګیبار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوي"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "پنځه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:03.646608372Z",
+  "model": "glm-5.3"
+}

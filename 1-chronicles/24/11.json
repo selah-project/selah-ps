@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "نهم یِشوعا ته، لسم شِخنیاهو ته.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "یِشوعا ته"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "نهم"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "شِخنیاهو ته"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "لسم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:12.601382325Z",
+  "model": "glm-5.3"
+}

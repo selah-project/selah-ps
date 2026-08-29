@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ځواب مې کړ او هغه فرښې ته چې له ما سره يې خبرې کولې مې ويل: دا څه دي، ادونای مې؟",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "او ځواب مې کړ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او مې ويل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "هغه فرښ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "چې خبرې يې کولې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "له ما سره"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:54.427063359Z",
+  "model": "glm-5.3"
+}

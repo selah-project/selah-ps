@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "کښېنې، پر خپل ورور دې خبرې کوې؛ پر د خپلې مور زوی دې تور لګوې.",
+  "tokens": [
+    {
+      "surface": "תשب",
+      "gloss": "کښېنې"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "پر خپل ورور"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "خبرې کوې"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "پر زوی"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ستا مور"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ورکوې"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "تور\/بند"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:00.502920215Z",
+  "model": "glm-5.3"
+}

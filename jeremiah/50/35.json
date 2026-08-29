@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 50:35",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 50,
+  "translation": "توره پر کسديانو ده — د یاهوه خبره — او پر د بابل اوسېدونکو، او پر د هغې امیرانو، او پر د هغې پوهانو.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "کسدیانو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکو"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "امیرانو"
+    },
+    {
+      "surface": "وאל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "پوهانو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:16.658757885Z",
+  "model": "glm-5.3"
+}

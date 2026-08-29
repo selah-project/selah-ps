@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ځکه چې لکه د بارو د غوټيو د ټکان غږ تر کوزي لاندې، داسې ده د نادان خندا؛ او دا هم هېڅ دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "کקול",
+      "gloss": "لکه د غږ"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "د بارو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تر ... لاندې"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "کوزی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې ده"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "خندا"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "د نادان"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېڅ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:03.958873567Z",
+  "model": "glm-5.3"
+}

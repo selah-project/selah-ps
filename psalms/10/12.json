@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "پاڅېږه، یاهوه! ایل، خپله لاسه پورته کړه! مسکینان مه هېروه!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "پاڅېږه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "پورته کړه"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "خپله لاسه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "هېروه"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "مسکینان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:26:41.547418957Z",
+  "model": "glm-5.3"
+}

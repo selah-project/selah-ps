@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ما خپل لپاره باغونه او پارکونه جوړ کړل، او په هغو کې مې د هر ډول مېوو ونې کېنولې.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "خپل لپاره"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغونه"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "او پارکونه"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "او کېنولې مې"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "په هغو کې"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر ډول"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "مېوو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:14.132990933Z",
+  "model": "glm-5.3"
+}

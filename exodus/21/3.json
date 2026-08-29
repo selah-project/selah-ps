@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "که په خپل ځان (تنهایی) راشي، په خپل ځان به ووځي؛ که د ښځې خاوند وي، نو ښځه به يې هم ورسره ووځي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "په خپل ځان"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "په خپل ځان"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "به ووځي"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "خاوند"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وی"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "نو به ووځي"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ښځه يې"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ورسره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:53.384959354Z",
+  "model": "glm-5.3"
+}

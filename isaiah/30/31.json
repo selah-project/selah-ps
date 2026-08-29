@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "ځکه چې د یاهوه له غږه به اشور مات-وېرېدلی شي؛ په ډنډر به وهل کېږي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "له غږه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "به مات-وېرېدلی شي"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اشور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "په ډنډر"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "به وهل کېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:19:17.567522826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د هغه رسى په ځمکه کې پټ وي، او د هغه دام پر لار اچول شوی.",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "پټ وي"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "د هغه رسى"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "او د هغه دام"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "لار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:29.056115635Z",
+  "model": "glm-5.3"
+}

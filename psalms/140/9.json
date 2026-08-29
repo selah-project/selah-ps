@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 140,
+  "translation": "یاهوه، د شریر مورال مه ورکوه؛ زمبې يې مه راوباوه، چې لوړ نه شي. سېله.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ورکوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "مورال"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "زمبې يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "راوباوه"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "لوړ نه شي"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېله"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:09.612575347Z",
+  "model": "glm-5.3"
+}

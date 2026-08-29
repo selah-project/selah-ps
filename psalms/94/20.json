@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 94,
+  "translation": "ایا د تباهۍ تخت له تا سره تړلی دی — هغه چې په فرمان سره زیاتي جوړوي؟",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "له تا سره تړلی دی؟"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "د تباهۍ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زیاتي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "په… سره"
+    },
+    {
+      "surface": "חק",
+      "gloss": "فرمان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:51.281934071Z",
+  "model": "glm-5.3"
+}

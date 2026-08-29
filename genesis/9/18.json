@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "د نوح زامن چې له کښتۍ ووتل، دا وو: شېم، حام او یافث؛ او حام د کنعان پلار و.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "נח",
+      "gloss": "د نوح"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "چې ووتل"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کښتۍ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شېم"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "یافث"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "او حام"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "همدا هغه"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "د… پلار"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:59.766774683Z",
+  "model": "glm-5.3"
+}

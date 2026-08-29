@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 110,
+  "translation": "ادونای پر ستا ښي لاس ⟨دی⟩؛ د خپل قهر په ورځ يې پاچاهان مات کړل.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ستا ښي لاس"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "مات کړل"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "د خپل قهر"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "پاچاهان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:34.699201026Z",
+  "model": "glm-5.3"
+}

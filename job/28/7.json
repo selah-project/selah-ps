@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "هغه لار ښکار-marغه نه پېژندلې، نه يې د باز سترګې ليدلې.",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "لار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پېژندلې"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "ښکار-marغه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "ليدلې"
+    },
+    {
+      "surface": "עין",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "איה",
+      "gloss": "باز"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:23.920409554Z",
+  "model": "glm-5.3"
+}

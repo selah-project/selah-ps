@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 22:26",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "ځکه هغه وخت به پر شدای خوښې وکړې، او خپل مخ به الوه ته پورته کړې.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "خوښې به وکړې"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "او به پورته کړې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپل مخ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:10:12.678345338Z",
+  "model": "glm-5.3"
+}

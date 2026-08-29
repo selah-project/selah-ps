@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د سترګو لیدنه له د نفس د ګرځېدنې غوره ده؛ دا هم هېبېل دی او د رود بدمرغي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "غوره"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "لیدنه"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "د سترګو"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ګرځېدنه"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هېبېل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "او بدمرغي"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "د رود"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:29.193069738Z",
+  "model": "glm-5.3"
+}

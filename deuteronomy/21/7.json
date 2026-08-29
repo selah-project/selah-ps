@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او ځواب ووايي او ووايي: زموږ لاسونو دا وینه نه ده توې کړې ⟨את⟩ وینه، او زموږ سترګو نه ده ليدلې.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ځواب ووايي"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "او ووايي"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "زموږ لاسونو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "توې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وینه"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "زموږ سترګو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ليدلې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:15.310414082Z",
+  "model": "glm-5.3"
+}

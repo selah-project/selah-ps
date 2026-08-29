@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 52:33",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "او د خپلو بندې جامې يې بدلې کړې ⟨את⟩، او ټول د هغه د ژوند ورځې تل د هغه پر وړاندې ډوډۍ خوړله.",
+  "tokens": [
+    {
+      "surface": "ושנה",
+      "gloss": "بدلې يې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د بندې جامې"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "د بندې"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "او خوړله"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "د هغه پر وړاندې"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "د هغه د ژوند"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:42.006146563Z",
+  "model": "glm-5.3"
+}

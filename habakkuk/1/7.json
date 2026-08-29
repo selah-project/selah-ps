@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "وېرونکی او ډاروونکی دی هغه؛ له هغه خپله پرېکړه او خپل سترګلوی وځي.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "وېرونکی"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "او ډاروونکی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دی هغه"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "له هغه"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "پرېکړه يې"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "او سترګلوی يې"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "وځي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:19:12.575005332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "نو شاؤل مړ شو، او د هغه درې زامن، او ټول د هغه کور ټولګې يوځای مړه شول.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "يوځای"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مړه شول"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:59.247153030Z",
+  "model": "glm-5.3"
+}

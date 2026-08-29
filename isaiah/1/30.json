@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "ځکه تاسو به د هغسې ونې ⟨غونډ⟩ ياست چې پاکه يې تويېږي، او د هغه باغ ⟨غونډ⟩ چې اوبه نه لري.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ياست"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "د ونې په څېر"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "تويېږي"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پاکه"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "او د باغ په څېر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "לה",
+      "gloss": "لري"
+    }
+  ],
+  "timestamp": "2026-08-28T23:10:47.405351056Z",
+  "model": "glm-5.3"
+}

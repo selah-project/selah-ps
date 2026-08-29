@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او هغه ⟨את⟩ د مسکن تختۍ د شټیم له لرګیو جوړې کړې، ولاړې.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "او هغه جوړې کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تختۍ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختۍ"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "د مسکن"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "د لرګیو"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "د شټیم"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ولاړې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:42.536869118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "دا کارونه بِنایاه د یِهویاداع زوی وکړل، او د درېیو غښتلو کې يې نوم درلود.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړل"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "بِنایاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "یِهویاداع"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "او ورته"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "د درېیو کې"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "غښتلو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:50:53.529979063Z",
+  "model": "glm-5.3"
+}

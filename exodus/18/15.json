@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او موشې خپل خسر ته وويل: «ځکه چې قوم راشي زما ته چې له الوهیم څخه پوښتنه وکړي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "خپل خسر ته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "راشي"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما ته"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "چې پوښتنه وکړي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:09.526628958Z",
+  "model": "glm-5.3"
+}

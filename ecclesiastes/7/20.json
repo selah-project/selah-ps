@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ځکه چې پر ځمکه داسې هېڅ عادل انسان نشته چې ښه وکړي او ګناه ونه کړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "عادل"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "پر ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "وکړي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ګناه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:06.493428708Z",
+  "model": "glm-5.3"
+}

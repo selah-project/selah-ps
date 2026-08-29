@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "هغه څه چې وو، د هغه نوم دمخه بلل شوی، او پېژندل شوی ⟨دی⟩ چې هغه ادم دی؛ او هغه نشي کولای محکمه وکړي له هغه ⟨چې⟩ ترې غښتلی دی.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "هغه څه"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "چې وو"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "دمخه"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "بلل شوی"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "نوم یې"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "او پېژندل شوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "نشي کولای"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "محکمه وکړي"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "غښتلی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ترې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:29.193320479Z",
+  "model": "glm-5.3"
+}

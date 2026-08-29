@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "خو زه چينجى يم، نه سړی — د ادمونو سپکاوی او د قوم له لوري حقار شوی.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "خو زه"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "چينجى"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "سپکاوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادمونو"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "او حقار شوی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:25.668355833Z",
+  "model": "glm-5.3"
+}

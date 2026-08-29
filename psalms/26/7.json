@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "د مننې غږ اورېدل، او ستا ټول عجیبه کارونه بیانول.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "د … اورېدل"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "مننې"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "او بیانول"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ستا عجیبه کارونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:02.818500078Z",
+  "model": "glm-5.3"
+}

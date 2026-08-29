@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 97,
+  "translation": "غرونه د موم په شان ویلې شول د یاهوه له مخې، د ټولې ځمکې د ادونای له مخې.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "د موم په شان"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "ویلې شول"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:07.663402608Z",
+  "model": "glm-5.3"
+}

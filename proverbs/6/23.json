@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "ځکه چې فرمان څراغ دی، او تورات رڼا، او د ښوونې نیوونې د ژوند لار دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "نר",
+      "gloss": "څراغ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "او تورات"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "او لار"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "د ژوند"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "نیوونې"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "د ښوونې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:18.763942288Z",
+  "model": "glm-5.3"
+}

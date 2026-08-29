@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د ورڼې ورځې دوامداره څاڅکی او د شخړو ښځه ⟨سره⟩ ورته ⟨دي⟩.",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "دوامداره څاڅکی"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "مخه نه نيول کېدونکی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "د ورڼې"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "او ښځه"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "د شخړو"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "ورته دي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:31.065929962Z",
+  "model": "glm-5.3"
+}

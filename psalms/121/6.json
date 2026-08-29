@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 121,
+  "translation": "لمر به د ورځې له خوا دې ونه وهي، سپوږمۍ هم د شپې له خوا.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ونه وهي دې"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "او سپوږمۍ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "د شپې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:14.230391709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "حتی په خپل فکر کې هم پاچا مه لعنوه، او د خپلې خوب خونې په کوټو کې شتمن مه لعنوه، ځکه چې د اسمان مرغه ⟨את⟩ غږ وړي، او د وزرونو څښتن خبر راپوروي.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "حتی"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "په فکر کې"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "لعنوه"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "او په کوټو کې"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "د خوب خونې دې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "لعنوه"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "شتمن"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "مرغه"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "د اسمان"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "وړي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غږ"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "او څښتن"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "د وزرونو"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "راپوروي"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:11.397504907Z",
+  "model": "glm-5.3"
+}

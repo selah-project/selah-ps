@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "هغه د کوم فدیې په درناوي نه غړوي، او نه وراضی کېږي، که څه هم تا رشوت ډېر کړی وي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "غړوي (درناوی کوي)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "په درناوي\/مخ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فدیه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "راضی کېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که څه هم"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ډېر کړی وي"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:14.889451121Z",
+  "model": "glm-5.3"
+}

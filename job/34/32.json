@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "«هغه چې نه يې وینم، ته مې وښيه؛ که ما ناوړه کړې وي، نور به يې نه کوم.»",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "هغه چې نه"
+    },
+    {
+      "surface": "אחזه",
+      "gloss": "يې وینم"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "مې وښيه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ناوړه"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "ما کړې وي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "نور به کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:19.302184342Z",
+  "model": "glm-5.3"
+}

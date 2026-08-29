@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د سپینو زرو خاره لرې کړه، او د تصفیه کوونکي لپاره لوښی راوځي.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "خاره"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "سپینو زرو"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "راوځي"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "تصفیه کوونکي"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:35.051938175Z",
+  "model": "glm-5.3"
+}

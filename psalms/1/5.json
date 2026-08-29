@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "همدا Reason Stokes له دې امله، بدکار به په فیصله کې نه درېږي، نه ګناهکاران د صالحانو په ټولنه کې.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "له"
+    },
+    {
+      "surface": "כן",
+      "gloss": "دې امله"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "درېږي"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "په فیصله کې"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "نه ګناهکاران"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "په ټولنه کې"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "د صالحانو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:24:38.491858669Z",
+  "model": "glm-5.3"
+}

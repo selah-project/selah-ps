@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د ژوند اوږدوالی په ښي لاس کې دی، په کيڼ لاس کې يې شتمني او عزت.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "اوږدوالی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "د ورځو (ژوند)"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "په ښي لاس کې"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "په کيڼ لاس کې"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "او عزت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:28.972940744Z",
+  "model": "glm-5.3"
+}

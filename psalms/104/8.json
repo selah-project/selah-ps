@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 104,
+  "translation": "غرونه پورته خېجل شول، درې ښکته شول — هغه ځای ته چې ته ورته ټاکلی و.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "پورته خېجل شول"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ښکته شول"
+    },
+    {
+      "surface": "בקעوت",
+      "gloss": "درې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "זה",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ټاکلی و"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:11.190007392Z",
+  "model": "glm-5.3"
+}

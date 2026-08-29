@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 27:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د منشه د قبیلې د نیمایي پر ګلعاد يې يِدو د زکریاهو زوی و؛ د بینیامین پر یعشیایل د اونیر زوی و.",
+  "tokens": [
+    {
+      "surface": "לחצי",
+      "gloss": "د نیمایي"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "د منشه"
+    },
+    {
+      "surface": "גלעדה",
+      "gloss": "ګلعاد"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "يِدو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زکریاهو"
+    },
+    {
+      "surface": "לבנימן",
+      "gloss": "د بینیامین"
+    },
+    {
+      "surface": "יעשיאל",
+      "gloss": "یعشیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اونیر"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:28.765295499Z",
+  "model": "glm-5.3"
+}

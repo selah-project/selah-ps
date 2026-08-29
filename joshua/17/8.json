@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 17:8",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "د منسه (۱۷:۸) خواته د تپوح ځمکه وه، خو تپوح ⟨خپله⟩ پر د منسه پوله د افرایم زامنو ته و.",
+  "tokens": [
+    {
+      "surface": "למנשה",
+      "gloss": "د منسه خواته"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "د تپوح"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "خو تپوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "د منسه"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زامنو ته"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:22:37.578050060Z",
+  "model": "glm-5.3"
+}

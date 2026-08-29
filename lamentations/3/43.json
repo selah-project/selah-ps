@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "په قهر کې ⟨موندلي⟩ دې پټ کړي، او تعقیب مو کړی دې؛ وژلي دې، رحم دې نه دی کړی.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "پټ کړي دې"
+    },
+    {
+      "surface": "באף",
+      "gloss": "په قهر کې"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "او تعقیب مو کړی دې"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "وژلي دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "رحم دې کړی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:20.581246733Z",
+  "model": "glm-5.3"
+}

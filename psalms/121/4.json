@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 121,
+  "translation": "وګوره — نه ویده کېږي او نه خوب کوي د اسرائیل ساتونکی.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ویده کېږي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "خوب کوي"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ساتونکی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:04.127216559Z",
+  "model": "glm-5.3"
+}

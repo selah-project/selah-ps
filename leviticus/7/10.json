@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او هر مېنحه چې په تېلو کې ګډه شوې وي او وچه، د اهرون ټولو زامنو به وي — هر یو د خپل ورور په څېر.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مېنحه"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ګډه شوې"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "په تېلو کې"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "او وچه"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر یو"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "د خپل ورور په څېر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:34:38.855219596Z",
+  "model": "glm-5.3"
+}

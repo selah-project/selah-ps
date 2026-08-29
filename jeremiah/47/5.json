@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 47:5",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "بېشوودنه عزې ته راغلې؛ ایشقلون ړنګ شو — د دوی د درې پاتې شوني. تر کله به ځان شل ټوټه کوې؟",
+  "tokens": [
+    {
+      "surface": "באה",
+      "gloss": "راغلې"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "بېشوودنه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "عزه"
+    },
+    {
+      "surface": "נדמתה",
+      "gloss": "ړنګ شو"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "ایشقلون"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "پاتې شوني"
+    },
+    {
+      "surface": "עמקם",
+      "gloss": "د دوی د درې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "תתגודדי",
+      "gloss": "ځان شل ټوټه کوې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:45:49.071512567Z",
+  "model": "glm-5.3"
+}

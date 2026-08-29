@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "بلکې هر سړی به په خپله ګناه مري؛ هر هغه سړی چې ترش انګور خوري، د هغه خپل غاښونه به لنده شي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "په خپله ګناه"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "به مري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "هغه سړی"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "چې خوري"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "ترش انګور"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "به لنده شي"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "د هغه غاښونه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:41:04.938955383Z",
+  "model": "glm-5.3"
+}

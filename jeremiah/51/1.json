@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "داسې وايي یاهوه: نن زما پر بابل او پر اوسېدونکو د لېب-قاماي (د زما پاڅوونکو زړه) يو ویجاروونکی باد پاروم.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "نن"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "پاروم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "زما پاڅوونکو"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "باد"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ویجاروونکی"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:30.600713255Z",
+  "model": "glm-5.3"
+}

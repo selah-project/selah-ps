@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 136,
+  "translation": "او عوګ د باشان پاچا، ځکه چې د هغه خېسېد تر پایه پاتې کېږي.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "او عوګ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "د باشان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تر پایه"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "د هغه خېسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:42.270534143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او يَقتان ⟨את⟩ اَلموداد او ⟨את⟩ شِلِف او ⟨את⟩ حَصَرمَوِت او ⟨את⟩ يَرَخ وزېږول.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "يَقتان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وزېږول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَلموداد"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "اَلموداد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شِلِف"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "شِلِف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "حَصَرمَوِت"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "حَصَرمَوِت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "يَرَخ"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "يَرَخ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:45:59.357220582Z",
+  "model": "glm-5.3"
+}

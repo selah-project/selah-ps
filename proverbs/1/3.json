@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د هوښیار چلند روزنه منلو لپاره — عدالت، انصاف او نیک چلند،",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "د منلو لپاره"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "روزنه"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "هوښیار چلند"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او انصاف"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "او نیک چلند"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:51.800303663Z",
+  "model": "glm-5.3"
+}

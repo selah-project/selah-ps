@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "ځکه چې هم هغه ده په دښته کې زېږه وکړه او پرېښودله يې، ځکه چې هېڅ وښه نه وو.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "هغه ده"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "په دښته کې"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زېږه وکړه"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "او پرېښودله يې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "وښه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:34:42.554929406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 128,
+  "translation": "د ستا د لاسونو زحمت به خوري، ښه به دې وي او ښېراضي به دې وي.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "زحمت"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "د ستا د لاسونو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ښېراضي به دې وي"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "او ښه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:21.292466697Z",
+  "model": "glm-5.3"
+}

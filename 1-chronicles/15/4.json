@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او داوېد د اهرون زامن ⟨את⟩ او لویان ⟨את⟩ راټول کړل.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "راټول کړل"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د اهرون زامن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:52:13.881067816Z",
+  "model": "glm-5.3"
+}

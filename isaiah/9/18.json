@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 9:18",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "د لښکرو د یاهوه په قهر ځمکه ورانېږي، او خلک د اور د خوراک په څېر دي؛ سړی پر خپل ورور رحم نه کوي.",
+  "tokens": [
+    {
+      "surface": "בעברת",
+      "gloss": "په قهر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د لښکرو"
+    },
+    {
+      "surface": "נעתם",
+      "gloss": "ورانېږي"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "او [دی]"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "כמאכלת",
+      "gloss": "د خوراک په څېر"
+    },
+    {
+      "surface": "אש",
+      "gloss": "د اور"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "خپل ورور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחמלו",
+      "gloss": "رحم کوي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:38.457629871Z",
+  "model": "glm-5.3"
+}

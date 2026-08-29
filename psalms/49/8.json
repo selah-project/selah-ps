@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "ورور هېڅکله د ورور فدیه نشي ورکولی، هغه نشي کولی الوهیم ته د هغه کفاره ورکړي —",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ورور"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نشي"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "فدیه"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ورکولی نشي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نشي"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوهیم ته"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "د هغه کفاره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:28.521016644Z",
+  "model": "glm-5.3"
+}

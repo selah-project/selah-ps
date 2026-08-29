@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "څنګه زه یوازې ستاسو بار، ستاسو درانه بار او ستاسو شخړې زیږم؟",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "زه زیږم"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ستاسو بار"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "او ستاسو درانه بار"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "او ستاسو شخړې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:19.401599448Z",
+  "model": "glm-5.3"
+}

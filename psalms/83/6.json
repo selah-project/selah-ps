@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "ځکه چې يې زړونه ⟨يې⟩ سره یو کړي، پر ته ⟨د⟩ يې تړون کړی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "مشوره يې کړي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړونه"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "سره یو"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "تړون"
+    },
+    {
+      "surface": "יכرתו",
+      "gloss": "کړی دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:10.923352936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "د دې لپاره چې ته ⟨את⟩ یاهوه، ستا الوهیم، ته په خوښۍ او د زړه په نیکۍ سره ونه ماته، د هر شي په ښېرازۍ کې.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "د دې لپاره چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ونهماته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "په خوښۍ"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "او په نیکۍ"
+    },
+    {
+      "surface": "لבב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "په ښېرازۍ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د هر شي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:23.929952941Z",
+  "model": "glm-5.3"
+}

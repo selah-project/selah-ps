@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "ځکه چې پلار مې او مور مې پرېښودم، خو יהוה ځم راټولوم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار مې"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "او مور مې"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "مې پرېښودم"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "خو یاهوه"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "مې راټولوم\/مې مني"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:01.997660502Z",
+  "model": "glm-5.3"
+}

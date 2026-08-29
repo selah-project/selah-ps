@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه ⟨את⟩ ما د انګړ د خوالې [خوا ته] راوستیوم؛ او ما وګورل، او وګوره، په دیوال کې یو سوری و.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "او هغه راوستیوم"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ما"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تر"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "د خوالې"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "د انګړ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "او ما وګورل"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "חר",
+      "gloss": "سوری"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "په دیوال کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:21.358355062Z",
+  "model": "glm-5.3"
+}

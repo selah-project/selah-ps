@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 22:12",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او هغه ⟨את⟩ سره يې د الوهيم په کور کې شپږ کالونه پټ و، او عتلیاهو پر ځمکه واکمنېده.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او و"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ سره يې"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "په کور کې"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهيم"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "پټ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "کالونه"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "او عتلیاهو"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "واکمنېده"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:05:35.027073984Z",
+  "model": "glm-5.3"
+}

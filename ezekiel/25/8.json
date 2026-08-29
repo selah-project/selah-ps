@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "داسې وايي ادونای یاهوه: له دې امله چې موآب او سعیر ویل: اړه، د یهودا کور د ټولو ملتونو په څېر دی،",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יען",
+      "gloss": "له دې امله چې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "او سعیر"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "اړه"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "د ټولو په څېر"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:40.698409244Z",
+  "model": "glm-5.3"
+}

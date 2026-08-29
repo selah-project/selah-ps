@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "شپږ دي چې یاهوه يې کرېږي، او اووه چې د هغه د نفس لپاره کرغېړن دي —",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دي"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "کرېږي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "او اووه"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "د هغه نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:22.790717324Z",
+  "model": "glm-5.3"
+}

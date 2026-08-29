@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "تر هغه چې ورځ راوخي او سيوري وتښتي، زه به ځان د مور د غره ته او د لبانې (کندور) ټاکۍ ته ويسم.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر هغه چې"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "راوخي"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "وتښتي"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "سيوري"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "زه به ... ويسم"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ځان (له ما سره)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غره"
+    },
+    {
+      "surface": "המור",
+      "gloss": "مور"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ... ته"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ټاکۍ"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "لبانې (کندور)"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:30.958165815Z",
+  "model": "glm-5.3"
+}

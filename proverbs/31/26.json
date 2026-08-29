@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "خپله خوله په حکمت پرانیستې ده، او د خېسېد لارښوونه پر ⟨د هغې⟩ ژبه ده.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "خپله خوله"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "پرانیستې ده"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "په حکمت"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "او لارښوونه"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "د خېسېد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "ژبه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:28.064847921Z",
+  "model": "glm-5.3"
+}

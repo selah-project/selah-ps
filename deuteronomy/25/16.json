@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "ځکه هر هغه چا چې دا کړې دي، هر ظلم کوونکی، د یاهوه ستا الوهیم کرغېړن دی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "کرغېړن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "هغه چا چې…کړې"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کوونکی"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:25.132428110Z",
+  "model": "glm-5.3"
+}

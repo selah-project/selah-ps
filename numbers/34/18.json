@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او ⟨ه⟩ یو مشر، د هرې قبیلې څخه یو مشر، وړیسی چې ⟨את⟩ ځمکه په میراث ونیسي.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "او یو مشر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "د هرې قبیلې څخه"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "وړیسی"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "چې په میراث ونیسي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ځمکه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:26.629018005Z",
+  "model": "glm-5.3"
+}

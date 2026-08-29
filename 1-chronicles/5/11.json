@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د ګاد زامنو د دوی مخامخ د باشان په ځمکه کې تر سَلخاه پورې مېشتې وکړې.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "د دوی مخامخ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "مېشتې وکړې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر … پورې"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سَلخاه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:36.736380633Z",
+  "model": "glm-5.3"
+}

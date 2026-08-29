@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او کله چې وخورې او مړه شې، نو ياهوه ⟨את⟩، ستا الوهيم، به په هغه ښه ځمکه کې وستایې چې تا ته يې ورکړې ده.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "او کله چې وخورې"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "او مړه شې"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "به وستایې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ياهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستا الوهيم"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړې ده"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:16.300347665Z",
+  "model": "glm-5.3"
+}

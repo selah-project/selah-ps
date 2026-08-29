@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "له مانه لرې مه اوسه، ځکه چې تنګه نږدې ده، ځکه چې مرستندوی نشته.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "لرې مه اوسه"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "له مانه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنګه"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "نږدې ده"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "مرستندوی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:31.605283152Z",
+  "model": "glm-5.3"
+}

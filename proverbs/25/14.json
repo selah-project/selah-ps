@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 25:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "غبرګونه او باد، خو باران نشته — داسې دی هغه سړی چې په دروغجنې ډالۍ ځان ستايي.",
+  "tokens": [
+    {
+      "surface": "נשיאים",
+      "gloss": "غبرګونه"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "او باد"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "خو باران"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "מתהלל",
+      "gloss": "ځان ستايي"
+    },
+    {
+      "surface": "במתת",
+      "gloss": "په ډالۍ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغجنې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:48.724978051Z",
+  "model": "glm-5.3"
+}

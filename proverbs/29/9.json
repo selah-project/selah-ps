@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "حکیم سړی ⟨את⟩ ناپوه سړی محاسبه کوي، که ⟨هغه⟩ غوسه کېي که خندل کېي، ارامي نشته.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "محاسبه کوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناپوه سړی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ناپوه"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "که غوسه کېي"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "که خندل کېي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ارامي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:16.992313955Z",
+  "model": "glm-5.3"
+}

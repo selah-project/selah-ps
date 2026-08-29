@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او یاهوه الوهيم په عیدن کې ختیځ لوري ته يو باغ وکرل، او هغه يې ⟨את⟩ انسان چې يې جوړ کړی و هلته کېښود.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "وکرل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "גן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "په عیدن کې"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ختیځ لوري ته"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "کېښود"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "جوړ کړی و"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:36.296299436Z",
+  "model": "glm-5.3"
+}

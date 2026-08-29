@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "او د لويديږ اړخ: ستر سمندر، له پولې څخه د حماط د داخلېدو مقابلې ته؛ دا ⟨دی⟩ د لويديږ اړخ.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "او اړخ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "لوېديځ (سمندر لور)"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "له پولې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "مقابلې"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "د داخلېدو"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماط"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "اړخ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "لوېديږ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:36.567900454Z",
+  "model": "glm-5.3"
+}

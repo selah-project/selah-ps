@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "کور او شتمني د پلرونو میراث دي، خو د یاهوه څخه ⟨ه⟩ د عاقلې ښځې (راغلل).",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "והון",
+      "gloss": "او شتمني"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "پلرونو (د)"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "او د یاهوه څخه"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "عاقله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:58.726517868Z",
+  "model": "glm-5.3"
+}

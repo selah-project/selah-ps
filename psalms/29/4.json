@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د یاهوه غږ ⟨له⟩ ځواکه، د یاهوه غږ ⟨له⟩ جلاله.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "له ځواکه"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "له جلاله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:25.256543436Z",
+  "model": "glm-5.3"
+}

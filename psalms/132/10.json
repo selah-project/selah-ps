@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 132,
+  "translation": "د خپل بنده داوېد له پاره، د خپل ماشیاخ مخ مه شړه.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "د…له پاره"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ستا بنده"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "مه شړه"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ستا ماشیاخ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:18.637511646Z",
+  "model": "glm-5.3"
+}

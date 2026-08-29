@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او که په يوه ووهي، نو مشران به دې ته راټول شي، د اسرائیل د زرګيو مشران:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "په يوه"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "ووهي"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "راټول شي"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ته دې"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "د زرګيو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:54.399927426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ولې زما مخکې زانګونه ودرېدلې، او ولې شيدې چې زره يې څښم؟",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "زما مخکې ودرېدلې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "زانګونه"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او ولې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "שדים",
+      "gloss": "شيدې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": " "
+    },
+    {
+      "surface": "אינק",
+      "gloss": "زره يې څښم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:31.196551759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د دوی سپکاوی دې اورېدلی، ای یاهوه، د دوی ټول فکرونه چې زما پر ضد دي.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "دې اورېدلی"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "د دوی سپکاوی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "د دوی فکرونه"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما پر ضد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:20:34.258097106Z",
+  "model": "glm-5.3"
+}

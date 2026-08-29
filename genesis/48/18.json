@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او یوسف خپل پلار ته وويل: «داسې نه، پلاره! دا هغه لومړی‌زی دی؛ خپله ښې لاس د هغه پر سر کېږده.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "خپل پلار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כן",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلاره"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "זה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "لومړی‌زی"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کېږده"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "خپله ښې لاس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "د هغه سر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:13:53.596942257Z",
+  "model": "glm-5.3"
+}

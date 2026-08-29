@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د ګاد لپاره — اِلیاساف، د دِعویل زوی.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "د ګاد لپاره"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعویل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:55.784374798Z",
+  "model": "glm-5.3"
+}

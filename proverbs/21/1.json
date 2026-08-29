@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د اوبو ويالې ته ورته د پاچا زړه د یاهوه په لاس کې دی؛ هر چېرې چې هغه ⟨هغه⟩ خوښ کړي، ⟨یاهوه⟩ هغه ورګرځوي.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ويالې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "هر چېرته چې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "خوښ کړي"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "ورګرځوي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:06.316185673Z",
+  "model": "glm-5.3"
+}

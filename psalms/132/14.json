@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 132,
+  "translation": "دا زما د ارام ځای دی، د تل لپاره؛ دلته به زه اوسم، ځکه چې ما هغه غوښتلې ده.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "زما د ارام ځای"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "د تل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "لپاره"
+    },
+    {
+      "surface": "פה",
+      "gloss": "دلته"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "به اوسم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "هغه غوښتلې ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:38.296901054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "لږ په عدالت سره ښه دی له ډېرو حاصلو څخه چې بې-عدالته وي.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "په عدالت"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "له ډېرو"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "حاصلو"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "چې ... نه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:11.520816533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د هغوی چې پر شرابو پسې ځنډېږي، د هغوی چې د ګډ شرب د پلټنې لپاره راځي.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "هغوی چې ځنډېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شرابو"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "راځونکو"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "د پلټنې لپاره"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "ګډ شرب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:10.266524549Z",
+  "model": "glm-5.3"
+}

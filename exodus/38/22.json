@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او بېتسلایل، زوی اوري، زوی حور، د یهودا د قبیلې، هغه ⟨את⟩ ټول هغه څه جوړ کړل چې یاهوه ⟨את⟩ موشې ته حکم کړی و.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "او بېتسلایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اوری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "د قبیلې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه څه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:30:57.304250187Z",
+  "model": "glm-5.3"
+}

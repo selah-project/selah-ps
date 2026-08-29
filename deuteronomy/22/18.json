@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او د هغه ښار زاړه سړي به هغه ⟨את⟩ سړی ونيسي او هغه ⟨את⟩ ته به ورته وګواږي.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "او به ونيسي"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "د زاړو سړو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سړی"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "او به ګواږي"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ هغه",
+      "marks": "هغه (سړی)"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:41.813449287Z",
+  "model": "glm-5.3"
+}

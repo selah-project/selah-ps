@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "یوځای بنديان ارام دي؛ د ځورونکي غږ نه اوري.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "بنديان"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "ارام دي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "اوري"
+    },
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ځورونکي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:18.463068955Z",
+  "model": "glm-5.3"
+}

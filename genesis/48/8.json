@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او یزرائل وګوره ⟨את⟩ د یوسف زامنې، او ویې ویل: «دا څوک دي؟»",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "وګوره"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یزرائل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یوسف زامنې"
+    },
+    {
+      "surface": "بני",
+      "gloss": "زامنې"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "د یوسف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:13:49.164965867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 137,
+  "translation": "څنګه ووایم د یاهوه ⟨את⟩ سندره، پر پردۍ ځمکه؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ووایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سندره"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "پردۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:02.629146879Z",
+  "model": "glm-5.3"
+}

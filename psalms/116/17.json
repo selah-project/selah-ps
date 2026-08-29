@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 116,
+  "translation": "ستا لپاره به د مننې قرباني وکړم او په نوم د یاهوه به وغواړم.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ستا لپاره"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "به قرباني کړم"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "د مننې"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "او په نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "به وغواړم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:53.919349563Z",
+  "model": "glm-5.3"
+}

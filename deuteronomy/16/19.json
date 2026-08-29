@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 16:19",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "حکم به نه کږوې، مخ به نه پېژنې، او رشوت به نه اخلې، ځکه چې رشوت د هوښیارو سترګې ړندوي او د صالحانو خبرې باطلوي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "کږوې"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תכיר",
+      "gloss": "پېژنې"
+    },
+    {
+      "surface": "پנים",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "اخلې"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "رشوت"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ړندوي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "د هوښیارو"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "او باطلوي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "د صالحانو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:52.177439597Z",
+  "model": "glm-5.3"
+}

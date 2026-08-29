@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او پر هغه به د یاهوه روح آرام شي — د حکمت او پوهې روح، د مشورې او زور روح، د پوهې او د یاهوه د وېرې روح.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "آرام به شي"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "او پوهې"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورې"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "او زور"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهې"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "د وېرې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:13:38.266651354Z",
+  "model": "glm-5.3"
+}

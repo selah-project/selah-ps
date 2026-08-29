@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 63,
+  "translation": "د داوېد مزمور، هغه مهال چې په یهودا په وچه کې و.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "هغه مهال چې و"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په وچه کې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:49.876187555Z",
+  "model": "glm-5.3"
+}

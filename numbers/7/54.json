@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "په اتمه ورځ د مَنَشّه د زامنو مشر، ګَمْلِی ایل د پِدَه-تسور زوی.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "په…ورځ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اتمه"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّه"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "ګَمْلِی ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پِدَه"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسور"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:55.582048722Z",
+  "model": "glm-5.3"
+}

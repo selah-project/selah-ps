@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "چې د ځمکې ټولو قومونه پوه شي چې یاهوه هماغه ⟨الوهیم⟩ دی — بل نشته.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوه شي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قومونه"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هماغه"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨الوهیم⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:54:43.684865247Z",
+  "model": "glm-5.3"
+}

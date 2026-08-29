@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او درې لس زره او پنځه سوه خران،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "خران"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "درې لس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:18.064884544Z",
+  "model": "glm-5.3"
+}

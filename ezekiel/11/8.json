@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "توره مو وېرېږوله؛ او توره به پر تاسو راولم — د ادونای یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "توره"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "مو وېرېږوله"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "او توره"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "به راولم"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "پر تاسو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "د ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:53:20.504701528Z",
+  "model": "glm-5.3"
+}

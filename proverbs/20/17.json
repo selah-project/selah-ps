@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "د دروغجن ډوډۍ سوی خوندیز ⟨دی⟩، خو وروسته يې خوله به له شګو ډکه شي.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "خوندیز"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "سوی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "خو وروسته"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "ډکه شي"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "خوله يې"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "شګې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:31.471589602Z",
+  "model": "glm-5.3"
+}

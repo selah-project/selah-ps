@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "بیا مې هغه فرښتې ته وویل چې له ما سره يې خبرې کولې: دوی ⟨את⟩ اېفا چېرته بيولي؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "وویل مې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "هغه فرښته"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "چې خبرې کولې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "له ما سره"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "چېرته"
+    },
+    {
+      "surface": "המه",
+      "gloss": "دوی"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "بيولي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اېفا"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "اېفا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:31.762418920Z",
+  "model": "glm-5.3"
+}

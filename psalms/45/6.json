@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 45,
+  "translation": "ستا تېرې تېر دي — خلک ستا لاندې غورځي — د پاچا د دښمنانو په زړه کې.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "ستا تېرې"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "تېر دي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ستا لاندې"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "غورځي"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "په زړه کې"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "د دښمنانو"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:33:37.641978854Z",
+  "model": "glm-5.3"
+}

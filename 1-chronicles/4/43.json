@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ⟨את⟩ هغه پاتې شوي چې د عمالق له تښتېدو څخه پاتې وو وویشتل، او هلته يې تر دې ورځې اوسېدل.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "وویشتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د عمالق پاتې شوي"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "پاتې شوي"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "له تښتېدو څخه"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "د عمالق"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "اوسېدل يې"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دې ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:28.862436154Z",
+  "model": "glm-5.3"
+}

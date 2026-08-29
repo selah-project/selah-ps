@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د دان لپاره: اهیعزر د عمیشدای زوی.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "د دان لپاره"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "اهیعزر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عمیشدای"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:34.634783106Z",
+  "model": "glm-5.3"
+}

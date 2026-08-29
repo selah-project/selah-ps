@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او دا به وشي: په هغه ورځ چې تاسو ⟨את⟩ اردن تېر کړئ، هغې ځمکې ته چې یاهوه ستاسو الوهیم درکوي، نو دې ته لویې ډبرې ودروې او ⟨את⟩ دوی په سېډ وټومبې.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او دا به وشي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "تېر کړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ستاسو الوهیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "ودروې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ډبرې"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "لویې"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "وټومبې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "په سېډ"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "په سېډ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:35.554848327Z",
+  "model": "glm-5.3"
+}

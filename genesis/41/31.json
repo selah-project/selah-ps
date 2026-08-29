@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 41,
+  "translation": "او بېمېدنه به په ځمکه کې ونه پېژندل شي د هغې لوږې له امله چې وروسته راځي، ځکه چې هغه خورا دروند دی.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "پېژندل شي"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "بېمېدنه"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ځمکه"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له امله"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "لوږې"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغې"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "כן",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "دروند"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "خورا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:11:09.407247793Z",
+  "model": "glm-5.3"
+}

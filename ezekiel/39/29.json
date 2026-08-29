@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 39:29",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او نور به خپل مخ له هغوی نه پټوم، ځکه مې زما روح ⟨את⟩ پر د اسرائیلو کور وېشه، د ادونای یاهوه خبره ده.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "پټوم"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "פני",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "له هغوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "שפכתי",
+      "gloss": "وېشه مې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما روح"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "زما روح"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د اسرائیلو"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره ده"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:05:10.596435409Z",
+  "model": "glm-5.3"
+}

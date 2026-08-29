@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 82,
+  "translation": "نه پېژني او نه فهم کوي، په تیاره کې ګرځي؛ ټول د ځمکې بنسټونه خوځېږي.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "فهم کوي"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "په تیاره کې"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "خوځېږي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "د … بنسټونه"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:07.875127141Z",
+  "model": "glm-5.3"
+}

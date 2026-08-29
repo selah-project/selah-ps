@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او همدا رنګ چې کله نادان په لار روان وي، د زړه پوهه يې کمه ده، او ټولو ته يې څرګنده ده چې هغه نادان دی.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او همدا رنګ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "چې کله نادان"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روان وي"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه يې"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کمه ده"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او څرګنده وي"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ټولو ته"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:43.990828257Z",
+  "model": "glm-5.3"
+}

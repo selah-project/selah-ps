@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او پاڅېد یاربعم، د نبات زوی، د شلومو غلام — د داوېد زوی — او سرکښه شو پر خپل آقا.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "او پاڅېد"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یاربعم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نبات"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "او سرکښه شو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "خپل آقا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:33.981769870Z",
+  "model": "glm-5.3"
+}

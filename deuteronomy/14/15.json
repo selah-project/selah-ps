@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او ⟨את⟩ لور هغه يا عنا (شترمرغ)، او ⟨את⟩ تَحمَس، او ⟨את⟩ شَحَف، او ⟨את⟩ نِز (باز) لد خپل ډول.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لور هغه يا عنا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "هغه يا عنا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تَحمَس"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "تَحمَس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شَحَف"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "شَحَف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "نِز"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "نِز (باز)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "لد خپل ډول"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:52.948998042Z",
+  "model": "glm-5.3"
+}

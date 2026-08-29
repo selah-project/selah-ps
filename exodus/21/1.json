@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او دا هغه مِشپاتيم (عدلونه) دي چې ته به یې د دوی مخې ته ږدې.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "مِشپاتيم (عدلونه)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ته به ږدې"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "د دوی مخې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:20:53.384448545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "چې د انصاف لارې وساتي، او د خپلو خېسېدوالو لار وساتي.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "چې وساتي"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "او لار"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "د خپلو خېسېدوالو"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "وساتي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:11.236009435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "د انسان لپاره د خپلې خولې په ځواب کې خوښي ده، او خبره په خپل وخت — څومره ښه ده!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "د انسان لپاره"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "په ځواب کې"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "د خپلې خولې"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "او خبره"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "په خپل وخت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه ده"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:17.098457301Z",
+  "model": "glm-5.3"
+}

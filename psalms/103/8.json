@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 103,
+  "translation": "رحم کونکی او مهربان ⟨دی⟩ یاهوه، د غوسې لګیا، او د خېسېډ ډېر.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "رحم کونکی"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "او مهربان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لګیا"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "د غوسې"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "او ډېر"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېډ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:58.999300241Z",
+  "model": "glm-5.3"
+}

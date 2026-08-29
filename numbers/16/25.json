@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 16:25",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "موشېدرېغ وکړ او داتان او ابیرام ته ولاړ، او د یسریل زاړه\/مشران ورپسې ولاړل.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "درېغ وکړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "داتان"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "او ابیرام"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ولاړل"
+    },
+    {
+      "surface": "אחריو",
+      "gloss": "ورپسې"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "زاړه\/مشران"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "د یسریل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:56:38.534567683Z",
+  "model": "glm-5.3"
+}

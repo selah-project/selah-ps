@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 51:43",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ښارونه يې ویجاړي ته وګرځېدل، وچه ځمکه او دښته — هغه ځمکه چې هيڅ سړی پکې نه اوسي او هيڅ د آدم زوی ترې نه تېرېږي.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "وګرځېدل"
+    },
+    {
+      "surface": "עריה",
+      "gloss": "ښارونه يې"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "ویجاړي ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "وچه"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "او دښته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "اوسي"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هيڅ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "تېرېږي"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ترې"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د آدم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:49:36.115775919Z",
+  "model": "glm-5.3"
+}

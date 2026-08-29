@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "هغه توپان سکون ته اړوي، او د هغوی څپې ارامې شوې.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "اړوي"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "توپان"
+    },
+    {
+      "surface": "לדממه",
+      "gloss": "سکون ته"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "او ارام شوې"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "د هغوی څپې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:11.016086300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د ډېر شات خوړل ښه نه دي، او د خپل جلال پلټنه — جلال دی.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "خوړل"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شات"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "او پلټنه"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "د دوی جلال"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:30.136090985Z",
+  "model": "glm-5.3"
+}

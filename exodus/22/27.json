@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "الوهیم مه لعنوه، او د خپل قوم یو مشر مه لعنوه.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "لعنوه"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "او مشر"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "د خپل قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:14:36.868612791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او عَدَیاه، او بَرایاه، او شِمرات — د شِمعي زامن.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "او عَدَیاه"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "او بَرایاه"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "او شِمرات"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "د شِمعي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:25.971682037Z",
+  "model": "glm-5.3"
+}

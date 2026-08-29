@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "زه غټېدم ⟨هغه⟩ زه خپله خوله نه پرانیستم، ځکه ته دې دا کړي.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "زه غټېدم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "زه پرانیستم"
+    },
+    {
+      "surface": "פי",
+      "gloss": "خپله خوله"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "دې دا کړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:53.055471243Z",
+  "model": "glm-5.3"
+}

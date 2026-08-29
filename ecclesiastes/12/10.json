@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "کُهِلِت د خوښۍ خبرې په لټه کې و، او ليکل شوه ⟨نيغ⟩ — د حق خبرې.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "په لټه کې و"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "کُهِلِت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "چې پيدا کړي"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "د خوښۍ"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "او ليکل شوه"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨نيغ⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "د حق"
+    }
+  ],
+  "timestamp": "2026-08-29T01:26:04.601307417Z",
+  "model": "glm-5.3"
+}

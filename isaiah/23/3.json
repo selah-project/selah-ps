@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او په ډېرو اوبو کې د شیحور تخم ؤ، د سیند حاصل د هغې عاید؛ او د ملتونو بازار شوه.",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "او په اوبو کې"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېرو"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "شیحور"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "حاصل"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "سیند"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "د هغې عاید"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "او شوه"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "بازار"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "د ملتونو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:46.521081682Z",
+  "model": "glm-5.3"
+}

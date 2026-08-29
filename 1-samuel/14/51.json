@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "قېش د شاؤل پلار و، او نیر د اونیر پلار، د اوی‌ایل زوی.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "او قېش"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "او نیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "اونیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "اوی‌ایل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:35:06.950173628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "کوم גبر دی چې ژوندی وي او مړینه ونه ګوري؟ ایا خپله څرګنده ازاده به د شيول له لاسه وژغوري؟ سېله.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ګبر"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ژوندی وي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ګوري"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړینه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ژغوري"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "څرګنده ازاده"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "له لاسه"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شيول"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:03.221565903Z",
+  "model": "glm-5.3"
+}

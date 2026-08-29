@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د دوی سوله او ښه والی مه غواړه، ټولې ستا ورځې، تر تل لپاره.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "غواړه"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "د دوی سوله"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "او ښه والی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ستا ورځې"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "تر تل لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:46.316298795Z",
+  "model": "glm-5.3"
+}

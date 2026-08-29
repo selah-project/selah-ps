@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 20:18",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او اېدوم ورته وویل: له ما تېر نه شې، که نه زه په توره ستا د مخامخېدو لپاره ووتم.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اېدوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "تېر نه شې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "له ما"
+    },
+    {
+      "surface": "פן",
+      "gloss": "که نه"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "په توره"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ووتم"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ستا د مخامخېدو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:57:14.775619366Z",
+  "model": "glm-5.3"
+}

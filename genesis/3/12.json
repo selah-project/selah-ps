@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "انسان ویې ویل: هغه ښځه چې تا مې سره راکړې، هغې ماته له ونې راکړه او ما یې وخوړه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ویې ویل"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تا راکړې"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "زما سره"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "راکړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ونې"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "او مې وخوړه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:00.459605578Z",
+  "model": "glm-5.3"
+}

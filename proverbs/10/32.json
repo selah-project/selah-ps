@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د صديق شونډې خوښي پېژني، خو د بدکارانو خوله شاته تګ رانغاړي.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صديق"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "خو … خوله"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "د بدکارانو"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "شاته تګ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:40.962839288Z",
+  "model": "glm-5.3"
+}

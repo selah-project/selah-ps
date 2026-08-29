@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د عُلا زامن: اَرَح او حَنیئیل او رِصیا.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامن"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "عُلا"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "اَرَح"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "او حَنیئیل"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "او رِصیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:58.861641017Z",
+  "model": "glm-5.3"
+}

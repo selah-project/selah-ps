@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د مدیر لپاره، په وږغونو (ناچو) سره، د داوېد مزمور.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "د مدیر لپاره"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "په وږغونو (ناچو) سره"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:25:32.136134803Z",
+  "model": "glm-5.3"
+}

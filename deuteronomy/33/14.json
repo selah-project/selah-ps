@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د لمر د تېراوه له غوره څیزونو، او د میاشتو د راایستلو له غوره څیزونو،",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "او له غوره څیزونو"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "تېراوه"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "د لمر"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "او له غوره څیزونو"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "راایستلو"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "د میاشتو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:34.886130213Z",
+  "model": "glm-5.3"
+}

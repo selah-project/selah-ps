@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "ګېبل او عمون او عمالېق، فلیستیه د تسور د اوسېدونکو سره —",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "ګېبل"
+    },
+    {
+      "surface": "וועמון",
+      "gloss": "او عمون"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "او عمالېق"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "فلیستیه"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "د اوسېدونکو"
+    },
+    {
+      "surface": "צור",
+      "gloss": "تسور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:10.923678903Z",
+  "model": "glm-5.3"
+}

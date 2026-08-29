@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او همدارنګه د یاهوه لاس پر هغوی ⟨و⟩، چې له پوځ له منځه هغوی ونړوي، تر هغه چې هغوی تمام شول.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او همدارنګه"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "و"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "چې ونړوي"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "له منځه"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "له پوځ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر هغه چې"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "تمام شول"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:56.387100890Z",
+  "model": "glm-5.3"
+}

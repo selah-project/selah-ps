@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 9:27",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ستا بندهران په یاد ولره — ابراهام، ییتسحاق او یعقوب — د دې قوم سخت‌سرۍ او د هغه فساد او ګناه ته مه ګوره.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "په یاد ولره"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ستا بندهران"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ابراهام"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ییتسحاق"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "او یعقوب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "سخت‌سرۍ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ... ته"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "د هغه فساد"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او ... ته"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "د هغه ګناه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:06:39.165732229Z",
+  "model": "glm-5.3"
+}

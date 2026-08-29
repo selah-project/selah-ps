@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 7:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ځکه چې اروم پر تا بد مشوره وکړه، افرایم او د رملیاهو زوی، چې وایي:",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "مشوره وکړه"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اروم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بد"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "او زوی"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "د رملیاهو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وایي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:56.076695195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د موشې د یاهوه د بنده له مړینې وروسته، یاهوه له یهوشواع زوی نون، د موشې د خادم سره وویلل:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وخت ورسېد"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "وروسته"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مړینې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بنده"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشواع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "خادم"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووایي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:26.069146875Z",
+  "model": "glm-5.3"
+}

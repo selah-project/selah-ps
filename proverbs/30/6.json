@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "پر ⟨د⟩ هغه دې پر وینو مه زیاتووه، دا چې هغه دې نه وغندلې او دې دروغجن ونه ګڼل شې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "زیاتووه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "د هغه پر وینو"
+    },
+    {
+      "surface": "פן",
+      "gloss": "دا چې"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "وغندلې"
+    },
+    {
+      "surface": "בך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "او دې دروغجن ونه ګڼل شې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:37.544498174Z",
+  "model": "glm-5.3"
+}

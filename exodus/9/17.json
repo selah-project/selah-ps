@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "ته لا هم زما پر قوم ځان لوړ کوې، د دې لپاره چې يې نه استوې.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "لا هم ته"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "ځان لوړ کوې"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "زما پر قوم"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "د دې لپاره چې نه"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "يې استوې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:17:49.595551858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "وګورئ! زه نن ستاسو مخې ته برکت او لعنت ږدم.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "وګورئ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ږدم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ستاسو مخې ته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "او لعنت"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:05.664853505Z",
+  "model": "glm-5.3"
+}

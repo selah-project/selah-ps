@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 48,
+  "translation": "او محکمه راغله پر ⟨د⟩ میدان ځمکه، پر حولون او پر یاهصه او پر موفعات.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "او محکمه"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راغله"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر ⟨د⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "حولون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "یاهصه"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "موفعات"
+    }
+  ],
+  "timestamp": "2026-08-29T02:34:51.684317427Z",
+  "model": "glm-5.3"
+}

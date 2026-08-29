@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او څوک چې نه ولوېږي او سجده ونه کړي، د اور په منځ کې چې سوزېدونکې کوره وغورځول شي.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او څوک چې"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ولوېږي"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "سجده وکړي"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "وغورځول شي"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "په منځ کې"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "کوره"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "د اور"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "سوزېدونکې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:31:15.886335429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "للعمارامي، لليتسهاري، للحبروني، للعزي ایلي —",
+  "tokens": [
+    {
+      "surface": "لעמרמי",
+      "gloss": "للعمارامي"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "لليتسهاري"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "للحبروني"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "للعزي ایلي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:06.693619793Z",
+  "model": "glm-5.3"
+}

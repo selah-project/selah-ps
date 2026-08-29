@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "له دې کور د چربۍ ډکېږي، او د دې له خوښیو نهره يې څښوې.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "ډکېږي"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "چربۍ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "له دې کور"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "او نهر"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "د دې خوښیو"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "يې څښوې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:58.454616211Z",
+  "model": "glm-5.3"
+}

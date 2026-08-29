@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د هغه حيرانوونکي کارونه چې هغه کړي دي ياد کړئ، د هغه نښې او د هغه د خولې احکام.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ياد کړئ"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "حيرانوونکي کارونه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کړي دي"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "نښې"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "او احکام"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "د خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:41.755695294Z",
+  "model": "glm-5.3"
+}

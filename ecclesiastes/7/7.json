@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ځکه چې زیاتي حکیم وليوني، او بخت энתيان ⟨את⟩ زړه ړنګوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "زیاتي"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ليوني"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "او ړنګوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زړه"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "بختی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:03.958995245Z",
+  "model": "glm-5.3"
+}

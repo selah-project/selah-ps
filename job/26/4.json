@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "⟨את⟩ څوک کلمې وویلې؟ او د چا روح له تا ووت؟",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "څوک"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "وویلې"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "کلمې"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "روح"
+    },
+    {
+      "surface": "מי",
+      "gloss": "د چا"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ووت"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "له تا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:11.173170892Z",
+  "model": "glm-5.3"
+}

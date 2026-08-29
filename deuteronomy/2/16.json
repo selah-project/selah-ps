@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او داسې وشول، کله چې ټول د جګړې سړي له قوم له منځه د مړه کېدو په پای ته ورسېدل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او داسې وشول"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "کله چې"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "پای ته ورسېدل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "למות",
+      "gloss": "د مړه کېدو"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "له منځه"
+    },
+    {
+      "surface": "העם",
+      "gloss": "له قوم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:56.387232587Z",
+  "model": "glm-5.3"
+}

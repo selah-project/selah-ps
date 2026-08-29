@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او کله چې په غوښه کې، پر هغې پوستکي يې ورو وي او هغه روغ شي،",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "او په غوښه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې کله"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه کې"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "پر پوستکي يې"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ورو"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "او روغ شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:51.388602435Z",
+  "model": "glm-5.3"
+}

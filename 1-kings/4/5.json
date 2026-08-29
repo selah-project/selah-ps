@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او عَزَریاهُ بن ناثان پر وفدارو ؤ، او زابود بن ناثان کاهن، د پاچا ملګری ؤ.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "او عَزَریاهُ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناثان"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر … ؤ"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "وفدارو"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "او زابود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناثان"
+    },
+    {
+      "surface": "کהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ملګری"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T02:25:07.766775472Z",
+  "model": "glm-5.3"
+}

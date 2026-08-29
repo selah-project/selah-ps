@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او خرې دېرش زره پنځه سوه وې، چې د دوی مَکَس د یاهوه لپاره یو او شپېته وو.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "او خرې"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "او پنځه"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "او د دوی مَکَس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه لپاره"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "او شپېته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:03.700416803Z",
+  "model": "glm-5.3"
+}

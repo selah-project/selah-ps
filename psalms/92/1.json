@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 92,
+  "translation": "د مزمور ⟨او⟩ سندرې، د شبات د ورځې لپاره.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندره"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "د ورځې لپاره"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبات"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:09.725672038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "همدارنګه هغه چې په خپله کار کې سست وي، د تباهیو خاوند سره ورور دی.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "همدارنګه"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "سست وي"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "په خپله کار کې"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ورور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه ⟨دی⟩"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "خاوند سره"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "تباهیو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:16.621498778Z",
+  "model": "glm-5.3"
+}

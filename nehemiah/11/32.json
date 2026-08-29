@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "عناتوت، نوب، عننیه.",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "عناتوت"
+    },
+    {
+      "surface": "נב",
+      "gloss": "نوب"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "عننیه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:43.872948337Z",
+  "model": "glm-5.3"
+}

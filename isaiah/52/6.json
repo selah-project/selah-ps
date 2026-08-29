@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "نو زما ولس به زما نوم وپېژني؛ نو په هغه ورځ به پوه شي چې زه هماغه یم چې خبرې کوم — کتل، زه شته یم.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "وپېژني"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما ولس"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "زما نوم"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په هغه ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همغه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هماغه"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "چې خبرې کوم"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "کتل، زه شته یم"
+    }
+  ],
+  "timestamp": "2026-08-28T23:25:01.300185830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او زیزا زوی د شیفي، زوی د الون، زوی د یدایاه، زوی د شمري، زوی د شمعیاه.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "او زیزا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "د شیفي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "د الون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "د یدایاه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "د شمري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "د شمعیاه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:19.513056405Z",
+  "model": "glm-5.3"
+}

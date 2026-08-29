@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د صادق شونډې ډېر خلک روزي ورکوي، خو احمقان د زړه د کمښت له امله مري.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "د صادق"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "روزي ورکوي"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ډېر خلک"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "خو احمقان"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "د کمښت له امله"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "مري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:43.463607017Z",
+  "model": "glm-5.3"
+}

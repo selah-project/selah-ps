@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "هم د صالح پر سزا ورکول ښه نه دي، د شریفانو پر نیکوالی وهل (نه روا دي).",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "سزا ورکول"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "صالح ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "لהכות",
+      "gloss": "وهل"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "شریفانو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "نیکوالی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:06.555416984Z",
+  "model": "glm-5.3"
+}

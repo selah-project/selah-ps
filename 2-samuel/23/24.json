@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "عَساهېل د یوآب ورور ⟨is⟩ په دېرشو کې [وو]؛ اِلحانان د دودو زوی د بېت-لَخِم څخه،",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "عَساهېل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ورور"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "په دېرشو کې"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "اِلحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بېت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-لَخِم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:57.262659172Z",
+  "model": "glm-5.3"
+}

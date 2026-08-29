@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "هغه زما ځواک په لار کې کمزوری کړ؛ هغه زما ورځې لنډې کړې.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "کمزوری کړ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "زما ځواک"
+    },
+    {
+      "surface": "قצר",
+      "gloss": "لنډې کړې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "زما ورځې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:35.425752636Z",
+  "model": "glm-5.3"
+}

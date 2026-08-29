@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ⟨هغه⟩ انسانان د سمندر د ماهیانو په څېر ګرځولي، د خزندو په څېر، چې بې‌واک ⟨هغوی⟩ دي.",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "او ګرځولي يې"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانان"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "د ماهیانو په څېر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "د خزندو په څېر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بې"
+    },
+    {
+      "surface": "משל",
+      "gloss": "واک"
+    },
+    {
+      "surface": "בו",
+      "gloss": "دي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:54.597340719Z",
+  "model": "glm-5.3"
+}

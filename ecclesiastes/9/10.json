@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "هر هغه څه چې ستا لاس ته رارسېدلی وي د کولو، په خپل ځواک يې وکړه؛ ځکه نه کوم کار، نه حساب، نه پوهه او نه پوهنه شته په شیول کې، چې ته ورځې.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ته رارسېدلی"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "د کولو"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "په خپل ځواک"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وکړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه شته"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کوم کار"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "نه حساب"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "نه پوهه"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "او نه پوهنه"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "په شیول کې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:39.306228504Z",
+  "model": "glm-5.3"
+}

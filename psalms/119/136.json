@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "له زما سترګو د اوبو ویالې بهېږي، ځکه چې دوی ستا شریعت نه ساتي.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ویالې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "بهېږي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "له زما سترګو"
+    },
+    {
+      "surface": "על",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ستا شریعت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:11.013886072Z",
+  "model": "glm-5.3"
+}

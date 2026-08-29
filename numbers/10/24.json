@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 10:24",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او د بینیامین د زامنو د قبیلې د پوړ پر سر ابی دان زوی ګدعوني و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر سر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "د پوړ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "د قبیلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بینیامین"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ابی دان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גדעוני",
+      "gloss": "ګدعوني"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:58.059737018Z",
+  "model": "glm-5.3"
+}

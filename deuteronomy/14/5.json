@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "هوسۍ، او آهو، او د آهو سور ډول، او وحشي پسه، او سپين-شا، او وحشي غوای، او غره-پشه.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "هوسۍ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "او آهو"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "او د آهو سور ډول"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "او وحشي پسه"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "او سپين-شا"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "او وحشي غوای"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "او غره-پشه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:08:29.348068701Z",
+  "model": "glm-5.3"
+}

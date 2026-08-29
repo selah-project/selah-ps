@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "اوراهام ورته وويل: «ځان وساته، دا چې زما زوى هغلته بېرته نه ګرځوې",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ځان وساته"
+    },
+    {
+      "surface": "לך",
+      "gloss": "خپل"
+    },
+    {
+      "surface": "פן",
+      "gloss": "دا چې… نه"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "بېرته نه ګرځوې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زما زوى"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زما زوى"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هغلته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:13:30.639764641Z",
+  "model": "glm-5.3"
+}

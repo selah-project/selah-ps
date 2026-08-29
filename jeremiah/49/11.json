@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 49:11",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "ستا یتیمان پرېږده، زه يې ژوندي ساتم، او ستا کونډې پر ما باور وکړي.",
+  "tokens": [
+    {
+      "surface": "עזבה",
+      "gloss": "پرېږده"
+    },
+    {
+      "surface": "יתמיך",
+      "gloss": "ستا یتیمان"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ژوندي ساتم"
+    },
+    {
+      "surface": "ואלמנתיך",
+      "gloss": "ستا کونډې"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pr ما"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "باور وکړي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:47:23.138906699Z",
+  "model": "glm-5.3"
+}

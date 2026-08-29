@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او یاهوه موشې سره ووایي چې:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او ووایي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:35:16.601860175Z",
+  "model": "glm-5.3"
+}

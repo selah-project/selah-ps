@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "د قهات زامن: عمرام، یصهار، حبرون او عزی‌ایل — څلور.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عمرام"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یصهار"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "او عزی‌ایل"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "څلور"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:26.808321098Z",
+  "model": "glm-5.3"
+}

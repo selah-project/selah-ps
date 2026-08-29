@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "مخکې له دې چې غره ډوب شوي وای، مخکې له ټېلو زه وزېږېدم.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "مخکې له دې چې"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غر"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ډوب شول"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "مخکې له"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ټېلو"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "وزېږېدم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:13.269459365Z",
+  "model": "glm-5.3"
+}

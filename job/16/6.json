@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "که زه ووایم، زما درد نه دی مخنیوی شوی، او که درېږم، له ما څه تېرېږي؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "زه ووایم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "دی مخنیوی شوی"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "زما درد"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "او که درېږم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له ما"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "تېرېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:46.276584657Z",
+  "model": "glm-5.3"
+}

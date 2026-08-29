@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "ها، اوس زما دعوا سمه کړې ده؛ زه پوهېږم چې زه به نیغ ووازم.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ها"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "سمه کړې ده"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "دعوا"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "زه پوهېږم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "به نیغ ووازم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:53.053593792Z",
+  "model": "glm-5.3"
+}

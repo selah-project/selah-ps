@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "څوک په باطن کې حکمت کېښود، یا څوک لشکوي ته پوهه ورکړه؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "שת",
+      "gloss": "کېښود"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "په باطن کې"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړه"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "لشکوي ته"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:50.637479975Z",
+  "model": "glm-5.3"
+}

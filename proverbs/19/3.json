@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "د انسان ناداني د هغه لار کږوي، او د هغه زړه پر یاهوه په قهر کېږي.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ناداني"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "کږوي"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "د هغه لار"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "په قهر کېږي"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "د هغه زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:58:35.872182541Z",
+  "model": "glm-5.3"
+}

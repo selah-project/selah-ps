@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "يه لار ده چې د سړي پر مخ سمه ښکاري، خو د هغې پايله ⟨دغه\/دی⟩ د مرګ لارې دي.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "شته … يوه"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لار"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سمه"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر مخ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "خو … د هغې پايله"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مرګ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:14.371709078Z",
+  "model": "glm-5.3"
+}

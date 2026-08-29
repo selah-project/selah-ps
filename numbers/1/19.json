@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "لکه څنګه چې یاهوه موشې ته حکم کړی و، نو هغه دوی د سینا په بېدیا کې شمېرل.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "هغه دوی شمېرل"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "په بېدیا کې"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "د سینا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:06.321125858Z",
+  "model": "glm-5.3"
+}

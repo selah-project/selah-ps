@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "یو د وزو بوچی، د ګناه قربانۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بوچی"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "د وزو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "د ګناه قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:49.095540374Z",
+  "model": "glm-5.3"
+}

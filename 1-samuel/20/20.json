@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او زه به درې غشۍ لوري ته ووینم، د هدف لپاره يې ځان ته ولیږم.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "او زه"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "غشۍ"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "لوري ته"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "ووینم (ویېشم)"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "د ولیژلو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ځان ته"
+    },
+    {
+      "surface": "لמטרה",
+      "gloss": "د هدف لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:37:44.457933741Z",
+  "model": "glm-5.3"
+}

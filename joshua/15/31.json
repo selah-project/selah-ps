@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او صِقلاګ او مَدمَنّه او سَنسَنّه،",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "صِقلاګ"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "مَدمَنّه"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "سَنسَنّه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:19:41.423989152Z",
+  "model": "glm-5.3"
+}

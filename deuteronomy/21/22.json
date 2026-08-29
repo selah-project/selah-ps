@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او که په یوه سړي کې د مرګ جزا گناه وي او هغه ووژل شي، او ته یې ⟨את⟩ پر یوه ونه وځړوې،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "په یوه سړي کې"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "جزا\/حکم"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مرګ"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "او هغه ووژل شي"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "او ته وځړوې"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "یې (هغه سړی)"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "یوه ونه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:16.624177512Z",
+  "model": "glm-5.3"
+}

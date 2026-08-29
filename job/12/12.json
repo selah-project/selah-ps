@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 12:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "له زړو سره حکمت دی، او په اوږدو ورځو کې پوهه.",
+  "tokens": [
+    {
+      "surface": "בישישים",
+      "gloss": "له زړو سره"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "او په اوږدو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځو کې"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:07.900802902Z",
+  "model": "glm-5.3"
+}

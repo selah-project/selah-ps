@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "او زه لکه هغه سړی شوم چې نه اورېدل، او په خوله کې يې هېڅ نېوکې نه وې.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "او زه شوم"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "لکه هغه سړی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "اورېدل"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "בפיو",
+      "gloss": "په خوله کې يې"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "نېوکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:56.313061061Z",
+  "model": "glm-5.3"
+}

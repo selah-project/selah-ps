@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "که هوډمن او اطاعتgar وي، د ځمکې نعمت به وخورئ.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "هوډمن وي"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "اطاعتgar وي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نعمت"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "תאכלو",
+      "gloss": "وخورئ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:10:46.509112247Z",
+  "model": "glm-5.3"
+}

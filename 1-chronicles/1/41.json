@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د عناه زامو: دیشون؛ او د دیشون زامو: حمران او اشبان او یتران او کران.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامو"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عناه"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او د … زامو"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دیشون"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "حمران"
+    },
+    {
+      "surface": "وאשבן",
+      "gloss": "او اشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "او یتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "او کران"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:11.261041580Z",
+  "model": "glm-5.3"
+}

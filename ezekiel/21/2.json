@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "زوی آدم! خپل مخ جنوب لور ته کړه، او پر جنوب وګړه، او پر د سهي دښتې ځنګل په نېقب ووایه:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کړه"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "خپل مخ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لور ته"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "جنوب"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "او ګړه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "جنوب"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "او ووایه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ځنګل"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د سهي"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "نېقب"
+    }
+  ],
+  "timestamp": "2026-08-28T23:57:43.191831047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او اخیماعص ⟨את⟩ عزریاه وړې کړ، او عزریاه ⟨את⟩ یوحنان یې وړې کړ.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "او اخیماعص"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وړې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عزریاه"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عزریاه"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "او عزریاه"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وړې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوحنان"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "یوحنان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:18.282091049Z",
+  "model": "glm-5.3"
+}

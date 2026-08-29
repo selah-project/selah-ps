@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "او د دوی په ځمکه کې يې ټول بوټي وخوړل، او د دوی د خاورې مېوې يې وخوړلې.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "وخوړل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "بوټي"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "د دوی په ځمکه کې"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "وخوړلې"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "مېوې"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "د دوی د خاورې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:02.728733125Z",
+  "model": "glm-5.3"
+}

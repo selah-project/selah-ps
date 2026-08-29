@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 34:35",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "ایوب په پوهه نه خبرې کوي، او د هغه خبرې په هوښیارۍ ⟨نه دي⟩.",
+  "tokens": [
+    {
+      "surface": "איוב",
+      "gloss": "ایوب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "په پوهه"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "او د هغه خبرې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בהשכיל",
+      "gloss": "په هوښیارۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:13:57.023390189Z",
+  "model": "glm-5.3"
+}

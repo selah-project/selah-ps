@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 16:15",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او هاګار ابرام ته زوی وزېږوه، او ابرام د خپل زوی نوم چې هاګار زېږولی و، ییشماعیل کېښود.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وزېږوه"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاګار"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ابرام ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ونوموه"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ابرام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "خپل زوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "زېږولی و"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "هاګار"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ییشماعیل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:01:23.189774129Z",
+  "model": "glm-5.3"
+}

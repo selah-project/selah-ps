@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 2:29",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د نفتالي قبيله، او د نفتالي زامنو شهزاده به احيراع د عنان زوی وي.",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "او د...قبيله"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "او شهزاده"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د...زامنو"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "احيراع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عنان"
+    }
+  ],
+  "timestamp": "2026-08-28T21:50:38.456094249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "زوی ابیشوع، زوی پینحاس، زوی العزار، زوی اهرون لوی کاهن.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ابیشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پینحاس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "العزار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "لوی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:38:17.170443401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "يو د غوا زوې، يو غوای (د ګډان زوی)، يو لمر یو کلن، د سوځول شوې قربانۍ (عولا) لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "د غوا زوې"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "د ګډان"
+    },
+    {
+      "surface": "איל",
+      "gloss": "غوای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "يو کلن"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د عولا لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:08.390816320Z",
+  "model": "glm-5.3"
+}

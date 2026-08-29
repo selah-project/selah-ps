@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او موآب له دې قوم ډېر وارخطا شو، ځکه چې هغه ډېر ؤ؛ او موآب له دې زامنو د یسراییل کرګرې شو.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "وارخطا شو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له ... (له مخې)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "کرګرې شو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له ... (له مخې)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    }
+  ],
+  "timestamp": "2026-08-28T21:58:29.793234031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "چې په خبره پوه شي، ښه والی مومي؛ او څوک چې په یاهوه توکل کوي، هغه خوښ دی.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "پوه شي"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "مومي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه والی"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "او توکل کوي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "په یاهوه"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "هغه خوښ دی"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:53.670461930Z",
+  "model": "glm-5.3"
+}

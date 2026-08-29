@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "های، که هغه زما پر څخه تېر شي، زه يې نه وينم؛ او که تېر شي، زه يې نه پېژنم.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "های"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "تېر شي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما پر څخه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "وينم"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "که تېر شي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "پېژنم"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:41:48.695072593Z",
+  "model": "glm-5.3"
+}

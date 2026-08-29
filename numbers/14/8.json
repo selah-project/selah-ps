@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "که یاهوه په موږ خوښ وي، نو هغه به موږ ⟨את⟩ دې ځمکې ته راولي او دا به موږ ته راکړي — هغه ځمکه چې له شیدو او مڼګلو څڅېږي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوښ وي"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "په موږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "راولي"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ موږ",
+      "marks": "موږ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "دې"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "او راکړي"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "موږ ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "هغه ځمکه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "څڅېږي"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "شیدو"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "او مڼګلو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:55:11.382253735Z",
+  "model": "glm-5.3"
+}

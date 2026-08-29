@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او له نر سره دې د ښځې د پرېوتلو په څېر نه پرېځې — کرغېړنه ده دا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "نر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "پرېځې"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "د ... د پرېوتلو په څېر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "کرغېړنه"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:46:04.605312639Z",
+  "model": "glm-5.3"
+}

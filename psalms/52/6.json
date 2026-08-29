@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "ته ⟨د⟩ ټولو پړسونکو خبرو مینه لرې، اې د درغلو ژبې!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "مینه لرې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرو"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "پړسونکو"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ژبې"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "د درغلو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:34:05.004633330Z",
+  "model": "glm-5.3"
+}

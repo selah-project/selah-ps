@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "لاویان ⟨את⟩ د اسرائیل زامنو له منځ څخه واخلې او دوی پاک کړې.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "واخلې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاویان"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویان"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "له منځ څخه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "پاک کړې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:53:18.840294787Z",
+  "model": "glm-5.3"
+}

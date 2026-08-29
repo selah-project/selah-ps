@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 147,
+  "translation": "ستایه، ای یروشلایم، ⟨את⟩ یاهوه؛ praise وکړه خپل الوهیم ته، ای تسیون.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "ستایه"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ای یروشلایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "praise وکړه"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "خپل الوهیم"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ای تسیون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:12.470972817Z",
+  "model": "glm-5.3"
+}

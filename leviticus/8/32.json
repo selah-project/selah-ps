@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه څه چې له غوښې او ډوډۍ پاتې کېږي، په اور کې يې وسوزوئ.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "او هغه څه چې پاتې کېږي"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "له غوښې"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "او ډوډۍ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "په اور کې"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "سوزوئ يې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:37:51.825428173Z",
+  "model": "glm-5.3"
+}

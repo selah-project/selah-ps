@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "هغه چې د دروغجنو شونډو سره کرکه پټوي، او هغه چې بُهتان وړاندې کوي — هغه نادان دی.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "پټونکی"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "کرکه"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "د شونډو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغجن"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "او راوړونکی"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "بُهتان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:38.928713478Z",
+  "model": "glm-5.3"
+}

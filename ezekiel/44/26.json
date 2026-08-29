@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او د هغه د پاکوالي وروسته به اوه ورځې ورته وشمېرل شي.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "او ... وروسته"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "د هغه د پاکوالي"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "وشمېرل شي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-29T00:07:15.293146696Z",
+  "model": "glm-5.3"
+}

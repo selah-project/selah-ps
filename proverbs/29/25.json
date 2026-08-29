@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د انسان وېره مچ ورکوي، خو هغه چې پر یاهوه توکېږي، په لوړه کې خوندي وي.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "مچ ورکوي"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "مچ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "خو هغه چې توکېږي"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "پر یاهوه"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "په لوړه کې خوندي وي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:28.289541292Z",
+  "model": "glm-5.3"
+}

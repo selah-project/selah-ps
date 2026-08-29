@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "نیک سړی د کمزوریو حق پیژني؛ خو بد پوهه نه پېژني.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "پیژني"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک سړی"
+    },
+    {
+      "surface": "דין",
+      "gloss": "حق"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "د کمزوریو"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "پېژني"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:23.254539802Z",
+  "model": "glm-5.3"
+}

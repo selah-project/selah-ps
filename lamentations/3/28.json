@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "کښېني يوازې او چوپ وي، ځکه چې ⟨یاهوه⟩ هغه يې پر غاړه اچولې.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "کښېني"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "او چوپ وي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "اچولې"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:04.572680300Z",
+  "model": "glm-5.3"
+}

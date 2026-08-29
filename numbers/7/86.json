@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "numbers 7:86",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "دوه لس طلا کاسې، د بوی خوشبو څخه ډکې، هره کاسه لس شېکل د مزار شېکل سره سم؛ د کاسو ټوله طلا سلو شلو شېکل وه.",
+  "tokens": [
+    {
+      "surface": "כפות",
+      "gloss": "کاسې"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ډکې"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "بوی خوشبو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "הכף",
+      "gloss": "هره کاسه"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شېکل"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مزار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "طلا"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "کاسو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "شل"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "او سل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:18:42.863796879Z",
+  "model": "glm-5.3"
+}

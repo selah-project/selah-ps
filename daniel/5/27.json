@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "تِقِل — ته په ترازو کې وزن شوې او کم پیدا شوې.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "تِقِل"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "وزن شوې"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "په ترازو کې"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "او پیدا شوې"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "کم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:32:13.961909719Z",
+  "model": "glm-5.3"
+}

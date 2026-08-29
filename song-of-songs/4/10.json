@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "څومره ښکلې ده ستا مینه، زما خور، ناوې! څومره غوره ده ستا مینه له شرابو! او د ستا د غوړو بوی له ټولو خوشبو څخه!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ښکلې ده"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ستا مینه"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "زما خور"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ناوې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څومره"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ستا مینه"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "له شرابو"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "او بوی"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "ستا د غوړو"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "له ټولو"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:17:00.566802535Z",
+  "model": "glm-5.3"
+}

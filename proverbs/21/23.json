@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "څوک چې خپله خوله او خپله ژبه ساتي، خپله نفس له تکلیفونو ساتي.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "خپله خوله"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "او خپله ژبه"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساتي"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "له تکلیفونو"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "خپله نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:24.832703163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د رحبیه لپاره: د رحبیه د زامنو لپاره ⟨هغه⟩ مشر ایشی.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "د رحبیه لپاره"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو لپاره"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "رحبیه"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ایشی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:54:20.350859327Z",
+  "model": "glm-5.3"
+}

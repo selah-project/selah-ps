@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او یاهوه په همدې ورځ داسې وویل، چې له موشې سره يې خبرې وکړي.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وویل \/ خبرې يې وکړې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له ... سره"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "په اصله\/په خپله"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:37.580014049Z",
+  "model": "glm-5.3"
+}

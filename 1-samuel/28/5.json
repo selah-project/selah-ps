@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او شاول د پلشتیميانو پوځ ⟨את⟩ ولید، او ووارېد او زړه يې ډېر ولوېد.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ولید"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاول"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوځ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "پلشتیميانو",
+      "gloss": "د پلشتیميانو"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ووارېد"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ولوېد"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "زړه يې"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:40:39.340787911Z",
+  "model": "glm-5.3"
+}

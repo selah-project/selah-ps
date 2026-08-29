@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "واکمن چې دروغ خبرو ته غوږ نیسي، ټول خدمتګار يې بدکاران دي.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "واکمن"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "غوږ نیسي"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرو"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "خدمتګار يې"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاران دي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:16.992808993Z",
+  "model": "glm-5.3"
+}

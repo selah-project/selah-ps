@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 1:1",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "په اتمه میاشت کې، د داریاوش په دویم کال، د یاهوه خبره پر زکریا بن بَرَخیا بن عیدو نبي راغله، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "په میاشت کې"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "اتمه"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "په کال"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دویم"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "داریاوش"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وشو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زکریا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "بَرَخیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "عדו",
+      "gloss": "عیدو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:21:02.224051825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "شپږ ورځې به يې راټولوئ، خو په اوږمه ورځ شبات دی، په هغه کې به هېڅ نه وي.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "به يې راټولوئ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "خو په ورځ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "اوږمه"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شبات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په هغه کې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:31.554158856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او په اومه ورځ به ستاسو لپاره د مېنځلو سپېڅلې غونډه وي؛ د کار هر ډول کار به نه کوئ.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "او په اومه ورځ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "اومه"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "غونډه"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "سپېڅلې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "هر ډول"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کار"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "کارونو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "به کوئ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:05.002699793Z",
+  "model": "glm-5.3"
+}

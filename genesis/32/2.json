@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "او یعقوب خپلې لارې تلله، او د الوهیم استوزي ورسره مخامخ شول.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "او یعقوب"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "تلله"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "خپلې لارې"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "مخامخ شول"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ورسره"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "استوزي"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهيم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:07:07.186563860Z",
+  "model": "glm-5.3"
+}

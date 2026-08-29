@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "ایا دا دې نه پېژندلې له هغه مهاله، له هغه وخت چې انسان پر ځمکه کېښودل شو،",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "دې پېژندلې"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له هغه مهاله"
+    },
+    {
+      "surface": "עד",
+      "gloss": "له هغه وخت"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کېښودل شو"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:09:43.100201506Z",
+  "model": "glm-5.3"
+}

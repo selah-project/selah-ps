@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 77,
+  "translation": "ته په خپله بازو کې خپل قوم خلاص کړ، د یعقوب زامن او د یوسف. سلاه.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "خلاص کړې"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "په بازو"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "او یوسف"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاح"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:45.596828667Z",
+  "model": "glm-5.3"
+}

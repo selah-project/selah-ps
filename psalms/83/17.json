@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 83,
+  "translation": "د دوی مخونه د شرم ډک کړه، او دوی دې ستا نوم ولټوي، ای یاهوه.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "ډک کړه"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "د دوی مخونه"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "د شرم"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "او دې ولټوي"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ستا نوم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:40:14.083207324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "چې ورېځې يې څڅوي، پر انسانانو يې په ښهښه رېښکوي.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "څڅوي"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ورېځې"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "رېښکوي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانانو"
+    },
+    {
+      "surface": "רב",
+      "gloss": "په ښهښه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:14:18.001968403Z",
+  "model": "glm-5.3"
+}

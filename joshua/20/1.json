@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او یاهوه له یوشوع سره وویل، چې وایي:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "له…سره"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یوشوع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وایي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:21:24.027865953Z",
+  "model": "glm-5.3"
+}

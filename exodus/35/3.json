@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "په شبات ورځ دې په خپلو ټولو اوسېدنو کې اور مه بلېوئ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "بلېوئ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "خپلو اوسېدنو کې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په…ورځ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شبات"
+    }
+  ],
+  "timestamp": "2026-08-28T21:25:32.728202507Z",
+  "model": "glm-5.3"
+}

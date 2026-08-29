@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "«سلامتي-قربانۍ ⟨are⟩ زما سره؛ نن مې خپل نذرونه پوره کړل»",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "قربانۍ"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلامتي-قربانۍ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما سره"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "پوره کړې مې"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "خپل نذرونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:21.120859873Z",
+  "model": "glm-5.3"
+}

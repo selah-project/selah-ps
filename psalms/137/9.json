@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 137,
+  "translation": "ښاغلی دی هغه چې نیسي او ⟨את⟩ ستا ټټرونه پر ډبره وېشي.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ښاغلی دی"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "چې نیسي"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "او وېشي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ستا ټټرونه"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ستا ټټرونه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ډبره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:50:15.491360083Z",
+  "model": "glm-5.3"
+}

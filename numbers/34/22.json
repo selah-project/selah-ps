@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د دان د زامنو د قبیلې لپاره ⟨⟨هغه⟩⟩ شهزاده بوکي د يوګلي زوی.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "او د قبیلې لپاره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "شهزاده"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بوکي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "يوګلي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:19.489482546Z",
+  "model": "glm-5.3"
+}

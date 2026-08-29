@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او د شمعون زامنو قبیلې لپاره شموئِل د عمیْهود زوی.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "او د قبیلې لپاره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شمعون"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموئِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عمیْهود"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:26.629263876Z",
+  "model": "glm-5.3"
+}

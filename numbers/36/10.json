@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "لکه څنګه چې یاهوه ⟨את⟩ موشې ته یې فرمان کړی و، همداسې يې د تسلوفحاد لوڼو وکړل.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "يې وکړل"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "لوڼو"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "د تسلوفحاد"
+    }
+  ],
+  "timestamp": "2026-08-28T22:03:07.195002727Z",
+  "model": "glm-5.3"
+}

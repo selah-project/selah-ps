@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "او حمور، د شکم پلار، د یعقوب پر لور ولاړ له ⟨את⟩ هغه سره د خبرو لپاره.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ولاړ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حمور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر لور"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "د خبرو لپاره"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "له ⟨את⟩ هغه سره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:08:50.607407684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "صیدونیان یې هرمون ته شریون بولي، او اموریان یې شنیر بولي.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "صیدونیان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "بولي"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "هرمون ته"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "شریون"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "او اموریان"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "بولي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "یې"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "شنیر"
+    }
+  ],
+  "timestamp": "2026-08-28T22:04:04.384310293Z",
+  "model": "glm-5.3"
+}

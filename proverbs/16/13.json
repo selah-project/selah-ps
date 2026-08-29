@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د پاچاهانو خوښي د عدالت شونډې دي، او هغه څوک چې سمه خبره کوي، ⟨هغه⟩ مومي.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "د پاچاهانو"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "شونډې"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "د عدالت"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "او خبره کوي"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سمه"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "مومي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:42.046665809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "هغه چې ⟨یوځای⟩ يې دوی زړونه جوړوي، هغه چې ⟨دوی⟩ ټول کارونه پوهېږي.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یوځای"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "زړونه"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "پوهېږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "کارونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:48.539025016Z",
+  "model": "glm-5.3"
+}

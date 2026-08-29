@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 32,
+  "translation": "داسې وايي سانحیریب د آشور پاچا: پر څه تاسو باور کوئ او په محاصره کې په یروشلایم کې ناست ياست؟",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "سانحیریب"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "د آشور"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "باور کوئ"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "او ناست ياست"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "په محاصره کې"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "په یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-29T02:09:33.484070155Z",
+  "model": "glm-5.3"
+}

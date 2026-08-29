@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "نوحه ⟨ه⟩ څلورم او رافا ⟨ه⟩ پنځم.",
+  "tokens": [
+    {
+      "surface": "نוחה",
+      "gloss": "نوحه"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "⟨ه⟩ څلورم"
+    },
+    {
+      "surface": "وרפא",
+      "gloss": "او رافا"
+    },
+    {
+      "surface": "हחמישי",
+      "gloss": "⟨ه⟩ پنځم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:48:34.749081482Z",
+  "model": "glm-5.3"
+}

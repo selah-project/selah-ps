@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "زه به تاسو د ⟨את⟩ ایل په لاس روزم؛ هغه چې له شدای سره دی، هغه به نه پټوم.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "روزم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تاسو",
+      "marks": "تاسو"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "هغه چې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "له...سره"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "پټوم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:11:05.129524364Z",
+  "model": "glm-5.3"
+}

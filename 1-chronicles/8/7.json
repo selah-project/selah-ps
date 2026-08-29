@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او نعمان، او اخیاه، او ګېرا — هغه چا چې دوی وشړل — او هغه ⟨את⟩ عُزا او ⟨את⟩ اخیحود پلار کړل.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "او نعمان"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "او اخیاه"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "او ګېرا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "چا چې دوی وشړل"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "او پلار کړل يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُزا"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "اخیحود"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "اخیحود"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:00.927837781Z",
+  "model": "glm-5.3"
+}

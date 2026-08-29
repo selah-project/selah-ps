@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "زوی‌ می، انګور (تور زما) وخوره، ځکه چې ښه دی، او د شاتو څاڅکی خوږه ده پر ستا د خولې",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "وخوره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زوی‌ می"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "انګور (تور زما)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "او د شاتو څاڅکی"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "خوږه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ستا د خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:15.787367465Z",
+  "model": "glm-5.3"
+}

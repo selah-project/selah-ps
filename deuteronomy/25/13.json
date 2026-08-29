@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "لره دې په کېسه کې يوه اوزنه او يوه اوزنه نه وي، لویه او کوچنۍ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لره دې"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "په کېسه کې"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "يوه اوزنه"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "او يوه اوزنه"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "لویه"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "او کوچنۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:25.131864163Z",
+  "model": "glm-5.3"
+}

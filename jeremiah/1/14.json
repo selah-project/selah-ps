@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او یاهوه راته وویل: له شماله بدی پر د ځمکې ټولو اوسېدونکو رالوېږي.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "له شماله"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "رالوېږي\/خلاصېږي"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اوسېدونکي"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:28:49.087558956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 25:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "بياړه د شخړې لپاره مه وځه، دېمه چې د دې په پای کې به څه کوې، کله چې ملګری دې ⟨את⟩ دې شرموي.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "وځه"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "د شخړې لپاره"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "بياړه"
+    },
+    {
+      "surface": "פן",
+      "gloss": "دېمه چې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "به کوې"
+    },
+    {
+      "surface": "באחריתה",
+      "gloss": "د دې په پای کې"
+    },
+    {
+      "surface": "בהכלים",
+      "gloss": "کله چې ... شرموي"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ملګری دې"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ملګری دې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:38.402866883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 8:6",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او دا د اېهود زامن وو؛ دا د ګېبع د اوسېدونکو د پلرونو د کورنیو مشران وو، او دوی يې مَناحات ته وشړل.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אחוד",
+      "gloss": "اېهود"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دوی وو"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "د پلرونو د کورنیو"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "د اوسېدونکو"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "ګېبع"
+    },
+    {
+      "surface": "ויגלום",
+      "gloss": "دوی يې وشړل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "مَناحات"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:00.927668931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او ماښام شو او سهار شو — پنځمه ورځ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "شو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "ویهی",
+      "gloss": "شو"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "سهار"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "پنځمه"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:26.846765211Z",
+  "model": "glm-5.3"
+}

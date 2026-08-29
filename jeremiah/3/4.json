@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "آيا له دې وخته راپدېخوا ماته نه يې ويلي: زما پلاره، د زما ځوانۍ ملگري ته؟",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "آيا... نه"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "له دې وخته"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ماته ويلي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "زما پلار"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ملگری"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "د زما ځوانۍ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    }
+  ],
+  "timestamp": "2026-08-28T23:29:32.686312329Z",
+  "model": "glm-5.3"
+}

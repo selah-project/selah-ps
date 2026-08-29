@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "په هغه وخت کې ابیّا، د یروبعم زوی، ناروغ شو.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "په هغه وخت کې"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ناروغ شو"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ابیّا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یروبعم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:56:50.761328230Z",
+  "model": "glm-5.3"
+}

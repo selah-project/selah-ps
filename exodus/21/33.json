@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او که یو سړی چاه پرانیزي، یا که یو سړی چاه وکاني او ⟨هغه⟩ یې ونه پوښي، او غوا یا آس هلته راولوېږي،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "او که"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "پرانیزي"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "בור",
+      "gloss": "چاه"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "که"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "وکاني"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "בר",
+      "gloss": "چاه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "یې ونه پوښي"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "او راولوېږي"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "هلته"
+    },
+    {
+      "surface": "שור",
+      "gloss": "غوا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "آس"
+    }
+  ],
+  "timestamp": "2026-08-28T21:21:09.560133982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "د هغه په سپېڅلي نوم وستایئ يې؛ د یاهوه د پلټونکو زړونه دې خوشحاله شي.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "وستایئ يې"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "په نوم"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "سپېڅلي"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحاله شي"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړونه"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "د پلټونکو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:41.755440716Z",
+  "model": "glm-5.3"
+}

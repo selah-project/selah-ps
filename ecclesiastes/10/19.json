@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "د خندا لپاره خواړه جوړېږي، او شراب ژوند خوشحالوي، خو سپين زر ⟨את⟩ هر څه ځواب وايي.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "د خندا لپاره"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "جوړوي"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "ושין",
+      "gloss": "او شراب"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوشحالوي"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ژوند"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "خو سپين زر"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ځواب وايي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هر څه"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "هر څه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:11.397290067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 118,
+  "translation": "د یاهوه ښې لاس لوړه ⟨شوې⟩، د یاهوه ښې لاس هلکانه کار کوي.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "ښې لاس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "لوړه ⟨شوې⟩"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ښې لاس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کار کوي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "هلکانه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:47:46.049290788Z",
+  "model": "glm-5.3"
+}

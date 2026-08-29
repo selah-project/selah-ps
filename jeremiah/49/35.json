@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "داسې وايي ياهوه د پوځونو: زه گورم چې ⟨את⟩ د عيلام کمان ماتوم، د دوی د ځواک سر.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ياهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د پوځونو"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "زه گورم"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ماتوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د عيلام کمان"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عيلام"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "سر"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "د دوی د ځواک"
+    }
+  ],
+  "timestamp": "2026-08-28T23:48:19.612111680Z",
+  "model": "glm-5.3"
+}

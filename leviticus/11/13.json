@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او دا به تاسو له مرغیو څخه کرښه کوئ — نه به خوړل کېږي، پلیدي دي: ⟨את⟩ نېشر، ⟨את⟩ پېرِس او ⟨את⟩ عَزنِیا.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "به کرښه کوئ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "مرغۍ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "خوړل کېږي"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "پلیدي"
+    },
+    {
+      "surface": "הם",
+      "gloss": "دوی دي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نېشر"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "نېشر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "پېرِس"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "پېرِس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عَزنِیا"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "عَزنِیا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:32.157683893Z",
+  "model": "glm-5.3"
+}

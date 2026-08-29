@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "ځکه چې غرونه ⟨لому>> بارور ورکوي، او د دښتو ټول ښکاري هلته لوبې کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בול",
+      "gloss": "بارور"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "غرونه"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "חית",
+      "gloss": "ښکاري"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "د دښتو"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "لوبې کوي"
+    },
+    {
+      "surface": "שם",
+      "gloss": "هلته"
+    }
+  ],
+  "timestamp": "2026-08-29T01:15:37.330284345Z",
+  "model": "glm-5.3"
+}

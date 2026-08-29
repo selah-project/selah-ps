@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 119,
+  "translation": "متکبرانو پر ما دروغ ټومبل دي؛ خو زه په ټول زړه ستا فرمانونه ساتم.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "ټومبل دي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دروغ"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "متکبرانو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټول"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ساتم"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ستا فرمانونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:48:13.541406408Z",
+  "model": "glm-5.3"
+}

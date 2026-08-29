@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او هغوی ته یې وویل: درې ورځې نور (صبر) واوسئ، بیا زما راته راشئ؛ او خلک لاړل.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او یې وویل"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "هغوی ته"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نور"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "درې"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "بیا راشئ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "او لاړ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "خلک"
+    }
+  ],
+  "timestamp": "2026-08-29T02:01:50.743341789Z",
+  "model": "glm-5.3"
+}

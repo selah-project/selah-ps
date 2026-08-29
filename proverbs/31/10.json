@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "د سپینې ښځه څوک ومومي؟ د هغې ارزښت له مروګو ډېر لوړ دی.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "د … ښځه"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سپینې\/ځواک"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ومومي"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "او ډېر لوړ دی"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "له مروګو"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "د هغې ارزښت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:56.405927398Z",
+  "model": "glm-5.3"
+}

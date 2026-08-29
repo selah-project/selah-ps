@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 69,
+  "translation": "ځکه چې ستا په خاطر مې سپکاوی وګاله؛ شرم پوښلی زما مخ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ستا په خاطر"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "وګاله مې\/څخه مې پورته کړ"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "سپکاوی"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "پوښلی"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "פני",
+      "gloss": "زما مخ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:37:08.310647130Z",
+  "model": "glm-5.3"
+}

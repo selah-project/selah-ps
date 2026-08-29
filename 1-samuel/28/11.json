@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او ښځې وویل: ⟨את⟩ څوک دې درته پورته کړم؟ او هغه وویل: ⟨את⟩ شمویل ماته پورته کړه.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "څوک"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "پورته کړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "درته"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شمویل"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمویل"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "پورته کړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:40:13.653339127Z",
+  "model": "glm-5.3"
+}

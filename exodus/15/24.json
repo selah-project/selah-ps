@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "او قوم پر موشې نارازي وکړه، چې يې ويل: «څه وڅښو؟»",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "او نارازي يې وکړه"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې يې ويل"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "وڅښو"
+    }
+  ],
+  "timestamp": "2026-08-28T21:19:09.157581787Z",
+  "model": "glm-5.3"
+}

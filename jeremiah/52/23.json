@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 52,
+  "translation": "او انارګلې نوي ډېر شپږ وو پر يوې خوا، او ټول انارګلې سلو ته رسېدل پر جال چاپېر.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "او وو"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "انارګلې"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوي ډېر"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "پر يوې خوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "انارګلې"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سلو ته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "جال"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاپېر"
+    }
+  ],
+  "timestamp": "2026-08-28T23:49:26.024316299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 3:13",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او د ځناورو د وزرو غږ چې يوه د بل سره لګېدله، او د ګرډو غږ د دوی تر څنګ، او د يو ستر ټکان غږ و.",
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "او د غږ"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "د وزرو"
+    },
+    {
+      "surface": "החיות",
+      "gloss": "د ځناورو"
+    },
+    {
+      "surface": "משיקות",
+      "gloss": "لګېدلې"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "يوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "د خپلې خور"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "او د غږ"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "د ګرډو"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "د دوی تر څنګ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "او د غږ"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "د ټکان"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ستر"
+    }
+  ],
+  "timestamp": "2026-08-28T23:51:01.251641494Z",
+  "model": "glm-5.3"
+}

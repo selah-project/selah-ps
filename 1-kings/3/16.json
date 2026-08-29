@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه وخت دوه ښځې فحشا کاروونکې پاچا ته راغلې او د هغه مخې ته ودرېدې.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "هغه وخت"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "راغلې"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ښځې"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "فحشا کاروونکې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ودرېدې"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "د هغه مخې ته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:51:06.217760299Z",
+  "model": "glm-5.3"
+}

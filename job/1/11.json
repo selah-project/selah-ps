@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "خو اوس خو ستا لاس واستوه او هر څه چې ده ته دی ووهه — که هغه ستا مخ ته تا ته برکت نه وايي.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "خو"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "استوه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اوس خو"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "او ووهه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "هر څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "دي (ده ته)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "על",
+      "gloss": "مخامخ\/پر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "تا ته برکت ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:04:21.768342758Z",
+  "model": "glm-5.3"
+}

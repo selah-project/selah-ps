@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او نحشون ⟨את⟩ سلماء وزېږاوه، او سلماء ⟨את⟩ بوعز وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "او نحشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سلماء"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "سلماء"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "او سلماء"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوعز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعز"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:11.753916292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او ته، د ادم زویه، د صُور (تِر) په اړه دoyer ماتنه پورته کړه",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ادم"
+    },
+    {
+      "surface": "שא",
+      "gloss": "پورته کړه"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ماتنه (دولسېبانه ژړا)"
+    }
+  ],
+  "timestamp": "2026-08-29T00:00:32.304354712Z",
+  "model": "glm-5.3"
+}

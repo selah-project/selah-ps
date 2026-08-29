@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د هغو له ډلې مه اوسه چې لاس وهي، نه د پورونو د ضامنو په منځ کې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "اوسه"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "د لاس وهونکو له ډلې"
+    },
+    {
+      "surface": "כף",
+      "gloss": "لاس (تاړی)"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "د ضامنو په منځ کې"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "پورونه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:46.356682799Z",
+  "model": "glm-5.3"
+}

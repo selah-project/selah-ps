@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "او که له کرکې ورته ټېل ووهي یا پرې په کمین شي څه ورته وغورځوي او مړ شي،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "له کرکې"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "ورته ټېل ووهي"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "وغورځوي"
+    },
+    {
+      "surface": "עליو",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "په کمین"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:02:52.200352335Z",
+  "model": "glm-5.3"
+}

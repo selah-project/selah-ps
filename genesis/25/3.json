@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او یقشان زیږ کړ ⟨את⟩ شباع او ⟨את⟩ ددان؛ او د ددان زامن وو اشوریم او لطوشیم او لعمیم.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "او یقشان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "زیږ کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شباع"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شباع"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ددان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ددان"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "د ددان"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وو"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "اشوریم"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "لطوشیم"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "لعمیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:04:36.829203705Z",
+  "model": "glm-5.3"
+}

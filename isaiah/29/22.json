@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 29:22",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "نو داسې وايي یاهوه، چې اوراهام يې خلاص کړ، د یعقوب د کور په اړه: همدا اوس یعقوب نه شرمېږي، او همدا اوس مخ يې نه زېړېږي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "کה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د … په اړه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "خلاص کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اوراهام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اوراهام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "همدا اوس"
+    },
+    {
+      "surface": "יבוש",
+      "gloss": "شرمېږي"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "همدا اوس"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "مخ يې"
+    },
+    {
+      "surface": "יחורו",
+      "gloss": "زېړېږي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:18:15.698652839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "خو ته به هغه کور نه جوړوې، ځکه زوی دې چې ستا ⟨له وجوده⟩ بهر راوځي، هغه به زما د نوم لپاره هغه کور جوړ کړي.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "خو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "جوړوې"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "هغه کور"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "زوی دې"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "راوځي"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "ستا له وجوده"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "جوړ کړي"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "هغه کور"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "زما د نوم لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T02:45:56.658566588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "حکمت د جګړې له وسلو غوره دی، خو يو ګناهګر ډېرې ښېګڼې له منځه وړي.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "غوره ده"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "له وسلو"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "خو ... ګناهګر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "له منځه وړي"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ښېګڼې"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ډېرې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:09.941979335Z",
+  "model": "glm-5.3"
+}

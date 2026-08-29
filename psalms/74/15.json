@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 74,
+  "translation": "ته چا سرېنه او دره وشلوله؛ ته چا تل بهېدونکي سیندونه وچ کړل.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "وشلوله"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "سرېنه"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "او دره"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "وچ کړل"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "سیندونه"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "تل بهېدونکي"
+    }
+  ],
+  "timestamp": "2026-08-29T02:40:05.414369732Z",
+  "model": "glm-5.3"
+}

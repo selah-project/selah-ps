@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "د انسان ټول زحمت د خولې لپاره دی، خو بیا هم نفس نه پوره کېږي.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "زحمت"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "د خولې لپاره"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "خو بیا هم"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "پوره کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:24:26.189129979Z",
+  "model": "glm-5.3"
+}

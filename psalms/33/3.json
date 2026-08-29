@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "هغه ته نوې سندره وویاستئ؛ ښه سرود وغږوئ په لوړ شادانه شور سره.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "وویاستئ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "سندره"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نوې"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "سرود وغږوئ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "په لوړ شادانه شور سره"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:14.809553081Z",
+  "model": "glm-5.3"
+}

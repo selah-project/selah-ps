@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او د یسرایل پاچا وویل: «ایا تا ته مې نه ویل چې هغه زما په اړه ښه نه وایي، بلکې بد؟»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافات"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ایا... نه"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "مې ویل"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "وایي"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "زما په اړه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکې"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "לרע",
+      "gloss": "بد"
+    }
+  ],
+  "timestamp": "2026-08-29T02:04:04.733784211Z",
+  "model": "glm-5.3"
+}

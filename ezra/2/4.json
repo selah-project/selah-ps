@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د شِفتایا زامن — درې سوه دوه او اویا.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفتایا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "درې"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوه"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اویا"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "او دوه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:12.346367184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 106,
+  "translation": "او هغوی په ملتونو کې ګډ شول او د هغوی کړنې يې زده کړې.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "ګډ شول"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "په ملتونو کې"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "زده کړې"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "د هغوی کړنې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:45:08.529251574Z",
+  "model": "glm-5.3"
+}

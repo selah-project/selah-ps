@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "د هغوی غشي‌وال ⟨د⟩ خولۍ شوی قبر دی، ټول زړور وتلي دي.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "د هغوی غشي‌وال"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "د قبر په څېر"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "خولۍ شوی"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "زړور وتلي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:30:55.490755604Z",
+  "model": "glm-5.3"
+}

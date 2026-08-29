@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "که له د یوبِل له کال څخه خپل مزرعه وقف کړي، د ستا د ارزونې له مخې به ولاړه شي.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "له کال څخه"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "د یوبِل"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "وقف کړي"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "خپل مزرعه"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "د ستا د ارزونې له مخې"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ولاړه شي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:49:26.769109526Z",
+  "model": "glm-5.3"
+}

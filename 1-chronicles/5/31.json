@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او ابیشوع ⟨את⟩ بوکي وزیږه، او بوکي ⟨את⟩ عوزي وزیږه.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "او ابیشوع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوکي"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بوکي"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "او بوکي"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "وزیږه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوزي"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عوزي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:47:17.442413051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "⟨زه⟩ وګورم او دې ته مې زړه ټینګ کړ، وینا مې ورته وکړه او زده کړه مې واخیسته.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "وګورم"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ټینګ کړ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "وینا مې وکړه"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "واخیسته"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "زده کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:55.950344596Z",
+  "model": "glm-5.3"
+}

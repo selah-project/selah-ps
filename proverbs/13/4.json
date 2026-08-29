@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "د کاهل ځان هيله کوي او نه لري؛ خو د هڅو کوونکو ځان غوړ کېږي.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "هيله کوي"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نه لري"
+    },
+    {
+      "surface": "نפשו",
+      "gloss": "ځان"
+    },
+    {
+      "surface": "עצل",
+      "gloss": "کاهل"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "خو ځان"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "هڅو کوونکو"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "غوړ کېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:44.393066863Z",
+  "model": "glm-5.3"
+}

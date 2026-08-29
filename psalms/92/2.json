@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 92,
+  "translation": "ښه ده چې یاهوه ته شکر ووایې او ستا نوم ته، ای عِلیون، نغمه وويې.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "شکر ویل"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاهوه ته"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "او نغمه ویل"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ستا نوم ته"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "عِلیون"
+    }
+  ],
+  "timestamp": "2026-08-29T00:42:09.725907048Z",
+  "model": "glm-5.3"
+}

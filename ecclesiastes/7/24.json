@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "لرې ده هغه څه چې وو، او ژور، ژور — څوک يې موندلی شي؟",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "لرې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "چې وو"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "او ژور"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ژور"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "يې موندلی شي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:25:02.087944373Z",
+  "model": "glm-5.3"
+}

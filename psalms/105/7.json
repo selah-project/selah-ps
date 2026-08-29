@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "هغه دی یاهوه، زموږ الوهیم؛ په ټوله ځمکه کې دي پرېکړې يې.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "هغه دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټوله"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه کې"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "پرېکړې يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:29.585812823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "دا هغه خوب دی، او د هغه تعبير به مو د پاچا پر وړاندې ووایو.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "خوب"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "او د هغه تعبير"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "وایو"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:30:56.836153597Z",
+  "model": "glm-5.3"
+}

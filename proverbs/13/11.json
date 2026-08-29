@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "له هبل څخه مال لږ شي، خو هغه چې په لاس راټولوي، ډېروي.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "له هبل څخه"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "لږ شي"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "خو راټولوونکی"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ډېروي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:56:16.470199091Z",
+  "model": "glm-5.3"
+}

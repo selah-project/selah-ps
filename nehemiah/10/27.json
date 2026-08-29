@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او اخیجا، حنان، عنان.",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "او اخیجا"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حنان"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "عنان"
+    }
+  ],
+  "timestamp": "2026-08-29T01:43:45.539705899Z",
+  "model": "glm-5.3"
+}

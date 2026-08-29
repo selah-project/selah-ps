@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 31:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او په یوولسمه کال، په درېیمه میاشت، د میاشتې په لومړي ورځ، د یاهوه خبر راته وشو، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او وشول"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "په یوه"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "لس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "בשלישי",
+      "gloss": "په درېیمه"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "په لومړي"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د میاشتې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو\/وشو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:02:11.437890914Z",
+  "model": "glm-5.3"
+}

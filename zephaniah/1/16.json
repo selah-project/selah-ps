@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "د شیپور او د جګړې ناورېدونې ورځ، پر ⟨هغو⟩ کلابندو ښارونو او پر لوړو برجونو.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "د شیپور"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "او د جګړې ناورېدونې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ښارونو"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "کلابند"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "برجونو"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "لوړو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:40.733751458Z",
+  "model": "glm-5.3"
+}

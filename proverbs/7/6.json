@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "ځکه چې زه د خپل کور په کړکۍ کې، د خپلې تړلې کړکۍ له شا څخه وګورم.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "په کړکۍ کې"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "زما کور"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "له شا څخه"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "زما تړلې کړکۍ"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "وګورم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:50.883329480Z",
+  "model": "glm-5.3"
+}

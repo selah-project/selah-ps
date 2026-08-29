@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "تر کله، ای یاهوه، به ⟨خپل ځان⟩ پټوې تر تل؟ به ستا قهر لکه اور بلېږي؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کله"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "پټوې"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "تر تل"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "بلېږي"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "لکه"
+    },
+    {
+      "surface": "אש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ستا قهر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:43.901537856Z",
+  "model": "glm-5.3"
+}

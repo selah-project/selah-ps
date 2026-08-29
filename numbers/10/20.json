@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او پر د ګاد زامنو د قبيلې پوځ ⟨هغه⟩ الیاسف زوی د دعوایل و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبيلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "الیاسف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دعوایل"
+    }
+  ],
+  "timestamp": "2026-08-29T02:17:51.548840830Z",
+  "model": "glm-5.3"
+}

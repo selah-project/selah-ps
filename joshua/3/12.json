@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او اوس ستاسو لپاره د یسریل له قبیلو دولس سړي ونیسئ — یو سړی، یو سړی د هرې قبیلې لپاره.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ونیسئ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو لپاره"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړي"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "له قبیلو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسریل"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "د قبیلې لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:15:31.478814092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 87,
+  "translation": "په دېرشو خبرو دې ویل شوې دي، ای د الوهیم ښار. سېلاه.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "په دېرشو خبرو"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "وېل شوې دي"
+    },
+    {
+      "surface": "בך",
+      "gloss": "دې"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېلاه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:51.172264382Z",
+  "model": "glm-5.3"
+}

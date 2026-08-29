@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او که دا ستا سره سوله ونه کړي، بلکې ستا سره جګړه وکړي، نو به يې کلابنده کړې.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "سوله کړي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "بلکې … وکړي"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ستا سره"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جګړه"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "نو به کلابنده کړې"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "يې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:09:32.601746308Z",
+  "model": "glm-5.3"
+}

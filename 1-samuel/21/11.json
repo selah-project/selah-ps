@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "او داوېد راپاڅېد او په همدې ورځ د شاؤل له مخې ووتښتېد، او د ګت د پاچا اکيش ته راغی.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "راپاڅېد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ووتښتېد"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اکیش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ګت"
+    }
+  ],
+  "timestamp": "2026-08-29T02:24:15.448074582Z",
+  "model": "glm-5.3"
+}

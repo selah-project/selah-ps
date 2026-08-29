@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د حصرون زامن چې ورته زېږېدلي وو: ⟨את⟩ يرحمایل او ⟨את⟩ رام او ⟨את⟩ کلوبای.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او د زامنو"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "زېږېدلي وو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "يرحمایل"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "يرحمایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "رام"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "کلوبای"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "کلوبای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:11.753445432Z",
+  "model": "glm-5.3"
+}

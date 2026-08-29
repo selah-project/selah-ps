@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او هغه پر هغه د ډوډۍ صف د یاهوه ⟨مخې⟩ ترتیب کړ، لکه څنګه چې یاهوه ⟨את⟩ موشې ته حکم کړی و.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "ترتیب کړ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پر هغه"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "صف"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "د مخې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړی و"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشې"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    }
+  ],
+  "timestamp": "2026-08-28T21:31:14.429845111Z",
+  "model": "glm-5.3"
+}

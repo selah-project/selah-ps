@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه موږ د پرون یو او هیڅ نه پېژنو، ځکه زموږ ورځې پر ځمکه سیوري دي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "د پرون"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "موږ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "پېژنو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "צל",
+      "gloss": "سیوري"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "زموږ ورځې"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:05:19.309503888Z",
+  "model": "glm-5.3"
+}

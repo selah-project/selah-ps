@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او د اهرون د زامنو ډلې دې وې: د اهرون زامن ناداب او ابیهوع، الاعزار او ایتمار.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "او د زامنو"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ډلې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ناداب"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "او ابیهوع"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "الاعزار"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "او ایتمار"
+    }
+  ],
+  "timestamp": "2026-08-29T01:55:01.124133879Z",
+  "model": "glm-5.3"
+}

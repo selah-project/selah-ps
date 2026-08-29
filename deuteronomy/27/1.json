@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او موشې او د یسرایېل زاړو ⟨את⟩ قوم ته امر وکړ چې ووایي: ټول هغه حکم وساته چې زه نن ⟨את⟩ تاسو ته امر کوم.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "امر وکړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "او زاړو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایېل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووایي"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "وساته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول حکم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "امر کوم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تاسو ته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:11:35.554494758Z",
+  "model": "glm-5.3"
+}

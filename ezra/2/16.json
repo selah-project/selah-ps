@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د اتر زامن، د حزقیا له کورنۍ، نوي اته وو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "اتر"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "د حزقیا له کورنۍ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوي"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:24.718555467Z",
+  "model": "glm-5.3"
+}

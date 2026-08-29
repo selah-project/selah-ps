@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 33:23",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او د نفتالي په اړه يې وويل: ای نفتالي، د خوښۍ څخه سيراب، د یاهوه په برکت ډک — لويديځ او سويل به ونيسي.",
+  "tokens": [
+    {
+      "surface": "ולנפתלי",
+      "gloss": "او د نفتالي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "يې وويل"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالي"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سيراب"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "د خوښۍ"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "او ډک"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "د برکت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ים",
+      "gloss": "لويديځ"
+    },
+    {
+      "surface": "ודרום",
+      "gloss": "او سويل"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "به ونيسي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:14:05.639351509Z",
+  "model": "glm-5.3"
+}

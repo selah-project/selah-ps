@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د عادین زامن څلور سله پنځوس څلور وو.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادین"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سله"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پنځوس"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "څلور"
+    }
+  ],
+  "timestamp": "2026-08-29T02:44:24.718319518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ځکه چې له دیواله څخه به ډبره چیغه ووهي، او له لرګي څخه به تخت ځواب ورکړي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "له دیواله"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "چیغه ووهي"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "او تخت"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "له لرګي"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ځواب ورکړي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:48.875985419Z",
+  "model": "glm-5.3"
+}

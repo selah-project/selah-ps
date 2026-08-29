@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه وویل قایین ته: ولې توره سترګه شوې يې، او ولې دې مخ ټیټ شوی دی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایین"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "توره سترګه کېدل\/غوسه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته (دې)"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "او ولې"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ټیټ شول"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ستا مخ"
+    }
+  ],
+  "timestamp": "2026-08-28T20:57:58.933844662Z",
+  "model": "glm-5.3"
+}

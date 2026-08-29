@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او کاهن ⟨את⟩ ناږود په اومه ورځ وګوري، او کله چې ناتک خپور شوی نه وي، او په کې زېړ ويښتان نه وي، او د ناتک ښکارېدنه د پوستکي څخه ژوره نه وي،",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "وګوري"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناږود"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ناږود"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "اومه"
+    },
+    {
+      "surface": "وהנה",
+      "gloss": "او کله چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "خپور شوی"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ناتک"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وي"
+    },
+    {
+      "surface": "בו",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ويښتان"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "زېړ"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "او ښکارېدنه"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "د ناتک"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ژوره"
+    },
+    {
+      "surface": "מן",
+      "gloss": "څخه"
+    },
+    {
+      "surface": "העור",
+      "gloss": "د پوستکي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:34.763009183Z",
+  "model": "glm-5.3"
+}

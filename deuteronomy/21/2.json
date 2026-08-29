@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "نو ستا مشران او ستا قاضیان به ووځي، او ⟨هغه⟩ ښارونو ته به اندازه وکړي چې د مړي شا اوخوا دي.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ووځي"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ستا مشران"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "ستا قاضیان"
+    },
+    {
+      "surface": "ומדדو",
+      "gloss": "اندازه وکړي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ښارونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "شا اوخوا"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "د مړي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:12.011951046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هغوی د خپل کور پر چوکاټونو او پر خپلو دروازو وليکئ.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "او وليکئ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "چوکاټونو"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "خپل کور"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "او پر خپلو دروازو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:06.496653317Z",
+  "model": "glm-5.3"
+}

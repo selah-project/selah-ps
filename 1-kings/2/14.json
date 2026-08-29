@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او هغه وویل: «یو خبر مې درسره دی.» هغې وویل: «ووایه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "هغه وویل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "درسره"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "هغې وویل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ووایه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:51:17.214999326Z",
+  "model": "glm-5.3"
+}

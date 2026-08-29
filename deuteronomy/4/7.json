@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 4:7",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "ځکه کوم لوی قوم دی چې هغه ته الوهیم دومره نږدې وي، لکه یاهوه زموږ الوهیم، په هر هغه ځانګړي وخت چې موږ ورته غږ کړو؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوم"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "אליو",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "لکه یاهوه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په هر"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "غږ کول مو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-28T22:05:36.953137066Z",
+  "model": "glm-5.3"
+}

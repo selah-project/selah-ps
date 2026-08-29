@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "پر تا مې له رحمه واغورځول شوم؛ له نس د مور مې زما — زما ایل ته يې.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "واغورځول شوم"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "له رحمه"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "له نس"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "د مور مې"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما ایل"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته يې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:28:31.605136044Z",
+  "model": "glm-5.3"
+}

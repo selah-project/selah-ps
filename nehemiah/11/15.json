@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او له لویانو: شِمْعیا زوی د حَشوب، زوی د عَزرِیقام، زوی د حَشَبیا، زوی د بونی.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لویانو"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِمْعیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "د حَشوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "د عَزرِیقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "د حَشَبیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "د بونی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:44:23.647567326Z",
+  "model": "glm-5.3"
+}

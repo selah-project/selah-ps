@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "شپه د ورځې په ځای ګماري؛ رڼا له تیارې سره نږدې ده.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "شپه"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "د ورځې په ځای"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "ګماري"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "نږدې"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "تیارې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:13.150977718Z",
+  "model": "glm-5.3"
+}

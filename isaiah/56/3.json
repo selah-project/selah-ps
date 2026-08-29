@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 56:3",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 56,
+  "translation": "او د پردۍ زوی چې یاهوه ته نږدې شوی دی، دې ونه وايي چې: یاهوه مې له خپل قوم څخه بېل کړی دی؛ او خصي دې ونه وايي: زه یو وچ ونه یم.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "پردۍ"
+    },
+    {
+      "surface": "הנלוה",
+      "gloss": "چې نږدې شوی دی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הבדל",
+      "gloss": "بېل"
+    },
+    {
+      "surface": "יבדילני",
+      "gloss": "مې بېل کړی دی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "خپل قوم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "הסריס",
+      "gloss": "خصي"
+    },
+    {
+      "surface": "הן",
+      "gloss": "دا چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ونه"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "وچ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:25:39.062891244Z",
+  "model": "glm-5.3"
+}

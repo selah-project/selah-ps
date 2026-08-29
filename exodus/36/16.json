@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او ⟨את⟩ پنځه پردې يې جلا ونښلولې، او ⟨את⟩ شپږ پردې يې جلا ونښلولې.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "ونښلولې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پنځه پردې"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردې"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جلا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شپږ پردې"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردې"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "جلا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:29:33.004885783Z",
+  "model": "glm-5.3"
+}

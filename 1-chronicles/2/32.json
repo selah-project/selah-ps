@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د یادع، د شمي د ورور، زامن یتِر او یوناتان وو، او یتِر له زامنو پرته مړ شو.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "او زامن"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "د یادع"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "د ورور"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "د شمي"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتِر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "او یوناتان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "او مړ شو"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یتِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "زامن"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:34.141128420Z",
+  "model": "glm-5.3"
+}

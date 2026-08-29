@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "درې دا دي چې په ګام کې يې ښه ځي، او څلور چې په تګ کې ښکلي دي —",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "درې"
+    },
+    {
+      "surface": "המה",
+      "gloss": "دا دي"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "ښه کوونکي"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "ګام"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "او څلور"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "ښکلي"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "تګ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:38.373959170Z",
+  "model": "glm-5.3"
+}

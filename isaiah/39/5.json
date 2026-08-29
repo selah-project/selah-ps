@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او یشعیاهو حزقیاهو ته یې وویل: «د لښکرو د یاهوه خبره واوره",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او یې وویل"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یشعیاهو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حزقیاهو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د لښکرو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:49.390422034Z",
+  "model": "glm-5.3"
+}

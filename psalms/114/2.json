@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 114,
+  "translation": "یهودا د هغه د مقدس ځای شو، اسرائیل د هغه د مملکتونو —",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "شو"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "د هغه د مقدس ځای"
+    },
+    {
+      "surface": "ישرאל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ממשلותיו",
+      "gloss": "د هغه د مملکتونو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:41.427516194Z",
+  "model": "glm-5.3"
+}

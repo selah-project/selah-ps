@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "زموږ د زړه خوښي ودرېده؛ زموږ نڅا واوښته سوګندنې ته.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ودرېده"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "زموږ د زړه"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "واوښته"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "سوګندنې ته"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "زموږ نڅا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:22:12.537219387Z",
+  "model": "glm-5.3"
+}

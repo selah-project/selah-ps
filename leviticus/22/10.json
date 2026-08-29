@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او هر بهرنی د سپېڅلي شي نه خوري؛ د کاهن مېلمه او اجیري د سپېڅلي شي نه خوري.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بهرنی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "سپېڅلی شی"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "مېلمه"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "او اجیري"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "خوري"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "سپېڅلی شی"
+    }
+  ],
+  "timestamp": "2026-08-28T21:47:29.469118688Z",
+  "model": "glm-5.3"
+}

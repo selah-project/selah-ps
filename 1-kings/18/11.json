@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او اوس ته وايې: لاړ شه، خپل آقا ته ووایه: ګوره، الیاهو دې دی.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لاړ شه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "خپل آقا ته"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ګوره"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "الیاهو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:58:33.921937334Z",
+  "model": "glm-5.3"
+}

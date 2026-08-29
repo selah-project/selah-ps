@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 36:35",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او هغه ⟨את⟩ پرده جوړه کړه — له آبي رنګه، ارغواني، شنه quantities سور شنه quantities او له تېل شوي بسرې کتان — د ډیزاینر کار يې کړې وه، هغه ⟨את⟩ د کروبو (فرښتویو بڼو) سره جوړه کړه.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "جوړه يې کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرده"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پرده"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "آبي رنګ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ارغواني"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "شنه quantities سور"
+    },
+    {
+      "surface": "שני",
+      "gloss": "شنه quantities سور"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "او بسره"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "تېل شوی"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "د ډیزاینر"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړه کړه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "کروبو"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "کروبې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:15:18.451696329Z",
+  "model": "glm-5.3"
+}

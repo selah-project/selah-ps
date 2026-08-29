@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او هر هغه څه چې کښې او فلسونه نه لري، يې مه خورئ — ناپاک ⟨هو⟩ د تاسو لپاره.",
+  "tokens": [
+    {
+      "surface": "وכל",
+      "gloss": "او هر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نه لري"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "کښې"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "او فلسونه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "خورئ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨هو⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "د تاسو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:36.872002842Z",
+  "model": "glm-5.3"
+}

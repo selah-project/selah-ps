@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 122,
+  "translation": "زموږ پښې ستا په دروازو کې ولاړې دي، ای یروشلایمه!",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "ولاړې"
+    },
+    {
+      "surface": "היו",
+      "gloss": "شوي دي"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "زموږ پښې"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ستا په دروازو کې"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایمه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:23.147856716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "هغه زما لپاره د كميني يو پړانګ دى، په پټو ځایونو كې يو زمری.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "يو پړانګ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "د كميني"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "يو زمری"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "په پټو ځایونو كې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:42:40.711087996Z",
+  "model": "glm-5.3"
+}

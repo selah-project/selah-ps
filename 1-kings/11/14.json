@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "یاهوه پر شلومو یو مخالف ودراوه — ⟨את⟩ هدد ادومي، هغه د پاچا له نسل و، په اډوم کې.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ودراوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "مخالف"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "پر شلومو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هدد"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "هدد"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ادومي"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "له نسل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "په اډوم کې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:48.870153565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او ⟨את⟩ کور به له دننه له هر اړخه پېل کړي، او هغه خاوره چې يې ويستې وه به د ښار له بهر په يوه ناپاک ځای کې وغورځوي.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "کور"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "پېل کړي"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "له دننه"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "له هر اړخه"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "وغورځوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خاوره"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "خاوره"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "ويستې وه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "بهر"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "د ښار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ځای"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    }
+  ],
+  "timestamp": "2026-08-28T21:44:19.609739937Z",
+  "model": "glm-5.3"
+}

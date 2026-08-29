@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "او ته به ليونی شې د هغه څه له ليدلو چې ستا سترګې به يې ويني.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "او ته به وې"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "ليونی"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "له ليدلو"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ستا سترګې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "به يې ويني"
+    }
+  ],
+  "timestamp": "2026-08-28T22:12:27.393203142Z",
+  "model": "glm-5.3"
+}

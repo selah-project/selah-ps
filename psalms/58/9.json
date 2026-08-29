@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 58,
+  "translation": "لکه ګونګټسی چې په خپله ترخوړه کې حلېږي او روان وتې شي؛ لکه د ښځه سقط، چې هېڅکله لمر و نه ویني.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "لکه"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ګونګټسی"
+    },
+    {
+      "surface": "תמس",
+      "gloss": "حلېږي"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "روان وتې شي"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "سقط"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "د ښځې"
+    },
+    {
+      "surface": "בל",
+      "gloss": "هېڅکله نه"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "وویني"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "لمر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:35:10.101648582Z",
+  "model": "glm-5.3"
+}

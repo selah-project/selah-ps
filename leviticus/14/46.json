@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او څوک چې په هغه ټولو ورځو کې چې کور بند شوی و ⟨את⟩ هغه ته ننوځي، تر ماښام پورې ناپاک دی.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "او هغه چې ننوځي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "بند شوی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ هغه",
+      "marks": "کور"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک دی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ماښام"
+    }
+  ],
+  "timestamp": "2026-08-28T21:44:33.006575961Z",
+  "model": "glm-5.3"
+}

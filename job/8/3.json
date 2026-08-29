@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "آيا ایل پرکړه تاووي؟ او که شدای انصاف تاووي؟",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "آيا ایل"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "تاووي"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "پرکړه"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدای"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "تاووي"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:02.730037855Z",
+  "model": "glm-5.3"
+}

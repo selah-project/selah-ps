@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او مې بوتلمه ⟨د⟩ دروازې ته — هغه دروازه چې مخامخ د ختیځ لور ته و.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "مې بوتلمه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨د⟩ … ته"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازې"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "مخامخ… و"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "لور ته"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "د ختیځ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:46.874080062Z",
+  "model": "glm-5.3"
+}

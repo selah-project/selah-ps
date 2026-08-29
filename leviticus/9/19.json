@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او ⟨את غوړي د غوای او د قوچ، لکۍ-غوړی، دنننې پوښونې، پښتې او د ځيګر برېښه.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "غوړي"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "غوړي"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "השור",
+      "gloss": "غوای"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "او له"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "قوچ"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "لکۍ-غوړی"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "پوښونه"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "پښتې"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "برېښه"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ځيګر"
+    }
+  ],
+  "timestamp": "2026-08-28T21:38:07.467705768Z",
+  "model": "glm-5.3"
+}

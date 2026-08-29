@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "څنګه ولوېدل ځواکمن، او ويې پريښودل د جګړې وسلې!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ولوېدل"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ځواکمن"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "او ويې پريښودل"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "وسلې"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:41:42.746264505Z",
+  "model": "glm-5.3"
+}

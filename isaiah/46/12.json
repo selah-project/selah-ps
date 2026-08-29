@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 46,
+  "translation": "زما غږ واورئ، د زړه سخت‌زاران، چې له عدالت څخه لرې یاست.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "زما (غږ)"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "سخت‌زاران"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "لرې یاست"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "له عدالت څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:22:38.465745015Z",
+  "model": "glm-5.3"
+}

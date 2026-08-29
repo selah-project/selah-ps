@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "واي د وينو ښار! ټول ⟨د⟩ درغلو او لوټ ډک دی؛ ښکار نه لرې کېږي.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "واي"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "د وينو"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "درغلو"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "لوټ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "لرې کېږي"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ښکار"
+    }
+  ],
+  "timestamp": "2026-08-29T00:18:22.975785753Z",
+  "model": "glm-5.3"
+}

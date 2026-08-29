@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "چې ډبرې لېږدوي، به ⟨پرې⟩ ټپي کېږي؛ چې لرګي شځي، به ⟨پرې⟩ زيانمن شي.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "لېږدوي"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ډبرې"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ټپي کېږي"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "شځي"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لرګي"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "زيانمن شي"
+    },
+    {
+      "surface": "בם",
+      "gloss": "پرې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:43:11.007629700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "مه دې زړه د هغې د لارو خوا ته وګرځېږي، مه په هغې په پلوونو کې ورکه شې.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "وګرځېږي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "د … خوا ته"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "د هغې د لارو"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "دې زړه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "ورکه شې"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "په هغې په پلوونو کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:54:37.137771944Z",
+  "model": "glm-5.3"
+}

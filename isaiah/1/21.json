@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 1:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "څنګه زناکاره شوه هغه باڼداره ښار! دا د حکم ډکه وه، عدالت په کې اوسېده، خو اوس وژونکي دي.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "څنګه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "شوه"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "زناکاره"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "باڼداره"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ډکه وه"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "د حکم"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "اوسېده"
+    },
+    {
+      "surface": "בה",
+      "gloss": "په کې"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "خو اوس"
+    },
+    {
+      "surface": "מרצחים",
+      "gloss": "وژونکي"
+    }
+  ],
+  "timestamp": "2026-08-28T23:11:26.139613054Z",
+  "model": "glm-5.3"
+}

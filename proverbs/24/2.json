@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "ځکه چې زړه يې د تاون فکر کوي، او شونډې يې د دردونو خبرې کوي.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "שד",
+      "gloss": "د تاون"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "فکر کوي"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "زړه يې"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "او د دردونو"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "شونډې يې"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "خبرې کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:00:39.480653542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "او هغه وویل: ځه، دانیېل، ځکه چې خبرې بندې شوې او مهر شوې دي تر ⟨د⟩ پای وخت پورې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او هغه وویل"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ځه"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیېل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "بندې شوې"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "او مهر شوې"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر پورې"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "پای"
+    }
+  ],
+  "timestamp": "2026-08-29T01:34:57.655253498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او ویې ویل: مه کوی، مېلو، زما وروڼو، دا بدې نه",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مېلو، زما"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "وروڼو"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "دا بدې نه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:57:30.336429761Z",
+  "model": "glm-5.3"
+}

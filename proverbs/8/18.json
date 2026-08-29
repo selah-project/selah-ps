@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "شتمني او عزت ⟨את⟩ له ما سره دي؛ پاخه مال او عدالت ⟨هست⟩.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "شتمني"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "او عزت"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ له ما سره"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "پاخه"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "او عدالت"
+    }
+  ],
+  "timestamp": "2026-08-29T00:55:33.047508523Z",
+  "model": "glm-5.3"
+}

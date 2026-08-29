@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او هم اېرا دیایري ⟨كان⟩ کاهن د داوېد لپاره.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "اېرا"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "دیایري"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨كان⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاهن"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:47:38.899544399Z",
+  "model": "glm-5.3"
+}

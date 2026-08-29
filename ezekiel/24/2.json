@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "د انسان زویه، د ورځې نوم ⟨את⟩ ولیکه — د همدې ورځې عینتیا ⟨את⟩: د بابل پاچا پر یروشلایم يې محاصره ولګوله په همدې عین ورځ.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "ولیکه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ورځې نوم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د همدې ورځې عینتیا"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "عینتیا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "د ورځې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "يې محاصره ولګوله"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "د بابل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "په عین"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:59:18.048554837Z",
+  "model": "glm-5.3"
+}

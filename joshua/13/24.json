@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او موشې د ګاد قبیلې ته، د ګاد زامنو ته، د دوی د کورنیو لپاره ⟨ورکړل⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ورکړل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلې ته"
+    },
+    {
+      "surface": "גד",
+      "gloss": "د ګاد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "زامنو ته"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "د دوی د کورنیو لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T22:18:41.611044361Z",
+  "model": "glm-5.3"
+}

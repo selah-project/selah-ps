@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "خوشحاله زړه مخ ښه کوي، خو د زړه په غم سره روان ماتېږي.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوشحاله"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ښه کوي"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "خو په غم"
+    },
+    {
+      "surface": "לב",
+      "gloss": "د زړه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روان"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ماتېږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:31.668356048Z",
+  "model": "glm-5.3"
+}

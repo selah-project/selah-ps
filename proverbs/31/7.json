@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "وڅښي او خپله بېوزلي هېره کړي، او خپل رنځ به بیا هېڅکله ونه یادوي.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "وڅښي"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "او هېره کړي"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "خپله بېوزلي"
+    },
+    {
+      "surface": "ועמالו",
+      "gloss": "او خپل رنځ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "هېڅکله ونه"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "یادوي"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "بیا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:55.973124540Z",
+  "model": "glm-5.3"
+}

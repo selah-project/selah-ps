@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "ځکه چې په هغه وخت کې ورځ په ورځ پر ډاویږد بهتل چې ورسره مرسته وکړي، تر څو لوی پوځ وشې، د الوهیم د پوځ په څېر.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "راتلل بهتل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ډاویډ"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "ورسره مرسته"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر څو"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "پوځ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "د پوځ په څېر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-29T01:51:30.334864305Z",
+  "model": "glm-5.3"
+}

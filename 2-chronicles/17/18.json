@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او پر لاس يې يهوزاباد، او له هغه سره يو سوه اتیا زره د جګړې لپاره وسلې پرې ايستل شوي.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "ידو",
+      "gloss": "لاس يې"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "يهوزاباد"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "او له هغه سره"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یو سوه"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "او اتیا"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "زره"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "وسلې پرې ايستل شوي"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "د پوځ"
+    }
+  ],
+  "timestamp": "2026-08-29T02:02:18.943142893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "په دې پوهېږې چې زه بې-ګناه یم، او ستا له لاسه هېڅ ژغورونکی نشته.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر\/په دې"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "ستا پوهه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "ګناه کوم"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او نشته"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ستا له لاسه"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ژغورونکی"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:32.697112993Z",
+  "model": "glm-5.3"
+}

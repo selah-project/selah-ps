@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "کږ‌زړی نیکي نه مومي، او څوک چې ⟨په⟩ خپله ژبه کږېږي په بدۍ کې لوېږي.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "کږ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "زړی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "مومي"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "نیکي"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "او کږېږي"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "خپله ژبه"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "لوېږي"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "په بدۍ کې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:57:59.529576661Z",
+  "model": "glm-5.3"
+}

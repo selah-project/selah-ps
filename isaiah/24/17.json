@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "وېره او کوندې او دام پر تا دي، اې د ځمکې اوسېدونکې.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "وېره"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "او کوندې"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "او دام"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "پر تا"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "اوسېدونکې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "د ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:53.373695647Z",
+  "model": "glm-5.3"
+}

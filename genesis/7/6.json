@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او نوچ د شپږو سوو کالو زوی وو کله چې ⟨ماشام⟩ د اوبو طوفان پر ځمکه راغی.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "او نوچ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپږو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سوو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کالو"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "او طوفان"
+    },
+    {
+      "surface": "היה",
+      "gloss": "وو \/ راغی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "د اوبو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:12:50.141832836Z",
+  "model": "glm-5.3"
+}

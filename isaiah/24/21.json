@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او په هغه ورځ کې به یاهوه د لوړو د لښکر پر لوړو کې سزا ورکړي، او د ځمکې ⟨د⟩ پاچاهانو ته پر ځمکه.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "سزا ورکړي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لښکر"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "د لوړو"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "په لوړو کې"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "د پاچاهانو"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:16:35.544472693Z",
+  "model": "glm-5.3"
+}

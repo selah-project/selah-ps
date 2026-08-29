@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او هغوی د اورومي ټوله پوله له ارنون څخه تر یابوق او له بيابانه تر اردن مېشته کړه.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "مېشته يې کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټوله پوله"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټوله"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اورومي"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "له ارنون څخه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "یابوق"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "له"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "بيابانه"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "اردن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:02.709831575Z",
+  "model": "glm-5.3"
+}

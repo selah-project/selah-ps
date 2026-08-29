@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 37,
+  "translation": "چېرې دی د حَماټ پاچا، او د ارفاد پاچا، او د سېفَروایم ښار پاچا، هِنَع او عِوَه؟",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "چېرې دی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَماټ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "او پاچا"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "ارفاد"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "او پاچا"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ښار"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "سېفَروایم"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "هِنَع"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "او عِوَه"
+    }
+  ],
+  "timestamp": "2026-08-28T23:20:23.142574988Z",
+  "model": "glm-5.3"
+}

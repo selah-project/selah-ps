@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "داسې وايي یاهوه صباؤت: دا خلك وايي: «نه دی رارسېدلی وخت — د یاهوه كور دې ودانیږي.»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "העם",
+      "gloss": "دا خلك"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "رارسېدلی"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وخت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "كور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "دې ودانیږي"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:27.162129569Z",
+  "model": "glm-5.3"
+}

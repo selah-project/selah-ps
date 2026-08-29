@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "د دې زوی د ښځې برنډتیا مه بربنډوې؛ هغه د تا د زوی ښځه ده — د هغې برنډتیا مه بربنډوې.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "برنډتیا"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "د تا د زوی د ښځې (نږوې)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "بربنډوې"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ښځه"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "د تا د زوی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ده"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "بربنډوې"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "د هغې برنډتیا"
+    }
+  ],
+  "timestamp": "2026-08-28T21:45:56.105518777Z",
+  "model": "glm-5.3"
+}

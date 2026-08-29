@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او هم حماθ ⟨به⟩ هغې سره پوله لري؛ صور او صیدون، ځکه چې ⟨هغوی⟩ خورا هوښیار دي.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حماث"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "پوله لري"
+    },
+    {
+      "surface": "בה",
+      "gloss": "له هغې سره"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صور"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "او صیدون"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "هوښیار دي"
+    },
+    {
+      "surface": "مאד",
+      "gloss": "خورا"
+    }
+  ],
+  "timestamp": "2026-08-29T00:22:40.195049430Z",
+  "model": "glm-5.3"
+}

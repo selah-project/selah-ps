@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 2:21",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او وروسته حصرون د مکیر (د ګیعاد د پلار) لور ته ورغی، او هغه يې واخیسته، په داسې حال کې چې هغه شپېته کاله و؛ او هغې ورته ⟨את⟩ سغوب وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "او وروسته"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ورغی"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حصرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בת",
+      "gloss": "لور"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "مکیر"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "پلار"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګیعاد"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "او هغه"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "هغه يې واخیسته"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کلن"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "شپېته"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سغوب"
+    },
+    {
+      "surface": "שגוב",
+      "gloss": "سغوب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:46:53.188335301Z",
+  "model": "glm-5.3"
+}

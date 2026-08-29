@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "شعتنېز (وړه او کتان یوځای) مه اغونده.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "اغونده"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شعتنېز"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "وړه"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "او کتان"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یوځای"
+    }
+  ],
+  "timestamp": "2026-08-28T22:10:14.690797170Z",
+  "model": "glm-5.3"
+}

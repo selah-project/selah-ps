@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "يو غوای د مېړيو، يو رېښتا، يو لم یو کلن، د سوځوونکې قربانۍ لپاره.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "غوای"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "...زی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مېړيو"
+    },
+    {
+      "surface": "איל",
+      "gloss": "رېښتا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "يو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "...زی"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "يو کلن"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "د سوځوونکې قربانۍ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-28T21:52:12.518773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او د ځوانانو ګناه ⟨את⟩ د یاهوه مخ ته ډېره لویه وه، ځکه خلكو ⟨את⟩ د یاهوه قرباني سپکهوله.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "وه"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ګناه"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "د ځوانانو"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "لویه"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "سپکهوله"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "خلكو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه قرباني"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "قرباني"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:31:30.604018103Z",
+  "model": "glm-5.3"
+}

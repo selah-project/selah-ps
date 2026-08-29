@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او يې د یهوداه پوښ ⟨את⟩ بربنډ کړ، او ته په هغه ورځ د ځنګل د کور وسلو ته وکتلې.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "بربنډ کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یهوداه پوښ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پوښ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهوداه"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "او ته وکتلې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "نשק",
+      "gloss": "وسلو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "هיער",
+      "gloss": "د ځنګل"
+    }
+  ],
+  "timestamp": "2026-08-28T23:15:56.702510948Z",
+  "model": "glm-5.3"
+}

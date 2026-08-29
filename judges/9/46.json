@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او د شکم د برج ټولو څښتنانو دا واورېدل، او د ایل-بْریت (د تړون ایل) د کور زريح ته ننوتل.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "واورېدل يې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "څښتنان"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شکم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ننوتل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "زريح"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بْریت"
+    }
+  ],
+  "timestamp": "2026-08-28T22:26:17.697205732Z",
+  "model": "glm-5.3"
+}

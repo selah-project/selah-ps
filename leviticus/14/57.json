@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "د ښوونې لپاره — په ⟨د⟩ ورځ چې ناپاک وي او په ⟨د⟩ ورځ چې پاک وي؛ دا د صعرات شریعت دی.",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "د ښوونې لپاره"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "چې ناپاک وي"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "او په ورځ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "چې پاک وي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شریعت"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "د صعرات"
+    }
+  ],
+  "timestamp": "2026-08-28T21:43:41.384759412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "د یاهوه مخ دوی ووېشل، نور به دوی ته ونه‌ګوري؛ د کاهنانو مخ يې پورته نه کړ، زړه مشرانو ته يې مهرباني ونه‌کړه.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "دوی ووېشل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "نور به"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "دوی ته ونه‌ګوري"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "د کاهنانو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "پورته نه کړ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "زړه مشرانو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "مهرباني ونه‌کړه"
+    }
+  ],
+  "timestamp": "2026-08-29T01:21:36.513829308Z",
+  "model": "glm-5.3"
+}

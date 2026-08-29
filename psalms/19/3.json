@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "ورځې ورته ورځې خبرې راټوشې کوي، او شپې ورته شپې پوهه څرګندوي.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ورته ورځ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "راټوشې کوي"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "او شپې"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ورته شپې"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "څرګندوي"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "پوهه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:38:47.531484926Z",
+  "model": "glm-5.3"
+}

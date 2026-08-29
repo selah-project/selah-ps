@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 2:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "خو ته، د انسان زويه، هغه څه واوره چې زه دې ته وايې؛ مه کږه شه لکه د سرکښ کور غوندې؛ خوله دې پرانیزه او هغه څه وخوره چې زه دې ته درکوم.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "خو ته"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "وايې"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "شه"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "کږه\/سرکښ"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "لکه د کور"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "د سرکښ"
+    },
+    {
+      "surface": "פצה",
+      "gloss": "پرانیزه"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "خوله دې"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "او وخوره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "درکوم"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "دې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:36:04.517158329Z",
+  "model": "glm-5.3"
+}

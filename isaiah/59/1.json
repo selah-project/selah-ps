@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 59,
+  "translation": "اړه! د یاهوه لاس لنډ شوی نه دی چې ونه ژغوري، او د هغه غوږ نه دی دروند شوی چې و نه اوري.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "اړه!"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "لنډ شوی"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "له ژغورلو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "دروند شوی"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "غوږ"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "له اورېدلو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:27:10.691225493Z",
+  "model": "glm-5.3"
+}

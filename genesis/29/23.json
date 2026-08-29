@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او ماښام شو، نو ⟨هغه⟩ ⟨את⟩ لیه لور يې واخیسته او هغه يې ورته راوسته؛ او هغه ورته ننوت.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "شو"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ماښام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "واخیسته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لیا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیا"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "لور يې"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "راوسته يې"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "هغه (لیا)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته (یعقوب ته)"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ننوت"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    }
+  ],
+  "timestamp": "2026-08-28T21:06:02.806090531Z",
+  "model": "glm-5.3"
+}

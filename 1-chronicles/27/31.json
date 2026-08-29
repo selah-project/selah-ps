@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "او پر ګډو یَزیز هګري و. دا ټول د هغه مال پازوالان وو چې د پاچا داوېد و.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ګډو"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "یَزیز"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "هګري"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "پازوالان"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "د مال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوېد"
+    }
+  ],
+  "timestamp": "2026-08-29T01:56:07.450203431Z",
+  "model": "glm-5.3"
+}

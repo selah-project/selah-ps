@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 102,
+  "translation": "ځکه یاهوه له خپل مقدس لوړ ځایه، له اسمانه ځمکې ته وکتل.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "له … ځایه کتل"
+    },
+    {
+      "surface": "مמרום",
+      "gloss": "له لوړ"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "خپل مقدس ځای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "مשמים",
+      "gloss": "له اسمانه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "وکتل"
+    }
+  ],
+  "timestamp": "2026-08-29T00:43:51.369858809Z",
+  "model": "glm-5.3"
+}

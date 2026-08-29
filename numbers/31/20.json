@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او ټول جامې، او ټول د څرمنې لوښي، او ټول د وزو وړۍ ټوکر، او ټول د لرګي لوښي پاک کړئ.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "جامې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښی"
+    },
+    {
+      "surface": "עור",
+      "gloss": "د څرمنې"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کار\/صنعت"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "د وزو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "او ټول"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "لوښی"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "د لرګي"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "پاک کړئ"
+    }
+  ],
+  "timestamp": "2026-08-28T22:01:41.322710308Z",
+  "model": "glm-5.3"
+}

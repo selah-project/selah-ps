@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 21,
+  "translation": "د صدیق لپاره خوښي ده چې عدالت وکړي، خو د بدکارانو لپاره وېره ده.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "خوښي"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "د صدیق لپاره"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "کول"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "خو وېره"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "د بدکارانو لپاره"
+    },
+    {
+      "surface": "און",
+      "gloss": "بدکارۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T00:59:05.521676469Z",
+  "model": "glm-5.3"
+}

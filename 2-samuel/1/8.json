@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "هغه ما ته وویل: “ته څوک یې؟” او هغه ته مې وویل: “زه عمالیقی یم.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "هغه وویل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته یې"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "مې وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "عمالیقی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه یم"
+    }
+  ],
+  "timestamp": "2026-08-28T22:41:50.486349916Z",
+  "model": "glm-5.3"
+}

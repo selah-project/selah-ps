@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "شموټ هحروي، حېلېتس هپلویني.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "شموټ"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "هحروي"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "حېلېتس"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "هپلویني"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:50.028738879Z",
+  "model": "glm-5.3"
+}

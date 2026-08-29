@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "لکه څوک چې تیږه په تیراوران کې تړي، همداسې هغه ⟨دی⟩ چې احمق ته ویاړ ورکوي.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "لکه څوک چې ... تړي"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "تیږه"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "په تیراوران کې"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همداسې"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "احمق ته"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ویاړ"
+    }
+  ],
+  "timestamp": "2026-08-29T01:01:01.114210053Z",
+  "model": "glm-5.3"
+}

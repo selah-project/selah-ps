@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او يهودا د يسرائیلو پر وړاندې ماتې وخوړه، او هر سړی خپل خیمې ته وتښتېد.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "ماتې وخوړه"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "يهودا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "پر وړاندې"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائیلو"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "وتښتېد"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هر سړی"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "خپل خیمې ته"
+    }
+  ],
+  "timestamp": "2026-08-29T02:06:45.140214820Z",
+  "model": "glm-5.3"
+}

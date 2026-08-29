@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او مِتوشلاخ ژوند وکړ اته اوسته کاله او سل کاله، او هغه ⟨את⟩ لِمِک زیږ کړ.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ژوند وکړ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مِتوشلاخ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "او اتیا"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "او سل"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "زیږ یې کړ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لِمِک"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لِمِک"
+    }
+  ],
+  "timestamp": "2026-08-28T20:58:43.702855899Z",
+  "model": "glm-5.3"
+}

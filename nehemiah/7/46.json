@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "هانیتینیم: د زیحا زامن، د حسوفا زامن، د طبعوت زامن.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "هانیتینیم (معبد خدمتګار)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "زیحا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "حسوفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "طبعوت"
+    }
+  ],
+  "timestamp": "2026-08-29T01:42:33.348304646Z",
+  "model": "glm-5.3"
+}

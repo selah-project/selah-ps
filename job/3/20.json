@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "ولې ستړي ته رڼا ورکول کېږي، او د نفس تلوار لرونکي ته ژوند؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکول کېږي"
+    },
+    {
+      "surface": "لעמל",
+      "gloss": "ستړي ته"
+    },
+    {
+      "surface": "אור",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "او ژوند"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "تلوار لرونکي ته"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    }
+  ],
+  "timestamp": "2026-08-29T01:03:18.463290221Z",
+  "model": "glm-5.3"
+}

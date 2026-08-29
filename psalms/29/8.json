@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "د یاهوه غږ بېدیا ولړزوي؛ یاهوه د قادېش بېدیا ولړزوي.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "غږ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ولړزوي"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بېدیا"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ولړزوي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بېدیا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادېش"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:26.603570243Z",
+  "model": "glm-5.3"
+}

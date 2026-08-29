@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او وايې: لکه څنګه چې زه ډېړه وهله او زما زړه پر ملنډو سترګې پټولې",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "او وايې"
+    },
+    {
+      "surface": "איך",
+      "gloss": "لکه څنګه چې"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "زه ډېړه وهله"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ډېړه"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "ملنډو سترګې پټولې"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": ""
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زما زړه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:59.071314381Z",
+  "model": "glm-5.3"
+}

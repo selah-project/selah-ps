@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 12,
+  "translation": "د دې ټولو په منځ کې څوک دا نه دی پېژندلی چې د یاهوه لاس دا ټول جوړ کړي دي؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "پېژندلی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "د دې ټولو په منځ کې"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دا ټول"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יד",
+      "gloss": "لاس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "جوړ کړي دي"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:06:07.900375452Z",
+  "model": "glm-5.3"
+}

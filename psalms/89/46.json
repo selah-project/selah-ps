@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 89,
+  "translation": "د هغه د ځوانۍ ورځې دې لنډې کړې؛ شرم دې پرې پوښلی. سېله.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "لنډې کړې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "د هغه د ځوانۍ"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "پوښلی"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "بושה",
+      "gloss": "شرم"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېله"
+    }
+  ],
+  "timestamp": "2026-08-29T00:41:43.901367212Z",
+  "model": "glm-5.3"
+}

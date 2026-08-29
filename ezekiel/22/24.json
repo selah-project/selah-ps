@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "د انسان زویه، ورته ووایه: ته هغه ځمکه يې چې نه پاکېږي، هغه چې د خوارۍ په ورځ پرې باران نه و اورېدلی.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ووایه"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "את",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "پاکېږي"
+    },
+    {
+      "surface": "היא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "باران اورېدلی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "د خوارۍ"
+    }
+  ],
+  "timestamp": "2026-08-28T23:58:08.770548412Z",
+  "model": "glm-5.3"
+}

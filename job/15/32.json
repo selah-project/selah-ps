@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 15:32",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 15,
+  "translation": "له خپله وخت دمخه به بشپړ شي، او د هغه څانګه به شنه نه وي.",
+  "tokens": [
+    {
+      "surface": "בלא",
+      "gloss": "دمخه"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "له خپله وخت"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "بشپړ شي"
+    },
+    {
+      "surface": "וכפתו",
+      "gloss": "او د هغه څانګه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "شنه وي"
+    }
+  ],
+  "timestamp": "2026-08-29T01:08:15.718550153Z",
+  "model": "glm-5.3"
+}

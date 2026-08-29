@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "ټول هغه چې ورسره ننوزي بېرته نه ګرځي او د ژوند لارو ته نه رسېږي،",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "هغه چې ورسره ننوزي"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "بېرته ګرځي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "رسېږي"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "لارو"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "د ژوند"
+    }
+  ],
+  "timestamp": "2026-08-29T00:53:17.180284999Z",
+  "model": "glm-5.3"
+}

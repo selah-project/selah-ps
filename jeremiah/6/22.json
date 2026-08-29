@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 6:22",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 6,
+  "translation": "داسې وايي یاهوه: نoma! يو قوم د شمال له ځمکې راځي، او يو لوی ملت د ځمکې له وروستيو برخو راپاڅېدلی.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "نو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "له ځمکې"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "او ملت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "راپاڅېدلی"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "له وروستيو برخو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:33:06.018625725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 145,
+  "translation": "مهربان او رحیم ⟨is⟩ یاهوه، د غوسې اورېدونکی (slow to anger)، او لوی خېسېد.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "مهربان"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "او رحیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "اورېدونکی (slow)"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "د غوسې (literally 'پوزې')"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "او لوی"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    }
+  ],
+  "timestamp": "2026-08-29T00:52:00.803270009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "همدغه ایل چې ماته بدل راکوي، او ملتونه ماته لاندې راټیټوي.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "همدغه ایل"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "چې … راکوي"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "بدل"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ماته"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "او … راټیټوي"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "ماته لاندې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:49:32.321271919Z",
+  "model": "glm-5.3"
+}

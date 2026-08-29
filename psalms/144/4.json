@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 144,
+  "translation": "انسان د هېڅمانۍ په څېر دی؛ ورځې یې د تېرېدونکې سیوري په څېر دي.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "د هېڅمانۍ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "په څېر دی"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ورځې یې"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "د سیوري"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "تېرېدونکې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:51:29.907306519Z",
+  "model": "glm-5.3"
+}

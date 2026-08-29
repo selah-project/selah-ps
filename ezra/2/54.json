@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "د نTSیح زامن، د خطیفا زامن.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نِصیح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "خطیفا"
+    }
+  ],
+  "timestamp": "2026-08-29T01:36:33.391093805Z",
+  "model": "glm-5.3"
+}

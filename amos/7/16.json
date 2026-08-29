@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او اوس د یاهوه ⟨את⟩ خبر واوره: ته وايې، «له اسرائیل سره مه ونبېوه او د یِشحوک کور ته مه ټوکېوه.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "ونبېوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "سره"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او مه"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "ټوکېوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "یِشحوک"
+    }
+  ],
+  "timestamp": "2026-08-29T02:37:40.739537735Z",
+  "model": "glm-5.3"
+}

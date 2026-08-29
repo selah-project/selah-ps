@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او له روغونو تېښته به هلاکه شي، او له د ډېرویو مشرانو به خلاصون نه وي.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "او هلاکه شي"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "تېښته"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "روغونو"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "خلاصون"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "له د ډېرویو مشرانو"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "د ډېرو"
+    }
+  ],
+  "timestamp": "2026-08-28T23:38:08.252893673Z",
+  "model": "glm-5.3"
+}

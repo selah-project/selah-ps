@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 38,
+  "translation": "څرنګه چې ستا غشۍ مې په تنه کې ډوبې شوې، او ستا لاس راپرته کښېناست.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "څرنګه چې"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ستا غشۍ"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "ډوبې شوې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مې په تنه کې"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "او را... کښېناست"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پرته"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ستا لاس"
+    }
+  ],
+  "timestamp": "2026-08-29T00:31:55.175900597Z",
+  "model": "glm-5.3"
+}

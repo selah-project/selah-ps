@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او د هغه لومړئ زوی عبدون و، او تصور، او قیش، او بَعل، او ناداب.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "او د هغه زوی"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "لومړئ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "عبدون"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "او تصور"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "او قیش"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "او بَعل"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "او ناداب"
+    }
+  ],
+  "timestamp": "2026-08-29T01:49:10.912848951Z",
+  "model": "glm-5.3"
+}

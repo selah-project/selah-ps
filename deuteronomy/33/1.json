@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او دا هغه برکت دی چې موشې، د الوهیم سړي، د خپلې مړینې له مخېښې ⟨את⟩ د یِسرایل زامنې برکتمن کړل.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "او دا"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکتمن کړل"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یِسرایل زامنې"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنې"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "له مخېښې"
+    },
+    {
+      "surface": "مותו",
+      "gloss": "د خپلې مړینې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:21:47.326134056Z",
+  "model": "glm-5.3"
+}

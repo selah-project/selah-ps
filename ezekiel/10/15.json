@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او کروبان چېښتل — دا هغه ژوندی موجود دی چې ما د کبار په سیند کې لیدلی و.",
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "او چېښتل"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروبان"
+    },
+    {
+      "surface": "היא",
+      "gloss": "دا"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ژوندی موجود"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ما لیدلی و"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "په سیند کې"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "کبار"
+    }
+  ],
+  "timestamp": "2026-08-28T23:52:59.747612024Z",
+  "model": "glm-5.3"
+}

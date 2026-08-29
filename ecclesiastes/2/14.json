@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 2:14",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "حکیم سترګې په خپله سر کې لري، خو ناپوه په تیارو کې ګرځي؛ او ما هم پوه شوم چې یوه پېښه ⟨את⟩ ټولو ته راځي.",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "په خپله سر کې"
+    },
+    {
+      "surface": "והכסיל",
+      "gloss": "خو ناپوه"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "په تیارو کې"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ګرځي"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "او ما پوه شوم"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "שמקרה",
+      "gloss": "چې پېښه"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولو ته"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ټولو"
+    }
+  ],
+  "timestamp": "2026-08-29T01:23:22.946788896Z",
+  "model": "glm-5.3"
+}

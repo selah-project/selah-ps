@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "د داوېد (مزي). ای یاهوه، ستا لورې ته خپل ځان پورته کوم.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "د داوېد (مزي)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ستا لورې ته"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ای یاهوه"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "خپل ځان"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "پورته کوم"
+    }
+  ],
+  "timestamp": "2026-08-29T00:29:11.761124376Z",
+  "model": "glm-5.3"
+}

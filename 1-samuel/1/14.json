@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او علي ورته وویل: تر کله به مسته وې؟ خپله شراب ⟨את⟩ له ځان څخه لرې کړه.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "علي"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کله"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "مسته وې"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "لرې کړه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله شراب"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "شراب"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "له ځان څخه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:31:13.295837379Z",
+  "model": "glm-5.3"
+}

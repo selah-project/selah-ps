@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 43,
+  "translation": "او هارايل څلور امې دی؛ او له ارييل څخه پورته څلور ښکرې دي.",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "او هارايل"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "امې"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "او له ارييل"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "او پورته"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ښکرې"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "څلور"
+    }
+  ],
+  "timestamp": "2026-08-29T00:06:58.438180849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "داسې وايي د لښکرو یاهوه: خپل زړونه پر خپلو لارو کېږئ.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "د لښکرو"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "کېږئ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "خپل زړونه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "خپلو لارو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:20:15.030734489Z",
+  "model": "glm-5.3"
+}

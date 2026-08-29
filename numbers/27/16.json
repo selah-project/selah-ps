@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "«یاهوه، د ټولې غوښې د روحونو الوهیم، دې یو سړی پر ټولنه وګماري،",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "وګماري"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "د-روحونو"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د-ټولې"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "غوښې"
+    },
+    {
+      "surface": "איש",
+      "gloss": "یو-سړی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ټولنه"
+    }
+  ],
+  "timestamp": "2026-08-28T22:00:38.126048295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 133,
+  "translation": "لکه ښه غوړ چې پر سر راکېږي، پر رېښتې راکېږي — د اهرون پر رېښتې — چې پر هغه د جامو د غاړې ل basو ته راکېږي.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "لکه غوړ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ښه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "راکېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "رېښتې"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "د … رېښتې"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "چې راکېږي"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "د غاړې ل basو"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "د هغه د جامو"
+    }
+  ],
+  "timestamp": "2026-08-29T00:49:41.279123974Z",
+  "model": "glm-5.3"
+}

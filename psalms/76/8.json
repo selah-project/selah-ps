@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 76,
+  "translation": "ته، ان ته، وېروونکی یې؛ او څوک به ستا مخ ته ودرېږي له هغه وخت چې ستا قهر راپارېد؟",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "وېروونکی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ان ته"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "او څوک"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ودرېږي"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ستا مخ ته"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "له هغه وخت"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ستا قهر"
+    }
+  ],
+  "timestamp": "2026-08-29T00:38:50.699771830Z",
+  "model": "glm-5.3"
+}

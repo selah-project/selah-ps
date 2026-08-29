@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 54,
+  "translation": "الوهیم، زما لمناوې واوره؛ د زما خولې خبرو ته غوږ ونیسه.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "واوره"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "زما لمناوې"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "غوږ ونیسه"
+    },
+    {
+      "surface": "لאמרי",
+      "gloss": "د … خبرو ته"
+    },
+    {
+      "surface": "פי",
+      "gloss": "زما خولې"
+    }
+  ],
+  "timestamp": "2026-08-29T02:39:35.061375713Z",
+  "model": "glm-5.3"
+}

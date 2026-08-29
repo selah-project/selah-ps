@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "او هغه د ملتونو ځمکې ورته ورکړې؛ د قومونو زحمت یې په میراث واخیست.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ورکړې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "زحمت"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "قومونو"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "په میراث واخیست"
+    }
+  ],
+  "timestamp": "2026-08-29T00:44:48.212306998Z",
+  "model": "glm-5.3"
+}

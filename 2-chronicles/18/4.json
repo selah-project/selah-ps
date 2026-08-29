@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "خو یهوشافات د اسراییل پاچا ته وویل: «اوس مهرباني وکړه د یاهوه ⟨את⟩ خبره وپلټه.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یهوشافات"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "وپلټه"
+    },
+    {
+      "surface": "نא",
+      "gloss": "مهرباني وکړه"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "نن\/اوس"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه خبره"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T02:03:57.940925212Z",
+  "model": "glm-5.3"
+}

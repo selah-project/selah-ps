@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 115,
+  "translation": "خولې لري او خبرې نه کوي؛ سترګې لري او نه ګوري.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "خولې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لري"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "خبرې کوي"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "להם",
+      "gloss": "لري"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ګوري"
+    }
+  ],
+  "timestamp": "2026-08-29T00:46:54.204884852Z",
+  "model": "glm-5.3"
+}

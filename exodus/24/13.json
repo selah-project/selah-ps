@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او موشې راپاڅېد، او یهوشوع یې خادم، او موشې د الوهیم غونډۍ ته وخوت.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "راپاڅېد"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "او یهوشوع"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "يې خادم"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "وخوت"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "הר",
+      "gloss": "غونډۍ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "د الوهیم"
+    }
+  ],
+  "timestamp": "2026-08-28T21:22:01.983120232Z",
+  "model": "glm-5.3"
+}

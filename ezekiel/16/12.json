@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "مې دې په پوزه کې غوږۍ واچوله، دې په غوږونو کې غوږۍ او دې په سر کې د ښکلا تاج.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "مې ورکړل"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "د پوزې غوږۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "پوزه کې"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "غوږۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "غوږونو کې"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "د ښکلا"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "په سر کې"
+    }
+  ],
+  "timestamp": "2026-08-28T23:55:04.883419665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او Shelomah په Yahweh سترګو کې بد وکړ، او لکه Dawid د پلار يې غوندې يې Yahweh تعقیب بشپړ نه کړ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "وکړ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "بد"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "په سترګو کې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بشپړ کړ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "تعقیب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "لکه Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "د پلار يې"
+    }
+  ],
+  "timestamp": "2026-08-28T22:55:41.314873938Z",
+  "model": "glm-5.3"
+}

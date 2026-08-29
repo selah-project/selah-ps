@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "دوه اوږې يې نښتې به وي، د هغه د دواړو سرونو په لور؛ نو نښول شوې به وي.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "اوږې"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "نښتې"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לו",
+      "gloss": "يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "په لور"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دواړو"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "سرونو"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "او نښول شوې به وي"
+    }
+  ],
+  "timestamp": "2026-08-28T21:23:20.175952350Z",
+  "model": "glm-5.3"
+}

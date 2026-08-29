@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او د یاهوه خبره راغله چې پر یېهو زوی حاناني، د بَعشا په اړه، دا وويل:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او پېښ شو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "چې پر"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یېهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حاناني"
+    },
+    {
+      "surface": "על",
+      "gloss": "په اړه د"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "بَعشا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دا وويل"
+    }
+  ],
+  "timestamp": "2026-08-28T22:57:30.052455837Z",
+  "model": "glm-5.3"
+}

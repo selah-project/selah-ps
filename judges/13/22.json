@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "او مِنوح خپلې ښځې ته وویل: «مرو به مرو، ځکه چې موږ الوهیم لیدلي دي.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "مِنوح"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "خپلې ښځې"
+    },
+    {
+      "surface": "مות",
+      "gloss": "مرو"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "به مرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "لیدلي دي"
+    }
+  ],
+  "timestamp": "2026-08-28T22:27:25.619365126Z",
+  "model": "glm-5.3"
+}

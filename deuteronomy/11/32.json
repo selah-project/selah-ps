@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او پام دې وروسئ چې ⟨את⟩ ټول هغه فرايض او ⟨את⟩ احکام چې زه نن ستاسو مخ ته ږدم، يې ترسره کړئ.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "او پام دې وروسئ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې ترسره يې کړئ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول فرايض"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "فرايض"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "احکام"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "احکام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ږدم"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ستاسو مخ ته"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-28T22:07:27.076715208Z",
+  "model": "glm-5.3"
+}

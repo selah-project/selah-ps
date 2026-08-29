@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 2:21",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زه هم به نور ⟨את⟩ هيڅ سړی د دوی له مخې نه شړم — د هغو ملتونو له ډلې چې یهوشواع پرېښودل چې کله مړ شو.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "نور به… کوم"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "شړم"
+    },
+    {
+      "surface": "איש",
+      "gloss": "هيڅ سړی"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "د دوی له مخې"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له ډلې"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "پرېښودل"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یهوشواع"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "مړ شو"
+    }
+  ],
+  "timestamp": "2026-08-28T22:22:14.084548751Z",
+  "model": "glm-5.3"
+}

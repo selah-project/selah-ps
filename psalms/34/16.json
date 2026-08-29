@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 34,
+  "translation": "د یاهوه سترګې ⟨⟨د⟩⟩ نیکو ته دي، او غوږونه يې د هغوی د مرغوړي (چغې) ته دي.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "سترګې"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیکو ته دي"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "او غوږونه يې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "د هغوی د چغې"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:31.748493293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 28:16",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 28,
+  "translation": "هغه مشر چې پوهې کمه لري، ډېر ظلم کوي؛ خو چا چې بې-حقه ګټه کروله، خپلې ورځې اوږدوي.",
+  "tokens": [
+    {
+      "surface": "נגיד",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "کمه لري"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "پوهې"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "او ډېر"
+    },
+    {
+      "surface": "מעשקות",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "کرولونکی"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "بې-حقه ګټه"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "اوږدوي"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    }
+  ],
+  "timestamp": "2026-08-29T01:02:01.384657693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 47:16",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "حمات، بروته، سبرایم — هغه ځای چې د دمشق د پولې او د حمات د پولې ترمنځ دی؛ حصر-هتیکون، هغه چې د حوران پولې ته دی.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "ברותה",
+      "gloss": "بروته"
+    },
+    {
+      "surface": "סברים",
+      "gloss": "سبرایم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ترمنځ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دمشق"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "او ترمنځ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پوله"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حمات"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "حصر"
+    },
+    {
+      "surface": "התיכון",
+      "gloss": "هتیکون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "پولې"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "حوران"
+    }
+  ],
+  "timestamp": "2026-08-29T00:08:37.672705169Z",
+  "model": "glm-5.3"
+}

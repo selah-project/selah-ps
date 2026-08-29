@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "یاهوه عدالت او انصاف مینه لري؛ د یاهوه خېسېد ټوله ځمکه ډکه ده.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "مینه لري"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "او انصاف"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ډکه ده"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ټوله ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T00:30:11.660374941Z",
+  "model": "glm-5.3"
+}
