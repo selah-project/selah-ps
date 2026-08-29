@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "ps",
   "chapter": 94,
-  "translation": "دوی د righteous د نفس پر ضد سره راټولېږي، او پاکه وینه تورنوي.",
+  "translation": "دوی پر د نیک-انسان د ژوند پر ضد ډلې جوړوي، او پاک وینې ته ناړواکه پېژني.",
   "tokens": [
     {
       "surface": "יגודו",
-      "gloss": "راټولېږي"
+      "gloss": "ډلې جوړوي"
     },
     {
       "surface": "על",
-      "gloss": "پر ضد"
+      "gloss": "پر د"
     },
     {
       "surface": "נפש",
-      "gloss": "نفس"
+      "gloss": "د ژوند پر ضد"
     },
     {
       "surface": "צדיק",
-      "gloss": "د righteous"
+      "gloss": "نیک-انسان"
     },
     {
       "surface": "ודם",
-      "gloss": "او وینه"
+      "gloss": "او پاک وینې"
     },
     {
       "surface": "נקי",
-      "gloss": "پاکه"
+      "gloss": "پاک"
     },
     {
       "surface": "ירשיעו",
-      "gloss": "تورنوي"
+      "gloss": "ناړواکه پېژني"
     }
   ],
-  "timestamp": "2026-08-29T00:41:56.950743155Z",
+  "timestamp": "2026-08-29T03:37:36.255557772Z",
   "model": "glm-5.3"
 }

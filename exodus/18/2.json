@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 2,
-  "ref": "exodus 18:2",
-  "book": "exodus",
-  "lang": "ps",
-  "chapter": 18,
-  "translation": "placeholder",
-  "tokens": [],
-  "timestamp": "2026-08-28T21:20:13.312228543Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":2,"ref":"exodus 18:2","book":"exodus","lang":"ps","chapter":18,"translation":"او یترو، د موشې خوښ (ږور)، ⟨את⟩ صپوره، د موشې ښځه، واخیسته — د هغې د شاوخوا کولو (لېږلو) وروسته.","tokens":[{"surface":"ויקח","gloss":"واخیسته"},{"surface":"יתרו","gloss":"یترو"},{"surface":"חתן","gloss":"خوښ (ږور)"},{"surface":"משה","gloss":"موشې"},{"surface":"את","gloss":"⟨את⟩","marks":"صپوره"},{"surface":"צפרה","gloss":"صپوره"},{"surface":"אשת","gloss":"ښځه"},{"surface":"משה","gloss":"موشې"},{"surface":"אחר","gloss":"وروسته"},{"surface":"שלוחיה","gloss":"د هغې د لېږلو"}],"timestamp":"2026-08-29T03:14:00.607593532Z","model":"glm-5.3"}

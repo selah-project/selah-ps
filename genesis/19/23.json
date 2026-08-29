@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ps",
   "chapter": 19,
-  "translation": "لمر پر ځمکه راووت او لوت تسوعر ته ننوت.",
+  "translation": "لمر پر ځمکه وخیژد او لوط څواغار ته دننه شو.",
   "tokens": [
     {
       "surface": "השמש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יצא",
-      "gloss": "راووت"
+      "gloss": "وخیژد"
     },
     {
       "surface": "על",
@@ -24,22 +24,18 @@
       "gloss": "ځمکه"
     },
     {
-      "surface": "ו",
-      "gloss": "او"
-    },
-    {
-      "surface": "לוט",
-      "gloss": "لوت"
+      "surface": "ולוט",
+      "gloss": "او لوط"
     },
     {
       "surface": "בא",
-      "gloss": "ننوت"
+      "gloss": "دننه شو"
     },
     {
       "surface": "צערה",
-      "gloss": "تسوعر ته"
+      "gloss": "څواغار ته"
     }
   ],
-  "timestamp": "2026-08-28T21:02:32.693412226Z",
+  "timestamp": "2026-08-29T03:11:23.764406283Z",
   "model": "glm-5.3"
 }

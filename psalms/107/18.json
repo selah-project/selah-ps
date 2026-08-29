@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":18,"ref":"psalms 107:18","book":"psalms","lang":"ps","chapter":107,"translation":"د دوی ږдинه ټول خواړه کرغېړن ګڼي، او د مرګ تر دروازو رسېږي.","tokens":[{"surface":"כל","gloss":"ټول"},{"surface":"אכל","gloss":"خواړه"},{"surface":"תתעב","gloss":"کرغېړن ګڼي"},{"surface":"נפשם","gloss":"د دوی ږ dinde"},{"surface":"ויגיעו","gloss":"او رسېږي"},{"surface":"עד","gloss":"تر"},{"surface":"שערי","gloss":"دروازو"},{"surface":"מות","gloss":"د مرګ"}],"timestamp":"2026-08-29T00:45:28.881108116Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 107,
+  "translation": "د دوی ځان ټول خواړه کرېږي، او د مرګ د دروازو ته ورسېدل.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خواړه"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "کرېږي"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "د دوی ځان"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "او ورسېدل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "د دروازو"
+    },
+    {
+      "surface": "מות",
+      "gloss": "د مرګ"
+    }
+  ],
+  "timestamp": "2026-08-29T03:37:27.956934679Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":5,"ref":"psalms 61:5","book":"psalms","lang":"ps","chapter":61,"translation":"زه به ستا په خیمه کې د אָהלְךָ عمر تر پایه اوسم، ستا د وزو پټ ځای ته پناه وغواړم. سېلا","tokens":[{"surface":"אגורה","gloss":"زه به اوسم"},{"surface":"באהלך","gloss":"ستا په خیمه کې"},{"surface":"עולמים","gloss":"تر عمره"},{"surface":"אחסה","gloss":"پناه وغواړم"},{"surface":"בסתר","gloss":"په پټ ځای"},{"surface":"כנפיך","gloss":"ستا وزو"},{"surface":"סלה","gloss":"سېلا"}],"timestamp":"2026-08-29T00:35:46.339103662Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 61,
+  "translation": "زه به ستا په خیمه کې د ېوې دورې لپاره مېلمه اوسم، د ستا د وزو پټړ لاندې پناه واخلم. سېله.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "مېلمه اوسم"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ستا په خیمه کې"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "د ېوې دورې لپاره"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "پناه واخلم"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "پټړ لاندې"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "د ستا د وزو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېله"
+    }
+  ],
+  "timestamp": "2026-08-29T03:56:55.586029347Z",
+  "model": "glm-5.3"
+}

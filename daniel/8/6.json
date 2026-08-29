@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":6,"ref":"daniel 8:6","book":"daniel","lang":"ps","chapter":8,"translation":"او هغه هغه غوښۍ (قوچ) ته ورغی چې دوه ښکرونه يې درلودل — هغه چې ما د ⟨the⟩ نښتر مخې ته ودرویدلی لیده؛ او په خپل زور په قهر ورته وڅرخېد او منډه یې وکړه.","tokens":[{"surface":"ויבא","gloss":"او راغی"},{"surface":"עד","gloss":"تر ... پوره"},{"surface":"האיל","gloss":"هغه قوچ"},{"surface":"בעל","gloss":"خاوند"},{"surface":"הקרנים","gloss":"د ښکرونو"},{"surface":"אשר","gloss":"چې"},{"surface":"ראיתי","gloss":"ما لیده"},{"surface":"עמד","gloss":"ودرویدلی"},{"surface":"לפני","gloss":"مخې ته"},{"surface":"האבל","gloss":"نښتر"},{"surface":"וירץ","gloss":"او منډه یې وکړه"},{"surface":"אליו","gloss":"ورته"},{"surface":"בחמת","gloss":"په قهر"},{"surface":"כחו","gloss":"زور"}],"timestamp":"2026-08-29T02:44:35.553010113Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 8:6",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "او هغه راغی تر هغه قوچ سره چې د دوو ښکرو خاوند و، کوم چې ما د هغه اوبل (سیلګاه) په وړاندې ودريدلی ليدی و؛ او په خپل ځواک په قهر ورته وېښېد.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "هغه قوچ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "خاوند"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "د دوو ښکرو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کوم چې"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ما ليدی و"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ودريدلی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "په وړاندې"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "هغه اوبل"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "او وېښېد"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "په قهر"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "د خپل ځواک"
+    }
+  ],
+  "timestamp": "2026-08-29T03:43:00.700260787Z",
+  "model": "glm-5.3"
+}

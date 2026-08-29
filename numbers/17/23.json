@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":23,"ref":"numbers 17:23","book":"numbers","lang":"ps","chapter":17,"translation":"او ⟨isso⟩ د سهاره ورسته و، چې موشې د شاهدۍ خیمې ته دننه شو، او ګوره — د اهرون عصا، د لاوي کور لپاره، ګل کړی و: د ګلونو څنګلې یې راووتلې، ښکاره شوې، او د بادام مېوې یې ورسېدلې.","tokens":[{"surface":"ויהי","gloss":"او و"},{"surface":"ממחרת","gloss":"د سهاره ورسته"},{"surface":"ויבא","gloss":"دننه شو"},{"surface":"משה","gloss":"موشې"},{"surface":"אל","gloss":"ته"},{"surface":"אהל","gloss":"خیمې"},{"surface":"העדות","gloss":"د شاهدۍ"},{"surface":"והנה","gloss":"او ګوره"},{"surface":"פרח","gloss":"ګل کړی و"},{"surface":"מטה","gloss":"عصا"},{"surface":"אהרן","gloss":"اهرون"},{"surface":"לבית","gloss":"د کور لپاره"},{"surface":"לוי","gloss":"لاوي"},{"surface":"ויצא","gloss":"راووتلې"},{"surface":"פרח","gloss":"د ګلونو څنګلې"},{"surface":"ויצץ","gloss":"ښکاره شوې"},{"surface":"ציץ","gloss":"—"},{"surface":"ויגמל","gloss":"ورسېدلې"},{"surface":"שקדים","gloss":"د بادام مېوې"}],"timestamp":"2026-08-28T21:56:20.143266924Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 17:23",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 17,
+  "translation": "او بیا ومړه، بل سهار موشې د اداتو خیمې ته لاړ او ګوره چې د اهرون مټه، د لوی د کور لپاره، غوټۍ وتړلې؛ نو ګل يې راووت، زانګو يې وڅرېدله او بادام يې پخه کړل.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او بیا ومړه"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "بل سهار"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "لاړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمې"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "اداتو"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "او ګوره چې"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "غوټۍ وتړلې"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "مټه"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اهرون"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور لپاره"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "راووت"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ګل"
+    },
+    {
+      "surface": "ויצץ",
+      "gloss": "زانګو يې وڅرېدله"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ګلپوړی"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "پخه يې کړل"
+    },
+    {
+      "surface": "שקדים",
+      "gloss": "بادام"
+    }
+  ],
+  "timestamp": "2026-08-29T03:18:21.859062377Z",
+  "model": "glm-5.3"
+}

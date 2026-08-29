@@ -1,1 +1,74 @@
-{"tier":"glm-5.2","verse":16,"ref":"exodus 39:16","book":"exodus","lang":"ps","chapter":39,"translation":"او هغوی دوه مِشبِصوت د سرو زرو او دوه کړکۍ د سرو زرو جوړې کړې، او هغوی ⟨את⟩ دواړې کړکۍ پر حوشن دواړو سرونو کې کېښودلې.","tokens":[{"surface":"ויעשו","gloss":"جوړې کړې یې"},{"surface":"שתי","gloss":"دوه"},{"surface":"משבצת","gloss":"مِشבِصوت"},{"surface":"זהב","gloss":"سرو زر"},{"surface":"ושתי","gloss":"او دوه"},{"surface":"טבעת","gloss":"کړکۍ (کړۍ)"},{"surface":"זהב","gloss":"سرو زر"},{"surface":"ויתנו","gloss":"کېښودلې یې"},{"surface":"את","gloss":"⟨את⟩","marks":"دواړې کړکۍ"},{"surface":"שתי","gloss":"دواړې"},{"surface":"הטבעת","gloss":"کړکۍ"},{"surface":"על","gloss":"پر"},{"surface":"שני","gloss":"دواړو"},{"surface":"קצות","gloss":"سرونو"},{"surface":"החשן","gloss":"حوشن"}],"timestamp":"2026-08-28T21:30:38.945438673Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او دوی دوه سروزې جالیانې او دوه د سرو زرو کښنۍ جوړې کړې، او دوی ⟨את⟩ دوه کښنۍ پر د غاړېدنې دواړو سرونو کېښودې.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "او جوړې کړې"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "سروزې جالیانې"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سرو زرو"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "او دوه"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "کښنۍ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سرو زرو"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "او کېښودې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دوه کښنۍ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دوه"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "کښنۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دواړو"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "سرونو"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "غاړېدنې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:15:56.160978430Z",
+  "model": "glm-5.3"
+}

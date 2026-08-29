@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "2-kings 22:12",
-  "book": "2-kings",
-  "lang": "ps",
-  "chapter": 22,
-  "translation": "او پاچا ⟨את⟩ حلقياه کاهن او ⟨את⟩ اخیquam...",
-  "tokens": [],
-  "timestamp": "2026-08-28T23:09:27.864505882Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":12,"ref":"2-kings 22:12","book":"2-kings","lang":"ps","chapter":22,"translation":"او پاچا حېلکیا کاهن ته، او اهیقام زوی د شافان، او عکبور زوی د مېخایا، او شافان ليکوال، او عسایا د پاچا خدمتګار ته يې امر وکړ چې ووايي:","tokens":[{"surface":"ויצו","gloss":"امر يې وکړ"},{"surface":"המלך","gloss":"پاچا"},{"surface":"את","gloss":"⟨את⟩","marks":"حېلکیا"},{"surface":"חלקיה","gloss":"حېلکیا"},{"surface":"הכהן","gloss":"کاهن"},{"surface":"ואת","gloss":"⟨את⟩","marks":"اهیقام"},{"surface":"אחיקם","gloss":"اهیقام"},{"surface":"בן","gloss":"زوی"},{"surface":"שפן","gloss":"شافان"},{"surface":"ואת","gloss":"⟨את⟩","marks":"عکبور"},{"surface":"עכבור","gloss":"عکبور"},{"surface":"בן","gloss":"زوی"},{"surface":"מיכיה","gloss":"مېخایا"},{"surface":"ואת","gloss":"⟨את⟩","marks":"شافان"},{"surface":"שפן","gloss":"شافان"},{"surface":"הספר","gloss":"ليکوال"},{"surface":"ואת","gloss":"⟨את⟩","marks":"عسایا"},{"surface":"עשיה","gloss":"عسایا"},{"surface":"עבד","gloss":"خدمتګار"},{"surface":"המלך","gloss":"د پاچا"},{"surface":"לאמר","gloss":"چې ووايي"}],"timestamp":"2026-08-29T03:27:50.100217461Z","model":"glm-5.3"}

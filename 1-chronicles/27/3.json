@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":3,"ref":"1-chronicles 27:3","book":"1-chronicles","lang":"ps","chapter":27,"translation":"د پېرِت له زامنو و، د ټولو لښکرو د مشرانو ⟨the⟩ مشر، د لومړۍ میاشتې لپاره.","tokens":[{"surface":"מן","gloss":"له"},{"surface":"בני","gloss":"زامنو"},{"surface":"פרץ","gloss":"پېرِت"},{"surface":"הראש","gloss":"مشر"},{"surface":"לכל","gloss":"د ټولو"},{"surface":"שרי","gloss":"د مشرانو"},{"surface":"הצבאות","gloss":"لښکرو"},{"surface":"לחדש","gloss":"د میاشتې لپاره"},{"surface":"הראשון","gloss":"لومړۍ"}],"timestamp":"2026-08-29T01:56:44.794794822Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 27,
+  "translation": "د پېرِت زامنو څخه و — د پوځونو د ټولو مشرانو مشر، د لومړي مياشتې لپاره.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "څخه"
+    },
+    {
+      "surface": "בני",
+      "gloss": "د زامنو"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پېرِت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "مشر"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "مشرانو"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "پوځونو"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "د مياشتې لپاره"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "لومړي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:48:18.571337810Z",
+  "model": "glm-5.3"
+}

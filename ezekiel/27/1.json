@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "ps",
   "chapter": 27,
-  "translation": "او د یاهوه ⟨the⟩ خبر راته وشو، چې ووايي:",
+  "translation": "او د یاهوه خبرانه بیا راته راغی، ویل يې:",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "او وشو"
+      "gloss": "او بیا وو"
     },
     {
       "surface": "דבר",
-      "gloss": "خبر"
+      "gloss": "خبرانه"
     },
     {
       "surface": "יהוה",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "چې ووايي"
+      "gloss": "ویل يې"
     }
   ],
-  "timestamp": "2026-08-29T00:00:32.304112639Z",
+  "timestamp": "2026-08-29T03:56:24.733051343Z",
   "model": "glm-5.3"
 }

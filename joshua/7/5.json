@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":5,"ref":"joshua 7:5","book":"joshua","lang":"ps","chapter":7,"translation":"د هاعي | מהם | אנשי | העי | כשלשים | וששה | איש | וירדפום | לפני | השער | עד | השברים | ויכום | במורד | וימס | לבב | העם | ויהי | למים","tokens":[{"surface":"ויכו","gloss":"ووهل"},{"surface":"מהם","gloss":"له دوی"},{"surface":"אנשי","gloss":"سړي"},{"surface":"העי","gloss":"هاعي"},{"surface":"כשלשים","gloss":"شپېته"},{"surface":"וששה","gloss":"شپږ"},{"surface":"איש","gloss":"سړي"},{"surface":"וירדפום","gloss":"تعقیب یې کړ"},{"surface":"לפני","gloss":"له مخې"},{"surface":"השער","gloss":"د دروازې"},{"surface":"עד","gloss":"تر"},{"surface":"השברים","gloss":"شباریم"},{"surface":"ויכום","gloss":"ووهل يې"},{"surface":"במורד","gloss":"په ښکته لاره"},{"surface":"וימס","gloss":"واوبېد"},{"surface":"לבב","gloss":"زړه"},{"surface":"העם","gloss":"د قوم"},{"surface":"ויהי","gloss":"او شو"},{"surface":"למים","gloss":"لکه اوبه"}],"timestamp":"2026-08-28T22:17:11.649195232Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 7:5",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د هاعَيي مردو د دوی له منځه د درېیشتو شپږو تنو په شاوخوا وهل، ځکه چې هغوی یې د دروازې له مخې تر شبریم ځغاستل او په لاندې لار یې ووهل؛ نو د قوم زړه ویلې شو او اوبو ته واوښت.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "وهل"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "د دوی له منځه"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردو"
+    },
+    {
+      "surface": "העי",
+      "gloss": "هاعَيي"
+    },
+    {
+      "surface": "כשלשים",
+      "gloss": "د درېیشتو"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "شپږو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "تنو"
+    },
+    {
+      "surface": "וירדפום",
+      "gloss": "ځغاستل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "השער",
+      "gloss": "د دروازې"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر"
+    },
+    {
+      "surface": "השברים",
+      "gloss": "شبریم"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ووهل"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "په لاندې لار"
+    },
+    {
+      "surface": "וימס",
+      "gloss": "ویلې شو"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "زړه"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د قوم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "واوښت"
+    },
+    {
+      "surface": "למים",
+      "gloss": "اوبو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T03:20:38.482622590Z",
+  "model": "glm-5.3"
+}

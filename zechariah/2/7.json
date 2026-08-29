@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":7,"ref":"zechariah 2:7","book":"zechariah","lang":"ps","chapter":2,"translation":"او وګوره — ⟨the⟩ فرشته چې په زړه کې يې ⟨with⟩ زه خبرې کومې، ووتلو، او بل فرشته د هغه د مخامخ لپاره ووتلو.","tokens":[{"surface":"והנה","gloss":"او وګوره"},{"surface":"המלאך","gloss":"فرشته"},{"surface":"הדבר","gloss":"خبرې کونکی"},{"surface":"בי","gloss":"په زړه کې ⟨with⟩ زه"},{"surface":"יצא","gloss":"ووتلو"},{"surface":"ומלאך","gloss":"او فرشته"},{"surface":"אחר","gloss":"بل"},{"surface":"יצא","gloss":"ووتلو"},{"surface":"לקראתו","gloss":"د هغه د مخامخ لپاره"}],"timestamp":"2026-08-29T00:21:19.808432990Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او وګوره، هغه فرشته چې ⟨په ما⟩ يې خبرې کولې ووتل، او بل يو فرشته د هغه د مخامخ کېدو لپاره ووتل.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "او وګوره"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشته"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "چې خبرې کولې"
+    },
+    {
+      "surface": "בי",
+      "gloss": "په ما"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "او فرشته"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "بل"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ووتل"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "د هغه د مخامخ لپاره"
+    }
+  ],
+  "timestamp": "2026-08-29T03:35:20.836456926Z",
+  "model": "glm-5.3"
+}

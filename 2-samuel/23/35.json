@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ps",
   "chapter": 23,
-  "translation": "حصرو ⟨the⟩ کارملي، فعراي ⟨the⟩ اربي،",
+  "translation": "حصرو کرملي، فعاراي اربي",
   "tokens": [
     {
       "surface": "חצרו",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "הכרמלי",
-      "gloss": "⟨the⟩ کارملي"
+      "gloss": "کرملي"
     },
     {
       "surface": "פערי",
-      "gloss": "فعراي"
+      "gloss": "فعاراي"
     },
     {
       "surface": "הארבי",
-      "gloss": "⟨the⟩ اربي"
+      "gloss": "اربي"
     }
   ],
-  "timestamp": "2026-08-28T22:49:49.547773053Z",
+  "timestamp": "2026-08-29T03:24:40.658648733Z",
   "model": "glm-5.3"
 }

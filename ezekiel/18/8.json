@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":8,"ref":"ezekiel 18:8","book":"ezekiel","lang":"ps","chapter":18,"translation":"په سود نه ورکوي، او ډېری نه اخلي، له زیاتی څخه خپله لاس بېرته راګرځوي، د حق پر拇 په رښتینولۍ سره د سړي او سړي ترمنځ کوي،","tokens":[{"surface":"בנשך","gloss":"په سود"},{"surface":"לא","gloss":"نه"},{"surface":"יתן","gloss":"ورکوي"},{"surface":"ותרבית","gloss":"او ډېری"},{"surface":"לא","gloss":"نه"},{"surface":"יקח","gloss":"اخلي"},{"surface":"מעול","gloss":"له زیاتی"},{"surface":"ישיב","gloss":"بېرته راګرځوي"},{"surface":"ידו","gloss":"خپله لاس"},{"surface":"משפט","gloss":"پر拇"},{"surface":"אמת","gloss":"په رښتینولۍ"},{"surface":"יעשה","gloss":"کوي"},{"surface":"בין","gloss":"ترمنځ"},{"surface":"איש","gloss":"د سړي"},{"surface":"לאיש","gloss":"او سړي"}],"timestamp":"2026-08-28T23:55:57.796555672Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "په سود نه ورکوي او ګټه (تربیت) نه اخلي، له ظلمه خپل لاس بېرته راګرځوي، رښتینی عدالت د سړي او سړي ترمنځ ترسره کوي،",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "په سود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ورکوي"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "او ګټه"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "اخلي"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "له ظلمه"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "بېرته راګرځوي"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "خپل لاس"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدالت"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "رښتینی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ترسره کوي"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ترمنځ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "د سړي"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "سړي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:32:10.345478475Z",
+  "model": "glm-5.3"
+}

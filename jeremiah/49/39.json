@@ -1,1 +1,50 @@
-{"tier":"glm-5.2","verse":39,"ref":"jeremiah 49:39","book":"jeremiah","lang":"ps","chapter":49,"translation":"او دا به وشي: په وروستیو ورځو کې به زه د عېلام ⟨את⟩ بندstatus بېرته راوګرځوم — د یاهوه وينا.","tokens":[{"surface":"והיה","gloss":"او دا به وشي"},{"surface":"באחרית","gloss":"په وروستیو کې"},{"surface":"הימים","gloss":"ورځو"},{"surface":"אשוב","gloss":"زه به بېرته راوګرځوم"},{"surface":"את","gloss":"⟨את⟩","marks":"د عېلام بندیتوب"},{"surface":"שבית","gloss":"بندیتوب"},{"surface":"עילם","gloss":"عېلام"},{"surface":"נאם","gloss":"وينا"},{"surface":"יהוה","gloss":"یاهوه"}],"timestamp":"2026-08-28T23:47:23.055411492Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 49,
+  "translation": "او په ورځو په پای کې به د عېلام ⟨את⟩ بندۍ بېرته راوګرځوم — د یاهوه خبره.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "او به وي"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "په پای کې"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "د ورځو"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "بېرته راوګرځوم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بندۍ"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "بندۍ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عېلام"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:56:47.667329491Z",
+  "model": "glm-5.3"
+}

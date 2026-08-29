@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"job 36:2","book":"job","lang":"ps","chapter":36,"translation":"لږ تر لږه ما ته ځای راکړه او زه به درته وښیم، چې لا د الوه (پر behalf) لپاره خبرې دي.","tokens":[{"surface":"כתר","gloss":"ځای راکړه"},{"surface":"לי","gloss":"ما ته"},{"surface":"זעיר","gloss":"لږ تر لږه"},{"surface":"ואחוך","gloss":""},{"surface":"כי","gloss":""},{"surface":"עוד","gloss":""},{"surface":"לאלוה","gloss":""},{"surface":"מלים","gloss":""}],"timestamp":"2026-08-29T02:42:18.403004332Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 36:2",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "لږ مې کلابند کړه، او درته څرګندوم چې لا د الوه لپاره خبرې پاتې دي.",
+  "tokens": [
+    {
+      "surface": "כתר",
+      "gloss": "کلابند کړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مې"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "لږ"
+    },
+    {
+      "surface": "ואחוך",
+      "gloss": "او درته څرګندوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لا"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "د الوه لپاره"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "خبرې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:40:37.651795154Z",
+  "model": "glm-5.3"
+}

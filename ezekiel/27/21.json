@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "ezekiel 27:21",
-  "book": "ezekiel",
-  "lang": "ps",
-  "chapter": 27,
-  "translation": "عربۍ او ټول د قېدار مشران د دوی ستا د لاس سوداګران وو؛ په رېبو، ږingo نه —",
-  "tokens": [],
-  "timestamp": "2026-08-29T00:00:14.026094598Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":21,"ref":"ezekiel 27:21","book":"ezekiel","lang":"ps","chapter":27,"translation":"عَرَب او ټول شکمن د قیدار — دا ستا د لاس سوداګر وو؛ د رښتینو ورانو، پسونو او وزو په بدل کې دا ستا سوداګر وو.","tokens":[{"surface":"ערב","gloss":"عَرَب"},{"surface":"וכל","gloss":"او ټول"},{"surface":"נשיאי","gloss":"شکمن"},{"surface":"קדר","gloss":"قیدار"},{"surface":"המה","gloss":"دا"},{"surface":"סחרי","gloss":"سوداګر"},{"surface":"ידך","gloss":"ستا د لاس"},{"surface":"בכרים","gloss":"د رښتینو ورانو"},{"surface":"ואילים","gloss":"پسونو"},{"surface":"ועתודים","gloss":"وزو"},{"surface":"בם","gloss":"په دې"},{"surface":"סחריך","gloss":"ستا سوداګر"}],"timestamp":"2026-08-29T03:32:39.428981193Z","model":"glm-5.3"}

@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "ps",
   "chapter": 32,
-  "translation": "اِن didSelectLo، زه یاهوه یم، د ټولې غوښې الوهیم — آیا له ما څخه کومه خبره عجیبه ګرزي؟",
+  "translation": "اِ وګوره! زه یاهوه یم، د ټولې غوښې الوهیم — ایا زما لپاره کوم شی غېر-ممکن دی؟",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "اِن didSelectLo"
+      "gloss": "اِ وګوره!"
     },
     {
       "surface": "אני",
@@ -33,21 +33,21 @@
     },
     {
       "surface": "הממני",
-      "gloss": "له ما څخه"
+      "gloss": "زما لپاره"
     },
     {
       "surface": "יפלא",
-      "gloss": "عجیبه ګرزي"
+      "gloss": "غېر-ممکن دی"
     },
     {
       "surface": "כל",
-      "gloss": "کومه"
+      "gloss": "کوم"
     },
     {
       "surface": "דבר",
-      "gloss": "خبره"
+      "gloss": "شی"
     }
   ],
-  "timestamp": "2026-08-28T23:41:19.670407203Z",
+  "timestamp": "2026-08-29T03:30:40.301337629Z",
   "model": "glm-5.3"
 }

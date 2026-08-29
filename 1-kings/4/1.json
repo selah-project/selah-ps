@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-kings 4:1","book":"1-kings","lang":"ps","chapter":4,"translation":"او پاچا شلومو ⟨the⟩ پاچا و پر ټول یسرایل.","tokens":[{"surface":"ויהי","gloss":"او و"},{"surface":"המלך","gloss":"پاچا"},{"surface":"שלמה","gloss":"شلومو"},{"surface":"מלך","gloss":"پاچا"},{"surface":"על","gloss":"پر"},{"surface":"כל","gloss":"ټول"},{"surface":"ישראל","gloss":"یسرایل"}],"timestamp":"2026-08-28T22:50:55.855911504Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او دا وشول: پاچا شېلومه ⟨و⟩ د ټول یسراییل پاچا و.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او دا وشول"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شېلومه"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا و"
+    },
+    {
+      "surface": "על",
+      "gloss": "د ... پاچا (پر)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    }
+  ],
+  "timestamp": "2026-08-29T03:24:33.238743672Z",
+  "model": "glm-5.3"
+}

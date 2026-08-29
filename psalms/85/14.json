@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":14,"ref":"psalms 85:14","book":"psalms","lang":"ps","chapter":85,"translation":"عدالت به د هغه له مخکې用小火 تګ کوي، او د هغه ګامونه به يې د لارې توګه کېږدوي.","tokens":[{"surface":"צדק","gloss":"عدالت"},{"surface":"לפניו","gloss":"د هغه له مخکې"},{"surface":"יהלך","gloss":"تګ کوي"},{"surface":"וישם","gloss":"او کېږدوي"},{"surface":"לדרך","gloss":"د لارې توګه"},{"surface":"פעמיו","gloss":"د هغه ګامونه"}],"timestamp":"2026-08-29T00:40:21.086423593Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 85,
+  "translation": "عدل به مخې ته يې تلل او د ګامونو د لارې لپاره يې ږدي",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "عدل"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "به مخې ته يې"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "تلل"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "او يې ږدي"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "د لارې لپاره"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "د ګامونو يې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:37:00.031013677Z",
+  "model": "glm-5.3"
+}

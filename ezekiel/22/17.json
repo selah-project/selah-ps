@@ -5,8 +5,29 @@
   "book": "ezekiel",
   "lang": "ps",
   "chapter": 22,
-  "translation": "او د یاهوه ⟨word⟩ م radios word راغی…",
-  "tokens": [],
-  "timestamp": "2026-08-29T02:35:47.427005497Z",
+  "translation": "او د یاهوه خبر ⟨ما⟩ ته راغی، چې ووايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨ما⟩ ته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې ووايي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:31:56.964385920Z",
   "model": "glm-5.3"
 }

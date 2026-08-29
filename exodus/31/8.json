@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":8,"ref":"exodus 31:8","book":"exodus","lang":"ps","chapter":31,"translation":"او ⟨את⟩ مېز او ⟨את>> د هغه سامان، او ⟨את>> سپېڅلی څراغ او ⟨את>> ټول د هغه سامان، او ⟨את>> د بخور مذبح،","tokens":[{"surface":"ואת","gloss":"او ⟨את⟩","marks":"مېز"},{"surface":"השלחן","gloss":"مېز"},{"surface":"ואת","gloss":"او ⟨את⟩","marks":"د هغه سامان"},{"surface":"כליו","gloss":"د هغه سامان"},{"surface":"ואת","gloss":"او ⟨את⟩","marks":"سپېڅلی څراغ"},{"surface":"המנרה","gloss":"څراغ"},{"surface":"הטהרה","gloss":"سپېڅلی"},{"surface":"ואת","gloss":"او ⟨את⟩","marks":"ټول د هغه سامان"},{"surface":"כל","gloss":"ټول"},{"surface":"כליה","gloss":"د هغه سامان"},{"surface":"ואת","gloss":"او ⟨את⟩","marks":"د بخور مذبح"},{"surface":"מזבח","gloss":"مذبح"},{"surface":"הקטרת","gloss":"د بخور"}],"timestamp":"2026-08-28T21:24:49.124939808Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "او ⟨את⟩ مېز او ⟨את⟩ د هغه اسباب، او ⟨את⟩ خالصه څراغدانه او ⟨את⟩ ټول د هغې اسباب، او ⟨את⟩ د بخور مذبح،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مېز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "مېز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د هغه اسباب"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "د هغه اسباب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "خالصه څراغدانه"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "څراغدانه"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "خالصه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ټول د هغې اسباب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "د هغې اسباب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "د بخور مذبح"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "مذبح"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "د بخور"
+    }
+  ],
+  "timestamp": "2026-08-29T03:15:01.733205753Z",
+  "model": "glm-5.3"
+}

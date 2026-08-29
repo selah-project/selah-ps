@@ -5,55 +5,37 @@
   "book": "job",
   "lang": "ps",
   "chapter": 3,
-  "translation": "ولې له زېږي نه م مړه شوم؟ له نس نه م راووت او ومړم؟",
+  "translation": "ولې له رحمه نه مړه شوم؟ له بطنه چې ووتې، ولې نه مې وم؟",
   "tokens": [
     {
       "surface": "למה",
       "gloss": "ولې"
     },
     {
-      "surface": " "
-    },
-    {
       "surface": "לא",
       "gloss": "نه"
     },
     {
-      "surface": " "
-    },
-    {
       "surface": "מרחם",
-      "gloss": "له زېږي"
-    },
-    {
-      "surface": " "
+      "gloss": "له رحمه"
     },
     {
       "surface": "אמות",
       "gloss": "مړه شوم"
     },
     {
-      "surface": " "
-    },
-    {
       "surface": "מבטן",
-      "gloss": "له نس"
-    },
-    {
-      "surface": " "
+      "gloss": "له بطنه"
     },
     {
       "surface": "יצאתי",
-      "gloss": "راووت"
-    },
-    {
-      "surface": " "
+      "gloss": "ووتې"
     },
     {
       "surface": "ואגוע",
-      "gloss": "او ومړم"
+      "gloss": "ونه مې وم"
     }
   ],
-  "timestamp": "2026-08-29T01:03:31.196383608Z",
+  "timestamp": "2026-08-29T03:40:19.527590370Z",
   "model": "glm-5.3"
 }

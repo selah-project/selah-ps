@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "proverbs 25:18",
-  "book": "proverbs",
-  "lang": "ps",
-  "chapter": 25,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-29T01:00:31.454099289Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":18,"ref":"proverbs 25:18","book":"proverbs","lang":"ps","chapter":25,"translation":"مُڅکې، توره او تېره غشۍ — هغه سړی چې پر خپل ملګري دروغجن ګواهي وايي.","tokens":[{"surface":"מפיץ","gloss":"مُڅکې"},{"surface":"וחרב","gloss":"او توره"},{"surface":"וחץ","gloss":"او غشۍ"},{"surface":"שנון","gloss":"تېره"},{"surface":"איש","gloss":"سړی"},{"surface":"ענה","gloss":"ګواهي وايي"},{"surface":"ברעהו","gloss":"پر خپل ملګري"},{"surface":"עד","gloss":"ګواه"},{"surface":"שקר","gloss":"دروغجن"}],"timestamp":"2026-08-29T03:38:51.486921839Z","model":"glm-5.3"}

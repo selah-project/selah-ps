@@ -1,1 +1,29 @@
-{"tier":"glm-5.2","verse":28,"ref":"2-samuel 23:28","book":"2-samuel","lang":"ps","chapter":23,"translation":"تسلmon احوحي، مهاراي نتوفاتي،","tokens":[{"surface":"צלמון","gloss":"تسلمون"},{"surface":"האחחי","gloss":"احوحي"},{"surface":"מהרי","gloss":"مهاراي"},{"surface":"הנטפתי","gloss":"نتوفاتي"}],"timestamp":"2026-08-28T22:49:40.639089549Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "تسلمن اهوهی، مهرای نټوفاتي،",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "تسلمن"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "اهوهی"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "مهرای"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "نټوفاتي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:55:54.273107397Z",
+  "model": "glm-5.3"
+}

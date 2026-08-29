@@ -1,1 +1,55 @@
-{"tier":"glm-5.2","verse":10,"ref":"joshua 24:10","book":"joshua","lang":"ps","chapter":24,"translation":"او مangingه ونه مانه چې بلعام واورم؛ نو هغه برکت درکړ ⟨את־تاسي⟩ برکت، او ما تاسي ⟨את־تاسي⟩ د هغه له لاسه خلاص کړل.","tokens":[{"surface":"ולא","gloss":"او مانه"},{"surface":"אביתי","gloss":"ما نه غوښتل"},{"surface":"לשמע","gloss":"واورم"},{"surface":"לבלעם","gloss":"بلعام"},{"surface":"ויברך","gloss":"نو هغه برکت ورکړ"},{"surface":"ברוך","gloss":"برکت"},{"surface":"אתכם","gloss":"⟨את⟩","marks":"تاسي"},{"surface":"ואצל","gloss":"خلاص کړم"},{"surface":"אתכם","gloss":"⟨את⟩","marks":"تاسي"},{"surface":"מידו","gloss":"د هغه له لاسه"}],"timestamp":"2026-08-28T22:22:25.487094307Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "خو زه غوښتل نه چې بلعم ته غوږ ونیسم، نو هغه تاسې ته ډېر برکتونه وويل؛ او زما تاسې د هغه له لاس څخه خلاص کړل.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "زه غوښتم"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "اورېدل"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "بلعم"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "نو هغه برکت وويل"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ډېر برکتونه"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تاسې"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "خلاص کړم"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تاسې"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "د هغه له لاس څخه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:21:23.860715672Z",
+  "model": "glm-5.3"
+}

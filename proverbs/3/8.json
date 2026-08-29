@@ -1,1 +1,33 @@
-{"tier":"glm-5.2","verse":8,"ref":"proverbs 3:8","book":"proverbs","lang":"ps","chapter":3,"translation":"دا به ستا نامه ته روغتیا وي او ستا هډوکو ته ت RHوونه.","tokens":[{"surface":"רפאות","gloss":"روغتیا"},{"surface":"תהי","gloss":"وي"},{"surface":"לשרך","gloss":"ستا نامه ته"},{"surface":"ושקוי","gloss":"او ت رHوونه"},{"surface":"לעצמותיך","gloss":"ستا هډوکو ته"}],"timestamp":"2026-08-29T00:53:25.144769167Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "د بېډې لپاره به دا روغتیا وي او ستا د هډوکو لپاره ⟨به⟩ شړوب وي.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "روغتیا"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "به وي"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "ستا بېډې ته"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "او شړوب"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "ستا هډوکو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T03:38:20.835244197Z",
+  "model": "glm-5.3"
+}

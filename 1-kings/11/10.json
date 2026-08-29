@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":10,"ref":"1-kings 11:10","book":"1-kings","lang":"ps","chapter":11,"translation":"او ⟨هغه⟩ په دې خبره ورته حکم وکړی و چې له بلو الوهیمو وروسته مه ځه؛ خو ⟨هغه> هغه ونه ساتل چې یاهوه حکم کړی و ⟨את⟩.","tokens":[{"surface":"וצוה","gloss":"حکم يې کړی و"},{"surface":"אליו","gloss":"ورته"},{"surface":"על","gloss":"په… کې"},{"surface":"הדבר","gloss":"خبره"},{"surface":"הזה","gloss":"دا"},{"surface":"לבלתי","gloss":"چې مه…"},{"surface":"לכת","gloss":"ځه"},{"surface":"אחרי","gloss":"وروسته"},{"surface":"אלהים","gloss":"الوهیمو"},{"surface":"אחרים","gloss":"بلو"},{"surface":"ולא","gloss":"خو نه"},{"surface":"שמר","gloss":"ونه ساتل"},{"surface":"את","gloss":"⟨את⟩","marks":"هغه چې یاهوه حکم کړی و"},{"surface":"אשר","gloss":"چې"},{"surface":"צוה","gloss":"حکم کړی"},{"surface":"יהוה","gloss":"یاهوه"}],"timestamp":"2026-08-28T22:55:41.592106828Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او یاهوه دې ته یې پر دې کار باندې حکم کړی و چې د نورو الوهیمو (خدایانو) په تعقیب مه ځه، خو هغه ⟨את⟩ هغه څه چې یاهوه حکم کړي وو نه وو ساتلي.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "او حکم کړی وو"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "دې ته"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "د کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "چې مه"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ځه"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "په تعقیب"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیمو"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "نورو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "خو نه"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ساتلي وو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "هغه څه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم کړي وو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:25:02.230273727Z",
+  "model": "glm-5.3"
+}

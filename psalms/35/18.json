@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":18,"ref":"psalms 35:18","book":"psalms","lang":"ps","chapter":35,"translation":"زه به تا په لوی ټولګي کې ستایم، په زيات قوم کې به دې praise وکړم — تا به په زيات قوم کې وستایم.","tokens":[{"surface":"אודך","gloss":"زه به تا ستایم"},{"surface":"בקהל","gloss":"په ټولګي کې"},{"surface":"רב","gloss":"لوی"},{"surface":"בעם","gloss":"په قوم کې"},{"surface":"עצום","gloss":"زيات"},{"surface":"אהללך","gloss":"به تا وستایم"}],"timestamp":"2026-08-29T00:31:01.767121897Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 35,
+  "translation": "زه به څه دې ومنم په لوی ټولګي کې، په قوي قوم کې به څه ستایم.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "څه دې ومنم"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "په ټولګي کې"
+    },
+    {
+      "surface": "רב",
+      "gloss": "لوی"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "په قوم کې"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "قوي"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "څه ستایم"
+    }
+  ],
+  "timestamp": "2026-08-29T03:36:26.294318035Z",
+  "model": "glm-5.3"
+}

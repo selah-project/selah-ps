@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":14,"ref":"1-chronicles 5:14","book":"1-chronicles","lang":"ps","chapter":5,"translation":"دا د ابیحایل زامن وو، د حوري زوی، د یروح زوی، د ګلعاد زوی، د میکائیل زوی، د یشی Shay زوی، د یحدو زوی، د بوز زوی.","tokens":[{"surface":"אלה","gloss":"دا"},{"surface":"בני","gloss":"زامن ... وو"},{"surface":"אביחיל","gloss":"ابیحایل"},{"surface":"בן","gloss":"زوی"},{"surface":"חורי","gloss":"حوري"},{"surface":"בן","gloss":"زوی"},{"surface":"ירוח","gloss":"یروح"},{"surface":"בן","gloss":"زوی"},{"surface":"גלעד","gloss":"ګلعاد"},{"surface":"בן","gloss":"زوی"},{"surface":"מיכאל","gloss":"میکائیل"},{"surface":"בן","gloss":"زوی"},{"surface":"ישישי","gloss":"یشی Shay"},{"surface":"בן","gloss":"زوی"},{"surface":"יחדו","gloss":"یحدو"},{"surface":"בן","gloss":"زوی"},{"surface":"בוז","gloss":"بوز"}],"timestamp":"2026-08-29T01:47:43.361810826Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "دا د ابیحایل زامن وو — د حوري زوی، د یاروح زوی، د ګلعاد زوی، د میکایل زوی، د یشیشای زوی، د یحدو زوی، د بوز زوی.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "دا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "ابیحایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "حوري"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "یاروح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ګلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "میکایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "یشیشای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "یحدو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    }
+  ],
+  "timestamp": "2026-08-29T03:43:31.954979993Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 19:7","book":"psalms","lang":"ps","chapter":19,"translation":"","tokens":[{"surface":"מקצה","gloss":"له پای"},{"surface":"השמים","gloss":"اسمانونو"},{"surface":"מוצאו","gloss":"د هغه وتل"},{"surface":"ותקופתו","gloss":"او د هغه ګرځېدنه"},{"surface":"על","gloss":"تر"},{"surface":"קצותם","gloss":"د هغوی پایونو"},{"surface":"ואין","gloss":"او نشته"},{"surface":"נסתר","gloss":"پټ"},{"surface":"מחמתו","gloss":"له هغه له تودوخې"}],"timestamp":"2026-08-29T00:27:46.701578179Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "له اسمانونو له يوې پایې د هغه وتل ⟨دی⟩، او د هغه ګرځېدنه تر د دوی تر پایونو؛ او له د هغه له تودوخې څخه هېڅ پټ نه ⟨دی⟩.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "له يوې پایې"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اسمانونو"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "د هغه وتل"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "او د هغه ګرځېدنه"
+    },
+    {
+      "surface": "על",
+      "gloss": "تر"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "د دوی پایونو"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "او هېڅ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "پټ نه"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "له د هغه تودوخې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:36:38.176566242Z",
+  "model": "glm-5.3"
+}

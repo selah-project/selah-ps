@@ -1,1 +1,118 @@
-{"tier":"glm-5.2","verse":7,"ref":"2-samuel 9:7","book":"2-samuel","lang":"ps","chapter":9,"translation":"داوېد ورته وويل: «مه وارېږه، ځکه چې ستا په باب زما د پلار يهوناتان له خاطر خېسېد به sure بجا کړم او ټول د شاؤل د پلار دې کرګډنه به درته بېرته راوسپارم، او ته به پر مېز مې تل ډوډۍ وخورې.»","tokens":[{"surface":"ויאמר","gloss":"وويل"},{"surface":"לו","gloss":"ورته"},{"surface":"דוד","gloss":"داوېد"},{"surface":"אל","gloss":"نه"},{"surface":"תירא","gloss":"مه وارېږه"},{"surface":"כי","gloss":"ځکه چې"},{"surface":"עשה","gloss":"بجا کول"},{"surface":"אעשה","gloss":"به بجا کړم"},{"surface":"עמך","gloss":"ستا سره"},{"surface":"חסד","gloss":"خېسېد"},{"surface":"בעבור","gloss":"له خاطر"},{"surface":"יהונתן","gloss":"يهوناتان"},{"surface":"אביך","gloss":"د پلار"},{"surface":"והשבתי","gloss":"به راوسپارم"},{"surface":"לך","gloss":"درته"},{"surface":"את","gloss":"⟨את⟩","marks":"ټول کرګډنه"},{"surface":"כל","gloss":"ټول"},{"surface":"שדה","gloss":"کرګډنه"},{"surface":"שאול","gloss":"شاؤل"},{"surface":"אביך","gloss":"د پلار"},{"surface":"ואתה","gloss":"او ته"},{"surface":"תאכל","gloss":"به وخورې"},{"surface":"לחם","gloss":"ډوډۍ"},{"surface":"על","gloss":"پر"},{"surface":"שלחני","gloss":"مېز مې"},{"surface":"תמיד","gloss":"تل"}],"timestamp":"2026-08-28T22:43:58.738496055Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 9:7",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او داوېد ورته وویل: مه وېرېږه، ځکه چې زه به یقیناً د دې لپاره چې یهوناتان دې پلار و، له تا سره خېسېد وکړم، او تا ته به د شاؤل د پلار ټولې دښتې بېرته راستون کړم، او ته به زما پر مېز تل ډوډۍ وخورې.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "وېرېږه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "یقیناً کول"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "زه به وکړم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خېسېد"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "د دې لپاره چې"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یهوناتان"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "دې پلار"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "او زه به راستون کړم"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تا ته"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټولې دښتې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "دښتې"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "دې پلار"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "به وخورې"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ډوډۍ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "زما مېز"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "تل"
+    }
+  ],
+  "timestamp": "2026-08-29T03:23:36.828957704Z",
+  "model": "glm-5.3"
+}

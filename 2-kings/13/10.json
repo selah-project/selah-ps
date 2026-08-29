@@ -1,1 +1,81 @@
-{"tier":"glm-5.2","verse":10,"ref":"2-kings 13:10","book":"2-kings","lang":"ps","chapter":13,"translation":"په دوه دېرشöm اويايم کال د یواش د یهوداه پاچا پاچاهۍ کې، یهواش د یهواحز زوی پر یسرایل په شومرون کې شپاړس کاله واکمني وکړه.","tokens":[{"surface":"בשנת","gloss":"په...کال"},{"surface":"שלשים","gloss":"دېرش"},{"surface":"ושבע","gloss":"او اويا"},{"surface":"שנה","gloss":"کال"},{"surface":"ליואש","gloss":"د یواش"},{"surface":"מלך","gloss":"پاچا"},{"surface":"יהודה","gloss":"یهوداه"},{"surface":"מלך","gloss":"واکمني وکړه"},{"surface":"יהואש","gloss":"یهواش"},{"surface":"בן","gloss":"زوی"},{"surface":"יהואחז","gloss":"یهواحز"},{"surface":"על","gloss":"پر"},{"surface":"ישראל","gloss":"یسرایل"},{"surface":"בשמרון","gloss":"په شومرون کې"},{"surface":"שש","gloss":"شپږ"},{"surface":"עשרה","gloss":"لس"},{"surface":"שנה","gloss":"کاله"}],"timestamp":"2026-08-28T23:06:13.523615024Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "په دېرشم او اوه ولمريز کال کې د یهوادا د پاچا یوآش ⟨له⟩ پاچهۍ، یهوآش زوی یهوآحاز پر اسرائیل په شمرون کې پاچا شو، شپاړس کاله.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "په…کال کې"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "دېرش"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "او اوه"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کال"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "د یوآش"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهوادا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "پاچا شو"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "یهوآش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "یهوآحاز"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "په شمرون کې"
+    },
+    {
+      "surface": "שש",
+      "gloss": "شپاړس"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کاله"
+    }
+  ],
+  "timestamp": "2026-08-29T03:26:27.355431229Z",
+  "model": "glm-5.3"
+}

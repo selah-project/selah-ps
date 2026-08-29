@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ps",
   "chapter": 36,
-  "translation": "د اهولیبامه ⟨the⟩ مشر، د ایله ⟨the⟩ مشر، د پینون ⟨the⟩ مشر.",
+  "translation": "د اهولیبامه مشر، د ایله مشر، د پینون مشر.",
   "tokens": [
     {
       "surface": "אלוף",
@@ -32,6 +32,6 @@
       "gloss": "پینون"
     }
   ],
-  "timestamp": "2026-08-28T21:08:43.291023048Z",
+  "timestamp": "2026-08-29T03:13:03.687693930Z",
   "model": "glm-5.3"
 }

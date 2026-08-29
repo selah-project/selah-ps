@@ -1,1 +1,38 @@
-{"tier":"glm-5.2","verse":26,"ref":"2-kings 10:26","book":"2-kings","lang":"ps","chapter":10,"translation":"ا‎و ⟨את⟩ د هابعل کور له بوت-تڼو وباسي او ويې سوځوي.","tokens":[{"surface":"ויצאו","gloss":"او ويې وباسل"},{"surface":"את","gloss":"⟨את⟩","marks":"بوت-تڼې"},{"surface":"מצבות","gloss":"بوت-تڼې"},{"surface":"בית","gloss":"کور"},{"surface":"הבעל","gloss":"هابعل"},{"surface":"וישרפוה","gloss":"او ويې سوځولې"}],"timestamp":"2026-08-28T23:04:50.872782933Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او ⟨את⟩ د بعل کور د درېځو-ډبرو څخه يې وباسلې او ويې سوځولې.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "وباسلې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "درېځې-ډبرې"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "درېځې-ډبرې"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "د بعل"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "ويې سوځولې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:26:09.010950208Z",
+  "model": "glm-5.3"
+}

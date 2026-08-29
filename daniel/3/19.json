@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":19,"ref":"daniel 3:19","book":"daniel","lang":"ps","chapter":3,"translation":"بیا نبوکدنصر له قهره ډک شو او د هغه د مخ څېره پر شدرخ، مېشخ او عَبِد نېگو بدله شوه؛ ⟨he⟩ ځواب وواژه او وې ويل چې تنور د هغه په عادت له دې څخه اووه برابره ګرم کړي.","tokens":[{"surface":"באדין","gloss":"بیا"},{"surface":"נבוכדנצר","gloss":"نبوکدنصر"},{"surface":"התמלי","gloss":"ډک شو"},{"surface":"חמא","gloss":"له قهره"},{"surface":"וצלם","gloss":"او څېره"},{"surface":"אנפוהי","gloss":"د هغه د مخ"},{"surface":"אשתנו","gloss":"بدله شوه"},{"surface":"על","gloss":"پر"},{"surface":"שדרך","gloss":"شدرخ"},{"surface":"מישך","gloss":"مېشخ"},{"surface":"ועבד","gloss":"او عَبِد"},{"surface":"נגו","gloss":"نېگو"},{"surface":"ענה","gloss":"ځواب وواژه"},{"surface":"ואמר","gloss":"او وې ويل"},{"surface":"למזא","gloss":"چې ګرم کړي"},{"surface":"לאתונא","gloss":"تنور"},{"surface":"חד","gloss":"یو"},{"surface":"שבעה","gloss":"اووه (برابره)"},{"surface":"על","gloss":"له دې څخه"},{"surface":"די","gloss":"چې"},{"surface":"חזה","gloss":"د هغه عادت و"},{"surface":"למזיה","gloss":"ګرم شوی و"}],"timestamp":"2026-08-29T02:43:46.719069169Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 3:19",
+  "book": "daniel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "آن وخت نبوکدنصر له غوسې ډک شو، او د مخې بڼه يې پر شدرخ، میشخ او عبد نگو بدله شوه؛ هغه ځواب وواژه او ویې ویل چې کوره دې د خپل دود له مخې اوو ځله زیاته توده شي.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "آن وخت"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نبوکدنصر"
+    },
+    {
+      "surface": "התמלי",
+      "gloss": "ډک شو"
+    },
+    {
+      "surface": "חמא",
+      "gloss": "له غوسې"
+    },
+    {
+      "surface": "וצלם",
+      "gloss": "او د بڼې"
+    },
+    {
+      "surface": "אנפוהי",
+      "gloss": "د مخې"
+    },
+    {
+      "surface": "אשתנו",
+      "gloss": "بدله شوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "شدرخ"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "میشخ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "او"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "عبد نگو"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ځواب وواژه"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "او ویې ویل"
+    },
+    {
+      "surface": "למזא",
+      "gloss": "چې توده شي"
+    },
+    {
+      "surface": "לאתונא",
+      "gloss": "کوره"
+    },
+    {
+      "surface": "חד",
+      "gloss": ""
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "اوو ځله"
+    },
+    {
+      "surface": "על",
+      "gloss": "د خپل دود له مخې"
+    },
+    {
+      "surface": "די",
+      "gloss": "چې"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "د دود وهل"
+    },
+    {
+      "surface": "למזיה",
+      "gloss": "د تودولو"
+    }
+  ],
+  "timestamp": "2026-08-29T03:42:01.315595828Z",
+  "model": "glm-5.3"
+}

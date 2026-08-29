@@ -5,65 +5,41 @@
   "book": "job",
   "lang": "ps",
   "chapter": 16,
-  "translation": "ایا د باد خبرو ته پای نشته؟ یا څه دی چې تا هڅوي چې ځواب ووایې؟",
+  "translation": "ای د باد خبرو ته ⟨به⟩ پای وي؟ یا څه دې هڅوي چې ⟨ته⟩ ځواب ورکوې؟",
   "tokens": [
     {
-      "surface": "ایا",
-      "gloss": "ایا"
+      "surface": "הקץ",
+      "gloss": "ای … پای"
     },
     {
-      "surface": "دباد",
+      "surface": "לדברי",
+      "gloss": "د خبرو ته"
+    },
+    {
+      "surface": "רוח",
       "gloss": "د باد"
     },
     {
-      "surface": "خبرو",
-      "gloss": "خبرو"
-    },
-    {
-      "surface": "ته",
-      "gloss": "ته"
-    },
-    {
-      "surface": "پای",
-      "gloss": "پای"
-    },
-    {
-      "surface": "نشته",
-      "gloss": "نشته"
-    },
-    {
-      "surface": "یا",
+      "surface": "או",
       "gloss": "یا"
     },
     {
-      "surface": "څه",
+      "surface": "מה",
       "gloss": "څه"
     },
     {
-      "surface": "دی",
-      "gloss": "دی"
+      "surface": "ימריצך",
+      "gloss": "دې هڅوي"
     },
     {
-      "surface": "چې",
+      "surface": "כי",
       "gloss": "چې"
     },
     {
-      "surface": "تاهڅوي",
-      "gloss": "تا هڅوي"
-    },
-    {
-      "surface": "چې",
-      "gloss": "چې"
-    },
-    {
-      "surface": "ځواب",
-      "gloss": "ځواب"
-    },
-    {
-      "surface": "ووایې",
-      "gloss": "ووایې"
+      "surface": "תענה",
+      "gloss": "ځواب ورکوې"
     }
   ],
-  "timestamp": "2026-08-29T01:08:35.284951081Z",
+  "timestamp": "2026-08-29T03:40:23.340219750Z",
   "model": "glm-5.3"
 }

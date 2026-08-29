@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 11,
-  "ref": "psalms 33:11",
-  "book": "psalms",
-  "lang": "ps",
-  "chapter": 33,
-  "translation": "د یاهوه مشوره به د تل لپاره ودرېږي؛ د زړه د ده فکرونه د پokun په توګه — د نسل پر نسل.",
-  "tokens": [],
-  "timestamp": "2026-08-29T02:39:04.154025090Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":11,"ref":"psalms 33:11","book":"psalms","lang":"ps","chapter":33,"translation":"د یاهوه مشوره ⟨به⟩ تر ټولې پایداره پاتې ده؛ د زړه ⟨د هغه⟩ فکرونه ⟨به⟩ له نسل څخه نسل ته ⟨پاتې وي⟩.","tokens":[{"surface":"עצת","gloss":"مشوره"},{"surface":"יהוה","gloss":"د یاهوه"},{"surface":"לעולם","gloss":"تر ټولې پایداره"},{"surface":"תעמד","gloss":"ولاړه ده \/ پاتې کېږي"},{"surface":"מחשבות","gloss":"فکرونه"},{"surface":"לבו","gloss":"د زړه ⟨د هغه⟩"},{"surface":"לדר","gloss":"له نسل څخه"},{"surface":"ודר","gloss":"نسل ته"}],"timestamp":"2026-08-29T03:36:11.272170625Z","model":"glm-5.3"}

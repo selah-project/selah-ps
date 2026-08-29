@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "ps",
   "chapter": 12,
-  "translation": "عِزېر ⟨the⟩ مشر، عُوبَدْیا دویم، اِلِیاب درېیم.",
+  "translation": "عِزر لومړی، عُبَدیا دویم، اِلیاب درېیم —",
   "tokens": [
     {
       "surface": "עזר",
-      "gloss": "عِزېر"
+      "gloss": "عِزر"
     },
     {
       "surface": "הראש",
-      "gloss": "مشر"
+      "gloss": "لومړی"
     },
     {
       "surface": "עבדיה",
-      "gloss": "عُوبَدْیا"
+      "gloss": "عُبَدیا"
     },
     {
       "surface": "השני",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "אליאב",
-      "gloss": "اِلِیاب"
+      "gloss": "اِلیاب"
     },
     {
       "surface": "השלשי",
       "gloss": "درېیم"
     }
   ],
-  "timestamp": "2026-08-29T01:50:14.101046527Z",
+  "timestamp": "2026-08-29T03:43:41.635529185Z",
   "model": "glm-5.3"
 }

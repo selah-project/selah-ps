@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":8,"ref":"psalms 105:8","book":"psalms","lang":"ps","chapter":105,"translation":"يې په یاد دي تر ټولې پایېدونکې مودې پورې ⟨⟨את⟩⟩ خپله تړون، هغه خبره چې يې تر زره پېړیو命令 کړې،","tokens":[{"surface":"זכר","gloss":"په یاد دي"},{"surface":"לעולם","gloss":"تر ټولې پایېدونکې مودې پورې"},{"surface":"בריתו","gloss":"خپله تړون"},{"surface":"דבר","gloss":"هغه خبره"},{"surface":"צוה","gloss":"يې امر کړې"},{"surface":"לאלף","gloss":"تر زره"},{"surface":"דור","gloss":"پېړیو (نسلونو)"}],"timestamp":"2026-08-29T00:44:29.585917788Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 105,
+  "translation": "د هغه تړون يې د تل لپاره په یاد کې دی، هغه خبرې چې يې زر نسلونو ته يې فرمان کړی دی.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "په یاد کې دی"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "د تل لپاره"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "د هغه تړون"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "فرمان کړی دی"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "زر"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسلونو ته"
+    }
+  ],
+  "timestamp": "2026-08-29T03:37:29.387058090Z",
+  "model": "glm-5.3"
+}

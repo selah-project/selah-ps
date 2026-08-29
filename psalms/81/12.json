@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 81:12","book":"psalms","lang":"ps","chapter":81,"translation":"خو زما قوم زما غږ وانه ورېده، او یوشرایل راسره نه رضایت کاوه","tokens":[{"surface":"ולא","gloss":"خو نه"},{"surface":"שמע","gloss":"غوږ وانه نیوه\/وانه ورېده"},{"surface":"עמי","gloss":"زما قوم"},{"surface":"לקולי","gloss":"زما غږ ته"},{"surface":"וישראל","gloss":"او یوشرایل"},{"surface":"לא","gloss":"نه"},{"surface":"אבה","gloss":"رضایت نه کاوه\/نه غوښتل"},{"surface":"לי","gloss":"رaserه\/زما (پلور)"}],"timestamp":"2026-08-29T00:39:49.629701984Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 81,
+  "translation": "خو زما خلکو زما غږ وانه ورید، او یسرایل راته غاړه ونه کړه.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "خو ... نه"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "وانه ورید"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "زما خلکو"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "زما غږ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "او یسرایل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "غاړه ونه کړه"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    }
+  ],
+  "timestamp": "2026-08-29T03:37:16.879762552Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":8,"ref":"hosea 5:8","book":"hosea","lang":"ps","chapter":5,"translation":"په ګیبه کې شپور ووهئ، په را mah کې زمبورک وغږوئ، په بیت-اونن کې غږ پورته کړئ: ستا تر شا، ای بنيامین!","tokens":[{"surface":"תקעו","gloss":"ووهئ"},{"surface":"שופר","gloss":"شپور"},{"surface":"בגבעה","gloss":"په ګیبه کې"},{"surface":"חצצרה","gloss":"زمبورک"},{"surface":"ברמה","gloss":"په راما کې"},{"surface":"הריעו","gloss":"غږ پورته کړئ"},{"surface":"בית","gloss":"په بیت"},{"surface":"און","gloss":"-اونن کې"},{"surface":"אחריך","gloss":"ستا تر شا"},{"surface":"בנימין","gloss":"بنيامین"}],"timestamp":"2026-08-29T00:09:39.661915222Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "شوپار ⟨په⟩ ګیبعه ووهئ، ترمپېټ ⟨په⟩ رامه؛ په بیت-اون کې غږ وکړئ: «ستاسو تر شا، ای بنيامین!»",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ووهئ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوپار"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "⟨په⟩ ګیبعه"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "ترمپېټ"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "⟨په⟩ رامه"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "غږ وکړئ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "און",
+      "gloss": "-اون"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ستاسو تر شا"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "بنيامین"
+    }
+  ],
+  "timestamp": "2026-08-29T03:33:35.051319191Z",
+  "model": "glm-5.3"
+}

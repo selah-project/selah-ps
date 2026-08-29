@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":1,"ref":"micah 3:1","book":"micah","lang":"ps","chapter":3,"translation":"او ومې ویل: واورئ ټول، د یعقوب مشران او د اسراییل د کور مشران: آیا پوهېدل ⟨او>> د ⟨او>> عدالت ستاسو د دنده نه ده؟","tokens":[{"surface":"ואמר","gloss":"او ومې ویل"},{"surface":"שמעו","gloss":"واورئ"},{"surface":"נא","gloss":"ټول"},{"surface":"ראשי","gloss":"مشران"},{"surface":"יעקב","gloss":"د یعقوب"},{"surface":"וקציני","gloss":"او مشران"},{"surface":"בית","gloss":"د کور"},{"surface":"ישראל","gloss":"اسراییل"},{"surface":"הלוא","gloss":"آیا... نه"},{"surface":"לכם","gloss":"ستاسو"},{"surface":"לדעת","gloss":"پوهېدل"},{"surface":"את","gloss":"⟨את⟩","marks":"عدالت"},{"surface":"המשפט","gloss":"عدالت"}],"timestamp":"2026-08-29T00:16:54.203038012Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او ما وویل: واورئ، ای د یعقوب مشران او د د اسرائیل کور واکمنان، ایا عدالت پېژندل ستاسو د دې نه دي؟",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "او ما وویل"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "واورئ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ای"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "مشران"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "او واکمنان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ایا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ستاسو"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "پېژندل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عدالت"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "عدالت"
+    }
+  ],
+  "timestamp": "2026-08-29T03:34:17.937282043Z",
+  "model": "glm-5.3"
+}

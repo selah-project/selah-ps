@@ -5,45 +5,45 @@
   "book": "genesis",
   "lang": "ps",
   "chapter": 15,
-  "translation": "او ⟨את⟩ اموريان، او ⟨את⟩ کنعانیان، او ⟨את⟩ ګرګیشیان، او ⟨את⟩ یبوسيان.",
+  "translation": "او ⟨את⟩ ایموري او ⟨את⟩ کنعاني او ⟨את⟩ ګرګاشي او ⟨את⟩ یبوسي.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "اموريان"
+      "gloss": "او ⟨את⟩",
+      "marks": "ایموري"
     },
     {
       "surface": "האמרי",
-      "gloss": "اموريان"
+      "gloss": "ایموري"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "کنعانیان"
+      "gloss": "او ⟨את⟩",
+      "marks": "کنعاني"
     },
     {
       "surface": "הכנעני",
-      "gloss": "کنعانیان"
+      "gloss": "کنعاني"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ګرګیشیان"
+      "gloss": "او ⟨את⟩",
+      "marks": "ګرګاشي"
     },
     {
       "surface": "הגרגשי",
-      "gloss": "ګرګیشیان"
+      "gloss": "ګرګاشي"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ybwsy"
+      "gloss": "او ⟨את⟩",
+      "marks": "یبوسي"
     },
     {
       "surface": "היבוסי",
-      "gloss": "ybwsyan"
+      "gloss": "یبوسي"
     }
   ],
-  "timestamp": "2026-08-29T02:12:42.787308185Z",
+  "timestamp": "2026-08-29T03:11:10.009176604Z",
   "model": "glm-5.3"
 }

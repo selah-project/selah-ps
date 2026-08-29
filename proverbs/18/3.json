@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":3,"ref":"proverbs 18:3","book":"proverbs","lang":"ps","chapter":18,"translation":"کله چې شریر راځي، بیا سپکاوی هم راځي، او د شرم سره يې <-خوا> توہین.","tokens":[{"surface":"בבוא","gloss":"کله چې ... راځي"},{"surface":"רשע","gloss":"شریر"},{"surface":"בא","gloss":"راځي"},{"surface":"גם","gloss":"هم"},{"surface":"בוז","gloss":"سپکاوی"},{"surface":"ועם","gloss":"د ... سره"},{"surface":"קלון","gloss":"شرم"},{"surface":"חרפה","gloss":"توہین"}],"timestamp":"2026-08-29T00:58:18.413439833Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "چې راشه\/بدکار راځي، مهانت هم راځي، او له سپکاوي سره سپکاوی\/شرموهنه.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "چې … راځي"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "בא",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "مهانت"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "او له … سره"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "سپکاوي\/شرموهنه"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "له سپکاوي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:38:48.516461787Z",
+  "model": "glm-5.3"
+}

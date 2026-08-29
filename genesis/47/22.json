@@ -1,1 +1,108 @@
-{"tier":"glm-5.2","verse":22,"ref":"genesis 47:22","book":"genesis","lang":"ps","chapter":47,"translation":"يوازې د کاهنانو ځمکه يې وانه خرېده، ځکه چې د کاهنانو لپاره ⟨את⟩ فرعو侧 برخه وه؛ او دوی ⟨את⟩ خپله برخه چې فرعو ورکړې وه خوړله، نو ځکه يې خپله ځمکه وانه خرېده.","tokens":[{"surface":"רק","gloss":"يوازې"},{"surface":"אדמת","gloss":"د ځمکې"},{"surface":"הכהנים","gloss":"کاهنانو"},{"surface":"לא","gloss":"نه"},{"surface":"קנה","gloss":"خرېده"},{"surface":"כי","gloss":"ځکه چې"},{"surface":"חק","gloss":"برخه\/مقرر شوی رزق"},{"surface":"לכהנים","gloss":"د کاهنانو لپاره"},{"surface":"מאת","gloss":"⟨את⟩ له","marks":"فرعو"},{"surface":"פרעה","gloss":"فرعو"},{"surface":"ואכלו","gloss":"او خوړله يې"},{"surface":"את","gloss":"⟨את⟩","marks":"خپله برخه"},{"surface":"חקם","gloss":"خپله برخه"},{"surface":"אשר","gloss":"چې"},{"surface":"נתן","gloss":"ورکړې وه"},{"surface":"להם","gloss":"ورته"},{"surface":"פרעה","gloss":"فرعو"},{"surface":"על","gloss":"پر"},{"surface":"כן","gloss":"همدې BaseBaseBaseBaseBaseBaseBase... BaseBase Base Base","marks":""},{"surface":"לא","gloss":"نه"},{"surface":"מכרו","gloss":"خرېده يې"},{"surface":"את","gloss":"⟨את⟩","marks":"خپله ځمکه"},{"surface":"אדמתם","gloss":"خپله ځمکه"}],"timestamp":"2026-08-28T21:13:20.144064881Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 47:22",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 47,
+  "translation": "یوازې د کاهنانو ځمکه يې وانه اخیسته، ځکه چې د کاهنانو لپاره ⟨את⟩ له فرعون برخه وه، او دوی به خوړله ⟨את⟩ خپله برخه چې فرعون ورکړې وه؛ نو ځکه يې ⟨את⟩ خپله ځمکه وانه خرڅوله.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "یوازې"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "د کاهنانو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "اخیسته"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "חק",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "د کاهنانو لپاره"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "له ⟨את⟩",
+      "marks": "فرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "او خوړله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله برخه"
+    },
+    {
+      "surface": "חקם",
+      "gloss": "خپله برخه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ورکړې وه"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "על",
+      "gloss": "په"
+    },
+    {
+      "surface": "כן",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "خرڅوله"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خپله ځمکه"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "خپله ځمکه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:13:46.274091110Z",
+  "model": "glm-5.3"
+}

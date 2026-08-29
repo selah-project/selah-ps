@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":27,"ref":"exodus 18:27","book":"exodus","lang":"ps","chapter":18,"translation":"او موشې ⟨את⟩ خپل خسر پرېښود، او هغه خپلې ځمکې ته ولاړ.","tokens":[{"surface":"וישלח","gloss":"پرېښود\/ولېږه"},{"surface":"משה","gloss":"موشې"},{"surface":"את","gloss":"⟨את⟩","marks":"خپل خسر"},{"surface":"חתנו","gloss":"خپل خسر"},{"surface":"וילך","gloss":"ولاړ"},{"surface":"לו","gloss":"خپله لار ( Reflexivum )"},{"surface":"אל","gloss":"ته"},{"surface":"ארצו","gloss":"خپلې ځمکې"}],"timestamp":"2026-08-28T21:19:45.306877285Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او موشې خپل خوسۍ (د ښځې پلار) ⟨את⟩ رخصت کړ، نو هغه خپلې ځمکې ته ولاړ.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "او رخصت يې کړ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خوسۍ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "خپل خوسۍ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "نو ولاړ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "د خپل لار (ټینګار)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "خپلې ځمکې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:14:19.239811409Z",
+  "model": "glm-5.3"
+}

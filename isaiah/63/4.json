@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":4,"ref":"isaiah 63:4","book":"isaiah","lang":"ps","chapter":63,"translation":"ځکه چې د انتقام ورځ ⟨ה⟩ په زړه کې وه، او د زما د ژغورل شوو کال راغی.","tokens":[{"surface":"כי","gloss":"ځکه چې"},{"surface":"יום","gloss":"ورځ"},{"surface":"נקם","gloss":"د انتقام"},{"surface":"בלבי","gloss":"په زړه کې"},{"surface":"ושנת","gloss":"او کال"},{"surface":"גאולי","gloss":"د زما د ژغورل شوو"},{"surface":"באה","gloss":"راغی"}],"timestamp":"2026-08-28T23:27:34.446924987Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 63,
+  "translation": "ځکه چې د انتقام ورځ زما په زړه کې وه، او د زما بې‌څښته‌شویو (فیدای‌شویو) کال راغی.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقام"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "زما په زړه کې"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "او د … کال"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "زما بې‌څښته‌شویو (فیدای‌شویو)"
+    },
+    {
+      "surface": "באה",
+      "gloss": "راغی"
+    }
+  ],
+  "timestamp": "2026-08-29T03:29:20.360766215Z",
+  "model": "glm-5.3"
+}

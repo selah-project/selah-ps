@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 21,
-  "ref": "ezekiel 36:21",
-  "book": "ezekiel",
-  "lang": "ps",
-  "chapter": 36,
-  "translation": "او ما پر زما د قداست نوم رحم وکړ، چې د یش rapé... ",
-  "tokens": [],
-  "timestamp": "2026-08-29T00:03:41.771997517Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":21,"ref":"ezekiel 36:21","book":"ezekiel","lang":"ps","chapter":36,"translation":"او ما پر خپل مقدس نوم رحم وکړ، چې د یسرایل کور هغه د ملتونو په منځ کې چېرې چې دوی هلته تللي وو داسې سپک کړی و.","tokens":[{"surface":"ואחמל","gloss":"او رحم وکړم"},{"surface":"על","gloss":"پر"},{"surface":"שם","gloss":"نوم"},{"surface":"קדשי","gloss":"زما مقدس"},{"surface":"אשר","gloss":"چې"},{"surface":"חללוהו","gloss":"داسې سپک کړی و یې"},{"surface":"בית","gloss":"کور"},{"surface":"ישראל","gloss":"یسرایل"},{"surface":"בגוים","gloss":"د ملتونو په منځ کې"},{"surface":"אשר","gloss":"چېرې چې"},{"surface":"באו","gloss":"تللي وو"},{"surface":"שמה","gloss":"هلته"}],"timestamp":"2026-08-29T03:56:21.231591448Z","model":"glm-5.3"}

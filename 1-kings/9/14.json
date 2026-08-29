@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":14,"ref":"1-kings 9:14","book":"1-kings","lang":"ps","chapter":9,"translation":"او حیرام ←پاچا ته>> سل او شل کیکر [[زهر]]]] ولېږل [زيرلى].","tokens":[{"surface":"וישלח","gloss":"او ... ولېږل [زيرلى]"},{"surface":"חירם","gloss":"حیرام"},{"surface":"למלך","gloss":"پاچا ته"},{"surface":"מאה","gloss":"سل"},{"surface":"ועשרים","gloss":"او شل"},{"surface":"ככר","gloss":"کیکر [زيرلى]"},{"surface":"זהב","gloss":"زهر"}],"timestamp":"2026-08-28T22:54:48.961563369Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او حیرام د پاچا لپاره یو سل او شل ککهره سونه واستول.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "او واستول"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "د پاچا لپاره"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "یو سل"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "او شل"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ککهره"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:25:38.673844101Z",
+  "model": "glm-5.3"
+}

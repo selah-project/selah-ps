@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":26,"ref":"proverbs 8:26","book":"proverbs","lang":"ps","chapter":8,"translation":"تر هغه وخته چې هغه نه وې ځمکه جوړه کړې، نه دښتې، او نه د نړۍ د دوړو ⟨the⟩ سر.","tokens":[{"surface":"עד","gloss":"تر هغه وخته چې"},{"surface":"לא","gloss":"نه"},{"surface":"עשה","gloss":"جوړه کړې"},{"surface":"ארץ","gloss":"ځمکه"},{"surface":"וחוצות","gloss":"او دښتې"},{"surface":"וראש","gloss":"او… سر"},{"surface":"עפרות","gloss":"دوړې"},{"surface":"תבל","gloss":"نړۍ"}],"timestamp":"2026-08-29T00:55:13.269681349Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "مخکې تر دې چې هغه لا ځمکه او پرانیستې سیمې نه وې جوړې کړې، او د نړۍ د دوړو سر.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "مخکې تر دې چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړې کړې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "او پرانیستې سیمې"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "او سر"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "د دوړو"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "نړۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T03:38:42.397958375Z",
+  "model": "glm-5.3"
+}

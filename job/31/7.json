@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"job 31:7","book":"job","lang":"ps","chapter":31,"translation":"که زما ګامه له ⟨the⟩ لارې اوښتې وي، او زما زړه زما سترګو پسې تللی وي، او زما لاسونو ته کوم داغ لګېدلی وي؛","tokens":[{"surface":"אם","gloss":"که"},{"surface":"תטה","gloss":"اوښتې وي"},{"surface":"אשרי","gloss":"زما ګامه"},{"surface":"מני","gloss":"له"},{"surface":"הדרך","gloss":"لارې"},{"surface":"ואחר","gloss":"پسې"},{"surface":"עיני","gloss":"زما سترګو"},{"surface":"הלך","gloss":"تللی وي"},{"surface":"לבי","gloss":"زما زړه"},{"surface":"ובכפי","gloss":"زما لاسونو ته"},{"surface":"דבק","gloss":"لګېدلی وي"},{"surface":"מאום","gloss":"کوم داغ"}],"timestamp":"2026-08-29T01:12:48.965526103Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 31:7",
+  "book": "job",
+  "lang": "ps",
+  "chapter": 31,
+  "translation": "که ګام مې له لارې واوړي، او زړه مې زما د سترګو پېروي وکړي، او که هره څټه زما په لاسونو ولګېږي،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "واوړي"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ګام مې"
+    },
+    {
+      "surface": "מני",
+      "gloss": "له"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "لارې"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "او ... پېروي"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "د سترګو"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "وکړي"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "زړه مې"
+    },
+    {
+      "surface": "ובכפי",
+      "gloss": "او ... په لاسونو"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "لګېږي"
+    },
+    {
+      "surface": "מאום",
+      "gloss": "هره څټه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:57:12.467432588Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":52,"ref":"jeremiah 51:52","book":"jeremiah","lang":"ps","chapter":51,"translation":"نو ځکه، ن.Lo! ووایه: هغه ورځې راځي چې د یاهوه خبره ده، زه به د هغې د بتانو حساب وکړم، او ټولې د هغې په ځمکه کې به ټول وژل شوی نالېږي.","tokens":[{"surface":"לכן","gloss":"نو ځکه"},{"surface":"הנה","gloss":"واوایه"},{"surface":"ימים","gloss":"ورځې"},{"surface":"באים","gloss":"راځي"},{"surface":"נאם","gloss":"خبره"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"ופקדתי","gloss":"حساب به وکړم"},{"surface":"על","gloss":"پر"},{"surface":"פסיליה","gloss":"د هغې بتانو"},{"surface":"ובכל","gloss":"او ټولې"},{"surface":"ארצה","gloss":"د هغې ځمکه"},{"surface":"יאנק","gloss":"نالېږي"},{"surface":"חלל","gloss":"وژل شوی"}],"timestamp":"2026-08-28T23:49:01.360718406Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "jeremiah 51:52",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "نو همدا وخت دی، چې ورځې راځي، د یاهوه خبره، او زه به پر ⟨את⟩ بتانو یې عدالت وکړم، او په ټوله ⟨את⟩ خپله ځمکه کې به ټپی شاووځي.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "همدا وخت دی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "באים",
+      "gloss": "راځي"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "خبره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "او زه به عدالت وکړم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פסיליה",
+      "gloss": "بتانو یې"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "او په ټوله"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "خپله ځمکه کې"
+    },
+    {
+      "surface": "יאנק",
+      "gloss": "به شاووځي"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ټپی"
+    }
+  ],
+  "timestamp": "2026-08-29T03:31:07.437177518Z",
+  "model": "glm-5.3"
+}

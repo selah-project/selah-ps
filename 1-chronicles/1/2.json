@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "ps",
   "chapter": 1,
-  "translation": "قېنان، mahalal-El، Yared،",
+  "translation": "کینان، مهللایل، یارِد،",
   "tokens": [
     {
       "surface": "קינן",
-      "gloss": "قېنان"
+      "gloss": "کینان"
     },
     {
       "surface": "מהללאל",
@@ -17,9 +17,9 @@
     },
     {
       "surface": "ירד",
-      "gloss": "يارېد"
+      "gloss": "یارد"
     }
   ],
-  "timestamp": "2026-08-29T01:45:27.516561968Z",
+  "timestamp": "2026-08-29T03:43:40.253091001Z",
   "model": "glm-5.3"
 }

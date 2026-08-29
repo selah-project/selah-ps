@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 18,
-  "ref": "2-chronicles 34:18",
-  "book": "2-chronicles",
-  "lang": "ps",
-  "chapter": 34,
-  "translation": "او شافن کاتب پاچا ته خبر واورېد< filler>",
-  "tokens": [],
-  "timestamp": "2026-08-29T02:10:40.707895488Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":18,"ref":"2-chronicles 34:18","book":"2-chronicles","lang":"ps","chapter":34,"translation":"او شافان کاتب پاچا ته وویل ⟨چې⟩ وايي: «حیلیا کاهن يې يو کتاب راکړ،» او شافان د پاچا پر وړاندې په هغه کې لوستل.","tokens":[{"surface":"ויגד","gloss":"او … وویل"},{"surface":"שפן","gloss":"شافان"},{"surface":"הסופר","gloss":"کاتب"},{"surface":"למלך","gloss":"پاچا ته"},{"surface":"לאמר","gloss":"چې وايي"},{"surface":"ספר","gloss":"کتاب"},{"surface":"נתן","gloss":"راکړ"},{"surface":"לי","gloss":"ماته"},{"surface":"חלקיהו","gloss":"حیلیا"},{"surface":"הכהן","gloss":"کاهن"},{"surface":"ויקרא","gloss":"او … لوستل یې کول"},{"surface":"בו","gloss":"په هغه کې"},{"surface":"שפן","gloss":"شافان"},{"surface":"לפני","gloss":"پر وړاندې"},{"surface":"המלך","gloss":"د پاچا"}],"timestamp":"2026-08-29T03:45:43.524851730Z","model":"glm-5.3"}

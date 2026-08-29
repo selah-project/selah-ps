@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "ruth 1:10",
-  "book": "ruth",
-  "lang": "ps",
-  "chapter": 1,
-  "translation": "او هغوی (مېرمنو\/ښځو\/لورانو) ورته وویل: «نه، موږ به ستا سره بېرته ستا قوم ته ستون شو.»",
-  "tokens": [],
-  "timestamp": "2026-08-29T01:18:09.556938334Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":10,"ref":"ruth 1:10","book":"ruth","lang":"ps","chapter":1,"translation":"او هغوی هغې ته وویلې چې: «له ⟨את⟩ تاسره به بېرته ستا قوم ته وګرځو.»","tokens":[{"surface":"ותאמרנה","gloss":"او وویلې"},{"surface":"לה","gloss":"هغې ته"},{"surface":"כי","gloss":"چې"},{"surface":"אתך","gloss":"⟨את⟩ تاسره","marks":"له تاسره"},{"surface":"נשוב","gloss":"بګرځو"},{"surface":"לעמך","gloss":"ستا قوم ته"}],"timestamp":"2026-08-29T03:41:38.860264797Z","model":"glm-5.3"}

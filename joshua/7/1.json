@@ -1,1 +1,101 @@
-{"tier":"glm-5.2","verse":1,"ref":"joshua 7:1","book":"joshua","lang":"ps","chapter":7,"translation":"د یسرایل زامنو په حرم کې خیانت وکړ، او عاکان — د کارمي زوی، د زبدي زوی، د زرach زوی، د یهودا له قبیلې — له حرم شي څخه واخیست، او د یاهوه غوسه پر یسرایل زامنو وتوږل شوه.","tokens":[{"surface":"וימעלו","gloss":"خیانت یې وکړ"},{"surface":"בני","gloss":"زامنو"},{"surface":"ישראל","gloss":"یسرایل"},{"surface":"מעל","gloss":"خیانت"},{"surface":"בחרם","gloss":"په حرم کې"},{"surface":"ויקח","gloss":"واخیست"},{"surface":"עכן","gloss":"عاکان"},{"surface":"בן","gloss":"زوی"},{"surface":"כרמי","gloss":"کارمي"},{"surface":"בן","gloss":"زوی"},{"surface":"זבדי","gloss":"زبدي"},{"surface":"בן","gloss":"زوی"},{"surface":"זרח","gloss":"زرach"},{"surface":"למטה","gloss":"له قبیلې"},{"surface":"יהודה","gloss":"یهودا"},{"surface":"מן","gloss":"له"},{"surface":"החרם","gloss":"حرم شي څخه"},{"surface":"ויחר","gloss":"وتوږل شوه"},{"surface":"אף","gloss":"غوسه"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"בבני","gloss":"پر زامنو"},{"surface":"ישראל","gloss":"یسرایل"}],"timestamp":"2026-08-28T22:17:10.911554281Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 7:1",
+  "book": "joshua",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او د ییسرایل زامنو په حرام شوي شي کې خیانت وکړ، ځکه عاکان، د کریمي زوی، د زبدي زوی، د زراخ زوی، د یهودا له قبیلې څخه له حرام شوي شي یو څه واخیستل، او د یاهوه غوسه پر د ییسرایل زامنو وګلېږه.",
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "خیانت یې وکړ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "دامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرایل"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خیانت"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "په حرام شوي شي کې"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "واخیستل"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "عاکان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "کریمي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "زبدي"
+    },
+    {
+      "surface": "בן",
+      "gloss": "زوی"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زراخ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "له قبیلې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یهودا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "حرام شوي شي"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "وګلېږه"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غوسه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "پر ... زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ییسرایل"
+    }
+  ],
+  "timestamp": "2026-08-29T03:55:29.119489696Z",
+  "model": "glm-5.3"
+}

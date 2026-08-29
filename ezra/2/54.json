@@ -5,25 +5,25 @@
   "book": "ezra",
   "lang": "ps",
   "chapter": 2,
-  "translation": "د نTSیح زامن، د خطیفا زامن.",
+  "translation": "د نِتسیاخ زامن، د خټیفا زامن.",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "دامن"
+      "gloss": "زامن"
     },
     {
       "surface": "נציח",
-      "gloss": "نِصیح"
+      "gloss": "نِتسیاخ"
     },
     {
       "surface": "בני",
-      "gloss": "دامن"
+      "gloss": "زامن"
     },
     {
       "surface": "חטיפא",
-      "gloss": "خطیفا"
+      "gloss": "خټیفا"
     }
   ],
-  "timestamp": "2026-08-29T01:36:33.391093805Z",
+  "timestamp": "2026-08-29T03:42:17.677288004Z",
   "model": "glm-5.3"
 }

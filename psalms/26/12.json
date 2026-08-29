@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":12,"ref":"psalms 26:12","book":"psalms","lang":"ps","chapter":26,"translation":"زما څنګه په سمه ځمکه ولاړه ده؛ په ټولګيو کې به яاهوه سپېڅلی وښایم.","tokens":[{"surface":"רגלי","gloss":"زما څنګه"},{"surface":"עמדה","gloss":"ولاړه ده"},{"surface":"במישור","gloss":"په سمه ځمکه"},{"surface":"במקהלים","gloss":"په ټولګيو"},{"surface":"אברך","gloss":"به سپېڅلی وښایم"},{"surface":"יהוה","gloss":"یاهوه"}],"timestamp":"2026-08-29T00:28:46.471393505Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "زما پښه په نېک ډگر کې ولاړه ده؛ په ټولګو کې به زه یاهوه ته برکت ووایم.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "زما پښه"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "ولاړه ده"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "په نېک ډگر کې"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "په ټولګو کې"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "برکت به ووایم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:36:01.355773343Z",
+  "model": "glm-5.3"
+}

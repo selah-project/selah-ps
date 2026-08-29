@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":23,"ref":"exodus 39:23","book":"exodus","lang":"ps","chapter":39,"translation":"او د مېړlain جامې خوله په منځ کې وه، د زره ورته د خولې په څېر، د هغې خولې ته شونډه چاپېره وه، چې نه څېرېږي.","tokens":[{"surface":"ופי","gloss":"او خوله"},{"surface":"המעיל","gloss":"مېړlain جامې د"},{"surface":"בתוכו","gloss":"په منځ کې يې"},{"surface":"כפי","gloss":"د خولې په څېر"},{"surface":"תחרא","gloss":"زره"},{"surface":"שפה","gloss":"شونډه"},{"surface":"לפיו","gloss":"د هغې خولې ته"},{"surface":"סביב","gloss":"چاپېره"},{"surface":"לא","gloss":"نه"},{"surface":"יקרע","gloss":"څېرېږي"}],"timestamp":"2026-08-28T21:31:14.491935044Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 39:23",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 39,
+  "translation": "او د څادر خوله په منځ کې يې وه، د زرهي د غاړې په څېر، چې خولې ته يې شاوخوا لوندۍ وه، چې نه څيرېدلی.",
+  "tokens": [
+    {
+      "surface": "ופי",
+      "gloss": "او خوله"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "د څادر"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "په منځ کې يې"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "د خولې په څېر"
+    },
+    {
+      "surface": "תחרא",
+      "gloss": "زرهي (کراږۍ)"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "لوندۍ (کناره)"
+    },
+    {
+      "surface": "לפיו",
+      "gloss": "د خولې لپاره يې"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "شاوخوا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יקרע",
+      "gloss": "څيرېدلی"
+    }
+  ],
+  "timestamp": "2026-08-29T03:16:16.798473219Z",
+  "model": "glm-5.3"
+}

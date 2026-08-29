@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 85:3","book":"psalms","lang":"ps","chapter":85,"translation":"ته دې د خپل قوم GSMون پورته کړ؛ د دوی ټول ګناهونه دې پټ کړل. سېلاه.","tokens":[{"surface":"נשאת","gloss":"پورته کړې"},{"surface":"עון","gloss":"GSMون"},{"surface":"עמך","gloss":"د خپل قوم"},{"surface":"כסית","gloss":"پټ کړې"},{"surface":"כל","gloss":"ټول"},{"surface":"חטאתם","gloss":"ګناهونه"},{"surface":"סלה","gloss":"سېلاه"}],"timestamp":"2026-08-29T00:40:38.107178216Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 85,
+  "translation": "ته دې د خپل قوم بدۍ لېرې کړه (ښخه کړه\/بښلې يې)، ته دې د ټولو ګناهونه پټ کړل. سېله.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "لېرې کړې\/بښلې يې"
+    },
+    {
+      "surface": "עון",
+      "gloss": "بدۍ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "د خپل قوم"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "پټ کړلې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ګناهونه"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سېله"
+    }
+  ],
+  "timestamp": "2026-08-29T03:36:56.878034478Z",
+  "model": "glm-5.3"
+}

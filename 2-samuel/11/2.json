@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":2,"ref":"2-samuel 11:2","book":"2-samuel","lang":"ps","chapter":11,"translation":"او د ماښام په وخت داوېد له خپلې بستره پاڅېد او د پاچا د کور پر بام وګرځېد، او له بامه يې یوه ښځه ولېدله چې غسل يې کاوه؛ او هغه ښځه دSeen ډېره ښکلې وه.","tokens":[{"surface":"ויהי","gloss":"او و"},{"surface":"לעת","gloss":"په وخت"},{"surface":"הערב","gloss":"د ماښام"},{"surface":"ויקם","gloss":"پاڅېد"},{"surface":"דוד","gloss":"داوېد"},{"surface":"מעל","gloss":"له"},{"surface":"משכבו","gloss":"خپلې بستره"},{"surface":"ויתהלך","gloss":"وګرځېد"},{"surface":"על","gloss":"پر"},{"surface":"גג","gloss":"بام"},{"surface":"בית","gloss":"کور"},{"surface":"המלך","gloss":"د پاچا"},{"surface":"וירא","gloss":"ولېدله"},{"surface":"אשה","gloss":"یوه ښځه"},{"surface":"רחצת","gloss":"غسل کاوه"},{"surface":"מעל","gloss":"له"},{"surface":"הגג","gloss":"بامه"},{"surface":"והאשה","gloss":"او هغه ښځه"},{"surface":"טובת","gloss":"ښکلې"},{"surface":"מראה","gloss":"دSeen پهlook"},{"surface":"מאד","gloss":"ډېره"}],"timestamp":"2026-08-28T22:45:25.854413360Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 11:2",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 11,
+  "translation": "او د ماښام په وخت کې شو، داوېد له خپل بسترونه پاوه او د پاچا د کور پر بامه یې قدم کاوه، او له بامه یې یوه ښځه ولیده چې د بام پر سر یې لامه کوله، او هغه ښځه په ډېره ښه څېره وه.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "شو"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "په وخت کې"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "د ماښام"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "پاوه"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "له"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "خپل بسترونه"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "قدم کاوه"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גג",
+      "gloss": "بامه"
+    },
+    {
+      "surface": "בית",
+      "gloss": "د کور"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ولیده"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "یوه ښځه"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "لامه کوله"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "د بام سر"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "او هغه ښځه"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "په ښه"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "څېره"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېره"
+    }
+  ],
+  "timestamp": "2026-08-29T03:23:20.383966829Z",
+  "model": "glm-5.3"
+}

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "ps",
   "chapter": 36,
-  "translation": "د قناز ⟨the⟩ مشر، د تیمان ⟨the⟩ مشر، د مبصار ⟨the⟩ مشر.",
+  "translation": "د قناز مشر، د تیمان مشر، د مبصر مشر.",
   "tokens": [
     {
       "surface": "אלוף",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "מבצר",
-      "gloss": "مبصار"
+      "gloss": "مبصر"
     }
   ],
-  "timestamp": "2026-08-28T21:08:43.291286165Z",
+  "timestamp": "2026-08-29T03:13:03.687913369Z",
   "model": "glm-5.3"
 }

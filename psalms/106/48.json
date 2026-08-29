@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 48,
-  "ref": "psalms 106:48",
-  "book": "psalms",
-  "lang": "ps",
-  "chapter": 106,
-  "translation": "مبارک دی یاهوه، د ییسْرائل الوهیم، له XXI—for—structure-preservation هغه مهاله دمخه او تر هغه مهاله؛ او ټول ولس ووایي: آمین. هلیلویاه!",
-  "tokens": [],
-  "timestamp": "2026-08-29T02:40:20.122638630Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":48,"ref":"psalms 106:48","book":"psalms","lang":"ps","chapter":106,"translation":"برکت لري ياهوه، د اسراییلو الوهیم، له ΄پنځمې نه تر ΄پنځمې (له تل څخه تر تل)، او ټول ولس ووايه: امین. ياه ستاینئ!","tokens":[{"surface":"ברוך","gloss":"برکت لري"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"אלהי","gloss":"الوهیم"},{"surface":"ישראל","gloss":"اسراییلو"},{"surface":"מן","gloss":"له"},{"surface":"העולם","gloss":"پنځمې نه"},{"surface":"ועד","gloss":"تر"},{"surface":"העולם","gloss":"پنځمې"},{"surface":"ואמר","gloss":"او ووايه"},{"surface":"כל","gloss":"ټول"},{"surface":"העם","gloss":"ولس"},{"surface":"אמן","gloss":"امین"},{"surface":"הללו","gloss":"ستاینئ"},{"surface":"יה","gloss":"یاه"}],"timestamp":"2026-08-29T03:37:29.536413135Z","model":"glm-5.3"}

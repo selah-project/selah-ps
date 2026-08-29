@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-chronicles 33:12","book":"2-chronicles","lang":"ps","chapter":33,"translation":"او کله چې هغه ته سخته narrowedシュ shrand ورپېښه شوه، د خپل الوهیم یاهوه مخ ⟨את⟩ يې نرم کړ، او د خپلو پلرونو د الوهیم له مخې ډېر خپه او عاجز شو.","tokens":[{"surface":"וכהצר","gloss":"کله چې سخته narrowedシュ shrand ورپېښه شوه"},{"surface":"לו","gloss":"هغه ته"},{"surface":"חלה","gloss":"نرم کړ"},{"surface":"את","gloss":"⟨את⟩","marks":"مخ"},{"surface":"פני","gloss":"مخ"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"אלהיו","gloss":"الوهیم يې"},{"surface":"ויכנע","gloss":"خپه او عاجز شو"},{"surface":"מאד","gloss":"ډېر"},{"surface":"מלפני","gloss":"له مخې"},{"surface":"אלהי","gloss":"د الوهیم"},{"surface":"אבתיו","gloss":"پلرونو"}],"timestamp":"2026-08-29T02:08:52.393625125Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 33,
+  "translation": "او کله چې ⟨هغه⟩ په تنګسټ کې و، هغه د خپل یاهوه الوهیم مخ ⟨את⟩ نازولو او د خپلو پلرونو د الوهیم له مخې ډېر کمزوری شو.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "او کله چې په تنګسټ کې و"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨هغه⟩"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "نازولو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د یاهوه مخ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "مخ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "خپل الوهیم"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "او ډېر کمزوری شو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "له مخې"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "د الوهیم"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "د خپلو پلرونو"
+    }
+  ],
+  "timestamp": "2026-08-29T03:45:56.737470014Z",
+  "model": "glm-5.3"
+}

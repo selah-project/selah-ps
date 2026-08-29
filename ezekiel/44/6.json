@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":6,"ref":"ezekiel 44:6","book":"ezekiel","lang":"ps","chapter":44,"translation":"او ته به ووایې متمردي ته، د یس railing اسرائیل کور ته: داسې وايي ادونای یاهوه: ډېره ده درته د ستاسو ټولو کرغېړنو څخه، د اسرائیل کوره.","tokens":[{"surface":"ואמרת","gloss":"او ته به ووایې"},{"surface":"אל","gloss":"ته"},{"surface":"מרי","gloss":"متمردي"},{"surface":"אל","gloss":"ته"},{"surface":"בית","gloss":"کور"},{"surface":"ישראל","gloss":"اسرائیل"},{"surface":"כה","gloss":"داسې"},{"surface":"אמר","gloss":"وايي"},{"surface":"אדני","gloss":"ادونای"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"רב","gloss":"ډېره ده"},{"surface":"לכם","gloss":"درته"},{"surface":"מכל","gloss":"د ټولو څخه"},{"surface":"תועבותיכם","gloss":"ستاسو کرغېړنو"},{"surface":"בית","gloss":"کور"},{"surface":"ישראל","gloss":"اسرائیل"}],"timestamp":"2026-08-29T00:07:42.834236696Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 44:6",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 44,
+  "translation": "او ته به ووایې د سرکښۍ [په اړه]، د یسراییل کور ته: داسې وايي ادونای یاهوه: د ټولو ستاسو د کرغېړنو کارونو دې بشپړ وي، د یسراییل کوره.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "او ته به ووایې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "[په اړه]"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "د سرکښۍ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کور"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وايي"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بشپړ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "دې"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "תועבותיכם",
+      "gloss": "ستاسو د کرغېړنو کارونو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "کوره"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسراییل"
+    }
+  ],
+  "timestamp": "2026-08-29T03:33:32.940249550Z",
+  "model": "glm-5.3"
+}

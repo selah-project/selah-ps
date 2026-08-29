@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":32,"ref":"leviticus 4:32","book":"leviticus","lang":"ps","chapter":4,"translation":"او که يې د خپلې گناه-قربانۍ لپاره ラה يو لَمبۍ راوړي، نو ښځينه بې عیبه به يې راوړي.","tokens":[{"surface":"ואם","gloss":"او که"},{"surface":"כבש","gloss":"لَمبۍ"},{"surface":"יביא","gloss":"راوړي"},{"surface":"קרבנו","gloss":"خپله قرباني"},{"surface":"לחטאת","gloss":"د گناه-قربانۍ لپاره"},{"surface":"נקבה","gloss":"ښځينه"},{"surface":"תמימה","gloss":"بې عیبه"},{"surface":"יביאנה","gloss":"به يې راوړي"}],"timestamp":"2026-08-28T21:34:29.999089189Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 4:32",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او که د هغه قرباني د ګناه لپاره یو لمر وي، یوه ښځینه بې عیبه دې راولي.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "او که"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "لمر"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "راولي"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "د هغه قرباني"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "د ګناه لپاره"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ښځینه"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "بې عیبه"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "دې راولي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:16:07.281240449Z",
+  "model": "glm-5.3"
+}

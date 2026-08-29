@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":6,"ref":"psalms 126:6","book":"psalms","lang":"ps","chapter":126,"translation":"هغه به تلونکی وځي، او وژاړي، د کرلو تخم ⟨يې⟩ وړي؛ راتلونکی به راشي په رینا کې، خپلې وړې وړې ونې (غوښې) ⟨يې>> وړي.","tokens":[{"surface":"הלוך","gloss":"تلونکی"},{"surface":"ילך","gloss":"وځي"},{"surface":"ובכה","gloss":"او وژاړي"},{"surface":"נשא","gloss":"وړي"},{"surface":"משך","gloss":"د کرلو تخم"},{"surface":"הזרע","gloss":"تخم"},{"surface":"בא","gloss":"راتلونکی"},{"surface":"יבוא","gloss":"به راشي"},{"surface":"ברנה","gloss":"په رینا کې"},{"surface":"נשא","gloss":"وړي"},{"surface":"אלמתיו","gloss":"خپلې غوښې"}],"timestamp":"2026-08-29T00:49:25.104630170Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 126,
+  "translation": "به ځي، به‌ځي او په ژړا کې د کرنې مېږې پورته کوي؛ به راځي په چیغو کې، خپلې کږې\/غوڼدېرې پورته کوي.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "به ځي"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "به‌ځي"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "او په ژړا کې"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "پورته کوي"
+    },
+    {
+      "surface": "משך",
+      "gloss": "د کرنې مېږې"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "تخم"
+    },
+    {
+      "surface": "בא",
+      "gloss": "به راځي"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "به‌راغی"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "په چیغو کې"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "پورته کوي"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "خپلې غوڼدېرې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:38:16.512284450Z",
+  "model": "glm-5.3"
+}

@@ -5,8 +5,33 @@
   "book": "1-chronicles",
   "lang": "ps",
   "chapter": 15,
-  "translation": "د حبرون ⟨له⟩ زامنو: اېلیایل ⟨ chairs⟩ chief— corrected below.",
-  "tokens": [],
-  "timestamp": "2026-08-29T01:51:37.713160590Z",
+  "translation": "د حِبرون د زامنو څخه: اِلِیایل ⟨ال⟩ مش، او د هغه وروڼه اتیا:",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "د زامنو څخه"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "حِبرون"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِلِیایل"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨ال⟩ مش"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "او د هغه وروڼه"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "اتیا"
+    }
+  ],
+  "timestamp": "2026-08-29T03:43:56.249530029Z",
   "model": "glm-5.3"
 }

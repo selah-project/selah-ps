@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":14,"ref":"judges 20:14","book":"judges","lang":"ps","chapter":20,"translation":"او د بنیامینو زامن له ښارونو څخه په ګیبعه کې سره راټول شول، چې د اسرائیلو د زامنو پر against جګړې ته ووځي.","tokens":[{"surface":"ויאספו","gloss":"راټول شول"},{"surface":"בני","gloss":"د زامنو"},{"surface":"בנימן","gloss":"بنیامینو"},{"surface":"מן","gloss":"له"},{"surface":"הערים","gloss":"ښارونو"},{"surface":"הגבעתה","gloss":"ګیبعې ته"},{"surface":"לצאת","gloss":"د وتلو"},{"surface":"למלחמה","gloss":"جګړې ته"},{"surface":"עם","gloss":"سره"},{"surface":"בני","gloss":"د زامنو"},{"surface":"ישראל","gloss":"اسرائیلو"}],"timestamp":"2026-08-28T22:30:00.451451202Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 20:14",
+  "book": "judges",
+  "lang": "ps",
+  "chapter": 20,
+  "translation": "او د بنيامن زامن له ښارونو ګیبعه ته راټول شول، چې د يسرائیل زامنو سره په جګړه کې ووزي.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "راټول شول"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنيامن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "له"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ښارونو"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "ګیبعه ته"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "چې ووزي"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "په جګړه کې"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سره"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "يسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-29T03:21:50.461745693Z",
+  "model": "glm-5.3"
+}

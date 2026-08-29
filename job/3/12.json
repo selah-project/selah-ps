@@ -5,55 +5,37 @@
   "book": "job",
   "lang": "ps",
   "chapter": 3,
-  "translation": "ولې زما مخکې زانګونه ودرېدلې، او ولې شيدې چې زره يې څښم؟",
+  "translation": "ولې زما مخې ولاړې ډډې؟ او ولې شتېدې، چې زویه شم؟",
   "tokens": [
     {
       "surface": "מדוע",
       "gloss": "ولې"
     },
     {
-      "surface": " "
-    },
-    {
       "surface": "קדמוני",
-      "gloss": "زما مخکې ودرېدلې"
-    },
-    {
-      "surface": " "
+      "gloss": "زما مخې ولاړې"
     },
     {
       "surface": "ברכים",
-      "gloss": "زانګونه"
-    },
-    {
-      "surface": " "
+      "gloss": "ډډې"
     },
     {
       "surface": "ומה",
       "gloss": "او ولې"
     },
     {
-      "surface": " "
-    },
-    {
       "surface": "שדים",
-      "gloss": "شيدې"
-    },
-    {
-      "surface": " "
+      "gloss": "شتېدې"
     },
     {
       "surface": "כי",
       "gloss": "چې"
     },
     {
-      "surface": " "
-    },
-    {
       "surface": "אינק",
-      "gloss": "زره يې څښم"
+      "gloss": "زویه شم"
     }
   ],
-  "timestamp": "2026-08-29T01:03:31.196551759Z",
+  "timestamp": "2026-08-29T03:40:19.527739131Z",
   "model": "glm-5.3"
 }

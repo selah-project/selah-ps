@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":18,"ref":"psalms 40:18","book":"psalms","lang":"ps","chapter":40,"translation":"خو زه بېوزلی اوNeedY ستا په فکر کې يم؛ ته يې زما مرسته او زما ژغورونکی، زوی الوهیم مه ځنډېږه.","tokens":[{"surface":"ואני","gloss":"خو زه"},{"surface":"עני","gloss":"بېوزلی"},{"surface":"ואביון","gloss":"تنګلاسی"},{"surface":"אדני","gloss":"ادونای"},{"surface":"יחשב","gloss":"فکر کوي"},{"surface":"לי","gloss":"زما په اړه"},{"surface":"עזרתי","gloss":"زما مرسته"},{"surface":"ומפלטי","gloss":"او زما ژغورونکی"},{"surface":"אתה","gloss":"ته"},{"surface":"אלהי","gloss":"زه الوهیم"},{"surface":"אל","gloss":"نه"},{"surface":"תאחר","gloss":"ځنډېږه"}],"timestamp":"2026-08-29T00:32:00.032848430Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "خو زه بیوزله او فقیر یم؛ ادونای زما په اړه فکر کوي؛ ته ⟨هغه⟩ یې چې زما مرسته او زما خلاصون دی؛ زما الوهیم مه ځنډوه.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "خو زه"
+    },
+    {
+      "surface": "עני",
+      "gloss": "بیوزله"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "او فقیر"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "فکر کوي"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما په اړه"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "زما مرسته"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "او زما خلاصون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "زما الوهیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ځنډوه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:36:17.517303563Z",
+  "model": "glm-5.3"
+}

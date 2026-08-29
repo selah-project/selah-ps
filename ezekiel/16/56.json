@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":56,"ref":"ezekiel 16:56","book":"ezekiel","lang":"ps","chapter":16,"translation":"او ستا خور سدوم ⟨نه⟩ وه د خولې دې په خبرو کې ⟨یاده⟩، په هغه ورځ د ستا د زړهatabuity —","tokens":[{"surface":"ולוא","gloss":"او نه"},{"surface":"היתה","gloss":"وه"},{"surface":"סדם","gloss":"سدوم"},{"surface":"אחותך","gloss":"ستا خور"},{"surface":"לשמועה","gloss":"د اورېدلو لپاره \/ په خبرو کې"},{"surface":"בפיך","gloss":"په خوله کې دې"},{"surface":"ביום","gloss":"په ورځ"},{"surface":"גאוניך","gloss":"د ستا وياړ"}],"timestamp":"2026-08-28T23:55:03.391160353Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezekiel 16:56",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "او سدوم، دې خور دې، ستا په خوله کې د ستا د غرور په ورځ د خبر په توګه نه وه",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وه"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "دې خور دې"
+    },
+    {
+      "surface": "לשמועה",
+      "gloss": "د خبر په توګه"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ستا په خوله کې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په ورځ"
+    },
+    {
+      "surface": "גאוניך",
+      "gloss": "د ستا د غرور"
+    }
+  ],
+  "timestamp": "2026-08-29T03:31:51.428600136Z",
+  "model": "glm-5.3"
+}

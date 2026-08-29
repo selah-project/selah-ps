@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":7,"ref":"isaiah 30:7","book":"isaiah","lang":"ps","chapter":30,"translation":"او مِتسرایم بې‌ګټې او تش دی؛ په بې‌فایدې توګه به مرسته وکړي؛ نو ځکه مې دا دې ته وويله: رهב هغه چې ناست دی.","tokens":[{"surface":"ומצרים","gloss":"او مِتسرایم"},{"surface":"הבל","gloss":"بې‌ګټې"},{"surface":"וריק","gloss":"او تش"},{"surface":"יעזרו","gloss":"مرسته وکړي"},{"surface":"לכן","gloss":"نو ځکه"},{"surface":"קראתי","gloss":"مې وويله"},{"surface":"לזאת","gloss":"دې ته"},{"surface":"רהב","gloss":"رهب"},{"surface":"הם","gloss":"هغه"},{"surface":"שבת","gloss":"ناست دی"}],"timestamp":"2026-08-28T23:18:53.499222662Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "او مِتسرایم ⟨هغه⟩ باد او تش مرسته کوي؛ نو زما د دې لپاره نوم کېښود — رهب، هغه ناسته ده.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "او مِتسرایم"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "باد (بې‌ځایه)"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "او تش"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "مرسته کوي"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "نو"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "زما نوم کېښود"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "د دې لپاره"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "رهب"
+    },
+    {
+      "surface": "הם",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ناسته ده"
+    }
+  ],
+  "timestamp": "2026-08-29T03:28:52.138541465Z",
+  "model": "glm-5.3"
+}

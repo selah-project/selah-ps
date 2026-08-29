@@ -1,1 +1,105 @@
-{"tier":"glm-5.2","verse":12,"ref":"2-chronicles 18:12","book":"2-chronicles","lang":"ps","chapter":18,"translation":"او هغه استازی چې میکاهو ته د راوستلو لپاره تللی و، ورته وویل، داسې ویل: وګوره، د نبایانو خبرې یوې خولې ته د پاچا په ګټه دي؛ نو לالهزاره دې خبره د دوی له یوه سره ورته وي، او ته به ښه ووایې.","tokens":[{"surface":"והמלאך","gloss":"او هغه استازی"},{"surface":"אשר","gloss":"چې"},{"surface":"הלך","gloss":"تللی و"},{"surface":"לקרא","gloss":"د راوستلو لپاره"},{"surface":"למיכיהו","gloss":"میکاهو ته"},{"surface":"דבר","gloss":"وویل"},{"surface":"אליו","gloss":"ورته"},{"surface":"לאמר","gloss":"داسې ویل"},{"surface":"הנה","gloss":"وګوره"},{"surface":"דברי","gloss":"خبرې"},{"surface":"הנבאים","gloss":"د نبایانو"},{"surface":"פה","gloss":"یوې خولې ته"},{"surface":"אחד","gloss":"یو"},{"surface":"טוב","gloss":"په ګټه"},{"surface":"אל","gloss":"ته"},{"surface":"המלך","gloss":"د پاچا"},{"surface":"ויהי","gloss":"وي"},{"surface":"נא","gloss":"لالهزاره"},{"surface":"דברך","gloss":"ستا خبره"},{"surface":"כאחד","gloss":"د یوه سره ورته"},{"surface":"מהם","gloss":"د دوی له"},{"surface":"ודברת","gloss":"او ته به ووایې"},{"surface":"טוב","gloss":"ښه"}],"timestamp":"2026-08-29T02:03:45.043861661Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 18:12",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 18,
+  "translation": "او استازی چې میکایاهو ته د رابللو لپاره لاړ و، ورته وویل: «کتنه! د نبایانو خبرې ⟨د⟩ پاچا سره په یوه خوله ښې دي؛ نو زما لپاره دې ستا خبره د دوی د یوه په څېر وي، او ته ښه ووایه.»",
+  "tokens": [
+    {
+      "surface": "והמלאך",
+      "gloss": "او استازی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "لاړ و"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "د رابللو لپاره"
+    },
+    {
+      "surface": "למיכיהו",
+      "gloss": "میکایاهو ته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "کتنه"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "خبرې"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "د نبایانو"
+    },
+    {
+      "surface": "פה",
+      "gloss": "خوله"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یوه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښې"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سره"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "وي"
+    },
+    {
+      "surface": "נא",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ستا خبره"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "د یوه په څېر"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "د دوی"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "او ووایه"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ښه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:45:13.701178347Z",
+  "model": "glm-5.3"
+}

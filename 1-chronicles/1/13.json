@@ -1,1 +1,43 @@
-{"tier":"glm-5.2","verse":13,"ref":"1-chronicles 1:13","book":"1-chronicles","lang":"ps","chapter":1,"translation":"او کנعان ⟨את⟩ صیدون د هغه لومړی زوی او ⟨את⟩ حِت وزګه کړل.","tokens":[{"surface":"וכנען","gloss":"او کنعان"},{"surface":"ילד","gloss":"وزګه کړل"},{"surface":"את","gloss":"⟨את⟩","marks":"صیدون"},{"surface":"צידון","gloss":"صیدون"},{"surface":"בכרו","gloss":"د هغه لومړی زوی"},{"surface":"ואת","gloss":"او ⟨את⟩","marks":"حِت"},{"surface":"חת","gloss":"حِت"}],"timestamp":"2026-08-29T01:45:59.841789405Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او کَنَعان ⟨את⟩ صیدون لومړی زوی يې وزیږاوه، او ⟨את⟩ حِت،",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "او کَنَعان"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "وزیږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صیدون"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "لومړی زوی يې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "حِت"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت"
+    }
+  ],
+  "timestamp": "2026-08-29T03:57:56.932669941Z",
+  "model": "glm-5.3"
+}

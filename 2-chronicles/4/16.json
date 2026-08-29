@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":16,"ref":"2-chronicles 4:16","book":"2-chronicles","lang":"ps","chapter":4,"translation":"او ⟨את⟩ دیګونه، او ⟨את>> بېلونه، او ⟨את⟩ ګدنۍ، او ⟨את⟩ د دوی ټول لوښي — حورام «⟨his father\/پلار⟩» د شلومو پاچا لپاره، د یاهوه د کور لپاره، له ځلېدونکې مسو جوړ کړل.","tokens":[{"surface":"ואת","gloss":"⟨את⟩","marks":"دیګونه"},{"surface":"הסירות","gloss":"دیګونه"},{"surface":"ואת","gloss":"⟨את⟩","marks":"بېلونه"},{"surface":"היעים","gloss":"بېلونه"},{"surface":"ואת","gloss":"⟨את⟩","marks":"ګدنۍ"},{"surface":"המזלגות","gloss":"ګدنۍ"},{"surface":"ואת","gloss":"⟨את⟩","marks":"لوښي"},{"surface":"כל","gloss":"ټول"},{"surface":"כליהם","gloss":"لوښي"},{"surface":"עשה","gloss":"جوړ کړل"},{"surface":"חורם","gloss":"حورام"},{"surface":"אביו","gloss":"پلار"},{"surface":"למלך","gloss":"د پاچا"},{"surface":"שלמה","gloss":"شلومو"},{"surface":"לבית","gloss":"د کور"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"נחשת","gloss":"مسو"},{"surface":"מרוק","gloss":"ځلېدونکې"}],"timestamp":"2026-08-29T01:58:38.899744640Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او ⟨את⟩ دیګونه او ⟨את⟩ بیلې او ⟨את⟩ غوښه-ښخې او ⟨את⟩ د دوی ټول لوټونه د شلومو پاچا لپاره د یاهوه کور ته د چېرملو په تلشوي مس ټینګې کړل — حورام ⟨د هغه⟩ پلار.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "دیګونه"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "دیګونه"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "بیلې"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "بیلې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "غوښه-ښخې"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "غوښه-ښخې"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "او ⟨את⟩",
+      "marks": "د دوی ټول لوټونه"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "لوټونه د دوی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ټینګې کړل"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "حورام"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "پلار د هغه"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "د پاچا لپاره"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شلومو"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "د کور لپاره"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "مس"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "تلشوي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:48:16.796992237Z",
+  "model": "glm-5.3"
+}

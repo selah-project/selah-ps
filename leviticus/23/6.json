@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":6,"ref":"leviticus 23:6","book":"leviticus","lang":"ps","chapter":23,"translation":"او د دغې میاشتې په پنځلسمه ورځ חג המצות — د بېخمېرهو ډوډيو لید — د یاهوه دی؛ اوه ورځې بېخمېرې ډوډۍ به خورئ.","tokens":[{"surface":"ובחמשה","gloss":"او په پنځلسمه"},{"surface":"עשר","gloss":"پنځلس"},{"surface":"יום","gloss":"ورځ"},{"surface":"לחדש","gloss":"د میاشتې"},{"surface":"הזה","gloss":"دغې"},{"surface":"חג","gloss":"لید"},{"surface":"המצות","gloss":"د بېخمېرهو ډوډيو"},{"surface":"ליהוה","gloss":"د یاهوه"},{"surface":"שבעת","gloss":"اوه"},{"surface":"ימים","gloss":"ورځې"},{"surface":"מצות","gloss":"بېخمېرې ډوډۍ"},{"surface":"תאכלו","gloss":"به خورئ"}],"timestamp":"2026-08-29T02:17:00.466095427Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "او په دې میاشت کې په پنځلسمه ورځ د ماتزو لویې لمانځنې د یاهوه ده؛ اوه ورځې ماتزې به خورئ.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "او په پنځلسمه"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "لس (په ترکیب کې)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ورځ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "میاشت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "חג",
+      "gloss": "لویې لمانځنې"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "د ماتزو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "د یاهوه"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "اوه"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ماتزې"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "به خورئ"
+    }
+  ],
+  "timestamp": "2026-08-29T03:16:54.194114913Z",
+  "model": "glm-5.3"
+}

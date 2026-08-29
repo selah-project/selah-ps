@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "ps",
   "chapter": 22,
-  "translation": "ځمکه، ځمکه، ځمکه، د یاهوه ⟨the⟩ خبره واوره!",
+  "translation": "ې ځمکې، ځمکې، ځمکې، د یاهوه خبر واوره!",
   "tokens": [
     {
       "surface": "ארץ",
-      "gloss": "ځمکه"
+      "gloss": "ځمکې"
     },
     {
       "surface": "ארץ",
-      "gloss": "ځمکه"
+      "gloss": "ځمکې"
     },
     {
       "surface": "ארץ",
-      "gloss": "ځمکه"
+      "gloss": "ځمکې"
     },
     {
       "surface": "שמעי",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "خبره"
+      "gloss": "خبر"
     },
     {
       "surface": "יהוה",
       "gloss": "یاهوه"
     }
   ],
-  "timestamp": "2026-08-28T23:35:50.253902345Z",
+  "timestamp": "2026-08-29T03:30:34.377994993Z",
   "model": "glm-5.3"
 }

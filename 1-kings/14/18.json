@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":18,"ref":"1-kings 14:18","book":"1-kings","lang":"ps","chapter":14,"translation":"او هغه یې خښ کړ او ټول اسراییل پرې واوښتل، د یاهوه د خبر مطابق چې هغه د خپل غلام اهیjah ې نبي په لاس ویلې وه.","tokens":[{"surface":"ויקברו","gloss":"خښ یې کړ"},{"surface":"אתו","gloss":"⟨את⟩","marks":"هغه (ماشوم)"},{"surface":"ויספדו","gloss":"واوښتل"},{"surface":"לו","gloss":"پرې"},{"surface":"כל","gloss":"ټول"},{"surface":"ישראל","gloss":"اسراییل"},{"surface":"כדבר","gloss":"د خبر مطابق"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"אשר","gloss":"چې"},{"surface":"דבר","gloss":"ویلې وه"},{"surface":"ביד","gloss":"په لاس"},{"surface":"עבדו","gloss":"د خپل غلام"},{"surface":"אחיהו","gloss":"اهیjah ې"},{"surface":"הנביא","gloss":"نبي"}],"timestamp":"2026-08-28T22:56:59.011740439Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او هغه یې خښ کړ، او ټول اسراییل پرې ویر وکړ، د یاهوه د خبر مطابق چې هغه د خپل غلام اهییا نبي په لاس واولېده.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "او هغه یې خښ کړ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "هغه"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "او ویر یې وکړ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "پرې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسراییل"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "د خبر مطابق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "واولېده"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "په لاس"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "د خپل غلام"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "اهییا"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:47:05.544265896Z",
+  "model": "glm-5.3"
+}

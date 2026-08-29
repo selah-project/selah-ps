@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "ps",
   "chapter": 1,
-  "translation": "د شلومو (سلیمان) ک_WEWisdomH dimos ولې — د داوېد زوی، د یسراییل پاچا —",
+  "translation": "د شلموه د متلونو ټولګه، د داوېد زوی، د یسرایل پاچا —",
   "tokens": [
     {
       "surface": "משלי",
-      "gloss": "مَثَلونه"
+      "gloss": "متلونه"
     },
     {
       "surface": "שלמה",
-      "gloss": "شلومو (سلیمان)"
+      "gloss": "شلموه"
     },
     {
       "surface": "בן",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "یسراییل"
+      "gloss": "یسرایل"
     }
   ],
-  "timestamp": "2026-08-29T00:52:51.799994739Z",
+  "timestamp": "2026-08-29T03:57:00.427958127Z",
   "model": "glm-5.3"
 }

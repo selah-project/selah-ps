@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ps",
   "chapter": 9,
-  "translation": "او یاهوه ⟨אל⟩ موشې سره وويل:",
+  "translation": "او یاهوه موشې ته وفرمایل:",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "او وويل"
+      "gloss": "وفرمایل"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨אל⟩ سره"
+      "gloss": "ته"
     },
     {
       "surface": "משה",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "چې ووايي"
+      "gloss": "داسې"
     }
   ],
-  "timestamp": "2026-08-28T21:53:32.233293789Z",
+  "timestamp": "2026-08-29T03:18:37.596579033Z",
   "model": "glm-5.3"
 }

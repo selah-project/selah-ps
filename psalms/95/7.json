@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 95:7","book":"psalms","lang":"ps","chapter":95,"translation":"ځکه چې هغه زموږ الوهیم دی، او موږ د هغه د مړې ځمکې قوم يو، او د هغه د لاس ګډېrian. نن ورځ، که تاسو پر هغه ⟨…⟩ غږ واورئ —","tokens":[{"surface":"כי","gloss":"ځکه چې"},{"surface":"הוא","gloss":"هغه"},{"surface":"אלהינו","gloss":"زموږ الوهیم"},{"surface":"ואנחנו","gloss":"او موږ"},{"surface":"עם","gloss":"قوم"},{"surface":"מרעיתו","gloss":"د هغه مړې ځمکه"},{"surface":"וצאן","gloss":"او ګډې"},{"surface":"ידו","gloss":"د هغه لاس"},{"surface":"היום","gloss":"نن ورځ"},{"surface":"אם","gloss":"که"},{"surface":"בקלו","gloss":"پر هغه غږ"},{"surface":"תשמעו","gloss":"واورئ"}],"timestamp":"2026-08-29T00:42:31.065376254Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 95,
+  "translation": "ځکه چې هغه زموږ الوهیم دی، او موږ د هغه د مړې د خلکو یو، او د هغه د لاس ورکښې دي. نن ورځ، که په هغه غږ واورئ —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "زموږ الوهیم"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "او موږ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "خلک"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "د هغه د مړې"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "او ورکښې"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "د هغه د لاس"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن ورځ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "که"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "په هغه غږ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "واورئ"
+    }
+  ],
+  "timestamp": "2026-08-29T03:37:31.207166427Z",
+  "model": "glm-5.3"
+}

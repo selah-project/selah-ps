@@ -1,1 +1,78 @@
-{"tier":"glm-5.2","verse":8,"ref":"genesis 29:8","book":"genesis","lang":"ps","chapter":29,"translation":"او هغوی وویل: نشو کولی، تر هغه چې ټول ډلې راټولې شي او ډبره د ±well± خولې څخه وغورځوي ⟨את⟩ ډبره، بیا مېږې څښوو.","tokens":[{"surface":"ויאמרו","gloss":"هغوی وویل"},{"surface":"לא","gloss":"نه"},{"surface":"נוכל","gloss":"نشو کولی"},{"surface":"עד","gloss":"تر هغه چې"},{"surface":"אשר","gloss":"چې"},{"surface":"יאספו","gloss":"راټولې شي"},{"surface":"כל","gloss":"ټول"},{"surface":"העדרים","gloss":"ډلې (لرغی)"},{"surface":"וגללו","gloss":"او وغورځوي\/ورولي"},{"surface":"את","gloss":"⟨את⟩","marks":"ډبره"},{"surface":"האבן","gloss":"ډبره"},{"surface":"מעל","gloss":"څخه"},{"surface":"פי","gloss":"خوله"},{"surface":"הבאר","gloss":"د زیار\/چینې"},{"surface":"והשקינו","gloss":"او څښوو بیا"},{"surface":"הצאן","gloss":"مېږې"}],"timestamp":"2026-08-28T21:06:03.999253467Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 29:8",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 29,
+  "translation": "او هغوی وویل: نشو کولی، تر هغه چې ټول ګلې راټول شي او د څاهې د خولې څخه ⟨את⟩ ډبره وغ لېږوي، بیا مېږې څښوو.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "او هغوی وویل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "نشو کولی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تر هغه"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "راټول شي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "ګلې"
+    },
+    {
+      "surface": "וגללו",
+      "gloss": "او وغ لېږوي"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ډبره"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ډبره"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "څخه"
+    },
+    {
+      "surface": "פי",
+      "gloss": "د خولې"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "د څاهې"
+    },
+    {
+      "surface": "והשקינו",
+      "gloss": "او څښوو"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "مېږې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:11:49.087857862Z",
+  "model": "glm-5.3"
+}

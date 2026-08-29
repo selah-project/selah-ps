@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":5,"ref":"1-samuel 22:5","book":"1-samuel","lang":"ps","chapter":22,"translation":"او ګاد نبي داوېد ته وویل: «په سمګاه کې مه اوسه؛ ورشه، او ته ◄خپله► د یهودا ځمکې ته راشه.» نو داوېد ولاړ او د حارِت ځنګل ته راغی.","tokens":[{"surface":"ויאמר","gloss":"او وویل"},{"surface":"גד","gloss":"ګاد"},{"surface":"הנביא","gloss":"نبي"},{"surface":"אל","gloss":"ته"},{"surface":"דוד","gloss":"داوېد"},{"surface":"לא","gloss":"مه"},{"surface":"תשב","gloss":"اوسه"},{"surface":"במצודה","gloss":"په سمګاه کې"},{"surface":"לך","gloss":"ورشه"},{"surface":"ובאת","gloss":"او راشه"},{"surface":"לך","gloss":"خپله"},{"surface":"ארץ","gloss":"ځمکې"},{"surface":"יהודה","gloss":"د یهودا"},{"surface":"וילך","gloss":"او ولاړ"},{"surface":"דוד","gloss":"داوېد"},{"surface":"ויבא","gloss":"او راغی"},{"surface":"יער","gloss":"ځنګل"},{"surface":"חרת","gloss":"د حارِت"}],"timestamp":"2026-08-28T22:38:44.513932874Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 22:5",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 22,
+  "translation": "او ګاد نبي داوېد ته وویل: «په مېږدانه کې مه اوسېږه؛ لاړ شه او د یهودا په ځمکه کې دې ځانته راشه». نو داوېد ولاړ او د حِرېت په ځنګل کې راغی.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ګاد"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "اوسېږه"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "په مېږدانه کې"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لاړ شه"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "او راشه"
+    },
+    {
+      "surface": "לך",
+      "gloss": "دې ځانته"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "په ځمکه کې"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "د یهودا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "او ولاړ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوېد"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "او راغی"
+    },
+    {
+      "surface": "יער",
+      "gloss": "په ځنګل کې"
+    },
+    {
+      "surface": "חרת",
+      "gloss": "د حِرېت"
+    }
+  ],
+  "timestamp": "2026-08-29T03:22:31.058016207Z",
+  "model": "glm-5.3"
+}

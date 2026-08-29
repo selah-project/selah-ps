@@ -1,1 +1,49 @@
-{"tier":"glm-5.2","verse":26,"ref":"exodus 26:26","book":"exodus","lang":"ps","chapter":26,"translation":"او ته به د شنې (acacia) ونې له لرګیو پنځه تېرکۍ جوړې کړې، د مسکن د یوې ضلعې تختو لپاره.","tokens":[{"surface":"ועשית","gloss":"او ته به جوړې کړې"},{"surface":"בריחם","gloss":"تېرکۍ"},{"surface":"עצי","gloss":"له لرګیو"},{"surface":"שטים","gloss":"شنه (acacia)"},{"surface":"חמשה","gloss":"پنځه"},{"surface":"לקרשי","gloss":"د تختو لپاره"},{"surface":"צלע","gloss":"ضلعې"},{"surface":"המשכן","gloss":"د مسکن"},{"surface":"האחד","gloss":"یوې"}],"timestamp":"2026-08-28T21:22:54.393322980Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 26:26",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 26,
+  "translation": "او دې د اکاسیو (شطیم) له لرګي څخه پنځه تېرکي جوړ کړې، د هېڅدېمې یوې څنګې د تختو لپاره.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "او دې جوړ کړې"
+    },
+    {
+      "surface": "בריחם",
+      "gloss": "تېرکي"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "له لرګي څخه"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "د اکاسیو (شطیم)"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پنځه"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "د تختو لپاره"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "څنګې"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "د هېڅدېمې"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یوې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:15:17.832691243Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":19,"ref":"leviticus 25:19","book":"leviticus","lang":"ps","chapter":25,"translation":"او ځمكة به خپل مېوه درکړي، او تاسو به تر خوړلو پورې يې وخورئ، او په هغه کې به په امنيت کې ژوند وکړئ.","tokens":[{"surface":"ונתנה","gloss":"او به درکړي"},{"surface":"הארץ","gloss":"ځمكة"},{"surface":"פריה","gloss":"خپله مېوه"},{"surface":"ואכלתם","gloss":"او به وخورئ"},{"surface":"לשבע","gloss":"تر خوړلو (ت satur) پورې"},{"surface":"וישבתם","gloss":"او ژوند به وکړئ"},{"surface":"לבטח","gloss":"په امنيت"},{"surface":"עליה","gloss":"په هغه کې"}],"timestamp":"2026-08-28T21:48:25.380038674Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او ځمکه به خپل مېوه ورکړي، او تاسو به يې تر سېړۍ وخورئ، او پر هغې به په خونديتوب کې اوسئ.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "او ورکړي به"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "خپل مېوه"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "او تاسو به وخورئ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "تر سېړۍ"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "او به اوسئ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "په خونديتوب کې"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پر هغې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:16:51.125873803Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,97 @@
-{"tier":"glm-5.2","verse":14,"ref":"exodus 5:14","book":"exodus","lang":"ps","chapter":5,"translation":"او د یسریل زامنو افسران، چې د فرعوه ځپونکو پر ځایوي کړي وو، وویلidel ووتل — ویې ویل: “ولې خپله ټاکلې برخه په خټو (خښتو) کې نه وی بشپړه کړې، لکه پرون او سه، هم پرون هم نن؟”","tokens":[{"surface":"ויכו","gloss":"وټکول شول"},{"surface":"שטרי","gloss":"افسران"},{"surface":"בני","gloss":"زامن"},{"surface":"ישראל","gloss":"یسریل"},{"surface":"אשר","gloss":"چې"},{"surface":"שמו","gloss":"یې ځایوي کړي وو"},{"surface":"עלהם","gloss":"پر هغوی"},{"surface":"נגשי","gloss":"ځپونکو"},{"surface":"פרעה","gloss":"فرعوه"},{"surface":"לאמר","gloss":"ویې ویل"},{"surface":"מדוע","gloss":"ولې"},{"surface":"לא","gloss":"نه"},{"surface":"כליתם","gloss":"بشپړه کړې"},{"surface":"חקכם","gloss":"ستاسو ټاکلې برخه"},{"surface":"ללבן","gloss":"په خښتو کې"},{"surface":"כתמול","gloss":"لکه پرون"},{"surface":"שלשם","gloss":"او سه"},{"surface":"גם","gloss":"هم"},{"surface":"תמול","gloss":"پرون"},{"surface":"גם","gloss":"هم"},{"surface":"היום","gloss":"نن"}],"timestamp":"2026-08-28T21:16:04.217571761Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 5:14",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 5,
+  "translation": "او د یسرایل زامنو افسران، چې د فرعوه ځپونکو پر هغوی ګمارلي وو، وولول شول، ⟨او⟩ ویل یې: ولې د خټو ټاکلی برخه مو نه ده بشپړه کړې، لکه پخوا، هم پرون هم نن؟",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "او وولول شول"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "افسران"
+    },
+    {
+      "surface": "בני",
+      "gloss": "زامنو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرایل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ګمارلي وو"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "پر هغوی"
+    },
+    {
+      "surface": "נגשי",
+      "gloss": "ځپونکو"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعوه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ویل"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "بشپړه کړې"
+    },
+    {
+      "surface": "חקכם",
+      "gloss": "ټاکلی برخه"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "د خټو د جوړولو"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "لکه پخوا"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "د پخوا په څېر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "پرون"
+    },
+    {
+      "surface": "גם",
+      "gloss": "هم"
+    },
+    {
+      "surface": "היום",
+      "gloss": "نن"
+    }
+  ],
+  "timestamp": "2026-08-29T03:13:34.214622519Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,61 @@
-{"tier":"glm-5.2","verse":4,"ref":"psalms 142:4","book":"psalms","lang":"ps","chapter":142,"translation":"کله چې زما روح پر ما station وکړي، ته زما لار پېژنې؛ په هغه لار چې زه تېرېږم، دوی ماته دام کېښود.","tokens":[{"surface":"בהתעטף","gloss":"کله چې … station وکړي"},{"surface":"עלי","gloss":"پر ما"},{"surface":"רוחי","gloss":"زما روح"},{"surface":"ואתה","gloss":"او ته"},{"surface":"ידעת","gloss":"پېژنې"},{"surface":"נתיבתי","gloss":"زما لار"},{"surface":"בארח","gloss":"په … لار"},{"surface":"זו","gloss":"هغه"},{"surface":"אהלך","gloss":"زه تېرېږم"},{"surface":"טמנו","gloss":"کېښود"},{"surface":"פח","gloss":"دام"},{"surface":"לי","gloss":"ماته"}],"timestamp":"2026-08-29T00:50:47.164647722Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 142,
+  "translation": "کله چې زما روح پر ما پټه شو، نو ⟨ته⟩ زما لار پېژندلې؛ په همدې لار چې ⟨زه⟩ ګرځم، دوی راته پټ ځال کېښوده.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "کله چې پټه شوه"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر ما"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "زما روح"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "او ته"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "پېژندلې"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "زما لار"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "זו",
+      "gloss": "همدې"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ګرځم"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "پټ يې کېښود"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ځال"
+    },
+    {
+      "surface": "לי",
+      "gloss": "راته"
+    }
+  ],
+  "timestamp": "2026-08-29T03:38:02.658660504Z",
+  "model": "glm-5.3"
+}

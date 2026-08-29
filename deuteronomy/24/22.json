@@ -1,1 +1,70 @@
-{"tier":"glm-5.2","verse":22,"ref":"deuteronomy 24:22","book":"deuteronomy","lang":"ps","chapter":24,"translation":"او ياد کړه چې ته په مِتسرایم کې ⟨the⟩ مزدور ⟨وو⟩؛ د همدې لپاره زه دې دا کار ته چې ⟨את⟩ دا څيز کوي حکم کوم.","tokens":[{"surface":"וזכרת","gloss":"او ياد کړه"},{"surface":"כי","gloss":"چې"},{"surface":"עבד","gloss":"مزدور"},{"surface":"היית","gloss":"وو"},{"surface":"בארץ","gloss":"په ځمکه کې"},{"surface":"מצרים","gloss":"مِتسرایم"},{"surface":"על","gloss":"د ... لپاره"},{"surface":"כן","gloss":"همدې"},{"surface":"אנכי","gloss":"زه"},{"surface":"מצוך","gloss":"دې حکم کوم"},{"surface":"לעשות","gloss":"ته کوي"},{"surface":"את","gloss":"⟨את⟩","marks":"دا څيز"},{"surface":"הדבר","gloss":"دا څيز"},{"surface":"הזה","gloss":"دا"}],"timestamp":"2026-08-28T22:10:37.266490595Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 24,
+  "translation": "او یاد کړه چې ته په مِتسرایم کې ⟨ты⟩ غلام وې؛ ځکه نو زه تا ته حکم کوم چې دا کار وکړې ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "او یاد کړه"
+    },
+    {
+      "surface": "כי",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "وې"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "په ... کې"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "על",
+      "gloss": "د"
+    },
+    {
+      "surface": "כן",
+      "gloss": "همدې سبب"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تا ته حکم کوم"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "چې وکړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا کار"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "دا کار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دا"
+    }
+  ],
+  "timestamp": "2026-08-29T03:55:10.156815675Z",
+  "model": "glm-5.3"
+}

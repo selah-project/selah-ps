@@ -1,1 +1,51 @@
-{"tier":"glm-5.2","verse":4,"ref":"genesis 36:4","book":"genesis","lang":"ps","chapter":36,"translation":"او عاده عیسو ته ⟨את]] الیفاز وزېږاوه، او بسمته ⟨את]] رعوئیل وزېږاوه.","tokens":[{"surface":"ותלד","gloss":"او وزېږاوه"},{"surface":"עדה","gloss":"عاده"},{"surface":"לעשו","gloss":"عیسو ته"},{"surface":"את","gloss":"⟨את⟩","marks":"الیفاز"},{"surface":"אליפז","gloss":"الیفاز"},{"surface":"ובשמת","gloss":"او بسمته"},{"surface":"ילדה","gloss":"وزېږاوه"},{"surface":"את","gloss":"⟨את⟩","marks":"رعوئیل"},{"surface":"רעואל","gloss":"رعوئیل"}],"timestamp":"2026-08-28T21:09:05.079098788Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 36,
+  "translation": "او عاداه د عیسو لپاره الیفز ⟨את⟩ وزېږاوه، او بشماته رعوایل ⟨את⟩ وزېږاوه.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عاداه"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "د عیسو لپاره"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الیفز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "الیفز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "او بشماته"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "وزېږاوه"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رعوایل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    }
+  ],
+  "timestamp": "2026-08-29T03:11:57.009131996Z",
+  "model": "glm-5.3"
+}

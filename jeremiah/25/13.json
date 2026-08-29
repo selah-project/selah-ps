@@ -1,1 +1,99 @@
-{"tier":"glm-5.2","verse":13,"ref":"jeremiah 25:13","book":"jeremiah","lang":"ps","chapter":25,"translation":"او زه به پر هغه ځمکه راوړم ⟨את⟩ ټول زما ويناوې چې مې پر contra ويلې — ⟨את⟩ ټول هغه څه چې په دې کتاب کې ليکل شوي، چې یِرمیاهو يې پر ټولو ملتونو وړاندې کړي دي.","tokens":[{"surface":"והבאיתי","gloss":"او زه به راوړم"},{"surface":"על","gloss":"پر"},{"surface":"הארץ","gloss":"هغه ځمکه"},{"surface":"ההיא","gloss":"هغه"},{"surface":"את","gloss":"⟨את⟩","marks":"ټول زما ويناوې"},{"surface":"כל","gloss":"ټول"},{"surface":"דברי","gloss":"زما ويناوې"},{"surface":"אשר","gloss":"چې"},{"surface":"דברתי","gloss":"مې ويلې"},{"surface":"עליה","gloss":"پر contra"},{"surface":"את","gloss":"⟨את⟩","marks":"ټول هغه څه چې ليکل شوي"},{"surface":"כל","gloss":"ټول"},{"surface":"הכתוב","gloss":"ليکل شوي"},{"surface":"בספר","gloss":"په کتاب کې"},{"surface":"הזה","gloss":"دې"},{"surface":"אשר","gloss":"چې"},{"surface":"נבא","gloss":"وړاندې يې کړي دي"},{"surface":"ירמיהו","gloss":"یِرمیاهو"},{"surface":"על","gloss":"پر"},{"surface":"כל","gloss":"ټولو"},{"surface":"הגוים","gloss":"ملتونو"}],"timestamp":"2026-08-28T23:38:29.787934035Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 25:13",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 25,
+  "translation": "او زه به پر هغې ځمکه رالېږم ⟨את⟩ ټول زما ویناوي چې زه مې پر ضد يې ويلي دي، ⟨את⟩ ټول هغه څه چې په دې کتاب کې لیکل شوي دي، چې یِرْمَیاهو پر ټولو ملتونو يې وړاندې کړي دي.",
+  "tokens": [
+    {
+      "surface": "והבאיתי",
+      "gloss": "او زه به رالېږم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "هغې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول زما ویناوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "زما ویناوي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "زه مې ويلي يم"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "پر ضد يې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ټول هغه څه چې لیکل شوي"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټول"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "لیکل شوي"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "په کتاب کې"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "يې وړاندې کړي (پېغمبري کړي)"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرْمَیاهو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ملتونو"
+    }
+  ],
+  "timestamp": "2026-08-29T03:30:14.870130735Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,51 @@
-{"tier":"glm-5.2","verse":44,"ref":"1-kings 7:44","book":"1-kings","lang":"ps","chapter":7,"translation":"او ⟨את⟩ یو سمندر (لوی حوض)، او ⟨את دولس غواان لاندې يې؛","tokens":[{"surface":"ואת","gloss":"⟨את⟩ او ⟨אات⟩","marks":"سمندر (حوض)"},{"surface":"הים","gloss":"سمندر"},{"surface":"האחד","gloss":"یو"},{"surface":"ואת","gloss":"⟨את⟩ او ⟨אات⟩","marks":"غواان"},{"surface":"הבקר","gloss":"غواان"},{"surface":"שנים","gloss":"دولس"},{"surface":"עשר","gloss":"(لس+دوه)"},{"surface":"תחת","gloss":"لاندې"},{"surface":"הים","gloss":"سمندر"}],"timestamp":"2026-08-28T22:53:19.580707695Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "او ⟨את⟩ یو سمندرګی، او ⟨את⟩ دولس غواان لاندې د سمندرګي،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یو سمندرګی"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندرګی"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "دولس غواان"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "غواان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دولس (دوه)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دولس (لس)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "لاندې"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندرګي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:24:31.380150335Z",
+  "model": "glm-5.3"
+}

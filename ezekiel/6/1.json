@@ -5,8 +5,29 @@
   "book": "ezekiel",
   "lang": "ps",
   "chapter": 6,
-  "translation": "او د یاهوه خبرgeschichte راشه…",
-  "tokens": [],
-  "timestamp": "2026-08-29T02:35:51.217375720Z",
+  "translation": "او د یاهوه ⟨את⟩ خبر راته راغی، چې وايي:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او ... شو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خبر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "چې وايي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:56:15.072284271Z",
   "model": "glm-5.3"
 }

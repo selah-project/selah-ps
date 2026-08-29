@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":16,"ref":"ezekiel 13:16","book":"ezekiel","lang":"ps","chapter":13,"translation":"یعنې د یسرایل نبویان چې د یروشلایم ⟨אל⟩ په اړه وايي او ورته د سولې لیدلوری ویني، خو سوله نشته — د ادونای یاهوه فرمایش.","tokens":[{"surface":"נביאי","gloss":"د…نبویان"},{"surface":"ישראל","gloss":"یسرایل"},{"surface":"הנבאים","gloss":"چې پیغام وايي"},{"surface":"אל","gloss":"ته"},{"surface":"ירושלם","gloss":"یروشلایم"},{"surface":"והחזים","gloss":"او چې ویني"},{"surface":"לה","gloss":"ورته"},{"surface":"חזון","gloss":"لیدلوری"},{"surface":"שלם","gloss":"د سولې"},{"surface":"ואין","gloss":"خو نشته"},{"surface":"שלם","gloss":"سوله"},{"surface":"נאם","gloss":"فرمایش"},{"surface":"אדני","gloss":"ادونای"},{"surface":"יהוה","gloss":"یاهوه"}],"timestamp":"2026-08-28T23:54:13.326451169Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 13:16",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 13,
+  "translation": "یعنې د اسرائیلو پیغمبران چې یروشلایم ته وايي او د هغې لپاره د سولې لیدنه ویني، خو سوله نشته — د ادونای یاهوه وينا.",
+  "tokens": [
+    {
+      "surface": "נביאי",
+      "gloss": "د پیغمبرانو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "چې وايي"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "והחזים",
+      "gloss": "او چې ليدونکي"
+    },
+    {
+      "surface": "לה",
+      "gloss": "د هغې لپاره"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "لیدنه"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "د سولې"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "خو نشته"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "سوله"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ونيه"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:32:20.681284319Z",
+  "model": "glm-5.3"
+}

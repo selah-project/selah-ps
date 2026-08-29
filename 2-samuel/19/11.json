@@ -1,1 +1,66 @@
-{"tier":"glm-5.2","verse":11,"ref":"2-samuel 19:11","book":"2-samuel","lang":"ps","chapter":19,"translation":"او اوشالوم چې مو پر ځان مسح کړی وو، په جګړه کې مړ شو؛ نو اوس ولې اوسېئ چې پاچا ⟨את⟩ بېرته راولمҥېئ؟","tokens":[{"surface":"ואבשלום","gloss":"او اوشالوم"},{"surface":"אשר","gloss":"چې"},{"surface":"משחנו","gloss":"مو مسح کړی وو"},{"surface":"עלינו","gloss":"پر ځان"},{"surface":"מת","gloss":"مړ شو"},{"surface":"במלחמה","gloss":"په جګړه کې"},{"surface":"ועתה","gloss":"نو اوس"},{"surface":"למה","gloss":"ولې"},{"surface":"אתם","gloss":"اوسېئ"},{"surface":"מחרשים","gloss":"چوپ"},{"surface":"להשיב","gloss":"بېرته راولمګېئ"},{"surface":"את","gloss":"⟨את⟩","marks":"پاچا"},{"surface":"המלך","gloss":"پاچا"}],"timestamp":"2026-08-28T22:48:07.831708223Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "ps",
+  "chapter": 19,
+  "translation": "او اوشالوم، چې موږ پر ځان مسح کړ، په جګړه کې مړ شو؛ او اوس ولې تاسو خاموشه یاست چې ⟨את⟩ پاچا بېرته راستن کړﺉ؟",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "او اوشالوم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "موږ مسح کړ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "پر ځان"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مړ شو"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "په جګړه کې"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "او اوس"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ولې"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تاسو"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "خاموشه یاست"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "بېرته راستن کړﺉ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پاچا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "پاچا"
+    }
+  ],
+  "timestamp": "2026-08-29T03:23:53.037227292Z",
+  "model": "glm-5.3"
+}

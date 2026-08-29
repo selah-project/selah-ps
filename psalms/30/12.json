@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "psalms 30:12",
-  "book": "psalms",
-  "lang": "ps",
-  "chapter": 30,
-  "translation": "ته ⟨⟨مې⟩⟩ ماته ماته ماتمات واوښتې — ته مې ماتمات ⟨⟨ماته⟩⟩ ته ماته",
-  "tokens": [],
-  "timestamp": "2026-08-29T02:38:55.069421965Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":12,"ref":"psalms 30:12","book":"psalms","lang":"ps","chapter":30,"translation":"ته زما ژاړونه دې لپاره په څرخيدو بدله کړه، زما د شق کېسن دې پرانيسته او ما دې په خوښۍ تړله.","tokens":[{"surface":"הפכת","gloss":"بدله کړه"},{"surface":"מספדי","gloss":"زما ژاړونه"},{"surface":"למחול","gloss":"په څرخيدو"},{"surface":"לי","gloss":"زما لپاره"},{"surface":"פתחת","gloss":"پرانيسته"},{"surface":"שקי","gloss":"زما د شق کېسن"},{"surface":"ותאזרני","gloss":"او ما دې تړله"},{"surface":"שמחה","gloss":"په خوښۍ"}],"timestamp":"2026-08-29T03:36:04.356626753Z","model":"glm-5.3"}

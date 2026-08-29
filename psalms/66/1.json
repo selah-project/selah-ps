@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "ps",
   "chapter": 66,
-  "translation": "د mocným od dirigenta. A Song, a Psalm. Shout to the God, all the earth.",
+  "translation": "د سرود مشر ته. سندره، مزمور. ټولې ځمکې ته الوهیم ته په زړه غږ وکړئ.",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "د موسیقي مشر ته (سرليک)"
+      "gloss": "د سرود مشر ته"
     },
     {
       "surface": "שיר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הריעו",
-      "gloss": "غږ پورته کړئ"
+      "gloss": "په زړه غږ وکړئ"
     },
     {
       "surface": "לאלהים",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "כל",
-      "gloss": "ټول"
+      "gloss": "ټولې"
     },
     {
       "surface": "הארץ",
-      "gloss": "ځمکه"
+      "gloss": "ځمکې"
     }
   ],
-  "timestamp": "2026-08-29T00:36:21.761776053Z",
+  "timestamp": "2026-08-29T03:57:12.284557919Z",
   "model": "glm-5.3"
 }

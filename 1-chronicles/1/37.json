@@ -5,8 +5,33 @@
   "book": "1-chronicles",
   "lang": "ps",
   "chapter": 1,
-  "translation": "د رعوایل زامن: ناحت، زرach نه — زرَح، شمه او مِزه.",
-  "tokens": [],
-  "timestamp": "2026-08-29T01:45:49.342183062Z",
+  "translation": "د رعوایل زامن: ناحت، زاره، شامه او مازه.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "زامن"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ناحت"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زاره"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شامه"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "او مازه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:43:39.964881636Z",
   "model": "glm-5.3"
 }

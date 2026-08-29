@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":29,"ref":"1-chronicles 9:29","book":"1-chronicles","lang":"ps","chapter":9,"translation":"او له هغوی څخه ځینې پر ⟨the⟩ سامان الاتو او پر ټولو د قدس لوښو او پر غوره وړو، شرابو، غوړو، لوبان او خوشبویيو گمارل شوي وو.","tokens":[{"surface":"ומהם","gloss":"او له هغوی څخه"},{"surface":"ממנים","gloss":"گمارل شوي"},{"surface":"על","gloss":"پر"},{"surface":"הכלים","gloss":"سامان الاتو"},{"surface":"ועל","gloss":"او پر"},{"surface":"כל","gloss":"ټولو"},{"surface":"כלי","gloss":"لوښو"},{"surface":"הקדש","gloss":"د قدس"},{"surface":"ועל","gloss":"او پر"},{"surface":"הסלת","gloss":"غوره وړو"},{"surface":"והיין","gloss":"شرابو"},{"surface":"והשמן","gloss":"غوړو"},{"surface":"והלבונה","gloss":"لوبان"},{"surface":"והבשמים","gloss":"خوشبویيو"}],"timestamp":"2026-08-29T01:50:20.977627066Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 9:29",
+  "book": "1-chronicles",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او له هغوی څخه ځینې پر سامان‌آلاتو او پر ټولو د مقدس‌ۍ سامان‌آلاتو، او پر اوښکو او پر شرابو، پر غوړیو، پر لوبان او پر خوشبویيو ګمارل شوي وو.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "او له هغوی څخه ځینې"
+    },
+    {
+      "surface": "ממנים",
+      "gloss": "ګمارل شوي وو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "سامان‌آلاتو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "سامان‌آلاتو"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "د مقدس‌ۍ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "او پر"
+    },
+    {
+      "surface": "הסלת",
+      "gloss": "اوښکو"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "او پر شرابو"
+    },
+    {
+      "surface": "והשמן",
+      "gloss": "پر غوړیو"
+    },
+    {
+      "surface": "והלבונה",
+      "gloss": "پر لوبان"
+    },
+    {
+      "surface": "והבשמים",
+      "gloss": "او پر خوشبویيو"
+    }
+  ],
+  "timestamp": "2026-08-29T03:57:50.772116518Z",
+  "model": "glm-5.3"
+}

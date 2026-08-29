@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":20,"ref":"jeremiah 51:20","book":"jeremiah","lang":"ps","chapter":51,"translation":"تاسو زما لپاره د جګړې د درزونکې او وسلو یو，《את》 ملتونه به په تاسو سره درزوم، او پاچاهۍ به په تاسو سره ويجاړوم.","tokens":[{"surface":"מפץ","gloss":"درزونکې (هامر)"},{"surface":"אתה","gloss":"تاسو یاست"},{"surface":"לי","gloss":"زما لپاره"},{"surface":"כלי","gloss":"وسلو"},{"surface":"מלחמה","gloss":"د جګړې"},{"surface":"ונפצתי","gloss":"درزوم"},{"surface":"בך","gloss":"په تاسو سره"},{"surface":"גוים","gloss":"ملتونه"},{"surface":"והשחתי","gloss":"ويجاړوم"},{"surface":"בך","gloss":"په تاسو سره"},{"surface":"ממלכות","gloss":"پاچاهۍ"}],"timestamp":"2026-08-28T23:48:49.613610172Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 51:20",
+  "book": "jeremiah",
+  "lang": "ps",
+  "chapter": 51,
+  "translation": "ته زما لپاره د جګړې کومبی يې، زما د جګړې وسله: زه به په تا ملتونه وشېنم او په تا به پاچاهۍ ويړانګې کړم.",
+  "tokens": [
+    {
+      "surface": "מפץ",
+      "gloss": "کومبی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "לי",
+      "gloss": "زما لپاره"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "وسله"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "د جګړې"
+    },
+    {
+      "surface": "ונפצתי",
+      "gloss": "او زه به وشېنم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ملتونه"
+    },
+    {
+      "surface": "והשחתי",
+      "gloss": "او زه به ويړانګې کړم"
+    },
+    {
+      "surface": "בך",
+      "gloss": "په تا"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "پاچاهۍ"
+    }
+  ],
+  "timestamp": "2026-08-29T03:31:17.327232785Z",
+  "model": "glm-5.3"
+}

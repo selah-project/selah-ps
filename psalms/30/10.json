@@ -1,1 +1,53 @@
-{"tier":"glm-5.2","verse":10,"ref":"psalms 30:10","book":"psalms","lang":"ps","chapter":30,"translation":"څه ګټه په زما وینو کې ده، کله چې زه له condiciónrite شیول ته ښکېږم؟ آیا خاوره به ستا ثنا ووايي؟ آیا ستا امانت به اعلان کړي؟","tokens":[{"surface":"מה","gloss":"څه"},{"surface":"בצע","gloss":"ګټه"},{"surface":"בדמי","gloss":"په زما وینو کې"},{"surface":"ברדתי","gloss":"کله چې ښکېږم"},{"surface":"אל","gloss":"ته"},{"surface":"שחת","gloss":"شيول چاټیال ته"},{"surface":"היודך","gloss":"ستا ثنا ووايي؟"},{"surface":"עפר","gloss":"خاوره"},{"surface":"היגיד","gloss":"اعلان کړي؟"},{"surface":"אמתך","gloss":"ستا امانت"}],"timestamp":"2026-08-29T00:29:09.765453364Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "څه ګټه ده زما په وینو کې، کله چې زه تنګي ته ښکته شم؟ ایا خاوره به تا ستاینه کړي؟ ایا به دا ستا رښتیا اعلان کړي؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "ګټه"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "زما په وینو کې"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "کله چې زه ښکته شم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ته"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "تنګي"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "به تا ستاینه کړي"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاوره"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "به اعلان کړي"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ستا رښتیا"
+    }
+  ],
+  "timestamp": "2026-08-29T03:36:02.882170277Z",
+  "model": "glm-5.3"
+}

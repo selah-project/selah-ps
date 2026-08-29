@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 23,
-  "ref": "proverbs 12:23",
-  "book": "proverbs",
-  "lang": "ps",
-  "chapter": 12,
-  "translation": "يو هوښيار سړی پوهه پټوي، خو د ليوندو زړه ناپوهي اعلانوي.",
-  "tokens": [],
-  "timestamp": "2026-08-29T00:56:37.384456886Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":23,"ref":"proverbs 12:23","book":"proverbs","lang":"ps","chapter":12,"translation":"زېړې سترګه لرونکی ⟨سړی⟩ پوهه پټوي، خو د نادانانو زړه له ناداني څخه غږ کوي.","tokens":[{"surface":"אדם","gloss":"سړی"},{"surface":"ערום","gloss":"زېړې سترګه لرونکی"},{"surface":"כסה","gloss":"پټوي"},{"surface":"דעת","gloss":"پوهه"},{"surface":"ולב","gloss":"خو زړه"},{"surface":"כסילים","gloss":"د نادانانو"},{"surface":"יקרא","gloss":"غږ کوي"},{"surface":"אולת","gloss":"له ناداني څخه"}],"timestamp":"2026-08-29T03:39:27.197719097Z","model":"glm-5.3"}

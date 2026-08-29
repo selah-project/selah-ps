@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "ps",
   "chapter": 11,
-  "translation": "او Shelomah په Yahweh سترګو کې بد وکړ، او لکه Dawid د پلار يې غوندې يې Yahweh تعقیب بشپړ نه کړ.",
+  "translation": "او شلوموه د یاهوه په سترګو کې بد وکړ، او د یاهوه تعقیب يې پوره نه کړ لکه داوېد ⟨د هغه⟩ پلار.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomah"
+      "gloss": "شلوموه"
     },
     {
       "surface": "הרע",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "یاهوه"
     },
     {
       "surface": "ולא",
@@ -33,25 +33,25 @@
     },
     {
       "surface": "מלא",
-      "gloss": "بشپړ کړ"
+      "gloss": "پوره"
     },
     {
       "surface": "אחרי",
-      "gloss": "تعقیب"
+      "gloss": "…تعقیب\/پسې"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "یاهوه"
     },
     {
       "surface": "כדוד",
-      "gloss": "لکه Dawid"
+      "gloss": "لکه داوېد"
     },
     {
       "surface": "אביו",
-      "gloss": "د پلار يې"
+      "gloss": "پلار"
     }
   ],
-  "timestamp": "2026-08-28T22:55:41.314873938Z",
+  "timestamp": "2026-08-29T03:25:37.544458919Z",
   "model": "glm-5.3"
 }

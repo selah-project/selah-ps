@@ -1,1 +1,37 @@
-{"tier":"glm-5.2","verse":7,"ref":"psalms 82:7","book":"psalms","lang":"ps","chapter":82,"translation":"خو لکه ادم به مړه شئ، او لکه یو له مشرانو به لوېږئ.","tokens":[{"surface":"אכן","gloss":"خو (په РАښتیا)"},{"surface":"כאדם","gloss":"لکه ادم (انسان)"},{"surface":"תמותון","gloss":"به مړه شئ"},{"surface":"וכאחד","gloss":"او لکه یو له"},{"surface":"השרים","gloss":"مشرانو"},{"surface":"תפלו","gloss":"به لوېږئ"}],"timestamp":"2026-08-29T00:40:07.875549988Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "ps",
+  "chapter": 82,
+  "translation": "خو د انسان په شان به مروئ، او د يو له سرانو په شان به راپرېځئ.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "خو"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "د انسان په شان"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "به مروئ"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "او د يو له… په شان"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سرانو"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "به راپرېځئ"
+    }
+  ],
+  "timestamp": "2026-08-29T03:37:03.035952651Z",
+  "model": "glm-5.3"
+}

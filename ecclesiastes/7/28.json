@@ -1,1 +1,73 @@
-{"tier":"glm-5.2","verse":28,"ref":"ecclesiastes 7:28","book":"ecclesiastes","lang":"ps","chapter":7,"translation":"چې زما ژوندون لا يې لټوه خو ما ونه موندله: یو سړی په زره کې مې وموند، خو ⟨the⟩ ښځه په دې ټولو کې مې ونه مونده.","tokens":[{"surface":"אשר","gloss":"چې"},{"surface":"עוד","gloss":"لا"},{"surface":"בקשה","gloss":"لټوله"},{"surface":"נפשי","gloss":"زما ژوندون"},{"surface":"ולא","gloss":"خو نه"},{"surface":"מצאתי","gloss":"مې وموندله"},{"surface":"אדם","gloss":"سړی"},{"surface":"אחד","gloss":"یو"},{"surface":"מאלף","gloss":"په زره کې"},{"surface":"מצאתי","gloss":"مې وموند"},{"surface":"ואשה","gloss":"خو ښځه"},{"surface":"בכל","gloss":"په ټولو"},{"surface":"אלה","gloss":"دې"},{"surface":"לא","gloss":"نه"},{"surface":"מצאתי","gloss":"مې مونده"}],"timestamp":"2026-08-29T01:25:01.693063191Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "ps",
+  "chapter": 7,
+  "translation": "چې زما زېږې (نفس) لاهم يې لټوله او ما نه موندله؛ له زره کسانو يو سړی مې موند، خو په دې ټولو کې يوه ښځه مې ونه مونده.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "لاهم"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "لټوله"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "زما زېږې (نفس)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "موندله"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یو"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "له زره"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "مې موند"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "خو ښځه"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "مې ونه مونده"
+    }
+  ],
+  "timestamp": "2026-08-29T03:57:20.555602436Z",
+  "model": "glm-5.3"
+}

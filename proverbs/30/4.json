@@ -1,1 +1,109 @@
-{"tier":"glm-5.2","verse":4,"ref":"proverbs 30:4","book":"proverbs","lang":"ps","chapter":30,"translation":"څوک ⟨ה⟩ اسمانونو ته ختل او ښکته شوی؟ څوک باد په خپلو ټټرونو کې راټول کړی؟ څوک اوبه په یوه جامه کې ټینګې کړې؟ څوک د ځمکې ټول سرحدونه درولي؟ د هغه نوم څه دی، او د هغه زوی نوم څه دی؟ — ته یې پېژنې چې!","tokens":[{"surface":"מי","gloss":"څوک"},{"surface":"עלה","gloss":"ختل"},{"surface":"שמים","gloss":"اسمانونو ته"},{"surface":"וירד","gloss":"او ښکته شوی"},{"surface":"מי","gloss":"څوک"},{"surface":"אסף","gloss":"راټول کړی"},{"surface":"רוח","gloss":"باد"},{"surface":"בחפניו","gloss":"په خپلو ټټرونو کې"},{"surface":"מי","gloss":"څوک"},{"surface":"צרר","gloss":"ټینګې کړې"},{"surface":"מים","gloss":"اوبه"},{"surface":"בשמלה","gloss":"په یوه جامه کې"},{"surface":"מי","gloss":"څوک"},{"surface":"הקים","gloss":"درولي"},{"surface":"כל","gloss":"ټول"},{"surface":"אפסי","gloss":"سرحدونه"},{"surface":"ארץ","gloss":"د ځمکې"},{"surface":"מה","gloss":"څه"},{"surface":"שמו","gloss":"د هغه نوم"},{"surface":"ומה","gloss":"او څه"},{"surface":"שם","gloss":"نوم"},{"surface":"בנו","gloss":"د هغه زوی"},{"surface":"כי","gloss":"چې"},{"surface":"תדע","gloss":"ته پېژنې"}],"timestamp":"2026-08-29T01:02:18.147267411Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 30:4",
+  "book": "proverbs",
+  "lang": "ps",
+  "chapter": 30,
+  "translation": "څوک ⟨یاهوه⟩ ته پر اسمانونو پورته شو او راکوز شو؟ څوک رڼا په خپلو لاسونو کې راټوله کړه؟ څوک اوبه په یوه جامو کې وتړلې؟ څوک د ځمکې ټولې پاینې ټینګې کړې؟ د هغه نوم څه دی، او د هغه زوی نوم څه دی — ایا ته پوهېږې؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "پورته شو"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "اسمانونو ته"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "او راکوز شو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "راټوله کړه"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رڼا"
+    },
+    {
+      "surface": "בחפניו",
+      "gloss": "په خپلو لاسونو کې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "وتړلې"
+    },
+    {
+      "surface": "מים",
+      "gloss": "اوبه"
+    },
+    {
+      "surface": "בשמלה",
+      "gloss": "په یوه جامو کې"
+    },
+    {
+      "surface": "מי",
+      "gloss": "څوک"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "ټینګې کړې"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ټولې"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "پاینې"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "د ځمکې"
+    },
+    {
+      "surface": "מה",
+      "gloss": "څه"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "د هغه نوم"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "او څه"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نوم"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "د هغه زوی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ایا ته پوهېږې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:40:05.814950802Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,123 @@
-{"tier":"glm-5.2","verse":43,"ref":"ezekiel 16:43","book":"ezekiel","lang":"ps","chapter":16,"translation":"ځکه چې ته د خپلې ځوانۍ ورځې نه دې يادې کړې، خو په دې ټولو کې مې غوسه راوپاروله، او ځکه زه هم، وارتشه! ستا لار به پر سر دې کېږدم — د ادونای یاهوه خبره — آیا دا فحشانې دې د ټولو خپلو کرغېړنو پر سر نه ده کړې؟","tokens":[{"surface":"יען","gloss":"ځکه چې"},{"surface":"אשר","gloss":"چې"},{"surface":"לא","gloss":"نه"},{"surface":"זכרתי","gloss":"دې يادې کړې"},{"surface":"את","gloss":"⟨את⟩","marks":"د ځوانۍ ورځې"},{"surface":"ימי","gloss":"ورځې"},{"surface":"נעוריך","gloss":"د خپلې ځوانۍ"},{"surface":"ותרגזי","gloss":"خو مې غوسه راوپاروله"},{"surface":"לי","gloss":"مې"},{"surface":"בכל","gloss":"په ټولو"},{"surface":"אלה","gloss":"دې"},{"surface":"וגם","gloss":"او ځکه زه هم"},{"surface":"אני","gloss":"زه"},{"surface":"הא","gloss":"wartche!"},{"surface":"דרכך","gloss":"ستا لار"},{"surface":"בראש","gloss":"پر سر"},{"surface":"נתתי","gloss":"به کېږدم"},{"surface":"נאם","gloss":"خبره"},{"surface":"אדני","gloss":"ادونای"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"ולא","gloss":"آیا ... نه"},{"surface":"עשיתי","gloss":"دې کړې ده"},{"surface":"את","gloss":"⟨את⟩","gloss note":"","marks":"فحشانې"},{"surface":"הזמה","gloss":"فحشانې"},{"surface":"על","gloss":"پر سر"},{"surface":"כל","gloss":"د ټولو"},{"surface":"תועבתיך","gloss":"خپلو کرغېړنو"}],"timestamp":"2026-08-28T23:54:26.286015278Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 16:43",
+  "book": "ezekiel",
+  "lang": "ps",
+  "chapter": 16,
+  "translation": "ځکه چې دا چې ته د خپلې ځوانۍ ورځې يادې نه کړې او د دې ټولو په وړاندې ما ته غوسه ورسوله، ايا زما هم ستا لار پر ستا سر راوړه، د ادونای یاهوه وينا؛ او ما ⟨את⟩ دا فحشا د ستا د ټولو کرغېړنو کارونو سره نه ده کړې.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "دا چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "يادې نه کړې"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "د ځوانۍ ورځې"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ورځې"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "د ستا ځوانۍ"
+    },
+    {
+      "surface": "ותרגזי",
+      "gloss": "او غوسه ورسوله"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ما ته"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټولو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "او هم"
+    },
+    {
+      "surface": "אני",
+      "gloss": "زما"
+    },
+    {
+      "surface": "הא",
+      "gloss": "ايا"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ستا لار"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "پر سر"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "راوړه"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "د … وينا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "کړې ده"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دا فحشا"
+    },
+    {
+      "surface": "הזמה",
+      "gloss": "دا فحشا"
+    },
+    {
+      "surface": "על",
+      "gloss": "سره"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولو"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "کرغېړنو کارونو"
+    }
+  ],
+  "timestamp": "2026-08-29T03:32:03.138938754Z",
+  "model": "glm-5.3"
+}

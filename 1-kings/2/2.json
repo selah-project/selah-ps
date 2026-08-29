@@ -1,1 +1,45 @@
-{"tier":"glm-5.2","verse":2,"ref":"1-kings 2:2","book":"1-kings","lang":"ps","chapter":2,"translation":"زه د ټولې ځمکې ⟨the⟩ لار روان یم؛ نو زغور شه او د يو سړي په څېر ګرځه.","tokens":[{"surface":"אנכי","gloss":"زه"},{"surface":"הלך","gloss":"روان یم"},{"surface":"בדרך","gloss":"په … لار"},{"surface":"כל","gloss":"د ټولې"},{"surface":"הארץ","gloss":"ځمکې"},{"surface":"וחזקת","gloss":"زغور شه"},{"surface":"והיית","gloss":"او ګرځه"},{"surface":"לאיש","gloss":"د يو سړي په څېر"}],"timestamp":"2026-08-28T22:51:29.943329150Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "زه د ټولې ځمکې په لار روان یم؛ نو زبردسته اوسه او ⟨ځان⟩ د یوه سړي په څېر ښوده.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "زه"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "روان یم"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "د ټولې"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ځمکې"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "زبردسته اوسه"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "وګرځېدله\/ښوده"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "د یوه سړي په څېر"
+    }
+  ],
+  "timestamp": "2026-08-29T03:24:07.127645364Z",
+  "model": "glm-5.3"
+}

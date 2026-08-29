@@ -1,1 +1,65 @@
-{"tier":"glm-5.2","verse":11,"ref":"isaiah 8:11","book":"isaiah","lang":"ps","chapter":8,"translation":"ځکه چې داسې وويل ياهوه ⟨לי⟩ ما ته، د لاس په ټینګې نیونې، او راته يې وروسته والې وکړ چې د دې خلکو په لار روان نه شم، وييل يې:","tokens":[{"surface":"כי","gloss":"ځکه چې"},{"surface":"כה","gloss":"داسې"},{"surface":"אמר","gloss":"وويل"},{"surface":"יהוה","gloss":"ياهوه"},{"surface":"אלי","gloss":"ما ته"},{"surface":"כחזקת","gloss":"په ټینګې نیونې"},{"surface":"היד","gloss":"د لاس"},{"surface":"ויסרני","gloss":"روسته والې يې وکړ ماته"},{"surface":"מלכת","gloss":"له روانېدو"},{"surface":"בדרך","gloss":"په لار"},{"surface":"העם","gloss":"د خلکو"},{"surface":"הזה","gloss":"د دې"},{"surface":"לאמר","gloss":"وييل يې"}],"timestamp":"2026-08-28T23:12:41.255291278Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 8:11",
+  "book": "isaiah",
+  "lang": "ps",
+  "chapter": 8,
+  "translation": "ځکه یاهوه داسې راته وویل — د لاس په قوي نیولو، او مې يې وارزوله چې د دې قوم په لار کې مه ګرځم — دا ويل:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "כה",
+      "gloss": "داسې"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "راته"
+    },
+    {
+      "surface": "כחזקת",
+      "gloss": "په قوي نیولو"
+    },
+    {
+      "surface": "היד",
+      "gloss": "د لاس"
+    },
+    {
+      "surface": "ויסרני",
+      "gloss": "او مې يې وارزوله"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "مه ګرځم"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "په لار کې"
+    },
+    {
+      "surface": "העם",
+      "gloss": "د قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "د دې"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "دا ويل"
+    }
+  ],
+  "timestamp": "2026-08-29T03:27:59.942103583Z",
+  "model": "glm-5.3"
+}

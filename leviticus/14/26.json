@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "ps",
   "chapter": 14,
-  "translation": "او کاهن به له تیلو څخه پر کاهن د کیڼ لاس پر vari کېښوي.",
+  "translation": "او کاهن به له تېلو څخه د کاهن د کیڼ لاس په تلښت کې وڅکوي.",
   "tokens": [
     {
       "surface": "ומן",
-      "gloss": "او له څخه"
+      "gloss": "او له ... څخه"
     },
     {
       "surface": "השמן",
-      "gloss": "تیلو"
+      "gloss": "تېلو"
     },
     {
       "surface": "יצק",
-      "gloss": "کېښوي"
+      "gloss": "وڅکوي"
     },
     {
       "surface": "הכהן",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "על",
-      "gloss": "پر"
+      "gloss": "په"
     },
     {
       "surface": "כף",
-      "gloss": "vari (د لاس کږداره)"
+      "gloss": "تلښت"
     },
     {
       "surface": "הכהן",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "השמאלית",
-      "gloss": "کیڼ"
+      "gloss": "کیڼ لاس"
     }
   ],
-  "timestamp": "2026-08-28T21:44:25.733978610Z",
+  "timestamp": "2026-08-29T03:17:52.363012180Z",
   "model": "glm-5.3"
 }

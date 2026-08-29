@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":10,"ref":"jonah 4:10","book":"jonah","lang":"ps","chapter":4,"translation":"او یاهوه وویل: ته پر ⟨ה⟩ کیکيون رحم وکړ، چې نه دې پکې زحمت کړی او نه دې هغه لوی کړی؛ هغه چې د یوې شپې زوی و، او د یوې شپې په زوی کې له منځه ولاړ.","tokens":[{"surface":"ויאמר","gloss":"او وویل"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"אתה","gloss":"ته"},{"surface":"חסת","gloss":"رحم وکړ"},{"surface":"על","gloss":"پر"},{"surface":"הקיקיון","gloss":"کیکیون"},{"surface":"אשר","gloss":"چې"},{"surface":"לא","gloss":"نه"},{"surface":"עמלת","gloss":"زحمت کړی"},{"surface":"בו","gloss":"پکې"},{"surface":"ולא","gloss":"او نه"},{"surface":"גדלתו","gloss":"لوی کړی"},{"surface":"שבן","gloss":"د زوی"},{"surface":"לילה","gloss":"شپې"},{"surface":"היה","gloss":"و"},{"surface":"ובן","gloss":"او د زوی"},{"surface":"לילה","gloss":"شپې"},{"surface":"אבד","gloss":"له منځه ولاړ"}],"timestamp":"2026-08-29T00:16:24.739269048Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "ps",
+  "chapter": 4,
+  "translation": "او یاهوه وویل: ته پر کدو باندې خېسېد وکړی، چې ته پکې نه رېښتېلی یې او نه دې هغه لوی کړی؛ چې د یوې شپې زوی و او د یوې شپې په زوی کې ورک شو.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "او وویل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ته"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "خېسېد دې وکړی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "کدو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "رېښتلې یې"
+    },
+    {
+      "surface": "בו",
+      "gloss": "پکې"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "هغه دې لوی کړی"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "د یوې شپې زوی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپې"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "او د یوې شپې په زوی"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "شپې"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ورک شو"
+    }
+  ],
+  "timestamp": "2026-08-29T03:33:59.577745460Z",
+  "model": "glm-5.3"
+}

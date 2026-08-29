@@ -1,1 +1,62 @@
-{"tier":"glm-5.2","verse":6,"ref":"genesis 9:6","book":"genesis","lang":"ps","chapter":9,"translation":"د انسان وینه چې تویوونکی ⟨is⟩، په انسان به د هغه وینه تویه شي، ځکه په الوهیم بڼه (צלם) يې ⟨את⟩ انسان جوړ کړ.","tokens":[{"surface":"שפך","gloss":"تویوونکی"},{"surface":"דם","gloss":"وینه"},{"surface":"האדם","gloss":"د انسان"},{"surface":"באדם","gloss":"په انسان"},{"surface":"דמו","gloss":"د هغه وینه"},{"surface":"ישפך","gloss":"به تویه شي"},{"surface":"כי","gloss":"ځکه"},{"surface":"בצלם","gloss":"په بڼه"},{"surface":"אלהים","gloss":"الوهیم"},{"surface":"עשה","gloss":"جوړ کړ"},{"surface":"את","gloss":"⟨את⟩","marks":"انسان"},{"surface":"האדם","gloss":"انسان"}],"timestamp":"2026-08-28T20:59:11.805442290Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "چا چې د انسان وینه وتوله، د هغه وینه به په انسان تويول کېږي، ځکه په الوهیم د تصویر ⟨את⟩ انسان جوړ کړی دی.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "چا چې وتوله"
+    },
+    {
+      "surface": "דם",
+      "gloss": "وینه"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "د انسان"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "په انسان"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "د هغه وینه"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "تويول کېږي"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "په تصویر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوهیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "جوړ کړی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    }
+  ],
+  "timestamp": "2026-08-29T03:11:05.758784091Z",
+  "model": "glm-5.3"
+}

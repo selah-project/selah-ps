@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":27,"ref":"deuteronomy 14:27","book":"deuteronomy","lang":"ps","chapter":14,"translation":"او لویي چې په ستا دروازو کې دی، هغه مه پرېږده، ځکه چې هغه ⟨is⟩ بې برخې — هېڅ برخه او میراث نه لري له تا سره.","tokens":[{"surface":"והלוי","gloss":"او لویي"},{"surface":"אשר","gloss":"چې"},{"surface":"בשעריך","gloss":"په ستا دروازو کې"},{"surface":"לא","gloss":"مه\/نه"},{"surface":"תעזבנו","gloss":"هغه مه پرېږده"},{"surface":"כי","gloss":"ځکه چې"},{"surface":"אין","gloss":"نه شته"},{"surface":"לו","gloss":"لره"},{"surface":"חלק","gloss":"برخه"},{"surface":"ונחלה","gloss":"او میراث"},{"surface":"עמך","gloss":"له تا سره"}],"timestamp":"2026-08-28T22:08:01.972262921Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "ps",
+  "chapter": 14,
+  "translation": "او لېويي چې په دَروازو کې دې دی، هغه دې مه پرېږدې، ځکه چې هغه ته هېڅ برخه او میراث له تا سره نشته.",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "او لېويي"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "په دَروازو کې دې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "هغه دې پرېږدې"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نشته"
+    },
+    {
+      "surface": "לו",
+      "gloss": "هغه ته"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "برخه"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "او میراث"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "له تا سره"
+    }
+  ],
+  "timestamp": "2026-08-29T03:19:31.550185858Z",
+  "model": "glm-5.3"
+}

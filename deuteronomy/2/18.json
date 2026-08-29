@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "ps",
   "chapter": 2,
-  "translation": "ته نن ⟨ד⟩ د موآب ⟨د⟩ پولې ⟨את⟩، אַר⟨⟩ —",
+  "translation": "ته نن ⟨את⟩ د موآب پوله، ⟨את⟩ عر، تېرېږې.",
   "tokens": [
     {
       "surface": "אתה",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "د موآب پولې"
+      "marks": "د موآب پوله"
     },
     {
       "surface": "גבול",
-      "gloss": "پولې"
+      "gloss": "پوله"
     },
     {
       "surface": "מואב",
@@ -35,13 +35,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "אַר"
+      "marks": "عر"
     },
     {
       "surface": "ער",
-      "gloss": "אַר"
+      "gloss": "عر"
     }
   ],
-  "timestamp": "2026-08-28T22:03:57.187557374Z",
+  "timestamp": "2026-08-29T03:46:41.113108079Z",
   "model": "glm-5.3"
 }

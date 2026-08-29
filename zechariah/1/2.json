@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "ps",
   "chapter": 1,
-  "translation": "یاهوه پر ستاسو پلرونو ډېر خپه شو — لټکهAnd aنګ!",
+  "translation": "یاهوه پر ستاسو پلرونو له سخت قهر قهر وکړ.",
   "tokens": [
     {
       "surface": "קצף",
-      "gloss": "خپه\/غوسه شو"
+      "gloss": "قهر وکړ"
     },
     {
       "surface": "יהוה",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "קצף",
-      "gloss": "لټکهAnd aنګ"
+      "gloss": "له سخت قهر"
     }
   ],
-  "timestamp": "2026-08-29T00:21:02.224296674Z",
+  "timestamp": "2026-08-29T03:34:44.913301028Z",
   "model": "glm-5.3"
 }

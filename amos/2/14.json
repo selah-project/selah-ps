@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":14,"ref":"amos 2:14","book":"amos","lang":"ps","chapter":2,"translation":"او ژر bravest وتلوکی نه به وتښتي؛ او پیاوړی به خپله ځواک ونه غځوي؛ او زورور به خپله نفس ونه ژغوري.","tokens":[{"surface":"ואבד","gloss":"او به ورک شي"},{"surface":"מנוס","gloss":"تښتون"},{"surface":"מקל","gloss":"له وتلوکي"},{"surface":"וחזק","gloss":"او پیاوړی"},{"surface":"לא","gloss":"نه"},{"surface":"יאמץ","gloss":"ځواک ونه غځوي"},{"surface":"כחו","gloss":"خپل ځواک"},{"surface":"וגבור","gloss":"او زورور"},{"surface":"לא","gloss":"نه"},{"surface":"ימלט","gloss":"ونه ژغوري"},{"surface":"נפשו","gloss":"خپله نفس"}],"timestamp":"2026-08-29T00:13:28.977915756Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 2:14",
+  "book": "amos",
+  "lang": "ps",
+  "chapter": 2,
+  "translation": "او تېښته به له چټک څخه ورکه شي، او زبردست به خپل ځواک ⟨نه⟩ ثابت نه کړي، او پنځمن به خپله ماته (نفس) وژغوري نه شي.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "او ورکه شي"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "تېښته"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "له چټک څخه"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "او زبردست"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "יאמץ",
+      "gloss": "ثابت کړي"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "خپل ځواک"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "او پنځمن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "وژغوري"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "خپله ماته (نفس)"
+    }
+  ],
+  "timestamp": "2026-08-29T03:56:29.409912820Z",
+  "model": "glm-5.3"
+}

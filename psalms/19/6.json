@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ps",
   "chapter": 19,
-  "translation": "او هغه دlike د domicile... وتلی",
+  "translation": "او هغه د زوم په څېر له خپلې حجلې ⟨راوځي⟩، او د يو قوي ⟨سره⟩ په څېر د ⟨دې⟩ لار د منډې لپاره شادي کوي.",
   "tokens": [
     {
       "surface": "והוא",
@@ -13,33 +13,33 @@
     },
     {
       "surface": "כחתן",
-      "gloss": "دlike domicile-like"
+      "gloss": "د زوم په څېر"
     },
     {
       "surface": "יצא",
-      "gloss": "وتلی"
+      "gloss": "راوځي"
     },
     {
       "surface": "מחפתו",
-      "gloss": "له خپلې خپواخونې"
+      "gloss": "له خپلې حجلې"
     },
     {
       "surface": "ישיש",
-      "gloss": "خوشحاله دی"
+      "gloss": "شادي کوي"
     },
     {
       "surface": "כגבור",
-      "gloss": "لکه غټ زوروری"
+      "gloss": "د يو قوي په څېر"
     },
     {
       "surface": "לרוץ",
-      "gloss": "چې وګرزي"
+      "gloss": "د منډې لپاره"
     },
     {
       "surface": "ארח",
       "gloss": "لار"
     }
   ],
-  "timestamp": "2026-08-29T00:27:46.701432874Z",
+  "timestamp": "2026-08-29T03:36:38.176135578Z",
   "model": "glm-5.3"
 }

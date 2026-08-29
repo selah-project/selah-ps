@@ -1,1 +1,57 @@
-{"tier":"glm-5.2","verse":16,"ref":"2-chronicles 1:16","book":"2-chronicles","lang":"ps","chapter":1,"translation":"او د هغو آسونو چې د شِلومو وو راوړل מِتسرایم (مصر) او מِکوه څخه؛ د پاچا سوداګرو به د مِکوه څخه په بیه اخیستل.","tokens":[{"surface":"ומוצא","gloss":"راوړل (وتګلایل)"},{"surface":"הסוסים","gloss":"آسونه"},{"surface":"אשר","gloss":"چې"},{"surface":"לשלמה","gloss":"د شِلومو"},{"surface":"ממצרים","gloss":"مِتسرایم (مصر)"},{"surface":"ומקוא","gloss":"او له مِکوه"},{"surface":"סחרי","gloss":"سوداګرو"},{"surface":"המלך","gloss":"د پاچا"},{"surface":"מקוא","gloss":"له مِکوه"},{"surface":"יקחו","gloss":"اخیستل"},{"surface":"במחיר","gloss":"په بیه"}],"timestamp":"2026-08-29T01:57:42.172266191Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 1:16",
+  "book": "2-chronicles",
+  "lang": "ps",
+  "chapter": 1,
+  "translation": "او د آسونو وتنه چې د شلومو وه له مِتسرایم او له کِوِه وه؛ د پاچا سوداګران له کِوِه په بیه اخېستل.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "او وتنه"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "د آسونو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "د شلومو"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "له مِتسرایم"
+    },
+    {
+      "surface": "ומקוא",
+      "gloss": "او له کِوِه"
+    },
+    {
+      "surface": "סחרי",
+      "gloss": "سوداګران"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "د پاچا"
+    },
+    {
+      "surface": "מקוא",
+      "gloss": "له کِوِه"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "اخېستل"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "په بیه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:47:55.345364010Z",
+  "model": "glm-5.3"
+}

@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "ps",
   "chapter": 119,
-  "translation": "ستا شهادتونه حیرانوونکي دي؛ نو زما نفس دوی ساتي.",
+  "translation": "پېچې دي ستا ګواهۍ؛ همدې ته مې زړه ساتې دي.",
   "tokens": [
     {
       "surface": "פלאות",
-      "gloss": "حیرانوونکي"
+      "gloss": "پېچې"
     },
     {
       "surface": "עדותיך",
-      "gloss": "ستا شهادتونه"
+      "gloss": "ستا ګواهۍ"
     },
     {
       "surface": "על",
-      "gloss": "په"
+      "gloss": "همدې"
     },
     {
       "surface": "כן",
-      "gloss": "دېbase سبب"
+      "gloss": "ته"
     },
     {
       "surface": "נצרתם",
-      "gloss": "ساتي"
+      "gloss": "مې ساتې دي"
     },
     {
       "surface": "נפשי",
-      "gloss": "زما نفس"
+      "gloss": "زړه"
     }
   ],
-  "timestamp": "2026-08-29T00:48:25.596777608Z",
+  "timestamp": "2026-08-29T03:37:47.076399998Z",
   "model": "glm-5.3"
 }

@@ -1,1 +1,77 @@
-{"tier":"glm-5.2","verse":28,"ref":"exodus 10:28","book":"exodus","lang":"ps","chapter":10,"translation":"او فرعون ورته وويل: «زما له مخه ولاړ شه، د ځان خ疆 وکړه، زما مخ بیا مه ګوره، ځکه چې په هغه ورځ چې زما مخ وګورې، به مړ شې.»","tokens":[{"surface":"ויאמר","gloss":"او وويل"},{"surface":"לו","gloss":"ورته"},{"surface":"פרעה","gloss":"فرعون"},{"surface":"לך","gloss":"ولاړ شه"},{"surface":"מעלי","gloss":"زما له مخه"},{"surface":"השמר","gloss":"د ځان خ疆 وکړه"},{"surface":"לך","gloss":"خپل ځان ته"},{"surface":"אל","gloss":"مه"},{"surface":"תסף","gloss":"بیا"},{"surface":"ראות","gloss":"ګوره"},{"surface":"פני","gloss":"زما مخ"},{"surface":"כי","gloss":"ځکه چې"},{"surface":"ביום","gloss":"په هغه ورځ"},{"surface":"ראתך","gloss":"چې وګورې"},{"surface":"פני","gloss":"زما مخ"},{"surface":"תמות","gloss":"به مړ شې"}],"timestamp":"2026-08-29T02:14:46.992001999Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 10:28",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 10,
+  "translation": "او فرعون ⟨له هغه⟩ وويل: «زا لږه! له ما څخه لاړ شه، خپل ځان وساته، مه يې زياتوه چې زما مخ بيا ووينې، ځکه چې په هغه ورځ چې زما مخ ووينې، به مړ شوې.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "وويل"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨له هغه⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "לך",
+      "gloss": "لاړ شه"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "له ما څخه"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "خپل ځان وساته"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨خپل ځان⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مه"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "يې زياتوه"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "چې ووينې"
+    },
+    {
+      "surface": "פני",
+      "gloss": "زما مخ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ځکه چې"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "په هغه ورځ"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "چې ووينې"
+    },
+    {
+      "surface": "פני",
+      "gloss": "زما مخ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "به مړ شوې"
+    }
+  ],
+  "timestamp": "2026-08-29T03:13:27.899197849Z",
+  "model": "glm-5.3"
+}

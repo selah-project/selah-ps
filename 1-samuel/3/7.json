@@ -1,1 +1,54 @@
-{"tier":"glm-5.2","verse":7,"ref":"1-samuel 3:7","book":"1-samuel","lang":"ps","chapter":3,"translation":"او شموئیل لا تر اوسه یاهوه نه پېژانده، او د یاهوه وړیوarding لا تر اوسه نه وا نو هغه ته څرګند شوی.","tokens":[{"surface":"ושמואל","gloss":"او شموئیل"},{"surface":"טרם","gloss":"لا تر اوسه نه"},{"surface":"ידע","gloss":"پېژانده"},{"surface":"את","gloss":"⟨את⟩","marks":"یاهوه"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"וטרם","gloss":"او لا تر اوسه نه"},{"surface":"יגלה","gloss":"څرګند شوی و"},{"surface":"אליו","gloss":"هغه ته"},{"surface":"דבר","gloss":"وړیوarding"},{"surface":"יהוה","gloss":"د یاهوه"}],"timestamp":"2026-08-28T22:31:53.225609911Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ps",
+  "chapter": 3,
+  "translation": "او شمولې لا یاهوه نه ؤ پېژندلی ⟨את⟩، او د یاهوه ورو لا ورته څرګند شوی نه ؤ.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "او شمولې"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "لا"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "نه ؤ پېژندلی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاهوه"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاهوه"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "او لا"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "څرګند شوی نه ؤ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ورته"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ورو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "د یاهوه"
+    }
+  ],
+  "timestamp": "2026-08-29T03:21:57.686348711Z",
+  "model": "glm-5.3"
+}

@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 20,
-  "ref": "isaiah 48:20",
-  "book": "isaiah",
-  "lang": "ps",
-  "chapter": 48,
-  "translation": "له بابل ووځئ، له کسدیمانو وتښتئ! په دcompare shouts —",
-  "tokens": [],
-  "timestamp": "2026-08-28T23:22:27.969306952Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":20,"ref":"isaiah 48:20","book":"isaiah","lang":"ps","chapter":48,"translation":"وځئ له بابل څخه، وتښتئ له کسديانو څخه؛ د شور خوښۍ په اواز اعلان کړئ، دا خبر ورپېژندئ، تر ⟨د⟩ ځمکې په پای پورې يې ورسوئ؛ ووايئ: یاهوه د خپل بنده یعقوب فدیه کړی دی.","tokens":[{"surface":"צאו","gloss":"وځئ"},{"surface":"מבבל","gloss":"له بابل څخه"},{"surface":"ברחו","gloss":"وتښتئ"},{"surface":"מכשדים","gloss":"له کسديانو څخه"},{"surface":"בקול","gloss":"په اواز"},{"surface":"רנה","gloss":"د شور خوښۍ"},{"surface":"הגידו","gloss":"اعلان کړئ"},{"surface":"השמיעו","gloss":"ورپېژندئ"},{"surface":"זאת","gloss":"دا خبر"},{"surface":"הוציאוה","gloss":"يې ورسوئ"},{"surface":"עד","gloss":"تر... پورې"},{"surface":"קצה","gloss":"په پای"},{"surface":"הארץ","gloss":"د ځمکې"},{"surface":"אמרו","gloss":"ووايئ"},{"surface":"גאל","gloss":"فدیه کړی دی"},{"surface":"יהוה","gloss":"یاهوه"},{"surface":"עבדו","gloss":"د خپل بنده"},{"surface":"יעקב","gloss":"یعقوب"}],"timestamp":"2026-08-29T03:29:15.915305196Z","model":"glm-5.3"}

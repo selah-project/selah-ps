@@ -1,1 +1,85 @@
-{"tier":"glm-5.2","verse":24,"ref":"exodus 9:24","book":"exodus","lang":"ps","chapter":9,"translation":"نو تږۍ شوه، او اور چې په تږۍ کې ⟨is⟩ راټوکېدلی و، ډېره سخت وه — داسې چې ورته ورته ⟨is⟩ په ټوله مځکه کې د مِتسرایم له هغه وخت نه وه شوي، کله چې ⟨is>> ملت شو.","tokens":[{"surface":"ויהי","gloss":"نو شوه"},{"surface":"ברד","gloss":"تږۍ"},{"surface":"ואש","gloss":"او اور"},{"surface":"מתלקחת","gloss":"راټوکېدلی"},{"surface":"בתוך","gloss":"په … کې"},{"surface":"הברד","gloss":"تږۍ"},{"surface":"כבד","gloss":"سخت"},{"surface":"מאד","gloss":"ډېره"},{"surface":"אשר","gloss":"چې"},{"surface":"לא","gloss":"نه"},{"surface":"היה","gloss":"وه"},{"surface":"כמהו","gloss":"داسې چې ورته"},{"surface":"בכל","gloss":"په ټوله"},{"surface":"ארץ","gloss":"مځکه"},{"surface":"מצרים","gloss":"מِتسرایم د"},{"surface":"מאז","gloss":"له هغه وخت"},{"surface":"היתה","gloss":"شوه"},{"surface":"לגוי","gloss":"ملت"}],"timestamp":"2026-08-28T21:17:50.663429385Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 9:24",
+  "book": "exodus",
+  "lang": "ps",
+  "chapter": 9,
+  "translation": "او برسکڼه شوه، او اور په برسکڼه کې ګنډل شوی ⟨و⟩، ډېر دروند — داسې چې د مِتسرایم په ټوله ځمکه کې يې سارى نه و، له هغه وخت چې ⟨دا⟩ ملت شو.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "او شوه"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "برسکڼه"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "او اور"
+    },
+    {
+      "surface": "מתלקחת",
+      "gloss": "ګنډل شوی\/اخلېدلی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "په … کې"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "برسکڼه"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "دروند"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ډېر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "چې"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "היה",
+      "gloss": "و"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "د ساري"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "په ټوله"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ځمکه"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتسرایم"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "له هغه وخت"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "شوه"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ملت"
+    }
+  ],
+  "timestamp": "2026-08-29T03:14:14.459971451Z",
+  "model": "glm-5.3"
+}

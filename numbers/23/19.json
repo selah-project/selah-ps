@@ -1,1 +1,69 @@
-{"tier":"glm-5.2","verse":19,"ref":"numbers 23:19","book":"numbers","lang":"ps","chapter":23,"translation":"ایل ⟨is⟩ سړی نه دی چې دروغ ووایي، نه د آدم زوی چې پښېمانه شي؛ هغه ⟨is⟩ ویلي او به يې ونه کړي؟ او ويې ويلي او به يې پوره نه کړي؟","tokens":[{"surface":"לא","gloss":"نه"},{"surface":"איש","gloss":"سړی"},{"surface":"אל","gloss":"ایل"},{"surface":"ויכזב","gloss":"چې دروغ ووایي"},{"surface":"ובן","gloss":"او زوی"},{"surface":"אדם","gloss":"آدم (انسان)"},{"surface":"ויתנחם","gloss":"چې پښېمانه شي"},{"surface":"ההוא","gloss":"هغه"},{"surface":"אמר","gloss":"ویلي"},{"surface":"ולא","gloss":"او نه"},{"surface":"יעשה","gloss":"يې کړي"},{"surface":"ודבר","gloss":"او ويې ويلي"},{"surface":"ולא","gloss":"او نه"},{"surface":"יקימנה","gloss":"يې پوره کړي"}],"timestamp":"2026-08-28T21:58:50.752435849Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 23:19",
+  "book": "numbers",
+  "lang": "ps",
+  "chapter": 23,
+  "translation": "ایل ⟨دی⟩ نه ⟨دی⟩ سړی چې دروغ ووایي، او نه ⟨دی⟩ د آدم زوی چې پښېمان شي؛ هغه چې ویلي وي، ایا يې نه کوي؟ او چې خبرې کړي وي، ایا يې نه پوره کوي؟",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نه"
+    },
+    {
+      "surface": "איש",
+      "gloss": "سړی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויכזב",
+      "gloss": "چې دروغ ووایي"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "او…زوی"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "ויתנחם",
+      "gloss": "چې پښېمان شي"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "هغه"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ویلي وي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کوي"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "او خبرې کړي وي"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "او نه"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "پوره کوي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:55:13.357802776Z",
+  "model": "glm-5.3"
+}

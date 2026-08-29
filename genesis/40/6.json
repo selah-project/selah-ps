@@ -1,1 +1,46 @@
-{"tier":"glm-5.2","verse":6,"ref":"genesis 40:6","book":"genesis","lang":"ps","chapter":40,"translation":"او يوسف سهر ورته راغی، ⟨את⟩ هغه يې وکتل، او واپسېدل چې دواړه خفه دي.","tokens":[{"surface":"ויבא","gloss":"راغی"},{"surface":"אליהם","gloss":"ورته"},{"surface":"יוסף","gloss":"يوسف"},{"surface":"בבקר","gloss":"سهр"},{"surface":"וירא","gloss":"وکتل يې"},{"surface":"אתם","gloss":"⟨את⟩","marks":"هغه (دواړه بنديان)"},{"surface":"והנם","gloss":"واپسېدل چې"},{"surface":"זעפים","gloss":"خفه"}],"timestamp":"2026-08-28T21:11:17.781810011Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ps",
+  "chapter": 40,
+  "translation": "او یوسف سهار وختي ⟨את⟩ دوی ته راغی، ⟨את⟩ دوی یې ولیدل، او ګورئ چې دوی خپه دي.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "راغی"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "دوی ته"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "سهار وختي"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ولیدل"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "دوی"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "او ګورئ چې"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "خپه دي"
+    }
+  ],
+  "timestamp": "2026-08-29T03:12:40.825859548Z",
+  "model": "glm-5.3"
+}
