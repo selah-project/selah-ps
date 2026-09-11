@@ -60,3 +60,8 @@
 مخې، د قواعدو له مخې، د سرچینو له مخې او د همغږۍ له مخې ارزوي —
 کولی شي ويې مني، درسره يې سم کړي، نورو شواهدو ته انتظار وکړي،
 یا يې د دلیل په ښودلو رد کړي. ارزول کېږي لفظ — نه انسان.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
