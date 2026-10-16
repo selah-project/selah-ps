@@ -75,7 +75,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "يې وړاندې کړي (پېغمبري کړي)"
+      "gloss": "يې وړاندې کړي (نبوت کړي)"
     },
     {
       "surface": "ירמיהו",
@@ -95,5 +95,12 @@
     }
   ],
   "timestamp": "2026-08-29T03:30:14.870130735Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "پېغمبري": "نبوت"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "ps",
   "chapter": 51,
-  "translation": "کله چې ناثان پیغمبر ہ‍ې ته راغی، هغه وخت چې هغه بث-شبعې ته ننوت",
+  "translation": "کله چې ناثان نبي ہ‍ې ته راغی، هغه وخت چې هغه بث-شبعې ته ننوت",
   "tokens": [
     {
       "surface": "בבוא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "پیغمبر"
+      "gloss": "نبي"
     },
     {
       "surface": "כאשר",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-29T00:33:54.488838941Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "پیغمبر": "نبي"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

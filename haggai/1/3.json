@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "ps",
   "chapter": 1,
-  "translation": "او د یاهوه ویی د لاس له لارې د حگي پیغمبر دا ویل:",
+  "translation": "او د یاهوه ویی د لاس له لارې د حگي نبي دا ویل:",
   "tokens": [
     {
       "surface": "ויהי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "پیغمبر"
+      "gloss": "نبي"
     },
     {
       "surface": "לאמר",
@@ -37,5 +37,12 @@
     }
   ],
   "timestamp": "2026-08-29T00:20:27.162242510Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "پیغمبر": "نبي"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }
