@@ -11,7 +11,7 @@
   وکړي — یو **Issue** پرانیزه.
 - که تېروتنه او سمون دواړه څرګند وي — **Pull request** پرانیزه.
 - د سافټوېر یا امنیت/حساب/محرمیت چارو لپاره —
-  [Selah Support](https://selahproject.com/support).
+  [Selah Support](https://s33k3r.com/learn/support).
 
 ## څه شامل کول ګټور دي
 
